@@ -350,7 +350,7 @@ div.accord>h3 {
 /*accordion content change border color */ 
 .ui-widget-content {
     border: 1px solid #cecece;
-    background: #fff url(http://oswinds.csd.auth.gr/sites/all/themes/bootstrap_subtheme/css/images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+    background: #fff url(https://oswinds.csd.auth.gr/sites/all/themes/bootstrap_subtheme/css/images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
     color: #222;
 }
 

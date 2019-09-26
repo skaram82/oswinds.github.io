@@ -7,7 +7,7 @@ Premium: http://www.gridgum.com
 */
 
 /* Import fonts */
-@import url(http://fonts.googleapis.com/css?family=Ruda:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Ruda:400,700,900);
 
 /* BASIC THEME CONFIGURATION */
 body {
@@ -253,7 +253,7 @@ ul.top-menu > li > .logout {
     height:17px;
     width:17px;
     display:inline-block;
-    background: url("http://oswinds.csd.auth.gr/tweetfix/assets/img/nav-expand.png") no-repeat top;
+    background: url("https://oswinds.csd.auth.gr/tweetfix/assets/img/nav-expand.png") no-repeat top;
     border-radius:3px;
     -moz-border-radius:3px;
     -webkit-border-radius:3px;
@@ -262,7 +262,7 @@ ul.top-menu > li > .logout {
     top:15px;
 }
 .active .dcjq-icon {
-    background: url("http://oswinds.csd.auth.gr/tweetfix/assets/img/nav-expand.png") no-repeat bottom;
+    background: url("https://oswinds.csd.auth.gr/tweetfix/assets/img/nav-expand.png") no-repeat bottom;
     border-radius:3px;
     -moz-border-radius:3px;
     -webkit-border-radius:3px;
@@ -691,7 +691,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 }
 
 .log-arrow-up {
-    background: url("http://oswinds.csd.auth.gr/tweetfix/assets/img/arrow-up.png") no-repeat;
+    background: url("https://oswinds.csd.auth.gr/tweetfix/assets/img/arrow-up.png") no-repeat;
     width: 20px;
     height: 11px;
     position: absolute;
