@@ -1,0 +1,485 @@
+@article {1941,
+	title = {CityDNA: Smart City Dimensions{\textquoteright} Correlations for Identifying Urban Profile},
+	journal = {WWW (Companion Volume)},
+	year = {2017},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<div>Smart cities evolve over multiple themes and areas with the development of cyber-physical systems and smart services that address several urban issues regarding economy, mobility,\&nbsp; environment, people, living and governance. This evolution has bliged the definition of several conceptualization and evaluation models, which respect alternative smart city perspectives. This work proposes smart city profiling with the introduction of the {\textquotedblleft}CityDNA{\textquotedblright} model, ccording which, smart city{\textquoteright}s dimensions{\textquoteright} relevance can be captured and visualized. Based on this model, a smart city{\textquoteright}s profile can be defined and characterized, under a simple comprehensive view of local needs and challenges. A particular smart city scenario is highlighted as a proof of concept for CityDNA and future design and implementation ideas are identified and justified.</div>
+},
+	keywords = {city boroughs, city profiles, DNA structure, Greater London areas, smart cities, smart economy and mobility, smart mobility},
+	url = {http://dx.doi.org/10.1145/3041021.3054714},
+	author = {Vaia Moustaka and Athena Vakali and Leonidas G. Anthopoulos}
+}
+@proceedings {1953,
+	title = {Class-based Prediction Errors to Categorize Text with Out-of-vocabulary Words},
+	series = {ALW1{\textquoteright}17},
+	year = {2017},
+	address = {Vancouver, Canada},
+	abstract = {<p>Common approaches to text categorization essentially rely either on n-gram counts or on word embeddings. This presents important difficulties in highly dynamic or quickly-interacting environments, where the appearance of new words and/or varied misspellings is the norm. A paradigmatic example of this situation is abusive online behavior, with social networks and media platforms struggling to effectively combat uncommon or non-blacklisted hate words. To better deal with these issues in those fast-paced environments, we propose using the error signal of class-based language models as input to text classification algorithms. In particular, we train a next-character prediction model for any given class, and then exploit the error of such class-based models to inform a neural network classifier. This way, we shift from the ability to describe seen documents to the ability to predict unseen content. Preliminary studies using out-of-vocabulary splits from abusive tweet data show promising results, outperforming competitive text categorization strategies by 4{\textendash}11\%.</p>
+},
+	author = {Joan Serr{\`a} and Ilias Leontiadis and Dimitris Spathis and Gianluca Stringhini and Jeremy Blackburn and Athena Vakali}
+}
+@article {1959,
+	title = {CityPulse: A platform prototype for smart city social data mining},
+	journal = {Journal of the Knowledge Economy},
+	volume = {7},
+	year = {2016},
+	pages = {344{\textendash}372},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Gkatziaki, Vasiliki and Vakali, Athena and Anthopoulos, Leonidas}
+}
+@article {1925,
+	title = {Cloud-based architectures for Geo-located blogosphere dynamics detection},
+	journal = {Smart Cities},
+	year = {2016},
+	abstract = {<p>Social networking data threads emerge rapidly and such crowd-driven big data streams are valuable for detecting trends and opinions. For such analytics, conventional data mining approaches are challenged by both high-dimensionality and scalability concerns. Here, we leverage on the Cloud4Trends framework, for collecting and analyzing geo-located microblogging content, partitioned into clusters under cloud-based infrastructures. Different cloud architectures are proposed to offer flexible solutions for geo-located data analytics, with emphasis on incremental trend analysis. The proposed architectures are largely based on a set of service modules which facilitate the deployment of the experimentation on Cloud infrastructures. Several experimentation remarks are highlighted to showcase the requirements and testing capabilities of different cloud computing settings.</p>
+},
+	keywords = {cloud service deployment, geo-located blogosphere dynamics, social geo-located data clustering, social networks and wisdom of the crowd},
+	author = {Athena Vakali and Stefanos Antaris and Maria Giatsoglou}
+}
+@article {journals/mta/ZigkolisPFKV14,
+	title = {Collaborative event annotation in tagged photo collections},
+	journal = {Multimedia Tools Appl.},
+	volume = {70},
+	number = {1},
+	year = {2014},
+	pages = {89-118},
+	abstract = {<p>Events constitute a significant means of multimedia content organizationand sharing. Despite the recent interest in detecting events and annotating mediacontent in an event-centric way, there is currently insufficient support for managingevents in large-scale content collections and limited understanding of the eventannotation process. To this end, this paper presents CrEve, a collaborative eventannotation framework which uses content found in social media sites with theprime objective to facilitate the annotation of large media corpora with eventinformation. The proposed annotation framework could significantly benefit socialmedia research due to the proliferation of event-related user-contributed content.We demonstrate that, compared to a standard {\^a}{\texteuro}{\'s}browse-and-annotate{\^a}{\texteuro}{\v t} interface,CrEve leads to a 19\% increase in the coverage of the generated ground truth in alarge-scale annotation experiment. Furthermore, the paper discusses the results of auser study that quantifies the performance of CrEve and the contribution of differentevent dimensions in the event annotation process. The study confirms the prevalenceof spatio-temporal queries as the prime option of discovering event-related contentin a large collection. In addition, textual queries and social cues (content contributor) were also found to be significant as event search dimensions. Finally, it demonstratesthe potential of employing automatic photo clustering methods with the goal offacilitating event annotation.</p>
+},
+	keywords = {Event authoring, Ground truth generation, Multimedia annotation},
+	author = {Christos Zigkolis and Symeon Papadopoulos and Filippou, George and Yiannis Kompatsiaris and Athena Vakali}
+}
+@inproceedings {conf/icete/KakarontzasACV14,
+	title = {A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach},
+	booktitle = {ICE-B},
+	year = {2014},
+	pages = {47-54},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-758-043-7},
+	author = {Kakarontzas, George and Anthopoulos, Leonidas G. and Despoina Chatzakou and Athena Vakali},
+	editor = {Obaidat, Mohammad S. and Holzinger, Andreas and van Sinderen, Marten and Dolog, Peter}
+}
+@article {journals/ras/AliSGVFVM14,
+	title = {Contextual object category recognition for RGB-D scene labeling},
+	journal = {Robotics and Autonomous Systems},
+	volume = {62},
+	number = {2},
+	year = {2014},
+	pages = {241-256},
+	author = {Ali, Haider and Shafait, Faisal and Giannakidou, Eirini and Athena Vakali and Figueroa, Nadia and Varvadoukas, Theodoros and Mavridis, Nikolaos}
+}
+@article {journals/internet/GiatsoglouV13,
+	title = {Capturing Social Data Evolution Using Graph Clustering},
+	journal = {IEEE Internet Computing},
+	volume = {17},
+	number = {1},
+	year = {2013},
+	pages = {74-79},
+	abstract = {<p>The fast and unpredictable evolution of social data poses challenges for capturing user activities and complex associations. Evolving social graph clustering promises to uncover the dynamics of latent user and content patterns.</p>
+},
+	author = {Maria Giatsoglou and Athena Vakali}
+}
+@inproceedings {conf/wise/GiatsoglouCV13,
+	title = {Community Detection in Social Media by Leveraging Interactions and Intensities},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8181},
+	year = {2013},
+	pages = {57-72},
+	publisher = {Springer},
+	organization = {Springer},
+	keywords = {community detection, user weighted interaction networks},
+	isbn = {978-3-642-41153-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali},
+	editor = {Lin, Xuemin and Manolopoulos, Yannis and Srivastava, Divesh and Huang, Guangyan}
+}
+@inproceedings {conf/adbis/KastrinakisPV13,
+	title = {Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {8133},
+	year = {2013},
+	pages = {98-111},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Multimedia data indexing for content-based retrieval has attractedsignificant attention in recent years due to the commoditizationof multimedia capturing equipment and the widespread adoption of social networking platforms as means for sharing media content online. Due to the very large amounts of multimedia content, notably images, produced and shared online by people, a very important requirement for multimedia indexing approaches pertains to their efficiency both in terms of computation and memory usage. A common approach to support query-by-example image search is based on the extraction of visual words from images and their indexing by means of inverted indices, a method proposed and popularized in the field of text retrieval.The main challenge that visual word indexing systems currently facearises from the fact that it is necessary to build very large visual vocabularies (hundreds of thousands or even millions of words) to support sufficiently precise search. However, when the visual vocabulary is large,the image indexing process becomes computationally expensive due to the fact that the local image descriptors (e.g. SIFT) need to be quantized to the nearest visual words.To this end, this paper proposes a novel method that significantly decreases the time required for the above quantization process. Instead of using hundreds of thousands of visual words for quantization, the proposed method manages to preserve retrieval quality by using a much smaller number of words for indexing. This is achieved by the concept of composite words, i.e. assigning multiple words to a local descriptor in ascending order of distance. We evaluate the proposed method in the Oxford and Paris buildings datasets to demonstrate the validity of the proposed approach.</p>
+},
+	keywords = {composite visual word, local descriptors, multimedia data indexing, visual word},
+	isbn = {978-3-642-40682-9},
+	author = {Kastrinakis, Dimitrios and Symeon Papadopoulos and Athena Vakali},
+	editor = {Barbara Catania and Guerrini, Giovanna and Pokorny, Jaroslav}
+}
+@inproceedings {1913,
+	title = {Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing},
+	year = {2013},
+	abstract = {<p>Multimedia data indexing for content-based retrieval has attractedsignificant attention in recent years due to the commoditizationof multimedia capturing equipment and the widespread adoption of social networking platforms as means for sharing media content online. Due to the very large amounts of multimedia content, notably images, produced and shared online by people, a very important requirement for multimedia indexing approaches pertains to their efficiency both in terms of computation and memory usage. A common approach to support query-by-example image search is based on the extraction of visual words from images and their indexing by means of inverted indices, a method proposed and popularized in the field of text retrieval.The main challenge that visual word indexing systems currently facearises from the fact that it is necessary to build very large visual vocabularies (hundreds of thousands or even millions of words) to support sufficiently precise search. However, when the visual vocabulary is large,the image indexing process becomes computationally expensive due to the fact that the local image descriptors (e.g. SIFT) need to be quantized to the nearest visual words.To this end, this paper proposes a novel method that significantly decreases the time required for the above quantization process. Instead of using hundreds of thousands of visual words for quantization, the proposed method manages to preserve retrieval quality by using a much smaller number of words for indexing. This is achieved by the concept of composite words, i.e. assigning multiple words to a local descriptor in ascending order of distance. We evaluate the proposed method in the Oxford and Paris buildings datasets to demonstrate the validity of the proposed approach.</p>
+}
+}
+@article {1826,
+	title = {Capturing Social Data Evolution Using Graph Clustering},
+	year = {2012},
+	abstract = {<p>The fast and unpredictable evolution of social data poses challenges for capturinguser activities and complex associations. Evolving social graph clusteringpromises to uncover the dynamics of latent user and content patterns.</p>
+}
+}
+@article {1827,
+	title = {Collaborative event annotation in tagged photo collections},
+	year = {2012},
+	abstract = {<p>Events constitute a significant means of multimedia content organizationand sharing. Despite the recent interest in detecting events and annotating mediacontent in an event-centric way, there is currently insufficient support for managingevents in large-scale content collections and limited understanding of the eventannotation process. To this end, this paper presents CrEve, a collaborative eventannotation framework which uses content found in social media sites with theprime objective to facilitate the annotation of large media corpora with eventinformation. The proposed annotation framework could significantly benefit socialmedia research due to the proliferation of event-related user-contributed content.We demonstrate that, compared to a standard {\textquotedblleft}browse-and-annotate{\textquotedblright} interface,CrEve leads to a 19\% increase in the coverage of the generated ground truth in alarge-scale annotation experiment. Furthermore, the paper discusses the results of auser study that quantifies the performance of CrEve and the contribution of differentevent dimensions in the event annotation process. The study confirms the prevalenceof spatio-temporal queries as the prime option of discovering event-related contentin a large collection. In addition, textual queries and social cues (content contributor) were also found to be significant as event search dimensions. Finally, it demonstratesthe potential of employing automatic photo clustering methods with the goal offacilitating event annotation.</p>
+}
+}
+@inproceedings {1905,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	year = {2011},
+	abstract = {<p>This paper describes the participation of CERTH in the {\textquotedblleft}SocialEvent Detection Task @ MediaEval 2011{\textquotedblright}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+}
+}
+@inproceedings {conf/mediaeval/PapadopoulosZKV11,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	booktitle = {MediaEval},
+	series = {CEUR Workshop Proceedings},
+	volume = {807},
+	year = {2011},
+	publisher = {CEUR-WS.org},
+	organization = {CEUR-WS.org},
+	abstract = {<p>This paper describes the participation of CERTH in the {\^a}{\texteuro}{\'s}SocialEvent Detection Task @ MediaEval 2011{\^a}{\texteuro}{\v t}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Larson, Martha and Rae, Adam and Demarty, Claire-Helene and Kofler, Christoph and Metze, Florian and Troncy, Rapha{\"e}l and Mezaris, Vasileios and Jones, Gareth J. F.}
+}
+@inproceedings {1898,
+	title = {City Exploration by use of Spatio-temporal Analysis and Clustering of User Contributed Photos},
+	year = {2011},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+}
+}
+@inproceedings {conf/mir/PapadopoulosZKKV11,
+	title = {City exploration by use of spatio-temporal analysis and clustering of user contributed photos},
+	booktitle = {ICMR},
+	year = {2011},
+	pages = {65},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+},
+	keywords = {Clustering, content browsing, landmark/event detection, spatio-temporal mining},
+	isbn = {978-1-4503-0336-1},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Natale, Francesco G. B. De and Bimbo, Alberto Del and Hanjalic, Alan and Manjunath, B. S. and Satoh, Shin{\textquoteright}ichi}
+}
+@article {1823,
+	title = {Cloud Computing},
+	year = {2011},
+	abstract = {<p>Cloud computing is a recent trend in informationtechnology and networking that has the potentialto change radically the way computer servicesare constructed, managed, and delivered. The key drivingforces behind the emergence of cloud computing includethe overcapacity of today{\textquoteright}s large corporate data centers,the ubiquity of broadband and wireless networking, thefalling cost of storage, and progressive improvements innetworking technologies. Cloud computing opens new perspectiveswith profound implications in the area of communicationnetworks, raising new issues in their architecture,design, and implementation.</p>
+}
+}
+@article {journals/ieeemm/PapadopoulosZKV11,
+	title = {Cluster-Based Landmark and Event Detection for Tagged Photo Collections},
+	journal = {IEEE MultiMedia},
+	volume = {18},
+	number = {1},
+	year = {2011},
+	pages = {52-63},
+	abstract = {<p>The rising popularity of photosharingapplications on the Webhas led to the generation of hugeamounts of personal image collections.Browsing through image collections ofsuch magnitude is currently supported by theuse of tags. However, tags suffer from severallimitations{\^a}{\texteuro}{\textquotedblright}such as polysemy, lack of uniformity,and spam{\^a}{\texteuro}{\textquotedblright}thus not presenting an adequatesolution to the problem of contentorganization. Therefore, automated contentorganizationmethods are of particular importanceto improve the content-consumptionexperience. Because it{\^a}{\texteuro}{\texttrademark}s common for users to associatetheir photo-captured experiences withsome landmarks{\^a}{\texteuro}{\textquotedblright}for example, a tourist site oran event, such as a music concert or a gatheringwith friends{\^a}{\texteuro}{\textquotedblright}we can view landmarks andevents as natural units of organization forlarge image collections. It{\^a}{\texteuro}{\texttrademark}s for this reasonthat automating the process of detecting suchconcepts in large image sets can enhance theexperience of accessing massive amounts ofpictorial content.In this article, we present a novel scheme forautomatically detecting landmarks and eventsin tagged image collections. Our proposal isbased on the simple yet elegant concept ofimage similarity graphs as a means of combiningmultiple notions of similarity betweenimages in a photo collection; in our case, weuse visual and tag similarity. We perform clusteringon such image similarity graphs bymeans of community detection,1 a processthat identifies on the graph groups of nodesthat are more densely connected to eachother than to the rest of the network. In contrastto conventional clustering schemes suchas k-means or hierarchical agglomerative clustering,community detection is computationallymore efficient and doesn{\^a}{\texteuro}{\texttrademark}t require thenumber of clusters to be provided as input. Subsequently,we classify the resulting image clustersas landmarks or events by use of featuresrelated to the temporal, social, and tag characteristicsof image clusters. In the case of landmarks,we also conduct a cluster-merging stepon the basis of spatial proximity to enrich ourlandmark model.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali}
+}
+@article {1820,
+	title = {Cluster-Based Landmark and Event Detection for Tagged Photo Collections},
+	year = {2011},
+	abstract = {<p>The rising popularity of photosharingapplications on the Webhas led to the generation of hugeamounts of personal image collections.Browsing through image collections ofsuch magnitude is currently supported by theuse of tags. However, tags suffer from severallimitations{\textemdash}such as polysemy, lack of uniformity,and spam{\textemdash}thus not presenting an adequatesolution to the problem of contentorganization. Therefore, automated contentorganizationmethods are of particular importanceto improve the content-consumptionexperience. Because it{\textquoteright}s common for users to associatetheir photo-captured experiences withsome landmarks{\textemdash}for example, a tourist site oran event, such as a music concert or a gatheringwith friends{\textemdash}we can view landmarks andevents as natural units of organization forlarge image collections. It{\textquoteright}s for this reasonthat automating the process of detecting suchconcepts in large image sets can enhance theexperience of accessing massive amounts ofpictorial content.In this article, we present a novel scheme forautomatically detecting landmarks and eventsin tagged image collections. Our proposal isbased on the simple yet elegant concept ofimage similarity graphs as a means of combiningmultiple notions of similarity betweenimages in a photo collection; in our case, weuse visual and tag similarity. We perform clusteringon such image similarity graphs bymeans of community detection,1 a processthat identifies on the graph groups of nodesthat are more densely connected to eachother than to the rest of the network. In contrastto conventional clustering schemes suchas k-means or hierarchical agglomerative clustering,community detection is computationallymore efficient and doesn{\textquoteright}t require thenumber of clusters to be provided as input. Subsequently,we classify the resulting image clustersas landmarks or events by use of featuresrelated to the temporal, social, and tag characteristicsof image clusters. In the case of landmarks,we also conduct a cluster-merging stepon the basis of spatial proximity to enrich ourlandmark model.</p>
+}
+}
+@article {journals/tweb/KoutsonikolaV11,
+	title = {A Clustering-Driven LDAP Framework},
+	journal = {TWEB},
+	volume = {5},
+	number = {3},
+	year = {2011},
+	pages = {12},
+	abstract = {<p>LDAP directories have proliferated as the appropriate storage framework for various and heterogeneousdata sources, operating under a wide range of applications and services. Due to the increased amount andheterogeneity of the LDAP data, there is a requirement for appropriate data organization schemes. TheLPAIR \&amp; LMERGE (LP-LM) algorithm, presented in this article, is a hierarchical agglomerative structurebasedclustering algorithm which can be used for the LDAP directory information tree definition. A thoroughstudy of the algorithm{\^a}{\texteuro}{\texttrademark}s performance is provided, which designates its efficiency. Moreover, the RelativeLink as an alternative merging criterion is proposed, since as indicated by the experimentation, it canresult in more balanced clusters. Finally, the LP and LM Query Engine is presented, which considering theclustering-based LDAP data organization, results in the enhancement of the LDAP server{\^a}{\texteuro}{\texttrademark}s performance.</p>
+},
+	keywords = {Clustering, DIT organization, LDAP services, merging criteria, query and retrieval engine},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali}
+}
+@article {1821,
+	title = {A Clustering-Driven LDAP Framework},
+	year = {2011},
+	abstract = {<p>LDAP directories have proliferated as the appropriate storage framework for various and heterogeneousdata sources, operating under a wide range of applications and services. Due to the increased amount andheterogeneity of the LDAP data, there is a requirement for appropriate data organization schemes. TheLPAIR \&amp; LMERGE (LP-LM) algorithm, presented in this article, is a hierarchical agglomerative structurebasedclustering algorithm which can be used for the LDAP directory information tree definition. A thoroughstudy of the algorithm{\textquoteright}s performance is provided, which designates its efficiency. Moreover, the RelativeLink as an alternative merging criterion is proposed, since as indicated by the experimentation, it canresult in more balanced clusters. Finally, the LP and LM Query Engine is presented, which considering theclustering-based LDAP data organization, results in the enhancement of the LDAP server{\textquoteright}s performance.</p>
+}
+}
+@inbook {books/daglib/p/NikolopoulosGKPV11,
+	title = {Combining Multi-modal Features for Social Media Analysis},
+	booktitle = {Social Media Modeling and Computing},
+	year = {2011},
+	pages = {71-96},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-0-85729-435-7},
+	author = {Nikolopoulos, Spiros and Giannakidou, Eirini and Yiannis Kompatsiaris and Patras, Ioannis and Athena Vakali},
+	editor = {Hoi, Steven C. H. and Luo, Jiebo and Boll, Susanne and Xu, Dong and Jin, Rong}
+}
+@inbook {books/daglib/p/PapadopoulosVK11,
+	title = {Community Detection in Collaborative Tagging Systems},
+	booktitle = {Community-Built Databases},
+	year = {2011},
+	pages = {107-131},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-19046-9},
+	author = {Symeon Papadopoulos and Athena Vakali and Yiannis Kompatsiaris},
+	editor = {Pardede, Eric}
+}
+@article {1825,
+	title = {Community Detection in Social Media},
+	year = {2011},
+	abstract = {<p>The proposed survey discusses the topic of community detection in the contextof Social Media. Community detection constitutes a significant tool for the analysisof complex networks by enabling the study of mesoscopic structures that are often associatedwith organizational and functional characteristics of the underlying networks.Community detection has proven to be valuable in a series of domains, e.g. biology, socialsciences, bibliometrics. However, despite the unprecedented scale, complexity andthe dynamic nature of the networks derived from Social Media data, there has onlybeen limited discussion of community detection in this context. More specifically, thereis hardly any discussion on the performance characteristics of community detectionmethods as well as the exploitation of their results in the context of real-world webmining and information retrieval scenarios.To this end, this survey first frames the concept of community and the problem ofcommunity detection in the context of Social Media, and provides a compact classificationof existing algorithms based on their methodological principles. The survey placesspecial emphasis on the performance of existing methods in terms of computationalcomplexity and memory requirements. It presents both a theoretical and an experimentalcomparative discussion of several popular methods. In addition, it discussesthe possibility for incremental application of the methods and proposes five strategiesfor scaling community detection to real-world networks of huge scales. Finally, the surveydeals with the interpretation and exploitation of community detection results inthe context of intelligent web applications and services.</p>
+}
+}
+@article {1819,
+	title = {CDNsim: A Simulation Tool for Content Distribution Networks},
+	year = {2010},
+	abstract = {<p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+}
+}
+@article {journals/tomacs/StamosPVKSM10,
+	title = {CDNsim: A simulation tool for content distribution networks},
+	journal = {ACM Trans. Model. Comput. Simul.},
+	volume = {20},
+	number = {2},
+	year = {2010},
+	abstract = {<p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+},
+	keywords = {caching, Content Distribution Network, services, trace-driven simulation},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@article {journals/ipm/MoussiadesV10,
+	title = {Clustering dense graphs: A web site graph paradigm},
+	journal = {Inf. Process. Manage.},
+	volume = {46},
+	number = {3},
+	year = {2010},
+	pages = {247-267},
+	author = {Moussiades, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/mm/PapadopoulosZKKV10,
+	title = {ClustTour: city exploration by use of hybrid photo clustering},
+	booktitle = {ACM Multimedia},
+	year = {2010},
+	pages = {1617-1620},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+},
+	keywords = {Clustering, event and landmark detection, tagging},
+	isbn = {978-1-60558-933-6},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bimbo, Alberto Del and Chang, Shih-Fu and Smeulders, Arnold W. M.}
+}
+@inproceedings {1893,
+	title = {ClustTour: City Exploration by use of Hybrid Photo Clustering},
+	year = {2010},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+}
+}
+@article {1812,
+	title = {CDNs Content Outsourcing via Generalized Communities},
+	year = {2009},
+	abstract = {<p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of {\textquotedblleft}correlated{\textquotedblright} Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+}
+}
+@article {journals/tkde/KatsarosPSVSM09,
+	title = {CDNs Content Outsourcing via Generalized Communities},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {21},
+	number = {1},
+	year = {2009},
+	pages = {137-151},
+	abstract = {<p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of {\^a}{\texteuro}{\'s}correlated{\^a}{\texteuro}{\v t} Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+},
+	keywords = {caching, content distribution networks, replication, social network analysis, web communities},
+	author = {Katsaros, Dimitrios and Pallis, George and Stamos, Konstantinos and Athena Vakali and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@article {journals/internet/DikaiakosKMPV09,
+	title = {Cloud Computing: Distributed Internet Computing for IT and Scientific Research},
+	journal = {IEEE Internet Computing},
+	volume = {13},
+	number = {5},
+	year = {2009},
+	pages = {10-13},
+	abstract = {<p>Cloud computing is a recent trend in informationtechnology and networking that has the potentialto change radically the way computer servicesare constructed, managed, and delivered. The key drivingforces behind the emergence of cloud computing includethe overcapacity of today{\^a}{\texteuro}{\texttrademark}s large corporate data centers,the ubiquity of broadband and wireless networking, thefalling cost of storage, and progressive improvements innetworking technologies. Cloud computing opens new perspectiveswith profound implications in the area of communicationnetworks, raising new issues in their architecture,design, and implementation.</p>
+},
+	author = {Dikaiakos, Marios D. and Katsaros, Dimitrios and Mehra, Pankaj and Pallis, George and Athena Vakali}
+}
+@article {1814,
+	title = {Cloud Computing Distributed Internet Computing for IT and Scientific Research},
+	year = {2009},
+	abstract = {<p>One vision of 21st century computingis that users will accessInternet services over lightweightportable devices rather than throughsome descendant of the traditionaldesktop PC. Because users won{\textquoteright}t have(or be interested in) powerful machines,who will supply the computing power?The answer to this question lies withcloud computing.Cloud computing is a recent trendin IT that moves computing and dataaway from desktop and portable PCsinto large data centers. It refers toapplications delivered as services overthe Internet as well as to the actualcloud infrastructure {\textemdash} namely, thehardware and systems software in datacenters that provide these services.The key driving forces behind cloudcomputing are the ubiquity of broadbandand wireless networking, fallingstorage costs, and progressive improvementsin Internet computing software.Cloud-service clients will be able toadd more capacity at peak demand,reduce costs, experiment with new services,and remove unneeded capacity,whereas service providers will increaseutilization via multiplexing, and allowfor larger investments in software andhardware.Currently, the main technical underpinningsof cloud computing infrastructuresand services include virtualization,service-oriented software, grid computingtechnologies, management of largefacilities, and power efficiency. Consumerspurchase such services in the formof infrastructure-as-a-service (IaaS),platform-as-a-service (PaaS), or software-as-a-service(SaaS) and sell valueaddedservices (such as utility services)to users. Within the cloud, the laws ofprobability give service providers greatleverage through statistical multiplexingof varying workloads and easier management{\textemdash} a single software installationcan cover many users{\textquoteright} needs.We can distinguish two differentarchitectural models for clouds:the first one is designed to scale outby providing additional computinginstances on demand. Clouds can use these instances to supply services in the formof SaaS and PaaS. The second architecturalmodel is designed to provide data and computeintensiveapplications via scaling capacity. Inmost cases, clouds provide on-demand computinginstances or capacities with a {\textquotedblleft}pay-as-yougo{\textquotedblright}economic model. The cloud infrastructurecan support any computing model compatiblewith loosely coupled CPU clusters. Organizationscan provide hardware for clouds internally(internal clouds), or a third party can provideit externally (hosted clouds). A cloud might berestricted to a single organization or group (privateclouds), available to the general public overthe Internet (public clouds), or shared by multiplegroups or organizations (hybrid clouds).A cloud comprises processing, network, andstorage elements, and cloud architecture consistsof three abstract layers. Infrastructure isthe lowest layer and is a means of deliveringbasic storage and compute capabilities as standardizedservices over the network. Servers,storage systems, switches, routers, and othersystems handle specific types of workloads,from batch processing to server or storageaugmentation during peak loads. The middleplatform layer provides higher abstractionsand services to develop, test, deploy, host, andmaintain applications in the same integrateddevelopment environment. The applicationlayer is the highest layer and features a completeapplication offered as a service.</p>
+}
+}
+@inproceedings {conf/wise/KoutsonikolaVGK09,
+	title = {Clustering of Social Tagging System Users: A Topic and Time Based Approach},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5802},
+	year = {2009},
+	pages = {75-86},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Under Social Tagging Systems, a typical Web 2.0 application,users label digital data sources by using freely chosen textual descriptions(tags). Mining tag information reveals the topic-domain ofusers interests and significantly contributes in a profile construction process.In this paper we propose a clustering framework which groups usersaccording to their preferred topics and the time locality of their taggingactivity. Experimental results demonstrate the efficiency of the proposedapproach which results in more enriched time-aware users profiles.</p>
+},
+	keywords = {Social tagging systems, time, topic, user clustering},
+	isbn = {978-3-642-04408-3},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Giannakidou, Eirini and Yiannis Kompatsiaris},
+	editor = {Vossen, Gottfried and Long, Darrell D. E. and Yu, Jeffrey Xu}
+}
+@inproceedings {1870,
+	title = {Clustering of Social Tagging System Users: A Topic and Time Based Approach},
+	year = {2009},
+	abstract = {<p>Under Social Tagging Systems, a typical Web 2.0 application,users label digital data sources by using freely chosen textual descriptions(tags). Mining tag information reveals the topic-domain ofusers interests and significantly contributes in a profile construction process.In this paper we propose a clustering framework which groups usersaccording to their preferred topics and the time locality of their taggingactivity. Experimental results demonstrate the efficiency of the proposedapproach which results in more enriched time-aware users profiles.</p>
+}
+}
+@article {journals/cee/PallisVP08,
+	title = {A clustering-based prefetching scheme on a Web cache environment},
+	journal = {Computers \& Electrical Engineering},
+	volume = {34},
+	number = {4},
+	year = {2008},
+	pages = {309-323},
+	author = {Pallis, George and Athena Vakali and Pokorny, Jaroslav}
+}
+@inproceedings {conf/waim/GiannakidouKVK08,
+	title = {Co-Clustering Tags and Social Data Sources},
+	booktitle = {WAIM},
+	year = {2008},
+	pages = {317-324},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Under social tagging systems, a typical Web 2.0 application,users label digital data sources by using freely chosentextual descriptions (tags). Poor retrieval in the aforementionedsystems remains a major problem mostly due toquestionable tag validity and tag ambiguity. Earlier clusteringtechniques have shown limited improvements, since theywere based mostly on tag co-occurrences. In this paper,a co-clustering approach is employed, that exploits jointgroups of related tags and social data sources, in whichboth social and semantic aspects of tags are consideredsimultaneously. Experimental results demonstrate the effi-ciency and the beneficial outcome of the proposed approachin correlating relevant tags and resources.</p>
+},
+	isbn = {978-0-7695-3185-4},
+	author = {Giannakidou, Eirini and Vassiliki A. Koutsonikola and Athena Vakali and Yiannis Kompatsiaris}
+}
+@inproceedings {1863,
+	title = {Co-Clustering Tags and Social Data Sources},
+	year = {2008},
+	abstract = {<p>Under social tagging systems, a typical Web 2.0 application,users label digital data sources by using freely chosentextual descriptions (tags). Poor retrieval in the aforementionedsystems remains a major problem mostly due toquestionable tag validity and tag ambiguity. Earlier clusteringtechniques have shown limited improvements, since theywere based mostly on tag co-occurrences. In this paper,a co-clustering approach is employed, that exploits jointgroups of related tags and social data sources, in whichboth social and semantic aspects of tags are consideredsimultaneously. Experimental results demonstrate the effi-ciency and the beneficial outcome of the proposed approachin correlating relevant tags and resources.</p>
+}
+}
+@book {Buyya2008,
+	title = {Content Delivery Networks (Lecture Notes Electrical Engineering)},
+	series = {Content Delivery Networks},
+	year = {2008},
+	publisher = {Springer-Verlag Gmbh},
+	organization = {Springer-Verlag Gmbh},
+	edition = {1},
+	abstract = {**Content Delivery Networks** enables the readers to understand the basics, to identify the underlying technology, to summarize their knowledge on concepts, ideas, principles and various paradigms which span on broad CDNs areas. Therefore, aspects of CDNs in terms of basics, design process, practice, techniques, performances, platforms, applications, and experimental results have been presented in a proper order. Fundamental methods, initiatives, significant research results, as well as references for further study have also been provided. Comparison of different design and development approaches are described at the appropriate places so that new researchers as well as advanced practitioners can use the CDNs evaluation as a research roadmap. All the contributions have been reviewed, edited, processed, and placed in the appropriate order to maintain consistency so that any reader irrespective of their level of knowledge and technological skills in CDNs would get the most out of it. The book is organized into three parts, namely, Part I: CDN Fundamentals; Part II: CDN Modeling and Performance; and Part III: Advanced CDN Platforms and Applications. The organization ensures the smooth flow of material as successive chapters build on prior ones.},
+	keywords = {cdn, content, lnee, networks, placement, qos, replacement, replica, search},
+	isbn = {3540778861},
+	doi = {10.1007/978-3-540-77887-5},
+	editor = {Buyya, Rajkumar and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@inproceedings {1865,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	year = {2008},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\textquoteright}s market real datasets.</p>
+}
+}
+@inproceedings {conf/wise/KoutsonikolaPVHB08,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5175},
+	year = {2008},
+	pages = {264-279},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\^a}{\texteuro}{\texttrademark}s market real datasets.</p>
+},
+	isbn = {978-3-540-85480-7},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Hacid, Hakim and Benatallah, Boualem},
+	editor = {Bailey, James and Maier, David and Schewe, Klaus-Dieter and Thalheim, Bernhard and Wang, Xiaoyang Sean}
+}
+@article {journals/compsec/StoupaV07,
+	title = {Clustering subjects in a credential-based access control framework},
+	journal = {Computers \& Security},
+	volume = {26},
+	number = {2},
+	year = {2007},
+	pages = {120-129},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {1860,
+	title = {Content Classification for Caching under CDNs},
+	year = {2007},
+	abstract = {<p>Content Delivery Networks (CDNs) provide anefficient support for serving {\textquotedblleft}resource-hungry{\textquotedblright}applications while minimizing the network impact ofcontent delivery as well as shifting the traffic awayfrom overloaded origin servers. However, theirperformance gain is limited since the storage space inCDN{\textquoteright}s servers is not used optimally. In order tomanage their storage capacity in an efficient way, weintegrate caching techniques in CDNs. The challengeis to decide which objects would be devoted to cachingso as the CDN{\textquoteright}s server may be used both as areplicator and as a proxy server. In this paper wepropose a nonlinear non-parametric model whichclassifies the CDN{\textquoteright}s server cache into two parts.Through a detailed simulation environment, we showthat the proposed technique can yield significantreduction in user-perceived latency as compared withother heuristic schemes.</p>
+}
+}
+@inproceedings {conf/iscis/StoupaSV06,
+	title = {Credential-Based Policies Management in an Access Control Framework Protecting XML Resources},
+	booktitle = {ISCIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4263},
+	year = {2006},
+	pages = {603-612},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>XML has been widely adopted for Web data representation undervarious applications (such as DBMSs, Digital Libraries etc). Therefore, accessto XML data sources has become a crucial issue. In this paper we introduce acredential-based access control framework for protecting XML resources. Underthis framework, we propose the use of access policy files containing policiesconcerning a specific credentials type. Moreover, we propose the reorganizationof the policies in these files based on their frequency of use (the morefrequently it is used the higher in the file it is placed). Our main goal is to improverequest servicing times. Several experiments have been conducted whichare carried out either on single request or on multiple requests base. The proposedframework is proven quite beneficial for protecting XML-based frameworkssuch as digital libraries or any other data resources whose format is expressedin XML.</p>
+},
+	isbn = {3-540-47242-8},
+	author = {Stoupa, Konstantina and Simeoforidis, Zisis and Athena Vakali},
+	editor = {Levi, Albert and Savas, Erkay and Yenig{\"u}n, H{\"u}sn{\"u} and Balcisoy, Selim and Saygin, Y{\"u}cel}
+}
+@inproceedings {1857,
+	title = {Credential-Based Policies Management in an Access Control Framework Protecting XML Resources},
+	year = {2006},
+	abstract = {<p>XML has been widely adopted for Web data representation undervarious applications (such as DBMSs, Digital Libraries etc). Therefore, accessto XML data sources has become a crucial issue. In this paper we introduce acredential-based access control framework for protecting XML resources. Underthis framework, we propose the use of access policy files containing policiesconcerning a specific credentials type. Moreover, we propose the reorganizationof the policies in these files based on their frequency of use (the morefrequently it is used the higher in the file it is placed). Our main goal is to improverequest servicing times. Several experiments have been conducted whichare carried out either on single request or on multiple requests base. The proposedframework is proven quite beneficial for protecting XML-based frameworkssuch as digital libraries or any other data resources whose format is expressedin XML.</p>
+}
+}
+@proceedings {conf/edbtw/2004,
+	title = {Current Trends in Database Technology {\^a}{\texteuro}{\textquotedblleft} EDBT 2004 Workshops, EDBT 2004 Workshops PhD, DataX, PIM, P2P\&DB, and ClustWeb, Heraklion, Crete, Greece, March 14-18, 2004, Revised Selected Papers},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	publisher = {Springer},
+	isbn = {3-540-23305-9},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@article {journals/internet/VakaliP03,
+	title = {Content Delivery Networks: Status and Trends},
+	journal = {IEEE Internet Computing},
+	volume = {7},
+	number = {6},
+	year = {2003},
+	pages = {68-74},
+	author = {Athena Vakali and Pallis, George}
+}
+@inproceedings {1843,
+	title = {A caching approach for XML based medical data},
+	year = {2000},
+	abstract = {<p>This paper discusses the representation and caching of medical data structured andstored as XML documents Caching of XML medical data is proposed towards improvingthe medical data accesibility and availability The representation of XML medical data isa tree like structure and the caching process is guided by frequency of access of the XMLmedical data records Experimentation is carried out for an articial workload of patientrecords and both cache and byte hit ratios are evaluated The proposed caching schemeis proven to be quite eective and benecial for accessing the medical data.</p>
+}
+}
+@inproceedings {1839,
+	title = {Caching Ob jects from Heterogeneous Information Sources},
+	year = {1999},
+	abstract = {<p>Information exchange has shown a rapid growth due to Internet expansion and hasaltered the structure of information sources worldwideStructured and semistructureddata are stored in various heterogeneous information sources and thus tools have beendeveloped for facilitating their rapid integrationThe goal of this paper is to extend theintegration process by the introduction of caching techniques to the client environmentin order to decrease access time to ob jects distributed over various information sourcesIn particular two methods for optimizing distributed ob jects exchange have been studiedand implemented the rst method is based on evolutionary computation whereas thesecond one is based on the LeastRecentlyUsed caching algorithmIn our model queriesask for documents or ob jects which are identied by the information source and theirplacement within that sourceOb jects are kept in cache area based on their access patternand the cache is updated by the two proposed algorithmsBoth methods are evaluatedexperimentally and results show that the evolutionary computing based algorithm issuperior than the traditional LRU algorithm.</p>
+}
+}
+@inproceedings {conf/pdpta/Vakali99,
+	title = {Caching Techniques for Parallel I/O Servicing},
+	booktitle = {PDPTA},
+	year = {1999},
+	pages = {1230-1235},
+	publisher = {CSREA Press},
+	organization = {CSREA Press},
+	isbn = {1-892512-15-7},
+	author = {Athena Vakali},
+	editor = {Arabnia, Hamid R.}
+}
+@inproceedings {1838,
+	title = {Caching Techniques for Parallel IO Servicing},
+	year = {1999},
+	abstract = {<p>Paral lel and distributed systems architectures support paral lel I/O componentsCachinghas been applied to distributed I/O subsystems as astandard solution to the problems of fastening dataaccessibility and increasing data reliability Cacheconsistency mechanisms have been implemented inorder to inuence the cache usefulness in a positive way This paper presents a new caching technique based on the genetic algorithm idea and examines the eect of this technique on the parallel I/Ocache consistency and updating process Cacheddata blocks on paral lel disks are considered as apopulation evolving over simulated time and areupdated at regular intervals towards an improvedcache content The proposed cache update schemeis compared with the LRU caching scheme whichhas been widely adopted The proposed techniqueshows improved performance compared to conventional caching under simulation runs for variousworkloads.</p>
+}
+}

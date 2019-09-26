@@ -1,0 +1,42 @@
+%0 Book Section
+%B Big Data Analytics and Knowledge Discovery
+%D 2015
+%T MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis
+%A Despoina Chatzakou
+%A Passalis, Nikolaos
+%A Athena Vakali
+%E Sanjay Kumar Madria
+%E Hara, Takahiro
+%K Multilevel features
+%K Sentiment detection
+%B Big Data Analytics and Knowledge Discovery
+%S Lecture Notes in Computer Science
+%I Springer International Publishing
+%V 9263
+%P 337-350
+%@ 978-3-319-22728-3
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-22729-0_26
+%R 10.1007/978-3-319-22729-0_26
+
+%0 Conference Paper
+%B EC-Web
+%D 2000
+%T LRU-based Algorithms for Web Cache Replacement
+%A Athena Vakali
+%E Bauknecht, Kurt
+%E Sanjay Kumar Madria
+%E Pernul, Günther
+%K Cache consistency
+%K Cache replacement algorithms
+%K Web caching and proxies
+%K Web-based information systems
+%X <p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase systemâ€™s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+%B EC-Web
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1875
+%P 409-418
+%@ 3-540-67981-2
+%G eng
+

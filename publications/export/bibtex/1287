@@ -1,0 +1,9 @@
+@article {journals/cee/VakaliPP01,
+	title = {A feedback-based model for I/O servicing},
+	journal = {Computers \& Electrical Engineering},
+	volume = {27},
+	number = {4},
+	year = {2001},
+	pages = {309-322},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.}
+}

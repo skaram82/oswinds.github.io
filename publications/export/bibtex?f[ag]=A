@@ -1,0 +1,408 @@
+@article {1967,
+	title = {A Systematic Review for Smart City Data Analytics},
+	journal = {Computing Surveys (CSUR)},
+	year = {2018},
+	doi = {https://doi.org/10.1145/3239566},
+	author = {Moustaka, Vaia and Vakali, Athena and Anthopoulos, Leonidas G.}
+}
+@article {1941,
+	title = {CityDNA: Smart City Dimensions{\textquoteright} Correlations for Identifying Urban Profile},
+	journal = {WWW (Companion Volume)},
+	year = {2017},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<div>Smart cities evolve over multiple themes and areas with the development of cyber-physical systems and smart services that address several urban issues regarding economy, mobility,\&nbsp; environment, people, living and governance. This evolution has bliged the definition of several conceptualization and evaluation models, which respect alternative smart city perspectives. This work proposes smart city profiling with the introduction of the {\textquotedblleft}CityDNA{\textquotedblright} model, ccording which, smart city{\textquoteright}s dimensions{\textquoteright} relevance can be captured and visualized. Based on this model, a smart city{\textquoteright}s profile can be defined and characterized, under a simple comprehensive view of local needs and challenges. A particular smart city scenario is highlighted as a proof of concept for CityDNA and future design and implementation ideas are identified and justified.</div>
+},
+	keywords = {city boroughs, city profiles, DNA structure, Greater London areas, smart cities, smart economy and mobility, smart mobility},
+	url = {http://dx.doi.org/10.1145/3041021.3054714},
+	author = {Vaia Moustaka and Athena Vakali and Leonidas G. Anthopoulos}
+}
+@article {1959,
+	title = {CityPulse: A platform prototype for smart city social data mining},
+	journal = {Journal of the Knowledge Economy},
+	volume = {7},
+	year = {2016},
+	pages = {344{\textendash}372},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Gkatziaki, Vasiliki and Vakali, Athena and Anthopoulos, Leonidas}
+}
+@article {1925,
+	title = {Cloud-based architectures for Geo-located blogosphere dynamics detection},
+	journal = {Smart Cities},
+	year = {2016},
+	abstract = {<p>Social networking data threads emerge rapidly and such crowd-driven big data streams are valuable for detecting trends and opinions. For such analytics, conventional data mining approaches are challenged by both high-dimensionality and scalability concerns. Here, we leverage on the Cloud4Trends framework, for collecting and analyzing geo-located microblogging content, partitioned into clusters under cloud-based infrastructures. Different cloud architectures are proposed to offer flexible solutions for geo-located data analytics, with emphasis on incremental trend analysis. The proposed architectures are largely based on a set of service modules which facilitate the deployment of the experimentation on Cloud infrastructures. Several experimentation remarks are highlighted to showcase the requirements and testing capabilities of different cloud computing settings.</p>
+},
+	keywords = {cloud service deployment, geo-located blogosphere dynamics, social geo-located data clustering, social networks and wisdom of the crowd},
+	author = {Athena Vakali and Stefanos Antaris and Maria Giatsoglou}
+}
+@inbook {1927,
+	title = {A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads},
+	booktitle = {Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece},
+	year = {2016},
+	pages = {186{\textendash}194},
+	publisher = {Springer International Publishing},
+	organization = {Springer International Publishing},
+	address = {Cham},
+	abstract = {<p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics{\textquoteright} and trends{\textquoteright} early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+},
+	isbn = {978-3-319-47898-2},
+	doi = {10.1007/978-3-319-47898-2_20},
+	url = {http://dx.doi.org/10.1007/978-3-319-47898-2_20},
+	author = {Vakali, Athena and Kitmeridis, Nikolaos and Panourgia, Maria},
+	editor = {Angelov, Plamen and Manolopoulos, Yannis and Iliadis, Lazaros and Roy, Asim and Vellasco, Marley}
+}
+@inproceedings {conf/pkdd/ArvanitidisSVT14,
+	title = {Branty: A Social Media Ranking Tool for Brands},
+	booktitle = {ECML/PKDD (3)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8726},
+	year = {2014},
+	pages = {432-435},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-662-44844-1},
+	author = {Arvanitidis, Alexandros and Serafi, Anna and Athena Vakali and Tsoumakas, Grigorios},
+	editor = {Calders, Toon and Esposito, Floriana and Hullermeier, Eyke and Meo, Rosa}
+}
+@inproceedings {conf/icete/KakarontzasACV14,
+	title = {A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach},
+	booktitle = {ICE-B},
+	year = {2014},
+	pages = {47-54},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-758-043-7},
+	author = {Kakarontzas, George and Anthopoulos, Leonidas G. and Despoina Chatzakou and Athena Vakali},
+	editor = {Obaidat, Mohammad S. and Holzinger, Andreas and van Sinderen, Marten and Dolog, Peter}
+}
+@article {journals/ras/AliSGVFVM14,
+	title = {Contextual object category recognition for RGB-D scene labeling},
+	journal = {Robotics and Autonomous Systems},
+	volume = {62},
+	number = {2},
+	year = {2014},
+	pages = {241-256},
+	author = {Ali, Haider and Shafait, Faisal and Giannakidou, Eirini and Athena Vakali and Figueroa, Nadia and Varvadoukas, Theodoros and Mavridis, Nikolaos}
+}
+@inproceedings {conf/wims/PolymerouCV14,
+	title = {EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {20},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Polymerou, Evangelia and Despoina Chatzakou and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/AnthopoulosV14,
+	title = {Foreword to 3M4City Workshop},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {55},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/VakaliAK14,
+	title = {Smart Cities Data Streams Integration: experimenting with Internet of Things and social data flows},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {60},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Athena Vakali and Anthopoulos, Leonidas G. and Krco, Srdjan},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/GiannakidouVM14,
+	title = {Towards a Framework for Social Semiotic Mining},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {21},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Giannakidou, Eirini and Athena Vakali and Mavridis, Nikolaos},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/pci/SamarasVGCA13,
+	title = {Requirements and architecture design principles for a smart city experiment with sensor and social networks integration},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2013},
+	pages = {327-334},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-1969-0},
+	author = {Samaras, Christos and Athena Vakali and Maria Giatsoglou and Despoina Chatzakou and Angelis, Lefteris},
+	editor = {Ketikidis, Panayiotis H. and Margaritis, Konstantinos G. and Vlahavas, Ioannis P. and Chatzigeorgiou, Alexander and Eleftherakis, George and Stamelos, Ioannis}
+}
+@inproceedings {conf/icc/VakaliAG13,
+	title = {Sensors talk and humans sense Towards a reciprocal collective awareness smart city framework},
+	booktitle = {ICC Workshops},
+	year = {2013},
+	pages = {189-193},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Smart city infrastructures provide unique opportunities for innovative applications developing and testing. Sensor city installations offer the ground for experimenting with user-oriented services, which at the same time can test and improve the infrastructure itself. The proposed work summarizes principles and methodology for and experiment, entitled SEN2SOC which will bridge sensor measurements and social networks interactions via natural language generation for supporting smart city services. SEN2SOC aims at exploiting the SmartSantander infrastructure in a sensor to social reciprocal fashion such that the sensor measurements will be and communicated to the public (citizens,authorities, etc), while social networks users activities in relevance to sensors social postings will be analyzed and summarized both to verify sensors reporting and to develop collective aware applications.</p>
+},
+	keywords = {collective aware applications, sensors data management, smart city, social networks mining},
+	author = {Athena Vakali and Angelis, Lefteris and Maria Giatsoglou}
+}
+@inproceedings {conf/data/VakaliCKA13,
+	title = {Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing},
+	booktitle = {DATA},
+	year = {2013},
+	pages = {175-182},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-8565-67-9},
+	author = {Athena Vakali and Despoina Chatzakou and Vassiliki A. Koutsonikola and Andreadis, George},
+	editor = {Helfert, Markus and Francalanci, Chiara and Filipe, Joaquim}
+}
+@inproceedings {conf/www/VakaliGA12,
+	title = {Social networking trends and dynamics detection via a cloud-based framework design},
+	booktitle = {WWW (Companion Volume)},
+	year = {2012},
+	pages = {1213-1220},
+	publisher = {ACM},
+	organization = {ACM},
+	keywords = {cloud service deployment, microblogs and blogosphere dynamics, Social networks social, Web Data Clustering},
+	isbn = {978-1-4503-1230-1},
+	author = {Athena Vakali and Maria Giatsoglou and Antaris, Stefanos},
+	editor = {Mille, Alain and Gandon, Fabien L. and Misselis, Jacques and Rabinovich, Michael and Staab, Steffen}
+}
+@inproceedings {conf/fia/SrivastavaV12,
+	title = {Towards a Narrative-Aware Design Framework for Smart Urban Environments},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {166-177},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Srivastava, Lara and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/fia/AnthopoulosV12,
+	title = {Urban Planning and Smart Cities: Interrelations and Reciprocities},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {178-189},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/ht/PaparrizosKAV10,
+	title = {Automatic extraction of structure, content and usage data statistics of web sites},
+	booktitle = {HT},
+	year = {2010},
+	pages = {301-302},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>In this paper we present a web mining tool which automaticallyextracts the structure, content and usage data statistics of websites. This work inspired by the fact that web mining consists ofthree axes: web structure mining, web content mining and webusage mining. Each one of those axes is using the structure,content and usage data respectively. The scope is to use thedeveloped multi-thread web crawler as a tool to automaticallyextract from web pages data that are associated with each one ofthose three axes in order afterwards to compute several usefuldescriptive statistics and apply advanced mathematical andstatistical methods. A description of our system is provided aswell as some experimentation results.</p>
+},
+	keywords = {classification, Crawling, Structure Content and Usage data, Web Mining Algorithm},
+	isbn = {978-1-4503-0041-4},
+	author = {Paparrizos, Ioannis K. and Vassiliki A. Koutsonikola and Angelis, Lefteris and Athena Vakali},
+	editor = {Chignell, Mark H. and Toms, Elaine G.}
+}
+@inproceedings {CEUR-WS.org/Vol-700/Paper9,
+	title = {Integrating Web 20 Data into Linked Open Data Cloud via Clustering},
+	booktitle = {CEUR Workshop Proceedings ISSN 1613-0073},
+	volume = {700},
+	year = {2010},
+	month = {February},
+	keywords = {FIA-LOD2010 imported},
+	author = {Giannakidou, Eirini and Athena Vakali},
+	editor = {Auer, S{\textquoteright}oren and Decker, Stefan and Hauswirth, Manfred}
+}
+@article {journals/aes/BouzakisAVS09,
+	title = {Automating the manufacturing process under a web based framework},
+	journal = {Advances in Engineering Software},
+	volume = {40},
+	number = {9},
+	year = {2009},
+	pages = {956-964},
+	abstract = {<p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework {\^a}{\texteuro}{\textquotedblleft} independent from any specific CAD/CAM software {\^a}{\texteuro}{\textquotedblleft} is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+},
+	keywords = {CAD/CAM, Manufacturing process, Process planning, SOAP, UDDI, Web services, xml},
+	author = {Bouzakis, K.-D. and Andreadis, George and Athena Vakali and Sarigiannidou, M.}
+}
+@article {journals/ijbdcn/PallisSVTA08,
+	title = {Integrating Caching Techniques in CDNs using a Classification Approach},
+	journal = {IJBDCN},
+	volume = {4},
+	number = {4},
+	year = {2008},
+	pages = {1-12},
+	abstract = {<p>Content Delivery Networks (CDNs) provide an efficient support for serving {\^a}{\texteuro}{\'s}resourcehungry{\^a}{\texteuro}{\v t}applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN{\^a}{\texteuro}{\texttrademark}s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN{\^a}{\texteuro}{\texttrademark}s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN{\^a}{\texteuro}{\texttrademark}s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Thomos, Charilaos and Andreadis, George}
+}
+@article {journals/jbi/TheodosiouAV08,
+	title = {Non-linear correlation of content and metadata information extracted from biomedical article datasets},
+	journal = {Journal of Biomedical Informatics},
+	volume = {41},
+	number = {1},
+	year = {2008},
+	pages = {202-216},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/ismis/KoutsonikolaVMV08,
+	title = {A Structure-Based Clustering on LDAP Directory Information},
+	booktitle = {ISMIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4994},
+	year = {2008},
+	pages = {121-130},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR\&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entries{\^a}{\texteuro}{\texttrademark}structure. The clustering-based LDAP data organization enhances LDAPserver{\^a}{\texteuro}{\texttrademark}s response times, under a specific query framework.</p>
+},
+	isbn = {978-3-540-68122-9},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Mpalasas, Antonios and Valavanis, Michael},
+	editor = {An, Aijun and Matwin, Stan and Ras, Zbigniew W. and Slezak, Dominik}
+}
+@article {journals/ijmi/TheodosiouAVT07,
+	title = {Gene functional annotation by statistical analysis of biomedical articles},
+	journal = {I. J. Medical Informatics},
+	volume = {76},
+	number = {8},
+	year = {2007},
+	pages = {601-613},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali and Thomopoulos, G. N.}
+}
+@article {journals/ipm/PallisAV07,
+	title = {Validation and interpretation of Web users{\textquoteright} sessions clusters},
+	journal = {Inf. Process. Manage.},
+	volume = {43},
+	number = {5},
+	year = {2007},
+	pages = {1348-1367},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/dexaw/TheodosiouAV05,
+	title = {Functional Annotation of Genes through Statistical Analysis of Biomedical Articles},
+	booktitle = {DEXA Workshops},
+	year = {2005},
+	pages = {585-589},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.},
+	isbn = {0-7695-2424-9},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/ismis/PallisAV05,
+	title = {Model-Based Cluster Analysis for Web Users Sessions},
+	booktitle = {ISMIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {3488},
+	year = {2005},
+	pages = {219-227},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof users{\^a}{\texteuro}{\texttrademark}sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.},
+	keywords = {Model-Based Cluster Analysis},
+	isbn = {3-540-25878-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali},
+	editor = {Hacid, Mohand-Said and Murray, Neil V. and Ras, Zbigniew W. and Tsumoto, Shusaku}
+}
+@inproceedings {conf/smc/PallisAVP04,
+	title = {A probabilistic validation algorithm for Web users{\textquoteright} clusters},
+	booktitle = {SMC (5)},
+	year = {2004},
+	pages = {4129-4134},
+	publisher = {IEEE},
+	organization = {IEEE},
+	isbn = {0-7803-8566-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali and Pokorny, Jaroslav}
+}
+@article {journals/jss/TerziVA04,
+	title = {A simulated annealing approach for multimedia data placement},
+	journal = {Journal of Systems and Software},
+	volume = {73},
+	number = {3},
+	year = {2004},
+	pages = {467-480},
+	author = {Terzi, Evimaria and Athena Vakali and Angelis, Lefteris}
+}
+@inproceedings {conf/smc/StoupaVLA04,
+	title = {Web-based delegation using XML},
+	booktitle = {SMC (6)},
+	year = {2004},
+	pages = {5189-5194},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+},
+	keywords = {Delegation, XML access control},
+	isbn = {0-7803-8566-7},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Andreadis, George}
+}
+@inproceedings {conf/appinf/PallisVAH03,
+	title = {A Study on Workload Characterization for a Web Proxy Server},
+	booktitle = {Applied Informatics},
+	year = {2003},
+	pages = {779-784},
+	publisher = {IASTED/ACTA Press},
+	organization = {IASTED/ACTA Press},
+	abstract = {<p>The popularity of the World-Wide-Web has increaseddramatically in the past few years. Web proxy servershave an important role in reducing server loads, networktraffic, and client request latencies. This paper presentsa detailed workload characterization study of a busyWeb proxy server. The study aims in identifying themajor characteristics which will improve modelling ofWeb proxy accessing. A set of log files is processed forworkload characterization. Throughout the study,emphasis is given on identifying the criteria for a Webcaching model. A statistical analysis, based on theprevious criteria, is presented in order to characterizethe major workload parameters. Results of this analysisare presented and the paper concludes with a discussionabout workload characterization and content deliveryissues.</p>
+},
+	keywords = {Web Caching, Web Data Workload Analysis, Web Technologies},
+	isbn = {0-88986-345-8},
+	author = {Pallis, George and Athena Vakali and Angelis, Lefteris and Hacid, Mohand-Said},
+	editor = {Hamza, M. H.}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}
+@article {journals/sigecom/VakaliAP01,
+	title = {Internet based auctions: a survey on models and applications},
+	journal = {SIGecom Exchanges},
+	volume = {2},
+	number = {2},
+	year = {2001},
+	pages = {6-15},
+	author = {Athena Vakali and Angelis, Lefteris and Pournara, Dimitra}
+}
+@inproceedings {conf/hpcn/VakaliPP00,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	booktitle = {HPCN Europe},
+	series = {Lecture Notes in Computer Science},
+	volume = {1823},
+	year = {2000},
+	pages = {610-613},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\^a}{\texteuro}{\'s}popularity{\^a}{\texteuro}{\v t}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.},
+	isbn = {3-540-67553-1},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.},
+	editor = {Bubak, Marian and Afsarmanesh, Hamideh and Williams, Roy and Hertzberger, Louis O.}
+}
+@inproceedings {conf/pdpta/Vakali99,
+	title = {Caching Techniques for Parallel I/O Servicing},
+	booktitle = {PDPTA},
+	year = {1999},
+	pages = {1230-1235},
+	publisher = {CSREA Press},
+	organization = {CSREA Press},
+	isbn = {1-892512-15-7},
+	author = {Athena Vakali},
+	editor = {Arabnia, Hamid R.}
+}

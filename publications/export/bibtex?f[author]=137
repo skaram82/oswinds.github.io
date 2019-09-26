@@ -1,0 +1,12 @@
+@article {journals/tsmc/StamosLV12,
+	title = {Mani-Web: Large-Scale Web Graph Embedding via Laplacian Eigenmap Approximation},
+	journal = {IEEE Transactions on Systems, Man, and Cybernetics, Part C},
+	volume = {42},
+	number = {6},
+	year = {2012},
+	pages = {879-888},
+	abstract = {<p>The Web as a graph can be embedded in a lowdimensionalspace where its geometry can be visualized and studiedin order to mine interesting patterns such as web communities.The existing algorithms operate on small-to-medium-scalegraphs; thus, we propose a close to linear time algorithm calledMani-Web suitable for large-scale graphs. The result is similarto the one produced by the manifold-learning technique Laplacianeigenmap that is tested on artificial manifolds and real webgraphs.Mani-Web can also be used as a general-purpose manifoldlearning/dimensionality-reductiontechnique as long as the datacan be represented as a graph.</p>
+},
+	keywords = {Laplacian eigenmap, large scale, manifold learning, spectral graph theory, web communities},
+	author = {Stamos, Konstantinos and Laskaris, Nikolaos A. and Athena Vakali}
+}

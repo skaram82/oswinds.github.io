@@ -1,0 +1,9 @@
+@article {journals/cj/MoussiadesV05,
+	title = {PDetect: A Clustering Approach for Detecting Plagiarism in Source Code Datasets},
+	journal = {Comput. J.},
+	volume = {48},
+	number = {6},
+	year = {2005},
+	pages = {651-661},
+	author = {Moussiades, Lefteris and Athena Vakali}
+}

@@ -1,0 +1,12 @@
+@article {journals/ijkwi/KoutsonikolaV09,
+	title = {A fuzzy bi-clustering approach to correlate web users and pages},
+	journal = {I. J. Knowledge and Web Intelligence},
+	volume = {1},
+	number = {1/2},
+	year = {2009},
+	pages = {3-23},
+	abstract = {<p>With the rapid development of information technology, thesignificance of clustering in the process of delivering information to users isbecoming more eminent. Especially in the web information space, clusteringanalysis can prove particularly beneficial for a variety of applications such asweb personalisation and profiling, caching and prefetching and content deliverynetworks. In this paper, we propose a bi-clustering approach, which identifiesgroups of related web users and pages. The proposed approach is a three-stepprocess that relies on the principles of spectral clustering analysis and providesa fuzzy relation scheme for the revealed users{\^a}{\texteuro}{\texttrademark} and pages{\^a}{\texteuro}{\texttrademark} clusters. Experimentshave been conducted on both synthetic and real datasets to prove the proposedmethod{\^a}{\texteuro}{\texttrademark}s efficiency and reveal hidden knowledge.</p>
+},
+	keywords = {fuzzy bi-clustering, spectral analysis, web pages, web users},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali}
+}

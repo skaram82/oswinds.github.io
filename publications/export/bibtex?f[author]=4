@@ -1,0 +1,22 @@
+@inproceedings {DBLP:conf/pakdd/GiatsoglouCSBFV15,
+	title = {ND-SYNC: Detecting Synchronized Fraud Activities},
+	booktitle = {Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II},
+	year = {2015},
+	pages = {201{\^a}{\texteuro}{\textquotedblleft}214},
+	doi = {10.1007/978-3-319-18032-8_16},
+	url = {http://dx.doi.org/10.1007/978-3-319-18032-8_16},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Alex Beutel and Christos Faloutsos and Athena Vakali}
+}
+@inproceedings {conf/pakdd/GiatsoglouCSFV15,
+	title = {Retweeting Activity on Twitter: Signs of Deception},
+	booktitle = {PAKDD (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {9077},
+	year = {2015},
+	pages = {122-134},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-319-18037-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Christos Faloutsos and Athena Vakali},
+	editor = {Cao, Tru and Lim, Ee-Peng and Zhou, Zhi-Hua and Ho, Tu-Bao and Cheung, David and Motoda, Hiroshi}
+}

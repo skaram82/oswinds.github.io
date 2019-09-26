@@ -1,0 +1,17 @@
+%0 Conference Paper
+%B SMC (6)
+%D 2004
+%T Web-based delegation using XML
+%A Stoupa, Konstantina
+%A Athena Vakali
+%A Li, Fang
+%A Andreadis, George
+%K Delegation
+%K XML access control
+%X <p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+%B SMC (6)
+%I IEEE
+%P 5189-5194
+%@ 0-7803-8566-7
+%G eng
+

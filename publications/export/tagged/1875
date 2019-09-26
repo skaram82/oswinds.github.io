@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2001
+%T The MPEG-7 Multimedia Content Description Standard and the XML Schema Language
+%X <p>Web accessed multimedia applications have been widelyadopted under enhanced requirements for fast searching,browsing and retrieval. Efficient multimedia data contentdescription is a neccesary and critical issue towards whichseveral solutions have been proposed. In the present paper,we focus on the MPEG-7 standard as an efficient multimediacontent description tool. MPEG-7 is a newly introducedstandard from the MPEG commitee and a brief descriptionof the standard and its components is given here. MPEG-7 Language-Schema as used towards efficient Audio/Visualcontent description is discussed more extensively. As decidedby the MPEG-7 committee it the Description DefinitionLanguage (DDL) of the standard should be based onthe XML Schema. The several extensions to this schema,necessary for satisfying the requirements of MPEG-7 arediscussed, while other functionalities of the schema whichseem not necessary under current specifications are alsocommented.</p>
+%G eng
+

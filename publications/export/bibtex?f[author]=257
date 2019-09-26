@@ -1,0 +1,85 @@
+@article {journals/compsec/StoupaV07,
+	title = {Clustering subjects in a credential-based access control framework},
+	journal = {Computers \& Security},
+	volume = {26},
+	number = {2},
+	year = {2007},
+	pages = {120-129},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {conf/iscis/StoupaSV06,
+	title = {Credential-Based Policies Management in an Access Control Framework Protecting XML Resources},
+	booktitle = {ISCIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4263},
+	year = {2006},
+	pages = {603-612},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>XML has been widely adopted for Web data representation undervarious applications (such as DBMSs, Digital Libraries etc). Therefore, accessto XML data sources has become a crucial issue. In this paper we introduce acredential-based access control framework for protecting XML resources. Underthis framework, we propose the use of access policy files containing policiesconcerning a specific credentials type. Moreover, we propose the reorganizationof the policies in these files based on their frequency of use (the morefrequently it is used the higher in the file it is placed). Our main goal is to improverequest servicing times. Several experiments have been conducted whichare carried out either on single request or on multiple requests base. The proposedframework is proven quite beneficial for protecting XML-based frameworkssuch as digital libraries or any other data resources whose format is expressedin XML.</p>
+},
+	isbn = {3-540-47242-8},
+	author = {Stoupa, Konstantina and Simeoforidis, Zisis and Athena Vakali},
+	editor = {Levi, Albert and Savas, Erkay and Yenig{\"u}n, H{\"u}sn{\"u} and Balcisoy, Selim and Saygin, Y{\"u}cel}
+}
+@article {journals/dke/StoupaV06,
+	title = {QoS-oriented negotiation in disk subsystems},
+	journal = {Data Knowl. Eng.},
+	volume = {58},
+	number = {2},
+	year = {2006},
+	pages = {107-128},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inbook {books/idea/encyclopedia2005/PallisSV05,
+	title = {Storage and Access Control Issues for XML Documents},
+	booktitle = {Encyclopedia of Information Science and Technology (V)},
+	year = {2005},
+	pages = {2616-2621},
+	publisher = {Idea Group},
+	organization = {Idea Group},
+	isbn = {1-59140-553-X},
+	author = {Pallis, George and Stoupa, Konstantina and Athena Vakali},
+	editor = {Khosrow-Pour, Mehdi}
+}
+@inproceedings {conf/smc/StoupaVLA04,
+	title = {Web-based delegation using XML},
+	booktitle = {SMC (6)},
+	year = {2004},
+	pages = {5189-5194},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+},
+	keywords = {Delegation, XML access control},
+	isbn = {0-7803-8566-7},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Andreadis, George}
+}
+@inproceedings {conf/edbtw/StoupaVLT04,
+	title = {XML-Based Revocation and Delegation in a Distributed Environment},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {299-308},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+},
+	isbn = {3-540-23305-9},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Tsoukalas, Ioannis},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@inproceedings {conf/smc/StoupaV03,
+	title = {An XML-based language for access control specifications in an RBAC environment},
+	booktitle = {SMC},
+	year = {2003},
+	pages = {1717-1722},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Lately, Web-accessed resources havesuperceded the resources accessed by local or wide-areanetworks. Therefore, new mechanisms should beimplemented for protecting resources from unknownclients. Attribute Certificates is a quite new technologyoffering such functionality. Those certificates are issuedby Attribute Authorities validating the attributes of theowner of the certificate. Based on this technology anXML-based access control mechanism is introduced forprotecting any kind of resources (from both known andunknown clients). The proposed model is ultimately rolebasedsince both clients and protected resources areorganized into roles. Moreover, an XML-based languageis introduced to express roles, authorizations, delegationrules, hierarchies and certificates.</p>
+},
+	keywords = {Access control, Attribute Certificates, Role Based Access Control, XML-based language},
+	isbn = {0-7803-7952-7},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}

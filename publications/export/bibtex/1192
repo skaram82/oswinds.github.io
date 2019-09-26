@@ -1,0 +1,12 @@
+@inproceedings {conf/vsgames/ZigkolisKCKGKV11,
+	title = {Towards a User-Aware Virtual Museum},
+	booktitle = {VS-GAMES},
+	year = {2011},
+	pages = {228-235},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	keywords = {user groups, user preferences, virtual museum},
+	isbn = {978-1-4577-0316-4},
+	author = {Christos Zigkolis and Vassiliki A. Koutsonikola and Despoina Chatzakou and Karagiannidis, Savvas and Maria Giatsoglou and Kosmatopoulos, Andreas and Athena Vakali},
+	editor = {Liarokapis, Fotis and Doulamis, Anastasios D. and Vescoukis, Vassilios}
+}

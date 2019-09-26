@@ -1,0 +1,55 @@
+@article {journals/ipm/MoussiadesV10,
+	title = {Clustering dense graphs: A web site graph paradigm},
+	journal = {Inf. Process. Manage.},
+	volume = {46},
+	number = {3},
+	year = {2010},
+	pages = {247-267},
+	author = {Moussiades, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/rcis/MoussiadesV09,
+	title = {Benchmark graphs for the evaluation of Clustering Algorithms},
+	booktitle = {RCIS},
+	year = {2009},
+	pages = {197-206},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.</p>
+},
+	keywords = {Artificial graph, Community structure, Graph clustering, Intra linkage ratio, Modularity},
+	isbn = {978-1-4244-2864-9},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Flory, Andre and Collard, Martine}
+}
+@article {journals/ijon/KaburlasosMV09,
+	title = {Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning},
+	journal = {Neurocomputing},
+	volume = {72},
+	number = {10-12},
+	year = {2009},
+	pages = {2121-2133},
+	abstract = {<p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+},
+	keywords = {Clustering, Fuzzy lattices, Graph partitioning, Metric Measurable path, Similarity measure},
+	author = {Kaburlasos, Vassilis G. and Moussiades, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/bci/MoussiadesV09,
+	title = {Mining the Community Structure of a Web Site},
+	booktitle = {BCI},
+	year = {2009},
+	pages = {239-244},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-3783-2},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Kefalas, Petros and Stamatis, Demosthenes and Douligeris, Christos}
+}
+@article {journals/cj/MoussiadesV05,
+	title = {PDetect: A Clustering Approach for Detecting Plagiarism in Source Code Datasets},
+	journal = {Comput. J.},
+	volume = {48},
+	number = {6},
+	year = {2005},
+	pages = {651-661},
+	author = {Moussiades, Lefteris and Athena Vakali}
+}

@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2008
+%T Digg it Up! Analyzing Popularity Evolution in a Web 2.0 Setting
+%X <p>The recent advent and wide adoption of Social BookmarkingSystems (SBS) has disrupted the traditional model of onlinecontent publishing. Until recently, the majority of content consumedby people was published as a result of a centralized selection process.Nowadays, large-scale adoption of the Web 2.0 paradigm hasdiffused the content selection to the masses. As a result, the evolutionof online content popularity nowadays constitutes an overly complexphenomenon involving both semantic and social aspects.Work in the era before the wide adoption of Web 2.0 mostly focusedon estimating web resource popularity under a web graphmodel. Recently, several aspects of the popularity dynamics emergingin the context of Web 2.0 applications have attracted significantresearch interest. Here, we introduce a formalism that enables thestudy of the dynamics underlying the popularity evolution of onlinecontent within an SBS. Based on this formalism, we carry out a studyof the diggTM popularity dynamics. Our study confirms the powerlaw nature of content popularity in SBS, and presents new insightsinto the temporal aspects of popularity under the influence of the socialfactor.</p>
+%G eng
+

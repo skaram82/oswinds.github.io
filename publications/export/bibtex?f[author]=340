@@ -1,0 +1,22 @@
+@inbook {reference/db/Vakali09,
+	title = {Access Control Policy Languages},
+	booktitle = {Encyclopedia of Database Systems},
+	year = {2009},
+	pages = {15-18},
+	publisher = {Springer US},
+	organization = {Springer US},
+	isbn = {978-0-387-39940-9},
+	author = {Athena Vakali},
+	editor = {Liu, Ling and Ozsu, M. Tamer}
+}
+@inbook {reference/db/Vakali09a,
+	title = {Security Services},
+	booktitle = {Encyclopedia of Database Systems},
+	year = {2009},
+	pages = {2546-2547},
+	publisher = {Springer US},
+	organization = {Springer US},
+	isbn = {978-0-387-39940-9},
+	author = {Athena Vakali},
+	editor = {Liu, Ling and Ozsu, M. Tamer}
+}

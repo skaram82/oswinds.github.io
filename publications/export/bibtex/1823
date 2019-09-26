@@ -1,0 +1,6 @@
+@article {1823,
+	title = {Cloud Computing},
+	year = {2011},
+	abstract = {<p>Cloud computing is a recent trend in informationtechnology and networking that has the potentialto change radically the way computer servicesare constructed, managed, and delivered. The key drivingforces behind the emergence of cloud computing includethe overcapacity of today{\textquoteright}s large corporate data centers,the ubiquity of broadband and wireless networking, thefalling cost of storage, and progressive improvements innetworking technologies. Cloud computing opens new perspectiveswith profound implications in the area of communicationnetworks, raising new issues in their architecture,design, and implementation.</p>
+}
+}

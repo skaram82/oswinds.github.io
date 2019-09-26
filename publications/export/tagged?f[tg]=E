@@ -1,0 +1,243 @@
+%0 Journal Article
+%J Computers in Human Behavior
+%D 2017
+%T Experience of emotion in face to face and computer-mediated social interactions: An event sampling study
+%A Konstantinos Kafetsios
+%A Despoina Chatzakou
+%A Nikolaos Tsigilis
+%A Athena Vakali
+%K Computer-mediated communication
+%K Emotion
+%K FtF
+%K Internet
+%K Social interaction
+%X <p>The present study compared the experience of emotion in social interactions that take place face to face (FtF), co-presently, and those that take place online, in computer-mediated communications (CMC). For a period of ten days participants reported how intensely they experienced positive and negative emotions in CMC and in FtF interactions they had with persons from their social network. Results from factor analyses discerned a three factor emotion structure (positive, negative, and anxious emotions) that was largely shared between CMC and FtF social interactions. Multilevel analyses of emotion across modes of interaction found that in FtF social encounters participants experienced more positive and less negative emotion and higher satisfaction than in CMC; there was no difference in anxious emotion. Positive, but not negative emotions or anxiety partially mediated levels of satisfaction differences between interactions in CMC and those taking place FtF. The results point to similarities and differences in emotion experience in FtF and CMC, underlining in particular the affiliative function of positive emotion in peoples' encounters.</p>
+%B Computers in Human Behavior
+%V 76
+%P 287 - 293
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0747563217304557
+%R https://doi.org/10.1016/j.chb.2017.07.033
+
+%0 Conference Paper
+%D 2016
+%T Early Malicious Activity Discovery in Microblogs by Social Bridges Detection
+%A Antonia Gogoglou
+%A Zenonas Theodosiou
+%A Tasos Kounoudes
+%A Athena Vakali
+%A Yannis Manolopoulos
+%X <p>With the emerging and intense use of Online Social Networks (OSNs) amongst young children and teenagers (youngters), safe networking and socializing on the Web has faced extensive scrutiny. Content and interactions which are considered safe for adult OSN users, might embed potentially threatening and malicious information when it comes to underage users. This work is motivated by the strong need to safeguard youngsters OSNs experience such that they can be empowered and aware. The topology of a graph is studied towards detecting the so called social bridges, i.e. the group(s) of malicious users and their supporters, who have links and ties to both honest and malicious user communities. A graph-topology based classification scheme is proposed to detect such bridge linkages which are suspicious for threatening youngsters networking vulnerability. The proposed scheme is validated by a Twitter network, at which potentially dangerous users are identified based on their Twitter connections. The achieved performance is higher compared to previous efforts, despite the increased complexity due to the variety of groups identified as malicious.</p>
+%I 16th International Symposium on Signal Processing and Information Technology
+%C Limassol, Cyprus
+%G eng
+
+%0 Conference Paper
+%B Proceedings of the 24th International Conference on World Wide Web Companion, WWW 2015, Florence, Italy, May 18-22, 2015 - Companion Volume
+%D 2015
+%T Exploriometer: Leveraging Personality Traits for Coverage and Diversity Aware Recommendations
+%A Evangelos Chatzicharalampous
+%A Christos Zigkolis
+%A Athena Vakali
+%B Proceedings of the 24th International Conference on World Wide Web Companion, WWW 2015, Florence, Italy, May 18-22, 2015 - Companion Volume
+%G eng
+%U http://doi.acm.org/10.1145/2740908.2742140
+%R 10.1145/2740908.2742140
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content
+%A Polymerou, Evangelia
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 20
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Paper
+%D 2012
+%T Emotion aware clustering analysis as a tool for Web 2.0 communities detection: Implications for curriculum development
+%X <p>The emergent Web 2.0 reality has advanced a new role for Web users since they now approach information in a dynamic way regulating content, opinions, and policies. Revealing,analyzing and exploiting non-evident (often hidden) communities formulated in Web social networks is crucial, since communities influence content distribution and drive Web trendsand events. It is now important to overcome typical single- criterion community detection methodologies (usually originating from graph mining), and within multidisciplinary efforts advance novel multiple criteria approaches which will identify communities of high coherence and homogeneity. In constructing such Web community indices (both now and in the future Web context) it isvital to consider human behavioral and cognitive criteria, since, it is those that affect users’ activities, preferences and social interactions on the Web. We therefore argue, that within typical processing criteria (such as frequency of access, user profiling, and contentsemantics), we need to incorporate affective criteria which are closely connected to users’ actions and social interactions. In this paper we present an emotion aware clustering approachthat incorporates affect as a central component. This approach can be applied to a range of activities such as: highlighting non-obvious and evolving phenomena on the Web, improvingdata accessing performance, assisting the design of novel content promotion strategies, and developing targeted actions of personalized recommendation. The report identifies thescientific and technical background needed for such multidisciplinary approach on the Web 2.0 and highlights the major topics required for a competitive Web science curriculum.</p>
+%G eng
+
+%0 Conference Paper
+%B IDEAS
+%D 2012
+%T Evolving social data mining and affective analysis methodologies, framework and applications
+%A Athena Vakali
+%E Desai, Bipin C.
+%E Pokorny, Jaroslav
+%E Bernardino, Jorge
+%K evolving social data mining
+%K microblogging data analysis
+%K social affective analysis
+%K Social networking
+%X <p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+%B IDEAS
+%I ACM
+%P 1-7
+%@ 978-1-4503-1234-9
+%G eng
+
+%0 Conference Paper
+%D 2012
+%T Evolving social data mining and affective analysis methodologies, framework and applications
+%X <p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+%G eng
+
+%0 Journal Article
+%D 2011
+%T Editorial for special issue Internet-based Content Delivery
+%X <p>We are in the midst of an Internet computing revolution.One vision of 21st century computing is that userswill access Internet services and ‘‘resource-hungry’’ applications(e.g. gaming, streaming media, video on demand,and voice-over-IP) over lightweight portable devices ratherthan through some descendant of the traditional desktopPCs. In this context, distributing and processing Internetbaseddata in an efficient and cost-effective manner is achallenging issue in Internet technology.Content Delivery Networks (CDNs) have emerged toovercome the inherent limitations of the Internet in termsof user perceived Quality of Service (QoS) when accessingWeb data. They offer infrastructure and mechanisms to delivercontent and services in a scalable manner, and enhanceusers’ Web experience. Specifically, a CDN is an overlay networkacross the Internet, which consists of a set of servers(distributed around the world), routers and network elements.Edge servers are the key elements in a CDN, actingas proxy caches that serve directly cached content to users.With CDNs, content is distributed to edge cache servers locatedclose to users, resulting in fast, reliable applicationsand Web services for the users. Once a user requests contenton a Web provider (managed by a CDN), the user’s request isdirected to the appropriate CDN server. The perceived highend-user performance and cost savings of using CDNs havealready urged many Web entrepreneurs to make contractswith CDNs. For instance, Akamai – one of the largest CDNproviders in the world – claims to be delivering 20% of theworld’s Web traffic.1 While the real numbers are debatable,it is clear that CDNs play a crucial role in the modern Internetinfrastructure.</p>
+%G eng
+
+%0 Conference Paper
+%B ACII (1)
+%D 2011
+%T Emotional Aware Clustering on Micro-blogging Sources
+%A Tsagkalidou, Katerina
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%E D’Mello, Sidney K.
+%E Graesser, Arthur C.
+%E Schuller, Björn
+%E Martin, Jean-Claude
+%K Microblogging services
+%K Sentiment analysis
+%K web clustering
+%X <p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+%B ACII (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6974
+%P 387-396
+%@ 978-3-642-24599-2
+%G eng
+
+%0 Conference Paper
+%D 2011
+%T Emotional Aware Clustering on Micro-blogging Sources
+%X <p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+%G eng
+
+%0 Conference Paper
+%D 2010
+%T EXPLORING TEMPORAL ASPECTS IN USER-TAG CO-CLUSTERING
+%X <p>Tagging environments have become an interesting topic ofresearch lately, focused mainly on clustering approaches, inorder to extract emergent patterns that are derived from tagsimilarity and involve tag relations or user interconnections.Apart from tag similarity, an interesting parameter to be analyzedduring the clustering/mining process in such data isthe actual time that each tagging activity occurred. Indeed,holding a temporal dimension unfolds macroscopic and microscopicviews of tagging, highlights links between objectsfor specific time periods and, in general, lets us observe howthe users’ tagging activity changes over time. In this article,we propose a time-aware user/tag clustering approach, whichgroups together similar users and tags that are very “active”during the same time periods. Emphasis is given on usingvarying time scales, so that we distinguish between clustersthat are robust at many time scales and clusters that are somehowoccasional, i.e. they emerge, only at a specific time period.</p>
+%G eng
+
+%0 Conference Paper
+%B WIAMIS
+%D 2010
+%T Exploring temporal aspects in user-tag co-clustering
+%A Giannakidou, Eirini
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Yiannis Kompatsiaris
+%X <p>Tagging environments have become an interesting topic ofresearch lately, focused mainly on clustering approaches, inorder to extract emergent patterns that are derived from tagsimilarity and involve tag relations or user interconnections.Apart from tag similarity, an interesting parameter to be analyzedduring the clustering/mining process in such data isthe actual time that each tagging activity occurred. Indeed,holding a temporal dimension unfolds macroscopic and microscopicviews of tagging, highlights links between objectsfor specific time periods and, in general, lets us observe howthe usersâ€™ tagging activity changes over time. In this article,we propose a time-aware user/tag clustering approach, whichgroups together similar users and tags that are very â€śactiveâ€ťduring the same time periods. Emphasis is given on usingvarying time scales, so that we distinguish between clustersthat are robust at many time scales and clusters that are somehowoccasional, i.e. they emerge, only at a specific time period.</p>
+%B WIAMIS
+%I IEEE
+%P 1-4
+%@ 978-88-905328-0-1
+%G eng
+
+%0 Conference Paper
+%B UPGRADE-CN
+%D 2009
+%T Evaluating the utility of content delivery networks
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%A Dikaiakos, Marios D.
+%E Fortino, Giancarlo
+%E Mastroianni, Carlo
+%E Al-Mukaddim Khan Pathan
+%E Athena Vakali
+%K CDN pricing
+%K Content Delivery
+%K network utility
+%K networks
+%X <p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+%B UPGRADE-CN
+%I ACM
+%P 11-20
+%@ 978-1-60558-591-8
+%G eng
+
+%0 Conference Paper
+%D 2009
+%T Evaluating the Utility of Content Delivery Networks
+%X <p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+%G eng
+
+%0 Conference Paper
+%D 2006
+%T An evolutionary scheme for Web Replication and Caching
+%X <p>Design and implementation of eectivecaching schemes has been a critical issue withrespect to World Wide Web ob jects circulation and availability Caching and replication have been combined and applied in prototype systems in order to reduce the overallbandwidth and increase systems fault tolerance This paper presents a model for optimizing access performance when requesting Web ob jects across distributed systems Thereplication and caching scheme is designed by the use of an evolutionary computationalgorithm Cached data are considered as a population evolving over simulated timereplicating the most prominent data to dedicated replication servers The simulationmodel is experimented and tested under cache traces provided by the Squid proxy cacheserver at the Aristotle University of Thessaloniki Cache hit rates and bytes hit length arereported showing that the proposed evolutionary mechanisms improve cache consistencyand reliability.</p>
+%G eng
+
+%0 Conference Paper
+%D 2006
+%T Exploring the correlation of biomedical article keywords to MeSH terms
+%X <p>The exponential growth in the availability ofbiomedical information has posed the need to solve retrievalissues raised in huge sequence/biomedical article repositories.Biomedical article databases, like PubMed, are hugerepositories of useful biological information given in naturallanguage form and thus not easily processed by computers.Medical Subject Headings (MeSH) terms have been proposed tofacilitate the process of electronically retrieving biomedicalarticles, which are semantically related. However, most of theclassification algorithms, used for information retrieval, requirenumeric representations of either the keywords or the MeSHterms of the articles. These representations are essentiallyvectors of variables forming large multivariate numericaldatasets. In order to combine the information from keyworddatasets and MeSH datasets, this paper proposes a multivariatestatistical approach which can quantify their relationships andreveal the underlying correlation. The basis of this approach isa mathematical technique, called non-linear canonicalcorrelation analysis (NLCCA). NLCCA can assembleinformation from several datasets by building a modeldescribing the whole of the data. The method was applied to alarge number of articles from PubMed. Certain statisticsobtained from the analysis showed that the degree ofcorrelation between MeSH terms and keywords is high. Themethod results in the reduction of data dimensionality,containing in one dataset with new variables significantinformation of the original data. These results are veryimportant for the efficient description and visualization of thedata in order to explore their structure.</p>
+%G eng
+
+%0 Journal Article
+%J Distributed and Parallel Databases
+%D 2002
+%T Evolutionary Techniques for Web Caching
+%A Athena Vakali
+%B Distributed and Parallel Databases
+%V 11
+%P 93-116
+%G eng
+
+%0 Conference Paper
+%D 2000
+%T Evolutionary Prefetching and Caching in an Independent Storage Units Model
+%X <p>Modern applications demand support for a large number ofclients and require large scale storage subsystems. This paper presentsa theoretical model of prefetching and caching of storage objects undera parallel storage units architecture. The storage objects are definedas variable sized data blocks and a specific cache area is reserved fordata prefetching and caching. An evolutionary algorithm is proposed foridentifying the storage objects to be prefetched and cached. The storageobject prefetching approach is experimented under certain artificialworkloads of requests for a set of storage units and has shown significantperformance improvement with respect to request service times, as wellas cache and byte hit ratios.</p>
+%G eng
+
+%0 Conference Paper
+%B ADVIS
+%D 2000
+%T Evolutionary Prefetching and Caching in an Independent Storage Units Model
+%A Athena Vakali
+%E Yakhno, Tatyana M.
+%K data prefetching and caching
+%K object-based storage models
+%K parallel storage units
+%X <p>Modern applications demand support for a large number ofclients and require large scale storage subsystems. This paper presentsa theoretical model of prefetching and caching of storage objects undera parallel storage units architecture. The storage objects are definedas variable sized data blocks and a specific cache area is reserved fordata prefetching and caching. An evolutionary algorithm is proposed foridentifying the storage objects to be prefetched and cached. The storageobject prefetching approach is experimented under certain artificialworkloads of requests for a set of storage units and has shown significantperformance improvement with respect to request service times, as wellas cache and byte hit ratios.</p>
+%B ADVIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1909
+%P 265-274
+%@ 3-540-41184-4
+%G eng
+
+%0 Journal Article
+%J Inf. Process. Lett.
+%D 1997
+%T An Exact Analysis on Expected Seeks in Shadowed Disks
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Inf. Process. Lett.
+%V 61
+%P 323-329
+%G eng
+
+%0 Conference Paper
+%D 1994
+%T Expected Seeks in Mirrored Disks
+%X <p>Analytic models on the expected seek distances for a set of k &gt;= 2 replicated disks with one read/write head per surface have been reported in the past, The aim of the present paper is twofold. Since previous models are not exact, firstly, we study the performance of such systems for the boundary case of k = 2 disks and provide new exact formulae for the expected seek distances traveled. Secondly, we examine the performance of a set of k &gt;= 2 two-headed disks with either independently or dependently moving heads. For both models of the latter case, we derive new exact formulae for the expected seek distances and make performance comparisons to one-headed disks.</p>
+%G eng
+

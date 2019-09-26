@@ -1,0 +1,6 @@
+@inproceedings {1894,
+	title = {A Graph-Based Clustering Scheme for Identifying Related Tags in Folksonomies},
+	year = {2010},
+	abstract = {<p>The paper presents a novel scheme for graph-based clusteringwith the goal of identifying groups of related tags in folksonomies.The proposed scheme searches for core sets, i.e. groups of nodes thatare densely connected to each other by efficiently exploring the twodimensional core parameter space, and successively expands the identified cores by maximizing a local subgraph quality measure. We evaluate this scheme on three real-world tag networks by assessing the relatedness of same-cluster tags and by using tag clusters for tag recommendation. In addition, we compare our results to the ones derived from a baseline graph-based clustering method and from a popular modularity maximization clustering method.</p>
+}
+}

@@ -1,0 +1,29 @@
+@inproceedings {conf/ictglow/IslamSPV11,
+	title = {Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation},
+	booktitle = {ICT-GLOW},
+	series = {Lecture Notes in Computer Science},
+	volume = {6868},
+	year = {2011},
+	pages = {180-187},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+},
+	keywords = {CDNs, Energy conservation, QoE},
+	isbn = {978-3-642-23446-0},
+	author = {ul Islam, Saif and Stamos, Konstantinos and Pierson, Jean-Marc and Athena Vakali},
+	editor = {Kranzlmller, Dieter and Tjoa, A Min}
+}
+@inproceedings {conf/dexa/ManolopoulosV95,
+	title = {Partial Match Retrieval in Two-Headed Disk Systems},
+	booktitle = {DEXA},
+	series = {Lecture Notes in Computer Science},
+	volume = {978},
+	year = {1995},
+	pages = {594-603},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {3-540-60303-4},
+	author = {Manolopoulos, Yannis and Athena Vakali},
+	editor = {Revell, Norman and Tjoa, A Min}
+}

@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2011
+%T Summarization meets Visualization on Online Social Networks
+%X <p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+%G eng
+

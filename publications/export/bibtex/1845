@@ -1,0 +1,6 @@
+@inproceedings {1845,
+	title = {A Two-Level Representation Model for Effective Video Data Storage},
+	year = {2000},
+	abstract = {<p>The main issues characterizing current video applications are their strong requirements for huge storage spaces andtheir need for timing synchronizationVideo data storageis a critical research topic due to the socalled IObottle neck problem which aects the quality of service of videoapplicationsThis paper introduces a two level video datarepresentation model in order to guide video data storage on a tertiary storage subsystemA simulation model hasbeen developed to evaluate dierent video placement strategies based on both Constructive and Iterative ImprovementapproachesExperimentation has been carried out for theproposed placement approaches as well as for a typical random placement policy which serves as a comparison refer enceIterative Improvement placement has been proven tooutperform the other considered video data placement approaches in both seek and service times.</p>
+}
+}

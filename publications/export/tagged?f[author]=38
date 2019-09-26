@@ -1,0 +1,51 @@
+%0 Conference Proceedings
+%B WISE (1)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8786
+%@ 978-3-319-11748-5
+%G eng
+
+%0 Conference Proceedings
+%B WISE (2)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8787
+%@ 978-3-319-11745-4
+%G eng
+
+%0 Conference Paper
+%B APWeb
+%D 2003
+%T Knowledge Representation, Ontologies, and the Semantic Web
+%A Terzi, Evimaria
+%A Athena Vakali
+%A Hacid, Mohand-Said
+%E Zhou, Xiaofang
+%E Zhang, Yanchun
+%E Orlowska, Maria E.
+%X A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.
+%B APWeb
+%S Lecture Notes in Computer Science
+%I Springer
+%V 2642
+%P 382-387
+%@ 3-540-02354-2
+%G eng
+

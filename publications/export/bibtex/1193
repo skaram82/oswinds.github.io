@@ -1,0 +1,8 @@
+@book {series/sci/2011-331,
+	title = {New Directions in Web Data Management 1},
+	series = {New Directions in Web Data Management 1},
+	volume = {331},
+	year = {2011},
+	isbn = {978-3-642-17550-3},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}

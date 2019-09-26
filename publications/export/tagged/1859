@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2007
+%T GRANULAR GRAPH CLUSTERING IN THE WEB
+%X <p>We investigate the partition of a weighted graph, representing traffic, to a number ofsubgraphs such that both inter(external)-subgraph traffic is minimized and intra(internal)-subgraph traffic is maximized. The long-term objective is Web-navigation support. Wepursue a solution by applying a simple agglomerative clustering algorithm, or ACA forshort, to a metric space emerging from a weighted graph. An enabling technology isinspired from mathematical lattice theory. The proposed techniques compare favorablywith other techniques in an application to a graph stemming from a University Web-site.</p>
+%G eng
+

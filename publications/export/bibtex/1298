@@ -1,0 +1,11 @@
+@inproceedings {conf/pdpta/Vakali99,
+	title = {Caching Techniques for Parallel I/O Servicing},
+	booktitle = {PDPTA},
+	year = {1999},
+	pages = {1230-1235},
+	publisher = {CSREA Press},
+	organization = {CSREA Press},
+	isbn = {1-892512-15-7},
+	author = {Athena Vakali},
+	editor = {Arabnia, Hamid R.}
+}

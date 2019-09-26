@@ -1,0 +1,54 @@
+@inproceedings {conf/mediaeval/PapadopoulosZKV11,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	booktitle = {MediaEval},
+	series = {CEUR Workshop Proceedings},
+	volume = {807},
+	year = {2011},
+	publisher = {CEUR-WS.org},
+	organization = {CEUR-WS.org},
+	abstract = {<p>This paper describes the participation of CERTH in the {\^a}{\texteuro}{\'s}SocialEvent Detection Task @ MediaEval 2011{\^a}{\texteuro}{\v t}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Larson, Martha and Rae, Adam and Demarty, Claire-Helene and Kofler, Christoph and Metze, Florian and Troncy, Rapha{\"e}l and Mezaris, Vasileios and Jones, Gareth J. F.}
+}
+@inbook {books/daglib/p/NikolopoulosGKPV11,
+	title = {Combining Multi-modal Features for Social Media Analysis},
+	booktitle = {Social Media Modeling and Computing},
+	year = {2011},
+	pages = {71-96},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-0-85729-435-7},
+	author = {Nikolopoulos, Spiros and Giannakidou, Eirini and Yiannis Kompatsiaris and Patras, Ioannis and Athena Vakali},
+	editor = {Hoi, Steven C. H. and Luo, Jiebo and Boll, Susanne and Xu, Dong and Jin, Rong}
+}
+@inbook {series/sci/Vakali11,
+	title = {Innovations and Trends in Web Data Management},
+	booktitle = {New Directions in Web Data Management 1},
+	series = {Studies in Computational Intelligence},
+	volume = {331},
+	year = {2011},
+	pages = {1-18},
+	isbn = {978-3-642-17550-3},
+	author = {Athena Vakali},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}
+@inbook {series/sci/GiatsoglouPV11,
+	title = {Massive Graph Management for the Web and Web 2.0},
+	booktitle = {New Directions in Web Data Management 1},
+	series = {Studies in Computational Intelligence},
+	volume = {331},
+	year = {2011},
+	pages = {19-58},
+	isbn = {978-3-642-17550-3},
+	author = {Maria Giatsoglou and Symeon Papadopoulos and Athena Vakali},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}
+@book {series/sci/2011-331,
+	title = {New Directions in Web Data Management 1},
+	series = {New Directions in Web Data Management 1},
+	volume = {331},
+	year = {2011},
+	isbn = {978-3-642-17550-3},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}

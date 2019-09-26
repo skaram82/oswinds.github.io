@@ -1,0 +1,84 @@
+@inproceedings {conf/acsac/BertinoKTV05,
+	title = {Intrusion Detection in RBAC-administered Databases},
+	booktitle = {ACSAC},
+	year = {2005},
+	pages = {170-182},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>A considerable effort has been recently devoted to thedevelopment of Database Management Systems (DBMS)which guarantee high assurance security and privacy. Animportant component of any strong security solution is representedby intrusion detection (ID) systems, able to detectanomalous behavior by applications and users. To date,however, there have been very few ID mechanisms specificallytailored to database systems. In this paper, we proposesuch a mechanism. The approach we propose to IDis based on mining database traces stored in log files. Theresult of the mining process is used to form user profilesthat can model normal behavior and identify intruders. Anadditional feature of our approach is that we couple ourmechanism with Role Based Access Control (RBAC). Undera RBAC system permissions are associated with roles, usuallygrouping several users, rather than with single users.Our ID system is able to determine role intruders, that is,individuals that while holding a specific role, have a behaviordifferent from the normal behavior of the role. Animportant advantage of providing an ID mechanism specifi-cally tailored to databases is that it can also be used to protectagainst insider threats. Furthermore, the use of rolesmakes our approach usable even for databases with largeuser population. Our preliminary experimental evaluationon both real and synthetic database traces show that ourmethods work well in practical situations.</p>
+},
+	isbn = {0-7695-2461-3},
+	author = {Bertino, Elisa and Kamra, Ashish and Terzi, Evimaria and Athena Vakali}
+}
+@article {journals/jss/TerziVA04,
+	title = {A simulated annealing approach for multimedia data placement},
+	journal = {Journal of Systems and Software},
+	volume = {73},
+	number = {3},
+	year = {2004},
+	pages = {467-480},
+	author = {Terzi, Evimaria and Athena Vakali and Angelis, Lefteris}
+}
+@article {journals/dke/VakaliTBE03,
+	title = {Hierarchical data placement for navigational multimedia applications},
+	journal = {Data Knowl. Eng.},
+	volume = {44},
+	number = {1},
+	year = {2003},
+	pages = {49-80},
+	author = {Athena Vakali and Terzi, Evimaria and Bertino, Elisa and Elmagarmid, Ahmed K.}
+}
+@inproceedings {conf/apweb/TerziVH03,
+	title = {Knowledge Representation, Ontologies, and the Semantic Web},
+	booktitle = {APWeb},
+	series = {Lecture Notes in Computer Science},
+	volume = {2642},
+	year = {2003},
+	pages = {382-387},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.},
+	isbn = {3-540-02354-2},
+	author = {Terzi, Evimaria and Athena Vakali and Hacid, Mohand-Said},
+	editor = {Zhou, Xiaofang and Zhang, Yanchun and Orlowska, Maria E.}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}
+@article {journals/cee/VakaliT02,
+	title = {Video data storage policies: an access frequency based approach},
+	journal = {Computers \& Electrical Engineering},
+	volume = {28},
+	number = {6},
+	year = {2002},
+	pages = {447-464},
+	author = {Athena Vakali and Terzi, Evimaria}
+}
+@article {journals/sigops/VakaliT01,
+	title = {Multimedia Data Storage and Representation Issues on Tertiary Storage Subssystems: An Overview},
+	journal = {Operating Systems Review},
+	volume = {35},
+	number = {2},
+	year = {2001},
+	pages = {61-77},
+	author = {Athena Vakali and Terzi, Evimaria}
+}
+@inproceedings {conf/ic/HacidTV01,
+	title = {Querying XML with Constraints},
+	booktitle = {International Conference on Internet Computing (1)},
+	year = {2001},
+	pages = {171-177},
+	abstract = {<p>XML is a language for the description of structured documents and data. It is on the way to become the new standard for data exchange, publishing, and developing intelligent Web agents. XML is based on the concept of documents composed of a series of entities (i.e., objects). Each entity can contain one or more logical elements. Each of these elements can have certain attributes (properties) that describe the way in which it is to be processed. XML provides a formal syntax for describing the relationships between the entities, elements and attributes that make up an XML document. In this paper, we introduce a framework for querying XML databases by specifying ordering constraints over documents.</p>
+},
+	keywords = {Query Languages Rules, xml},
+	author = {Hacid, Mohand-Said and Terzi, Evimaria and Athena Vakali}
+}

@@ -1,0 +1,10 @@
+@inproceedings {conf/pci/GiatsoglouKSVZ10,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2010},
+	pages = {21-24},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-1-4244-7838-5},
+	author = {Maria Giatsoglou and Vassiliki A. Koutsonikola and Stamos, Konstantinos and Athena Vakali and Christos Zigkolis}
+}

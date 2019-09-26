@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2010
+%T IMAGE CLUSTERING THROUGH COMMUNITY DETECTION ON HYBRID IMAGE SIMILARITY GRAPHS
+%X <p>The wide adoption of photo sharing applications such as Flickr°cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from Flickr°c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+%G eng
+

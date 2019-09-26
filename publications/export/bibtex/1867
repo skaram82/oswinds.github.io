@@ -1,0 +1,6 @@
+@inproceedings {1867,
+	title = {Leveraging Collective Intelligence through Community Detection in Tag Networks},
+	year = {2009},
+	abstract = {<p>The paper studies the problem of community detectionin tag networks, i.e. networks consisting of associationsbetween tags that are used within Social Tagging Systems(STS) to annotate online resources (e.g. bookmarks,pictures, videos, etc.). Community detectionmethods aim at uncovering densely connected groupsof tags, which can reveal the topic structure emergingin the STS. In this way, community detection in tagnetworks leverages Collective Intelligence (CI), that isthe intelligence that is accumulated as a result of thecollective activities of masses of users.</p>
+}
+}

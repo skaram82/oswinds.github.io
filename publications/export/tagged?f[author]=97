@@ -1,0 +1,70 @@
+%0 Conference Paper
+%B DATA
+%D 2013
+%T Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing
+%A Athena Vakali
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Andreadis, George
+%E Helfert, Markus
+%E Francalanci, Chiara
+%E Filipe, Joaquim
+%B DATA
+%I SciTePress
+%P 175-182
+%@ 978-989-8565-67-9
+%G eng
+
+%0 Journal Article
+%J Advances in Engineering Software
+%D 2009
+%T Automating the manufacturing process under a web based framework
+%A Bouzakis, K.-D.
+%A Andreadis, George
+%A Athena Vakali
+%A Sarigiannidou, M.
+%K CAD/CAM
+%K Manufacturing process
+%K Process planning
+%K SOAP
+%K UDDI
+%K Web services
+%K xml
+%X <p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework â€“ independent from any specific CAD/CAM software â€“ is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+%B Advances in Engineering Software
+%V 40
+%P 956-964
+%G eng
+
+%0 Journal Article
+%J IJBDCN
+%D 2008
+%T Integrating Caching Techniques in CDNs using a Classification Approach
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Thomos, Charilaos
+%A Andreadis, George
+%X <p>Content Delivery Networks (CDNs) provide an efficient support for serving â€śresourcehungryâ€ťapplications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDNâ€™s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDNâ€™s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDNâ€™s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+%B IJBDCN
+%V 4
+%P 1-12
+%G eng
+
+%0 Conference Paper
+%B SMC (6)
+%D 2004
+%T Web-based delegation using XML
+%A Stoupa, Konstantina
+%A Athena Vakali
+%A Li, Fang
+%A Andreadis, George
+%K Delegation
+%K XML access control
+%X <p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+%B SMC (6)
+%I IEEE
+%P 5189-5194
+%@ 0-7803-8566-7
+%G eng
+

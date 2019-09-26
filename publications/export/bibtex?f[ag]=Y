@@ -1,0 +1,78 @@
+@inproceedings {conf/mmm/PapadopoulosSKV13,
+	title = {Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs},
+	booktitle = {MMM (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {7732},
+	year = {2013},
+	pages = {1-12},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+},
+	isbn = {978-3-642-35725-1},
+	author = {Symeon Papadopoulos and Sagonas, Christos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Li, Shipeng and El-Saddik, Abdulmotaleb and Wang, Meng and Mei, Tao and Sebe, Nicu and Yan, Shuicheng and Hong, Richang and Gurrin, Cathal}
+}
+@inproceedings {conf/dasfaa/StampouliGV10,
+	title = {Tag Disambiguation through Flickr and Wikipedia},
+	booktitle = {DASFAA Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {6193},
+	year = {2010},
+	pages = {252-263},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion {\^a}{\texteuro}{\'s}Apple{\^a}{\texteuro}{\v t} illustrates the value of the proposed approach.</p>
+},
+	keywords = {DBpedia project, flick, mashup, term disambiguation, Wikipedia},
+	isbn = {978-3-642-14588-9},
+	author = {Stampouli, Anastasia and Giannakidou, Eirini and Athena Vakali},
+	editor = {Yoshikawa, Masatoshi and Meng, Xiaofeng and Yumoto, Takayuki and Ma, Qiang and Sun, Lifeng and Watanabe, Chiemi}
+}
+@inproceedings {conf/wise/KoutsonikolaVGK09,
+	title = {Clustering of Social Tagging System Users: A Topic and Time Based Approach},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5802},
+	year = {2009},
+	pages = {75-86},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Under Social Tagging Systems, a typical Web 2.0 application,users label digital data sources by using freely chosen textual descriptions(tags). Mining tag information reveals the topic-domain ofusers interests and significantly contributes in a profile construction process.In this paper we propose a clustering framework which groups usersaccording to their preferred topics and the time locality of their taggingactivity. Experimental results demonstrate the efficiency of the proposedapproach which results in more enriched time-aware users profiles.</p>
+},
+	keywords = {Social tagging systems, time, topic, user clustering},
+	isbn = {978-3-642-04408-3},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Giannakidou, Eirini and Yiannis Kompatsiaris},
+	editor = {Vossen, Gottfried and Long, Darrell D. E. and Yu, Jeffrey Xu}
+}
+@inproceedings {conf/iscis/StoupaSV06,
+	title = {Credential-Based Policies Management in an Access Control Framework Protecting XML Resources},
+	booktitle = {ISCIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4263},
+	year = {2006},
+	pages = {603-612},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>XML has been widely adopted for Web data representation undervarious applications (such as DBMSs, Digital Libraries etc). Therefore, accessto XML data sources has become a crucial issue. In this paper we introduce acredential-based access control framework for protecting XML resources. Underthis framework, we propose the use of access policy files containing policiesconcerning a specific credentials type. Moreover, we propose the reorganizationof the policies in these files based on their frequency of use (the morefrequently it is used the higher in the file it is placed). Our main goal is to improverequest servicing times. Several experiments have been conducted whichare carried out either on single request or on multiple requests base. The proposedframework is proven quite beneficial for protecting XML-based frameworkssuch as digital libraries or any other data resources whose format is expressedin XML.</p>
+},
+	isbn = {3-540-47242-8},
+	author = {Stoupa, Konstantina and Simeoforidis, Zisis and Athena Vakali},
+	editor = {Levi, Albert and Savas, Erkay and Yenig{\"u}n, H{\"u}sn{\"u} and Balcisoy, Selim and Saygin, Y{\"u}cel}
+}
+@inproceedings {conf/advis/Vakali00,
+	title = {Evolutionary Prefetching and Caching in an Independent Storage Units Model},
+	booktitle = {ADVIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {1909},
+	year = {2000},
+	pages = {265-274},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Modern applications demand support for a large number ofclients and require large scale storage subsystems. This paper presentsa theoretical model of prefetching and caching of storage objects undera parallel storage units architecture. The storage objects are definedas variable sized data blocks and a specific cache area is reserved fordata prefetching and caching. An evolutionary algorithm is proposed foridentifying the storage objects to be prefetched and cached. The storageobject prefetching approach is experimented under certain artificialworkloads of requests for a set of storage units and has shown significantperformance improvement with respect to request service times, as wellas cache and byte hit ratios.</p>
+},
+	keywords = {data prefetching and caching, object-based storage models, parallel storage units},
+	isbn = {3-540-41184-4},
+	author = {Athena Vakali},
+	editor = {Yakhno, Tatyana M.}
+}

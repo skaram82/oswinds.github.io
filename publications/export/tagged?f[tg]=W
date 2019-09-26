@@ -1,0 +1,98 @@
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers
+%E Boualem Benatallah
+%E Azer Bestavros
+%E Barbara Catania
+%E Armin Haller
+%E Yannis Manolopoulos
+%E Athena Vakali
+%E Yanchun Zhang
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9051
+%@ 978-3-319-20369-0
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-20370-6
+%R 10.1007/978-3-319-20370-6
+
+%0 Conference Proceedings
+%B WISE (1)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8786
+%@ 978-3-319-11748-5
+%G eng
+
+%0 Conference Proceedings
+%B WISE (2)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8787
+%@ 978-3-319-11745-4
+%G eng
+
+%0 Conference Paper
+%B SMC (6)
+%D 2004
+%T Web-based delegation using XML
+%A Stoupa, Konstantina
+%A Athena Vakali
+%A Li, Fang
+%A Andreadis, George
+%K Delegation
+%K XML access control
+%X <p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+%B SMC (6)
+%I IEEE
+%P 5189-5194
+%@ 0-7803-8566-7
+%G eng
+
+%0 Conference Paper
+%D 2004
+%T Web-based Delegation using XML
+%X Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.
+%G eng
+
+%0 Conference Paper
+%D 2003
+%T Web Data Accessing and the Web Searching Process
+%X <p>The enormous growth in the number of documentscirculated over the Web increases the need for improvedWeb data management systems. Web data accessing andWeb searching are the main processes in Web datamanagement systems. In order to evaluate the performanceof such systems, various simulation approaches must beused. In this paper, we survey the most recent approachesfor Web data representation, Web data accessing as well asfor Web search engines.</p>
+%G eng
+
+%0 Conference Paper
+%D 1999
+%T A Webbased evolutionary model for Internet Data Caching
+%X <p>Caching is a standard solution to the problem of insufcient bandwidth caused by the rapid increase of information circulation across the Internet Cache consistency mechanisms are a crucial component of eachcache scheme inuencing the cache usefulness and reliability This paper presents a model for optimizingInternet cache content by the use of a genetic algorithm and examines the model by tracedrivenexperiments Cached data are considered as a populationevolving over simulated time by a number of successive cache generations The model is tested by theuse of traces provided by a Squid proxy cache serverUsing tracedrivencaching we show that the proposed evolutionary mechanisms improve cache nonstaleness and consistency and result in an updatedcache content.</p>
+%G eng
+
+%0 Conference Paper
+%B DEXA Workshop
+%D 1999
+%T A Web-Based Evolutionary Model for Internet Data Caching
+%A Athena Vakali
+%B DEXA Workshop
+%I IEEE Computer Society
+%P 650-654
+%@ 0-7695-0281-4
+%G eng
+

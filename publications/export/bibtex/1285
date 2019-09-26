@@ -1,0 +1,9 @@
+@article {journals/www/Vakali01,
+	title = {Proxy Cache Replacement Algorithms: A History-Based Approach},
+	journal = {World Wide Web},
+	volume = {4},
+	number = {4},
+	year = {2001},
+	pages = {277-298},
+	author = {Athena Vakali}
+}

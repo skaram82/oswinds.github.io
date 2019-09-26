@@ -1,0 +1,14 @@
+@inproceedings {conf/apweb/TerziVH03,
+	title = {Knowledge Representation, Ontologies, and the Semantic Web},
+	booktitle = {APWeb},
+	series = {Lecture Notes in Computer Science},
+	volume = {2642},
+	year = {2003},
+	pages = {382-387},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.},
+	isbn = {3-540-02354-2},
+	author = {Terzi, Evimaria and Athena Vakali and Hacid, Mohand-Said},
+	editor = {Zhou, Xiaofang and Zhang, Yanchun and Orlowska, Maria E.}
+}

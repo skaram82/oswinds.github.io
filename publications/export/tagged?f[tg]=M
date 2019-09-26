@@ -1,0 +1,233 @@
+%0 Conference Proceedings
+%D 2017
+%T Mean Birds: Detecting Aggression and Bullying on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>In recent years, bullying and aggression against users on social media have grown significantly, causing serious consequences to victims of all demographics. In particular, cyberbullying affects more than half of young social media users worldwide, and has also led to teenage suicides, prompted by prolonged and/or coordinated digital harassment. Nonetheless, tools and technologies for understanding and mitigating it are scarce and mostly ineffective. In this paper, we present a principled and scalable approach to detect bullying and aggressive behavior on Twitter. We propose a robust methodology for extracting text, user, and network-based attributes, studying the properties of cyberbullies and aggressors, and what features distinguish them from regular users. We find that bully users post less, participate in fewer online communities, and are less popular than normal users, while aggressors are quite popular and tend to include more negativity in their posts. We evaluate our methodology using a corpus of 1.6M tweets posted over 3 months, and show that machine learning classification algorithms can accurately detect users exhibiting bullying and aggressive behavior, achieving over 90% AUC.</p>
+%S WebSci '17
+%I ACM
+%C Troy, NY, USA
+%G eng
+%U https://arxiv.org/abs/1702.06877
+
+%0 Conference Proceedings
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%D 2017
+%T Measuring #GamerGate: A Tale of Hate, Sexism, and Bullying
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>Over the past few years, online aggression and abusive behaviors have occurred in many different forms and on a variety of platforms. In extreme cases, these incidents have evolved into hate, discrimination, and bullying, and even materialized into real-world threats and attacks against individuals or groups. In this paper, we study the Gamergate controversy. Started in August 2014 in the online gaming world, it quickly spread across various social networking platforms, ultimately leading to many incidents of cyberbullying and cyberaggression. We focus on Twitter, presenting a measurement study of a dataset of 340k unique users and 1.6M tweets to study the properties of these users, the content they post, and how they differ from random Twitter users. We find that users involved in this "Twitter war" tend to have more friends and followers, are generally more engaged and post tweets with negative sentiment, less joy, and more hate than random users. We also perform preliminary measurements on how the Twitter suspension mechanism deals with such abusive behaviors. While we focus on Gamergate, our methodology to collect and analyze tweets related to aggressive and bullying activities is of independent interest.</p>
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%S WWW '17 Companion
+%I ACM
+%C Perth, Australia
+%P 1285-1290
+%G eng
+%U http://dl.acm.org/citation.cfm?id=3053890
+%R 10.1145/3041021.3053890
+
+%0 Conference Paper
+%B Workshop on Real-time & Stream Analytics in Big Data
+%D 2016
+%T A multi-layer software architecture framework for adaptive real-time analytics
+%A Athena Vakali
+%A Paschalis Korosoglou
+%A Pavlos Daoglou
+%K big data analytics
+%K cloud based services
+%K real time data management
+%K software architecutures
+%X <p>Highly distributed applications dominate today’s software industry posing new challenges for novel software architectures capable of supporting real time processing and analytics. The proposed framework, so called REAλICS, is motivated by the fact that the demand for aggregating current and past big data streams requires new software methodologies, platforms and services. The proposed framework is designed to tackle with data intensive problems in real time environments, via services built dynamically under a fully scalable and elastic Lambda based architecture. REAλICS proposes a multi-layer software platform, based on the lambda architecture paradigm, for aggregating and synchronizing real time and batch processing. The proposed software layers and adaptive components support quality of experience, along with community driven software development. Flexibility and elasticity are targeted by hiding the complexity of bootstrapping and maintaining a multi level architecture, upon which the end user can drive queries over input data streams. REAλICS proposes a flexible and extensible software architecture that can capture<br />  users preference at the front-end and adapHighly distributed applications dominate today’s software industry posing new challenges for novel software architectures capable of supporting real time processing and analytics. The proposed framework, so called REAλICS, is motivated by the fact that the demand for aggregating current and past big data streams requires new software methodologies, platforms and services. The proposed framework is designed to tackle with data intensive problems in real time environments, via services built dynamically under a fully scalable and elastic Lambda based architecture. REAλICS proposes a multi-layer software platform, based on the lambda architecture paradigm, for aggregating and synchronizing real time and batch<br />  processing. The proposed software layers and adaptive components support quality of experience, along with community<br />  driven software development. Flexibility and elasticity are targeted by hiding the complexity of bootstrapping and maintaining a multi level architecture, upon which the end user can drive queries over input data streams. REAλICS proposes a flexible and extensible software architecture that can capture users preference at the front-end and adapt the appropriate distributed technologies and processes at the back-end. Such a model enables real time analytics in large-scale data driven cloud-based systems.t the appropriate distributed technologies and processes at the back-end. Such a model enables real time analytics in large-scale data driven cloud-based systems.</p>
+%B Workshop on Real-time & Stream Analytics in Big Data
+%C Washington D.C.
+%G eng
+
+%0 Book Section
+%B Big Data Analytics and Knowledge Discovery
+%D 2015
+%T MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis
+%A Despoina Chatzakou
+%A Passalis, Nikolaos
+%A Athena Vakali
+%E Sanjay Kumar Madria
+%E Hara, Takahiro
+%K Multilevel features
+%K Sentiment detection
+%B Big Data Analytics and Knowledge Discovery
+%S Lecture Notes in Computer Science
+%I Springer International Publishing
+%V 9263
+%P 337-350
+%@ 978-3-319-22728-3
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-22729-0_26
+%R 10.1007/978-3-319-22729-0_26
+
+%0 Conference Paper
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%D 2013
+%T Micro-blogging Content Analysis via Emotionally-Driven Clustering
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K affective analysis methodology
+%K Clustering algorithms
+%K content management
+%K content sharing
+%K Dictionaries
+%K emotion intensity monitoring
+%K emotionally-driven clustering
+%K Equations
+%K human emotion states
+%K information sharing
+%K lexicon-based technique
+%K Mathematical model
+%K microblogging content analysis
+%K pattern clustering
+%K people perception
+%K Pragmatics
+%K Semantics
+%K Sentiment analysis
+%K social networking (online)
+%K social pulse
+%K social relations
+%K text analysis
+%K Twitter
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%P 375-380
+%8 Sept
+%G eng
+%R 10.1109/ACII.2013.68
+
+%0 Journal Article
+%D 2012
+%T Mani-Web: Large-Scale Web Graph Embedding via Laplacian Eigenmap Approximation
+%X <p>The Web as a graph can be embedded in a lowdimensionalspace where its geometry can be visualized and studiedin order to mine interesting patterns such as web communities.The existing algorithms operate on small-to-medium-scalegraphs; thus, we propose a close to linear time algorithm calledMani-Web suitable for large-scale graphs. The result is similarto the one produced by the manifold-learning technique Laplacianeigenmap that is tested on artificial manifolds and real webgraphs.Mani-Web can also be used as a general-purpose manifoldlearning/dimensionality-reductiontechnique as long as the datacan be represented as a graph.</p>
+%G eng
+
+%0 Journal Article
+%J IEEE Transactions on Systems, Man, and Cybernetics, Part C
+%D 2012
+%T Mani-Web: Large-Scale Web Graph Embedding via Laplacian Eigenmap Approximation
+%A Stamos, Konstantinos
+%A Laskaris, Nikolaos A.
+%A Athena Vakali
+%K Laplacian eigenmap
+%K large scale
+%K manifold learning
+%K spectral graph theory
+%K web communities
+%X <p>The Web as a graph can be embedded in a lowdimensionalspace where its geometry can be visualized and studiedin order to mine interesting patterns such as web communities.The existing algorithms operate on small-to-medium-scalegraphs; thus, we propose a close to linear time algorithm calledMani-Web suitable for large-scale graphs. The result is similarto the one produced by the manifold-learning technique Laplacianeigenmap that is tested on artificial manifolds and real webgraphs.Mani-Web can also be used as a general-purpose manifoldlearning/dimensionality-reductiontechnique as long as the datacan be represented as a graph.</p>
+%B IEEE Transactions on Systems, Man, and Cybernetics, Part C
+%V 42
+%P 879-888
+%G eng
+
+%0 Book Section
+%B New Directions in Web Data Management 1
+%D 2011
+%T Massive Graph Management for the Web and Web 2.0
+%A Maria Giatsoglou
+%A Symeon Papadopoulos
+%A Athena Vakali
+%E Athena Vakali
+%E Jain, Lakhmi C.
+%B New Directions in Web Data Management 1
+%S Studies in Computational Intelligence
+%V 331
+%P 19-58
+%@ 978-3-642-17550-3
+%G eng
+
+%0 Conference Paper
+%B BCI
+%D 2009
+%T Mining the Community Structure of a Web Site
+%A Moussiades, Lefteris
+%A Athena Vakali
+%E Kefalas, Petros
+%E Stamatis, Demosthenes
+%E Douligeris, Christos
+%B BCI
+%I IEEE Computer Society
+%P 239-244
+%@ 978-0-7695-3783-2
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2005
+%T Model-Based Cluster Analysis for Web Users Sessions
+%A Pallis, George
+%A Angelis, Lefteris
+%A Athena Vakali
+%E Hacid, Mohand-Said
+%E Murray, Neil V.
+%E Ras, Zbigniew W.
+%E Tsumoto, Shusaku
+%K Model-Based Cluster Analysis
+%X One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof usersâ€™sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3488
+%P 219-227
+%@ 3-540-25878-7
+%G eng
+
+%0 Conference Paper
+%D 2005
+%T Model-Based Cluster Analysis for Web Users Sessions
+%X <p>One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof users’sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.</p>
+%G eng
+
+%0 Journal Article
+%J Image Vision Comput.
+%D 2004
+%T MPEG-7 based description schemes for multi-level video content classification
+%A Athena Vakali
+%A Hacid, Mohand-Said
+%A Elmagarmid, Ahmed K.
+%B Image Vision Comput.
+%V 22
+%P 367-378
+%G eng
+
+%0 Conference Paper
+%D 2001
+%T The MPEG-7 Multimedia Content Description Standard and the XML Schema Language
+%X <p>Web accessed multimedia applications have been widelyadopted under enhanced requirements for fast searching,browsing and retrieval. Efficient multimedia data contentdescription is a neccesary and critical issue towards whichseveral solutions have been proposed. In the present paper,we focus on the MPEG-7 standard as an efficient multimediacontent description tool. MPEG-7 is a newly introducedstandard from the MPEG commitee and a brief descriptionof the standard and its components is given here. MPEG-7 Language-Schema as used towards efficient Audio/Visualcontent description is discussed more extensively. As decidedby the MPEG-7 committee it the Description DefinitionLanguage (DDL) of the standard should be based onthe XML Schema. The several extensions to this schema,necessary for satisfying the requirements of MPEG-7 arediscussed, while other functionalities of the schema whichseem not necessary under current specifications are alsocommented.</p>
+%G eng
+
+%0 Conference Paper
+%D 2001
+%T Multimedia Data Elevation under a Hierarchical Storage Model
+%X <p>Multimedia data storage is a critical issue in large scale applications.This paper proposes a frequency based multimedia data representationmodel which effectively guides data storage and elevation among the secondaryand tertiary storage levels. Multimedia data are stored on the tertiary storagelevel and (based on certain popularity criteria) they are elevated on secondarylevel towards improving both the request servicing and the data’s accessibility.The proposed multimedia data elevation is a prefetching approach since it isperformed “a priori” (not on demand) based on available information on usersaccess patterns. Secondary storage placement is performed by the use of twodistinct type placement policies, namely the “Constructive Placement” and the“Iterative Improvement” algorithms. A simulation model has been developedto evaluate the proposed hierarchical data model and the applied placementstrategies. Experimentation results have shown that the this hierarchical approachunder the iterative improvement placement outperforms earlier relatedmultimedia data placement policies.</p>
+%G eng
+
+%0 Journal Article
+%J Operating Systems Review
+%D 2001
+%T Multimedia Data Storage and Representation Issues on Tertiary Storage Subssystems: An Overview
+%A Athena Vakali
+%A Terzi, Evimaria
+%B Operating Systems Review
+%V 35
+%P 61-77
+%G eng
+
+%0 Conference Paper
+%D 2001
+%T Multimedia documents Storage An Evolutionary based Application
+%X <p>Multimedia data storage is a critical issue in relation to the overal l systems performanceand functionality This paper studies a multimediadocument application which eectively guides dataplacement towards improving the quality of presentation of multimedia data Several storage policiesare proposed towards better response and servicetimes Multimedia data dependencies access frequencies and timing constraints are used to guidethe storage policies under a certain representation model The proposed placement policies are basedon the simulated annealing algorithm and an extended improved version of the typical simulated annealing approach is presented Experimentation results are presented and their impact on the total systems performance is commented and evaluated.</p>
+%G eng
+

@@ -1,0 +1,258 @@
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Internet Science - Second International Conference, INSCI 2015, Brussels, Belgium, May 27-29, 2015, Proceedings
+%E Thanassis Tiropanis
+%E Athena Vakali
+%E Laura Sartori
+%E Pete Burnap
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9089
+%@ 978-3-319-18608-5
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-18609-2
+%R 10.1007/978-3-319-18609-2
+
+%0 Journal Article
+%J Expert Syst. Appl.
+%D 2013
+%T Integrating similarity and dissimilarity notions in recommenders
+%A Christos Zigkolis
+%A Karagiannidis, Savvas
+%A Koumarelas, Ioannis K.
+%A Athena Vakali
+%K Dissimilarity recommender
+%K Distributed framework
+%K Recommender systems
+%X <p>Collaborative recommenders rely on the assumption that similar users may exhibit similar tastes whilecontent-based ones favour items that found to be similar with the items a user likes. Weak related entities,which are often considered to be useful, are neglected by those similarity-driven recommenders. Totake advantage of this neglected information, we introduce a novel dissimilarity-based recommenderthat bases its estimations on degrees of dissimilarities among itemsâ€™ attributes. However, instead of usingthe proposed recommender as a stand-alone method, we combine it with similarity-based ones to maintainthe selective nature of the latter while detecting, through our recommender, information that mayhave been overlooked. Such combinations are established by IANOS, a proposed framework throughwhich we increase the accuracy of two popular similarity-based recommenders (Naive Bayes andSlope-One) after their combination with our algorithm. Improved accuracy results in experimentationon two datasets (Yahoo! Movies and Movielens) enhance our reasoning. However, the proposed recommendercomes with an additional computational complexity when combined with other techniques. Byusing Hadoop technology, we developed a distributed version of IANOS through which execution timewas reduced. Evaluation on IANOS procedures in terms of time performance endorses the use of distributedimplementations.</p>
+%B Expert Syst. Appl.
+%V 40
+%P 5132-5147
+%G eng
+
+%0 Journal Article
+%D 2013
+%T Integrating similarity and dissimilarity notions in recommenders
+%X <p>Collaborative recommenders rely on the assumption that similar users may exhibit similar tastes whilecontent-based ones favour items that found to be similar with the items a user likes. Weak related entities,which are often considered to be useful, are neglected by those similarity-driven recommenders. Totake advantage of this neglected information, we introduce a novel dissimilarity-based recommenderthat bases its estimations on degrees of dissimilarities among items’ attributes. However, instead of usingthe proposed recommender as a stand-alone method, we combine it with similarity-based ones to maintainthe selective nature of the latter while detecting, through our recommender, information that mayhave been overlooked. Such combinations are established by IANOS, a proposed framework throughwhich we increase the accuracy of two popular similarity-based recommenders (Naive Bayes andSlope-One) after their combination with our algorithm. Improved accuracy results in experimentationon two datasets (Yahoo! Movies and Movielens) enhance our reasoning. However, the proposed recommendercomes with an additional computational complexity when combined with other techniques. Byusing Hadoop technology, we developed a distributed version of IANOS through which execution timewas reduced. Evaluation on IANOS procedures in terms of time performance endorses the use of distributedimplementations.</p>
+%G eng
+
+%0 Journal Article
+%J J. Intell. Inf. Syst.
+%D 2012
+%T In & out zooming on time-aware user/tag clusters
+%A Giannakidou, Eirini
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Yiannis Kompatsiaris
+%K Events
+%K Social tagging systems
+%K Time-aware clustering
+%K Users' interests over time
+%X <p>The common ground behind most approaches that analyze social taggingsystems is addressing the information challenge that emerges from the massiveactivity of millions of users who interact and share resources and/or metadata online.However, lack of any time-related data in the analysis process implicitly deniesmuch of the dynamic nature of social tagging activity. In this paper we claim thatholding a temporal dimension, allows for tracking macroscopic and microscopicusersâ€™ interests, detecting emerging trends and recognizing events. To this end, wepropose a time-aware co-clustering approach for acquiring semantic and temporalpatterns out of the tagging activity. The resulted clusters contain both users and tagsof similar patterns over time, and reveal non-obvious or â€śhiddenâ€ť relations amongusers and topics of their common interest. Zoom in &amp; out views serve as visualizationmethods on different aspects of the clustersâ€™ structure, in order to evaluate theefficiency of the approach.</p>
+%B J. Intell. Inf. Syst.
+%V 38
+%P 685-708
+%G eng
+
+%0 Journal Article
+%D 2011
+%T In & out zooming on time-aware user/tag clusters
+%X <p>The common ground behind most approaches that analyze social taggingsystems is addressing the information challenge that emerges from the massiveactivity of millions of users who interact and share resources and/or metadata online.However, lack of any time-related data in the analysis process implicitly deniesmuch of the dynamic nature of social tagging activity. In this paper we claim thatholding a temporal dimension, allows for tracking macroscopic and microscopicusers’ interests, detecting emerging trends and recognizing events. To this end, wepropose a time-aware co-clustering approach for acquiring semantic and temporalpatterns out of the tagging activity. The resulted clusters contain both users and tagsof similar patterns over time, and reveal non-obvious or “hidden” relations amongusers and topics of their common interest. Zoom in &amp; out views serve as visualizationmethods on different aspects of the clusters’ structure, in order to evaluate theefficiency of the approach.</p>
+%G eng
+
+%0 Book Section
+%B New Directions in Web Data Management 1
+%D 2011
+%T Innovations and Trends in Web Data Management
+%A Athena Vakali
+%E Athena Vakali
+%E Jain, Lakhmi C.
+%B New Directions in Web Data Management 1
+%S Studies in Computational Intelligence
+%V 331
+%P 1-18
+%@ 978-3-642-17550-3
+%G eng
+
+%0 Conference Paper
+%B ICIP
+%D 2010
+%T Image clustering through community detection on hybrid image similarity graphs
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Tolias, Giorgos
+%A Kalantidis, Yannis
+%A Mylonas, Phivos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%K community detection
+%K content-based image retrieval
+%K image clustering
+%K tags
+%K visual similarity
+%X <p>The wide adoption of photo sharing applications such as FlickrÂ°cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from FlickrÂ°c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+%B ICIP
+%I IEEE
+%P 2353-2356
+%@ 978-1-4244-7994-8
+%G eng
+
+%0 Conference Paper
+%D 2010
+%T IMAGE CLUSTERING THROUGH COMMUNITY DETECTION ON HYBRID IMAGE SIMILARITY GRAPHS
+%X <p>The wide adoption of photo sharing applications such as Flickr°cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from Flickr°c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+%G eng
+
+%0 Conference Paper
+%B CEUR Workshop Proceedings ISSN 1613-0073
+%D 2010
+%T Integrating Web 20 Data into Linked Open Data Cloud via Clustering
+%A Giannakidou, Eirini
+%A Athena Vakali
+%E Auer, S'oren
+%E Decker, Stefan
+%E Hauswirth, Manfred
+%K FIA-LOD2010 imported
+%B CEUR Workshop Proceedings ISSN 1613-0073
+%V 700
+%8 February
+%G eng
+
+%0 Journal Article
+%D 2009
+%T Information analysis in mobile social networks for added-value services
+%A Athena Vakali
+%A Christos Zigkolis
+%X <p>The emerging evolution of technology has changed the role of mobile phones which apart from beingcommunication devices are also powerful devices for uploading and consuming content. This fact poses newchallenges for the mobile industry, which needs to develop and adapt useful and appealing services for theusers in order to enhance the role of the mobile phone as a mainstream device. Adopting and using mobilesocial networks sites and other Web 2.0 services is expected to be inline with such a mobile technologytrend. Current mobile web technologies offer a computer-like user-experience since a user can easilygenerate and share digital content from his/her mobile. However, current services and applications do notinclude techniques for analyzing this mass user-generated input (e.g. content, annotations), user interactions(e.g. ranking) and social interactions (e.g. relationships). Knowledge extracted from this massive usercontribution and interaction can offer personalized added-value services enabling more efficient mobileusage. Our goal is to outline this information analysis gaps in existing services and going one step further tosuggest possible solutions. Aiming at social networks we discuss novel methods for analyzing usersâ€™ actionsand modeling usersâ€™ social relationships. The goal from these suggestions is to extract the underlyingknowledge from usersâ€™ tagging activities, usersâ€™ generated content and usersâ€™ social relationships within asocial network. We present our points with indicative example services.</p>
+%G eng
+
+%0 Conference Paper
+%D 2009
+%T Information analysis in mobile social networks for added-value services
+%X <p>The emerging evolution of technology has changed the role of mobile phones which apart from beingcommunication devices are also powerful devices for uploading and consuming content. This fact poses newchallenges for the mobile industry, which needs to develop and adapt useful and appealing services for theusers in order to enhance the role of the mobile phone as a mainstream device. Adopting and using mobilesocial networks sites and other Web 2.0 services is expected to be inline with such a mobile technologytrend. Current mobile web technologies offer a computer-like user-experience since a user can easilygenerate and share digital content from his/her mobile. However, current services and applications do notinclude techniques for analyzing this mass user-generated input (e.g. content, annotations), user interactions(e.g. ranking) and social interactions (e.g. relationships). Knowledge extracted from this massive usercontribution and interaction can offer personalized added-value services enabling more efficient mobileusage. Our goal is to outline this information analysis gaps in existing services and going one step further tosuggest possible solutions. Aiming at social networks we discuss novel methods for analyzing users’ actionsand modeling users’ social relationships. The goal from these suggestions is to extract the underlyingknowledge from users’ tagging activities, users’ generated content and users’ social relationships within asocial network. We present our points with indicative example services.</p>
+%G eng
+
+%0 Journal Article
+%D 2008
+%T Integrating Caching Techniques in CDNs using a Classification Approach
+%X <p>Content Delivery Networks (CDNs) provide an efficient support for serving “resourcehungry”applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN’s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN’s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN’s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+%G eng
+
+%0 Journal Article
+%J IJBDCN
+%D 2008
+%T Integrating Caching Techniques in CDNs using a Classification Approach
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Thomos, Charilaos
+%A Andreadis, George
+%X <p>Content Delivery Networks (CDNs) provide an efficient support for serving â€śresourcehungryâ€ťapplications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDNâ€™s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDNâ€™s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDNâ€™s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+%B IJBDCN
+%V 4
+%P 1-12
+%G eng
+
+%0 Journal Article
+%J Commun. ACM
+%D 2006
+%T Insight and Perspectives for Content Delivery Networks
+%A Pallis, George
+%A Athena Vakali
+%K imported
+%B Commun. ACM
+%I ACM
+%C New York, NY, USA
+%V 49
+%P 101–106
+%8 January
+%G eng
+%R 10.1145/1107458.1107462
+
+%0 Conference Paper
+%B ADBIS
+%D 2006
+%T Integrating Caching Techniques on a Content Distribution Network
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%E Manolopoulos, Yannis
+%E Pokorny, Jaroslav
+%E Sellis, Timos K.
+%X <p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDNâ€™ s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4152
+%P 200-215
+%@ 3-540-37899-5
+%G eng
+
+%0 Conference Paper
+%D 2006
+%T Integrating Caching Techniques on a Content Distribution Network
+%X <p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDN’ s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+%G eng
+
+%0 Conference Paper
+%D 2005
+%T Intrusion Detection in RBAC-administered Databases
+%X <p>A considerable effort has been recently devoted to thedevelopment of Database Management Systems (DBMS)which guarantee high assurance security and privacy. Animportant component of any strong security solution is representedby intrusion detection (ID) systems, able to detectanomalous behavior by applications and users. To date,however, there have been very few ID mechanisms specificallytailored to database systems. In this paper, we proposesuch a mechanism. The approach we propose to IDis based on mining database traces stored in log files. Theresult of the mining process is used to form user profilesthat can model normal behavior and identify intruders. Anadditional feature of our approach is that we couple ourmechanism with Role Based Access Control (RBAC). Undera RBAC system permissions are associated with roles, usuallygrouping several users, rather than with single users.Our ID system is able to determine role intruders, that is,individuals that while holding a specific role, have a behaviordifferent from the normal behavior of the role. Animportant advantage of providing an ID mechanism specifi-cally tailored to databases is that it can also be used to protectagainst insider threats. Furthermore, the use of rolesmakes our approach usable even for databases with largeuser population. Our preliminary experimental evaluationon both real and synthetic database traces show that ourmethods work well in practical situations.</p>
+%G eng
+
+%0 Conference Paper
+%B ACSAC
+%D 2005
+%T Intrusion Detection in RBAC-administered Databases
+%A Bertino, Elisa
+%A Kamra, Ashish
+%A Terzi, Evimaria
+%A Athena Vakali
+%X <p>A considerable effort has been recently devoted to thedevelopment of Database Management Systems (DBMS)which guarantee high assurance security and privacy. Animportant component of any strong security solution is representedby intrusion detection (ID) systems, able to detectanomalous behavior by applications and users. To date,however, there have been very few ID mechanisms specificallytailored to database systems. In this paper, we proposesuch a mechanism. The approach we propose to IDis based on mining database traces stored in log files. Theresult of the mining process is used to form user profilesthat can model normal behavior and identify intruders. Anadditional feature of our approach is that we couple ourmechanism with Role Based Access Control (RBAC). Undera RBAC system permissions are associated with roles, usuallygrouping several users, rather than with single users.Our ID system is able to determine role intruders, that is,individuals that while holding a specific role, have a behaviordifferent from the normal behavior of the role. Animportant advantage of providing an ID mechanism specifi-cally tailored to databases is that it can also be used to protectagainst insider threats. Furthermore, the use of rolesmakes our approach usable even for databases with largeuser population. Our preliminary experimental evaluationon both real and synthetic database traces show that ourmethods work well in practical situations.</p>
+%B ACSAC
+%I IEEE Computer Society
+%P 170-182
+%@ 0-7695-2461-3
+%G eng
+
+%0 Journal Article
+%J SIGecom Exchanges
+%D 2001
+%T Internet based auctions: a survey on models and applications
+%A Athena Vakali
+%A Angelis, Lefteris
+%A Pournara, Dimitra
+%B SIGecom Exchanges
+%V 2
+%P 6-15
+%G eng
+
+%0 Conference Paper
+%D 1998
+%T Information Placement Policies in Tertiary Storage Systems
+%X <p>The development and evolution of new applications with high storage needs resultedin strengthening the role and importance of Tertiary Storage SystemsInformation arrangement on tertiary me dia is a crucial fact or affecting the overall systems performance.In the present paper an overview of Tertiary Storage Systems is presented and differentdata placement policies (adopted in secondary storage as well) are studied.The so calledorganpipe and the camel data placement schemes are applied on mid range Tertiary tapedrive models where the area is divided into a specific number of fixed sized partitions.The expected seek time and the overall expected service time are derived for these tertiarystorage models.Experiments are carried out for different models representing the mostwidely available tertiary storage media.The organpipe shows better performance metricsthan the camel arrangement policy whereas both policies are improved by the increase inthe number of tape are a partitions.Experimental results of the applied placement policiesare compared and discussed and future research areas are suggested.</p>
+%G eng
+
+%0 Conference Paper
+%D 1996
+%T The Impact of Seeking in Partial Match Retrieval
+%X In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.
+%G eng
+
+%0 Conference Paper
+%B DEXA Workshop
+%D 1996
+%T The Impact of Seeking in Partial Match Retrieval
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Wagner, Roland
+%E Thoma, Helmut
+%X <p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+%B DEXA Workshop
+%I IEEE Computer Society
+%P 432-437
+%@ 0-8186-7662-0
+%G eng
+

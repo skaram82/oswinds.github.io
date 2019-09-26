@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="el">
+
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<title>CineMetro</title>
+	<link rel="shortcut icon" href="favicon.ico">
+	<link href="index.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<link rel="stylesheet" href="http://oswinds.csd.auth.gr/resources/demos/style.css">
+	<script>
+		$(document).ready(function() {  
+		    //hide all the images except the first one     
+		    $("#photos img:gt(0)").hide();  
+		  
+		    setInterval(function() {  
+		        //get the current image - it is the visible one  
+		        var current = $('#photos img:visible');  
+		  
+		        //get immediate next image after the current if exists, otherwise find the first one  
+		        var next = current.next().length ? current.next() : $('#photos img:eq(0)');  
+		        //hide the current image  
+		        current.fadeOut(1000);  
+		        //show the next one  
+		        next.fadeIn(1000);  
+		    }, 3000);  
+		});	
+	</script> 
+</head>
+
+<body>
+	<div class="lang">
+			<p>Ελληνικά<a class="link" href="http://oswinds.csd.auth.gr/CineMetro/english.html">    English</a> </p>
+	</div>
+		
+	<div id="main">
+		<br/><br/>
+		
+		<div>
+			<h1>Cine Metro</h1>
+			<h2>Το πρώτο μετρό στη Θεσσαλονίκη είναι κινηματογραφικό!</h2>
+		</div>
+		
+		<div class="panel">
+			<div id="photos">  
+			  <img src="photos/s1.png" alt="screenshot" />  
+			  <img src="photos/s2.png" alt="screenshot" />  
+			  <img src="photos/s3.png" alt="screenshot" />  
+			  <img src="photos/s4.png" alt="screenshot" />  
+			  <img src="photos/s5.png" alt="screenshot" />  
+			  <img src="photos/s6.png" alt="screenshot" />  
+			  <img src="photos/s7.png" alt="screenshot" />  
+			  <img src="photos/s8.png" alt="screenshot" />  
+			  <img src="photos/s9.png" alt="screenshot" />
+			</div>
+		</div>
+		
+		<div class="panel1">
+			<p class="justify"> Το CineMetro είναι μια εφαρμογή για κινητές συσκευές, η οποία σχεδιάζεται εθελοντικά 
+			από ομάδα φοιτητών του Τμήματος Πληροφορικής του Α.Π.Θ., υπό την εποπτεία της καθηγήτριας Αθηνάς Βακάλη, 
+			σε συνεργασία με τη δημοσιογράφο και ιστορικό κινηματογράφου Δρ. Αγγελική Μυλωνάκη και τον 
+			δημοσιογράφο και κριτικό κινηματογράφου κ. Ιωάννη Γκροσδάνη.
+			Στην iOS εφαρμογή εργάστηκε ο Γιώργος Χαριστός. Η ομάδα των φοιτητών που εργάστηκε στην Android εφαρμογή 
+			απαρτίζεται από τους Βαενά Παρασκευή, Καλτιριμίδου Ευφροσύνη, Πανισκάκη Κυριακή, Παπάζογλου Χρήστος-Παναγιώτης
+			και Συρτάρη Χαρίκλεια.</p>
+			<p class="justify">Η έμφαση της εφαρμογής είναι στο να παρέχει τη δυνατότητα σύνδεσης και ανάδειξης των 
+			σημείων της πόλης που αφορούν στον κινηματογράφο, ώστε ο πολίτης να έχει στην κινητή του συσκευή άμεση 
+			πληροφορία σχετικά με το κινηματογραφικό περιεχόμενο και τη θέση του στην πόλη. Η εξέλιξη της τεχνολογίας 
+			και η δυνατότητα των κινητών συσκευών να εντοπίζουν τη θέση του πολίτη στην πόλη κάθε στιγμή αξιοποιήθηκαν 
+			στο CineMetro ώστε να υλοποιηθεί μια πρωτότυπη εφαρμογή που θα αναδιπλώνει, θα αναδεικνύει και θα εξελίσσει
+			τη σχέση της πόλης με τον κινηματογράφο. </p>
+			<p class="justify">Το «Cine Metro» διαθέτει 3 «γραμμές», οι οποίες αναδεικνύουν σε ισάριθμες διαδρομές 
+			την κινηματογραφική ιστορία της Θεσσαλονίκης ως εξής: <br/>
+			Γραμμή 1: Κινηματογραφικές αίθουσες-Τα σινεμά της πόλης, <br/>
+			Γραμμή 2: Ταινίες-Η Θεσσαλονίκη μέσα από τον ελληνικό κινηματογράφο <br/>
+			Γραμμή 3: Το Φεστιβάλ Κινηματογράφου Θεσσαλονίκης και η ιστορία του <br/> </p>
+			<p class="justify">Κάθε «γραμμή» του «CineMetro» διακρίνεται σε επιμέρους «στάσεις», που συμπίπτουν με 
+			γεωγραφικά σημεία του ιστορικού κέντρου της πόλης (π.χ. παραλία, λιμάνι, πλατεία Αριστοτέλους κτλ), 
+			οι οποίες καλούν τους χρήστες  της εφαρμογής να περπατήσουν την πόλη και να γνωρίσουν την κινηματογραφική 
+			ιστορία της από τα τέλη του 19ου αιώνα μέχρι σήμερα.</p>			
+		</div>
+   		
+   		<br/><br/><br/><br/><br/><br/>
+   		
+		<div class="panel2">
+   			<h3>Διαθέσιμο σε    
+		    	<a class="link" href="https://itunes.apple.com/us/app/cinemetro/id933450618?mt=8" target="_blank">AppStore</a>
+		    	 και  <a class="link" href="https://play.google.com/store/apps/details?id=authcinemetroproject.cinemetro" target="_blank">PlayStore</a>
+			</h3>
+   				
+		    <table id="available">
+				<tr>
+					<td>
+						<a href="https://itunes.apple.com/us/app/cinemetro/id933450618?mt=8" title="Click to open App's page" target="_blank">
+						<img class="mobile" src="photos/appStore.png" alt="appStore"></a>
+						<br />
+					</td>
+					<td>
+						<a href="https://play.google.com/store/apps/details?id=authcinemetroproject.cinemetro" title="Click to open PlayStore's page" target="_blank">
+						<img class="mobile" src="photos/playStore.png" alt="playStore" /></a>
+						<br />
+					</td>
+				<tr/>
+			</table>
+		
+		</div>
+				
+<!--		<img class="logoImage" src="photos/logo.jpg" alt="Logo Image"> -->
+		
+		<br/>
+		<h3>Δείτε περισσότερα <a class="link" target="_blank" href="http://oswinds.csd.auth.gr/CineMetro/CineMetro.pdf">εδώ</a></h3>
+      
+    <br/>
+	
+	</div>
+	
+</body>
+</html>

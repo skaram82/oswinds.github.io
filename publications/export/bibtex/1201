@@ -1,0 +1,11 @@
+@inbook {series/sci/Vakali11,
+	title = {Innovations and Trends in Web Data Management},
+	booktitle = {New Directions in Web Data Management 1},
+	series = {Studies in Computational Intelligence},
+	volume = {331},
+	year = {2011},
+	pages = {1-18},
+	isbn = {978-3-642-17550-3},
+	author = {Athena Vakali},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}

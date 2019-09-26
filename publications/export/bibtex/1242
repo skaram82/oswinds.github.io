@@ -1,0 +1,12 @@
+@inproceedings {conf/waim/GiannakidouKVK08,
+	title = {Co-Clustering Tags and Social Data Sources},
+	booktitle = {WAIM},
+	year = {2008},
+	pages = {317-324},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Under social tagging systems, a typical Web 2.0 application,users label digital data sources by using freely chosentextual descriptions (tags). Poor retrieval in the aforementionedsystems remains a major problem mostly due toquestionable tag validity and tag ambiguity. Earlier clusteringtechniques have shown limited improvements, since theywere based mostly on tag co-occurrences. In this paper,a co-clustering approach is employed, that exploits jointgroups of related tags and social data sources, in whichboth social and semantic aspects of tags are consideredsimultaneously. Experimental results demonstrate the effi-ciency and the beneficial outcome of the proposed approachin correlating relevant tags and resources.</p>
+},
+	isbn = {978-0-7695-3185-4},
+	author = {Giannakidou, Eirini and Vassiliki A. Koutsonikola and Athena Vakali and Yiannis Kompatsiaris}
+}

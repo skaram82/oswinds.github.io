@@ -1,0 +1,20 @@
+@proceedings {conf/wise/2014-1,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I},
+	booktitle = {WISE (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8786},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11748-5},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@proceedings {conf/wise/2014-2,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8787},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11745-4},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}

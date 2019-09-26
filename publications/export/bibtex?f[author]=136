@@ -1,0 +1,142 @@
+@article {journals/tsmc/StamosLV12,
+	title = {Mani-Web: Large-Scale Web Graph Embedding via Laplacian Eigenmap Approximation},
+	journal = {IEEE Transactions on Systems, Man, and Cybernetics, Part C},
+	volume = {42},
+	number = {6},
+	year = {2012},
+	pages = {879-888},
+	abstract = {<p>The Web as a graph can be embedded in a lowdimensionalspace where its geometry can be visualized and studiedin order to mine interesting patterns such as web communities.The existing algorithms operate on small-to-medium-scalegraphs; thus, we propose a close to linear time algorithm calledMani-Web suitable for large-scale graphs. The result is similarto the one produced by the manifold-learning technique Laplacianeigenmap that is tested on artificial manifolds and real webgraphs.Mani-Web can also be used as a general-purpose manifoldlearning/dimensionality-reductiontechnique as long as the datacan be represented as a graph.</p>
+},
+	keywords = {Laplacian eigenmap, large scale, manifold learning, spectral graph theory, web communities},
+	author = {Stamos, Konstantinos and Laskaris, Nikolaos A. and Athena Vakali}
+}
+@inproceedings {conf/ictglow/IslamSPV11,
+	title = {Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation},
+	booktitle = {ICT-GLOW},
+	series = {Lecture Notes in Computer Science},
+	volume = {6868},
+	year = {2011},
+	pages = {180-187},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+},
+	keywords = {CDNs, Energy conservation, QoE},
+	isbn = {978-3-642-23446-0},
+	author = {ul Islam, Saif and Stamos, Konstantinos and Pierson, Jean-Marc and Athena Vakali},
+	editor = {Kranzlmller, Dieter and Tjoa, A Min}
+}
+@article {journals/tomacs/StamosPVKSM10,
+	title = {CDNsim: A simulation tool for content distribution networks},
+	journal = {ACM Trans. Model. Comput. Simul.},
+	volume = {20},
+	number = {2},
+	year = {2010},
+	abstract = {<p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+},
+	keywords = {caching, Content Distribution Network, services, trace-driven simulation},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@inproceedings {conf/pci/GiatsoglouKSVZ10,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2010},
+	pages = {21-24},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-1-4244-7838-5},
+	author = {Maria Giatsoglou and Vassiliki A. Koutsonikola and Stamos, Konstantinos and Athena Vakali and Christos Zigkolis}
+}
+@article {journals/tkde/KatsarosPSVSM09,
+	title = {CDNs Content Outsourcing via Generalized Communities},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {21},
+	number = {1},
+	year = {2009},
+	pages = {137-151},
+	abstract = {<p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of {\^a}{\texteuro}{\'s}correlated{\^a}{\texteuro}{\v t} Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+},
+	keywords = {caching, content distribution networks, replication, social network analysis, web communities},
+	author = {Katsaros, Dimitrios and Pallis, George and Stamos, Konstantinos and Athena Vakali and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@inproceedings {conf/hpdc/StamosPVD09,
+	title = {Evaluating the utility of content delivery networks},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {11-20},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+},
+	keywords = {CDN pricing, Content Delivery, network utility, networks},
+	isbn = {978-1-60558-591-8},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Dikaiakos, Marios D.},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@article {journals/ijbdcn/PallisSVTA08,
+	title = {Integrating Caching Techniques in CDNs using a Classification Approach},
+	journal = {IJBDCN},
+	volume = {4},
+	number = {4},
+	year = {2008},
+	pages = {1-12},
+	abstract = {<p>Content Delivery Networks (CDNs) provide an efficient support for serving {\^a}{\texteuro}{\'s}resourcehungry{\^a}{\texteuro}{\v t}applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN{\^a}{\texteuro}{\texttrademark}s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN{\^a}{\texteuro}{\texttrademark}s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN{\^a}{\texteuro}{\texttrademark}s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Thomos, Charilaos and Andreadis, George}
+}
+@article {journals/www/SidiropoulosPKSVM08,
+	title = {Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing},
+	journal = {World Wide Web},
+	volume = {11},
+	number = {1},
+	year = {2008},
+	pages = {39-70},
+	author = {Sidiropoulos, Antonis and Pallis, George and Katsaros, Dimitrios and Stamos, Konstantinos and Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/adbis/StamosPV06,
+	title = {Integrating Caching Techniques on a Content Distribution Network},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4152},
+	year = {2006},
+	pages = {200-215},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDN{\^a}{\texteuro}{\texttrademark} s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+},
+	isbn = {3-540-37899-5},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali},
+	editor = {Manolopoulos, Yannis and Pokorny, Jaroslav and Sellis, Timos K.}
+}
+@inproceedings {conf/icde/PallisSVKS06,
+	title = {Replication Based on Objects Load under a Content Distribution Network},
+	booktitle = {ICDE Workshops},
+	year = {2006},
+	pages = {53},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis},
+	editor = {Barga, Roger S. and Zhou, Xiaofang}
+}
+@inproceedings {conf/ideas/StamosPTV06,
+	title = {A similarity based approach for integrated Web caching and content replication in CDNs},
+	booktitle = {IDEAS},
+	year = {2006},
+	pages = {239-242},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Web caching and content replication techniques emergedto solve performance problems related to the Web. We proposea generic non-parametric heuristic method that integratesboth techniques under a CDN. We provide experimentationshowing that our method outperforms the so farseparate implementations of Web caching and content replication.Moreover, we show that the performance improvementcompared with an existing algorithm is significant. Wetest all these techniques in a simulation environment undera flash crowd event and a workload of a typical lightweightedCDN operation.</p>
+},
+	author = {Stamos, Konstantinos and Pallis, George and Thomos, Charilaos and Athena Vakali},
+	editor = {Desai, Bipin C. and Gupta, Shyam K.}
+}
+@inproceedings {conf/la-web/PallisVSSKM05,
+	title = {A Latency-Based Object Placement Approach in Content Distribution Networks},
+	booktitle = {LA-WEB},
+	year = {2005},
+	pages = {140-147},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {0-7695-2471-0},
+	author = {Pallis, George and Athena Vakali and Stamos, Konstantinos and Sidiropoulos, Antonis and Katsaros, Dimitrios and Manolopoulos, Yannis}
+}

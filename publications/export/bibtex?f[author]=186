@@ -1,0 +1,102 @@
+@inproceedings {conf/webi/GabrielSSV11,
+	title = {Summarization Meets Visualization on Online Social Networks},
+	booktitle = {Web Intelligence},
+	year = {2011},
+	pages = {475-478},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+},
+	keywords = {Clustering, communities, community representatives, social network summarization, social network visualization, Social networks, visualization},
+	isbn = {978-0-7695-4513-4},
+	author = {Gabriel, Hans-Henning and Spiliopoulou, Myra and Stachtiari, Emmanouela and Athena Vakali},
+	editor = {Boissier, Olivier and Benatallah, Boualem and Papazoglou, Mike P. and Ras, Zbigniew W. and Hacid, Mohand-Said}
+}
+@article {journals/jdim/HammicheLBHV07,
+	title = {Domain Knowledge Based Queries for Multimedia Data Retrieval},
+	journal = {JDIM},
+	volume = {5},
+	number = {2},
+	year = {2007},
+	pages = {75-81},
+	abstract = {<p>This paper describes an approach for semantic description and retrieval of multimedia data described by means ofMPEG-7. This standard uses XML schema to define the descriptions. Therefore, it lacks ability to represent the data semanticsin a formal and concise way and it does not allow integration and use of domain specific knowledge. Moreover,inference mechanisms are not provided and hence the extraction of implicit information is not (always) possible. To addressthese issues, we propose to add a conceptual layer on top of MPEG-7 metadata layer, where the domain knowledgeis represented using a formal language. A set of mapping rules is proposed. They serve as a bridge between the twolayers.Querying MPEG-7 descriptions using XML query languages such as XPath or XQuery requires to know MPEG-7syntax and documents structure. To provide a flexible query formulation, we exploit the conceptual layer vocabularyto express user queries. A user query, making reference to terms specified at the conceptual level, is rewritten into anXQuery expression over MPEG-7 descriptions.</p>
+},
+	keywords = {Logic Languages, Mapping Rules, MPEG-7, Multimedia Data Descriptions, Ontology, Semantic and Structural Aspects},
+	author = {Hammiche, Samira and Lopez, Bernardo and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali}
+}
+@inproceedings {conf/ismis/PallisAV05,
+	title = {Model-Based Cluster Analysis for Web Users Sessions},
+	booktitle = {ISMIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {3488},
+	year = {2005},
+	pages = {219-227},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof users{\^a}{\texteuro}{\texttrademark}sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.},
+	keywords = {Model-Based Cluster Analysis},
+	isbn = {3-540-25878-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali},
+	editor = {Hacid, Mohand-Said and Murray, Neil V. and Ras, Zbigniew W. and Tsumoto, Shusaku}
+}
+@article {journals/ivc/VakaliHE04,
+	title = {MPEG-7 based description schemes for multi-level video content classification},
+	journal = {Image Vision Comput.},
+	volume = {22},
+	number = {5},
+	year = {2004},
+	pages = {367-378},
+	author = {Athena Vakali and Hacid, Mohand-Said and Elmagarmid, Ahmed K.}
+}
+@inproceedings {conf/mmdb/HammicheBHV04,
+	title = {Semantic retrieval of multimedia data},
+	booktitle = {MMDB},
+	year = {2004},
+	pages = {36-44},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+},
+	keywords = {Approximation Ontologies, MPEG-7, Multimedia Data, Tree embedding},
+	isbn = {1-58113-975-6},
+	author = {Hammiche, Samira and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali},
+	editor = {Chen, Shu-Ching and Shyu, Mei-Ling}
+}
+@inproceedings {conf/apweb/TerziVH03,
+	title = {Knowledge Representation, Ontologies, and the Semantic Web},
+	booktitle = {APWeb},
+	series = {Lecture Notes in Computer Science},
+	volume = {2642},
+	year = {2003},
+	pages = {382-387},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.},
+	isbn = {3-540-02354-2},
+	author = {Terzi, Evimaria and Athena Vakali and Hacid, Mohand-Said},
+	editor = {Zhou, Xiaofang and Zhang, Yanchun and Orlowska, Maria E.}
+}
+@inproceedings {conf/appinf/PallisVAH03,
+	title = {A Study on Workload Characterization for a Web Proxy Server},
+	booktitle = {Applied Informatics},
+	year = {2003},
+	pages = {779-784},
+	publisher = {IASTED/ACTA Press},
+	organization = {IASTED/ACTA Press},
+	abstract = {<p>The popularity of the World-Wide-Web has increaseddramatically in the past few years. Web proxy servershave an important role in reducing server loads, networktraffic, and client request latencies. This paper presentsa detailed workload characterization study of a busyWeb proxy server. The study aims in identifying themajor characteristics which will improve modelling ofWeb proxy accessing. A set of log files is processed forworkload characterization. Throughout the study,emphasis is given on identifying the criteria for a Webcaching model. A statistical analysis, based on theprevious criteria, is presented in order to characterizethe major workload parameters. Results of this analysisare presented and the paper concludes with a discussionabout workload characterization and content deliveryissues.</p>
+},
+	keywords = {Web Caching, Web Data Workload Analysis, Web Technologies},
+	isbn = {0-88986-345-8},
+	author = {Pallis, George and Athena Vakali and Angelis, Lefteris and Hacid, Mohand-Said},
+	editor = {Hamza, M. H.}
+}
+@inproceedings {conf/ic/HacidTV01,
+	title = {Querying XML with Constraints},
+	booktitle = {International Conference on Internet Computing (1)},
+	year = {2001},
+	pages = {171-177},
+	abstract = {<p>XML is a language for the description of structured documents and data. It is on the way to become the new standard for data exchange, publishing, and developing intelligent Web agents. XML is based on the concept of documents composed of a series of entities (i.e., objects). Each entity can contain one or more logical elements. Each of these elements can have certain attributes (properties) that describe the way in which it is to be processed. XML provides a formal syntax for describing the relationships between the entities, elements and attributes that make up an XML document. In this paper, we introduce a framework for querying XML databases by specifying ordering constraints over documents.</p>
+},
+	keywords = {Query Languages Rules, xml},
+	author = {Hacid, Mohand-Said and Terzi, Evimaria and Athena Vakali}
+}

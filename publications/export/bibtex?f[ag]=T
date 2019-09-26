@@ -1,0 +1,439 @@
+@article {1963,
+	title = {Smart Cities at Risk!: Privacy and Security Borderlines  from Social Networking in Cities},
+	year = {2018},
+	publisher = {ACM},
+	address = {Lyon, France},
+	abstract = {<p class="rtejustify">As smart cities infrastructures mature, data becomes a valuable asset which can radically improve city services and tools. Registration, acquisition and utilization of data, which will be transformed into smart services, are becoming more necessary than ever. Online social networks with their enormous momentum are one of the main sources of urban data offering heterogeneous real-time data at a minimal cost. However, various types of attacks often appear on them, which risk users{\textquoteright} privacy and affect their online trust. The purpose of this article is to investigate how risks on online social networks affect smart cities and study the differences between privacy and security threats with regard to smart people and smart living dimensions.</p>
+},
+	keywords = {online social networks, privacy threats, security threats, smart cities, smart living, smart people},
+	doi = {https://doi.org/10.1145/3184558.3191516 },
+	author = {Moustaka, Vaia and Zenonas Theodosiou and Athena Vakali and Anastasis Kounoudes}
+}
+@article {1955,
+	title = {Experience of emotion in face to face and computer-mediated social interactions: An event sampling study},
+	journal = {Computers in Human Behavior},
+	volume = {76},
+	year = {2017},
+	pages = {287 - 293},
+	abstract = {<p>The present study compared the experience of emotion in social interactions that take place face to face (FtF), co-presently, and those that take place online, in computer-mediated communications (CMC). For a period of ten days participants reported how intensely they experienced positive and negative emotions in CMC and in FtF interactions they had with persons from their social network. Results from factor analyses discerned a three factor emotion structure (positive, negative, and anxious emotions) that was largely shared between CMC and FtF social interactions. Multilevel analyses of emotion across modes of interaction found that in FtF social encounters participants experienced more positive and less negative emotion and higher satisfaction than in CMC; there was no difference in anxious emotion. Positive, but not negative emotions or anxiety partially mediated levels of satisfaction differences between interactions in CMC and those taking place FtF. The results point to similarities and differences in emotion experience in FtF and CMC, underlining in particular the affiliative function of positive emotion in peoples{\textquoteright} encounters.</p>
+},
+	keywords = {Computer-mediated communication, Emotion, FtF, Internet, Social interaction},
+	issn = {0747-5632},
+	doi = {https://doi.org/10.1016/j.chb.2017.07.033},
+	url = {http://www.sciencedirect.com/science/article/pii/S0747563217304557},
+	author = {Konstantinos Kafetsios and Despoina Chatzakou and Nikolaos Tsigilis and Athena Vakali}
+}
+@article {1942,
+	title = {Vol4All: A Volunteering Platform to Drive Innovation and Citizens Empowerment},
+	journal = {WWW (Companion Volume)},
+	year = {2017},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<div>Cities nowadays have embraced the digital era and continuously strive to merge technological advancements with the benefit of their social capital and communities. A major quest is to place humans and their competences at the center of the efforts towards sustainable and smart cities. Citizen societies have widely accepted and practiced volunteering for years now and already a great number of volunteering actions and networks have flourished, in support and aid to several communities in need. Most popular volunteering networks have greatly\&nbsp; capitalized on the rapid advance and spread of Internet and Web technologies, which are ideal for coordinating and monitoring of the volunteering tasks. The Vol4All platform advances this\&nbsp; trend, by building on extended Internet technologies in its aim to support citizens{\textquoteright} activism\&nbsp; towards novel urban social innovation. Vol4All enables ideas exchange and crowdsourcing by facilitating citizens{\textquoteright} involvement in the realization of community projects. Volunteering actors (initiators, participants, stakeholders) can easily interact via the Vol4All platform which enables volunteering opportunities dynamic sharing, evolution and monitoring. Such opportunities can be initiated by any authorized stakeholders, with a publicly open interface which allows citizens commitment assessment, best practices highlights, and a gamification style of interaction such that volunteering becomes a societal and growth asset.</div>
+},
+	url = {http://dx.doi.org/10.1145/3041021.3054712},
+	author = {Athena Vakali and Ioannis Dematis and Athanasios Tolikas}
+}
+@inproceedings {1924,
+	title = {Early Malicious Activity Discovery in Microblogs by Social Bridges Detection},
+	year = {2016},
+	publisher = {16th International Symposium on Signal Processing and Information Technology},
+	organization = {16th International Symposium on Signal Processing and Information Technology},
+	address = {Limassol, Cyprus},
+	abstract = {<p>With the emerging and intense use of Online Social Networks (OSNs) amongst young children and teenagers (youngters), safe networking and socializing on the Web has faced extensive scrutiny. Content and interactions which are considered safe for adult OSN users, might embed potentially threatening and malicious information when it comes to underage users. This work is motivated by the strong need to safeguard youngsters OSNs experience such that they can be empowered and aware. The topology of a graph is studied towards detecting the so called social bridges, i.e. the group(s) of malicious users and their supporters, who have links and ties to both honest and malicious user communities. A graph-topology based classification scheme is proposed to detect such bridge linkages which are suspicious for threatening youngsters networking vulnerability. The proposed scheme is validated by a Twitter network, at which potentially dangerous users are identified based on their Twitter connections. The achieved performance is higher compared to previous efforts, despite the increased complexity due to the variety of groups identified as malicious.</p>
+},
+	author = {Antonia Gogoglou and Zenonas Theodosiou and Tasos Kounoudes and Athena Vakali and Yannis Manolopoulos}
+}
+@proceedings {1931,
+	title = {Internet Science - Second International Conference, INSCI 2015, Brussels, Belgium, May 27-29, 2015, Proceedings},
+	booktitle = {Lecture Notes in Computer Science},
+	series = { },
+	volume = {9089},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-18608-5},
+	doi = {10.1007/978-3-319-18609-2},
+	url = {http://dx.doi.org/10.1007/978-3-319-18609-2},
+	editor = {Thanassis Tiropanis and Athena Vakali and Laura Sartori and Pete Burnap}
+}
+@proceedings {1930,
+	title = {New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II},
+	booktitle = {Advances in Intelligent Systems and Computing},
+	series = { },
+	volume = {312},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-10517-8},
+	doi = {10.1007/978-3-319-10518-5},
+	url = {http://dx.doi.org/10.1007/978-3-319-10518-5},
+	editor = {Nick Bassiliades and Mirjana Ivanovic and Margita Kon-Popovska and Yannis Manolopoulos and Themis Palpanas and Goce Trajcevski and Athena Vakali}
+}
+@inproceedings {conf/pkdd/ArvanitidisSVT14,
+	title = {Branty: A Social Media Ranking Tool for Brands},
+	booktitle = {ECML/PKDD (3)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8726},
+	year = {2014},
+	pages = {432-435},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-662-44844-1},
+	author = {Arvanitidis, Alexandros and Serafi, Anna and Athena Vakali and Tsoumakas, Grigorios},
+	editor = {Calders, Toon and Esposito, Floriana and Hullermeier, Eyke and Meo, Rosa}
+}
+@inproceedings {conf/icdm/ZigkolisKV13,
+	title = {Dissimilarity Features in Recommender Systems},
+	booktitle = {ICDM Workshops},
+	year = {2013},
+	pages = {825-832},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-5109-8},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Athena Vakali},
+	editor = {Wei Ding and Washio, Takashi and Xiong, Hui and Karypis, George and Thuraisingham, Bhavani M. and Cook, Diane J. and Wu, Xindong}
+}
+@inproceedings {conf/fia/SrivastavaV12,
+	title = {Towards a Narrative-Aware Design Framework for Smart Urban Environments},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {166-177},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Srivastava, Lara and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/fia/AnthopoulosV12,
+	title = {Urban Planning and Smart Cities: Interrelations and Reciprocities},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {178-189},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/mediaeval/PapadopoulosZKV11,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	booktitle = {MediaEval},
+	series = {CEUR Workshop Proceedings},
+	volume = {807},
+	year = {2011},
+	publisher = {CEUR-WS.org},
+	organization = {CEUR-WS.org},
+	abstract = {<p>This paper describes the participation of CERTH in the {\^a}{\texteuro}{\'s}SocialEvent Detection Task @ MediaEval 2011{\^a}{\texteuro}{\v t}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Larson, Martha and Rae, Adam and Demarty, Claire-Helene and Kofler, Christoph and Metze, Florian and Troncy, Rapha{\"e}l and Mezaris, Vasileios and Jones, Gareth J. F.}
+}
+@inproceedings {conf/acii/TsagkalidouKVK11,
+	title = {Emotional Aware Clustering on Micro-blogging Sources},
+	booktitle = {ACII (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {6974},
+	year = {2011},
+	pages = {387-396},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+},
+	keywords = {Microblogging services, Sentiment analysis, web clustering},
+	isbn = {978-3-642-24599-2},
+	author = {Tsagkalidou, Katerina and Vassiliki A. Koutsonikola and Athena Vakali and Konstantinos Kafetsios},
+	editor = {D{\textquoteright}Mello, Sidney K. and Graesser, Arthur C. and Schuller, Bj{\"o}rn and Martin, Jean-Claude}
+}
+@inproceedings {conf/ictglow/IslamSPV11,
+	title = {Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation},
+	booktitle = {ICT-GLOW},
+	series = {Lecture Notes in Computer Science},
+	volume = {6868},
+	year = {2011},
+	pages = {180-187},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+},
+	keywords = {CDNs, Energy conservation, QoE},
+	isbn = {978-3-642-23446-0},
+	author = {ul Islam, Saif and Stamos, Konstantinos and Pierson, Jean-Marc and Athena Vakali},
+	editor = {Kranzlmller, Dieter and Tjoa, A Min}
+}
+@inproceedings {conf/ht/PaparrizosKAV10,
+	title = {Automatic extraction of structure, content and usage data statistics of web sites},
+	booktitle = {HT},
+	year = {2010},
+	pages = {301-302},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>In this paper we present a web mining tool which automaticallyextracts the structure, content and usage data statistics of websites. This work inspired by the fact that web mining consists ofthree axes: web structure mining, web content mining and webusage mining. Each one of those axes is using the structure,content and usage data respectively. The scope is to use thedeveloped multi-thread web crawler as a tool to automaticallyextract from web pages data that are associated with each one ofthose three axes in order afterwards to compute several usefuldescriptive statistics and apply advanced mathematical andstatistical methods. A description of our system is provided aswell as some experimentation results.</p>
+},
+	keywords = {classification, Crawling, Structure Content and Usage data, Web Mining Algorithm},
+	isbn = {978-1-4503-0041-4},
+	author = {Paparrizos, Ioannis K. and Vassiliki A. Koutsonikola and Angelis, Lefteris and Athena Vakali},
+	editor = {Chignell, Mark H. and Toms, Elaine G.}
+}
+@inproceedings {conf/icip/PapadopoulosZTKMKV10,
+	title = {Image clustering through community detection on hybrid image similarity graphs},
+	booktitle = {ICIP},
+	year = {2010},
+	pages = {2353-2356},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>The wide adoption of photo sharing applications such as Flickr{\^A}{\textdegree}cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from Flickr{\^A}{\textdegree}c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+},
+	keywords = {community detection, content-based image retrieval, image clustering, tags, visual similarity},
+	isbn = {978-1-4244-7994-8},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Tolias, Giorgos and Kalantidis, Yannis and Mylonas, Phivos and Yiannis Kompatsiaris and Athena Vakali}
+}
+@inproceedings {conf/wise/KoutsonikolaPVHB08,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5175},
+	year = {2008},
+	pages = {264-279},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\^a}{\texteuro}{\texttrademark}s market real datasets.</p>
+},
+	isbn = {978-3-540-85480-7},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Hacid, Hakim and Benatallah, Boualem},
+	editor = {Bailey, James and Maier, David and Schewe, Klaus-Dieter and Thalheim, Bernhard and Wang, Xiaoyang Sean}
+}
+@article {journals/ijbdcn/PallisSVTA08,
+	title = {Integrating Caching Techniques in CDNs using a Classification Approach},
+	journal = {IJBDCN},
+	volume = {4},
+	number = {4},
+	year = {2008},
+	pages = {1-12},
+	abstract = {<p>Content Delivery Networks (CDNs) provide an efficient support for serving {\^a}{\texteuro}{\'s}resourcehungry{\^a}{\texteuro}{\v t}applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN{\^a}{\texteuro}{\texttrademark}s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN{\^a}{\texteuro}{\texttrademark}s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN{\^a}{\texteuro}{\texttrademark}s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Thomos, Charilaos and Andreadis, George}
+}
+@article {journals/jbi/TheodosiouAV08,
+	title = {Non-linear correlation of content and metadata information extracted from biomedical article datasets},
+	journal = {Journal of Biomedical Informatics},
+	volume = {41},
+	number = {1},
+	year = {2008},
+	pages = {202-216},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@article {journals/ijmi/TheodosiouAVT07,
+	title = {Gene functional annotation by statistical analysis of biomedical articles},
+	journal = {I. J. Medical Informatics},
+	volume = {76},
+	number = {8},
+	year = {2007},
+	pages = {601-613},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali and Thomopoulos, G. N.}
+}
+@inproceedings {conf/iccsa/PetridouKVP06,
+	title = {A Divergence-Oriented Approach for Web Users Clustering},
+	booktitle = {ICCSA (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {3981},
+	year = {2006},
+	pages = {1229-1238},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective function{\^a}{\texteuro}{\texttrademark}s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.},
+	isbn = {3-540-34072-6},
+	author = {Petridou, Sophia G. and Vassiliki A. Koutsonikola and Athena Vakali and Papadimitriou, Georgios I.},
+	editor = {Gavrilova, Marina L. and Gervasi, Osvaldo and Kumar, Vipin and Tan, Chih Jeng Kenneth and Taniar, David and Lagan{\u A} , Antonio and Mun, Youngsong and Choo, Hyunseung}
+}
+@inproceedings {conf/ideas/StamosPTV06,
+	title = {A similarity based approach for integrated Web caching and content replication in CDNs},
+	booktitle = {IDEAS},
+	year = {2006},
+	pages = {239-242},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Web caching and content replication techniques emergedto solve performance problems related to the Web. We proposea generic non-parametric heuristic method that integratesboth techniques under a CDN. We provide experimentationshowing that our method outperforms the so farseparate implementations of Web caching and content replication.Moreover, we show that the performance improvementcompared with an existing algorithm is significant. Wetest all these techniques in a simulation environment undera flash crowd event and a workload of a typical lightweightedCDN operation.</p>
+},
+	author = {Stamos, Konstantinos and Pallis, George and Thomos, Charilaos and Athena Vakali},
+	editor = {Desai, Bipin C. and Gupta, Shyam K.}
+}
+@inproceedings {conf/dexaw/TheodosiouAV05,
+	title = {Functional Annotation of Genes through Statistical Analysis of Biomedical Articles},
+	booktitle = {DEXA Workshops},
+	year = {2005},
+	pages = {585-589},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.},
+	isbn = {0-7695-2424-9},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@inproceedings {conf/acsac/BertinoKTV05,
+	title = {Intrusion Detection in RBAC-administered Databases},
+	booktitle = {ACSAC},
+	year = {2005},
+	pages = {170-182},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>A considerable effort has been recently devoted to thedevelopment of Database Management Systems (DBMS)which guarantee high assurance security and privacy. Animportant component of any strong security solution is representedby intrusion detection (ID) systems, able to detectanomalous behavior by applications and users. To date,however, there have been very few ID mechanisms specificallytailored to database systems. In this paper, we proposesuch a mechanism. The approach we propose to IDis based on mining database traces stored in log files. Theresult of the mining process is used to form user profilesthat can model normal behavior and identify intruders. Anadditional feature of our approach is that we couple ourmechanism with Role Based Access Control (RBAC). Undera RBAC system permissions are associated with roles, usuallygrouping several users, rather than with single users.Our ID system is able to determine role intruders, that is,individuals that while holding a specific role, have a behaviordifferent from the normal behavior of the role. Animportant advantage of providing an ID mechanism specifi-cally tailored to databases is that it can also be used to protectagainst insider threats. Furthermore, the use of rolesmakes our approach usable even for databases with largeuser population. Our preliminary experimental evaluationon both real and synthetic database traces show that ourmethods work well in practical situations.</p>
+},
+	isbn = {0-7695-2461-3},
+	author = {Bertino, Elisa and Kamra, Ashish and Terzi, Evimaria and Athena Vakali}
+}
+@inproceedings {conf/ismis/PallisAV05,
+	title = {Model-Based Cluster Analysis for Web Users Sessions},
+	booktitle = {ISMIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {3488},
+	year = {2005},
+	pages = {219-227},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof users{\^a}{\texteuro}{\texttrademark}sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.},
+	keywords = {Model-Based Cluster Analysis},
+	isbn = {3-540-25878-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali},
+	editor = {Hacid, Mohand-Said and Murray, Neil V. and Ras, Zbigniew W. and Tsumoto, Shusaku}
+}
+@proceedings {conf/edbtw/2004,
+	title = {Current Trends in Database Technology {\^a}{\texteuro}{\textquotedblleft} EDBT 2004 Workshops, EDBT 2004 Workshops PhD, DataX, PIM, P2P\&DB, and ClustWeb, Heraklion, Crete, Greece, March 14-18, 2004, Revised Selected Papers},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	publisher = {Springer},
+	isbn = {3-540-23305-9},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@inproceedings {conf/edbtw/VakaliPD04,
+	title = {An Overview of Web Data Clustering Practices},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {597-606},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Clustering is a challenging topic in the area of Web data management.Various forms of clustering are required in a wide range of applications, includingfinding mirrored Web pages, detecting copyright violations, and reporting searchresults in a structured way. Clustering can either be performed once offline, (independentlyto search queries), or online (on the results of search queries). Importantefforts have focused on mining Web access logs and to cluster search engine resultson the fly. Online methods based on link structure and text have been appliedsuccessfully to finding pages on related topics. This paper presents an overview ofthe most popular methodologies and implementations in terms of clustering eitherWeb users or Web sources and presents a survey about current status and futuretrends in clustering employed over the Web.</p>
+},
+	keywords = {Web Data Clustering},
+	isbn = {3-540-23305-9},
+	author = {Athena Vakali and Pokorny, Jaroslav and Dalamagas, Theodore},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@article {journals/jss/TerziVA04,
+	title = {A simulated annealing approach for multimedia data placement},
+	journal = {Journal of Systems and Software},
+	volume = {73},
+	number = {3},
+	year = {2004},
+	pages = {467-480},
+	author = {Terzi, Evimaria and Athena Vakali and Angelis, Lefteris}
+}
+@inproceedings {conf/edbtw/StoupaVLT04,
+	title = {XML-Based Revocation and Delegation in a Distributed Environment},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {299-308},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+},
+	isbn = {3-540-23305-9},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Tsoukalas, Ioannis},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@article {journals/dke/VakaliTBE03,
+	title = {Hierarchical data placement for navigational multimedia applications},
+	journal = {Data Knowl. Eng.},
+	volume = {44},
+	number = {1},
+	year = {2003},
+	pages = {49-80},
+	author = {Athena Vakali and Terzi, Evimaria and Bertino, Elisa and Elmagarmid, Ahmed K.}
+}
+@inproceedings {conf/apweb/TerziVH03,
+	title = {Knowledge Representation, Ontologies, and the Semantic Web},
+	booktitle = {APWeb},
+	series = {Lecture Notes in Computer Science},
+	volume = {2642},
+	year = {2003},
+	pages = {382-387},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.},
+	isbn = {3-540-02354-2},
+	author = {Terzi, Evimaria and Athena Vakali and Hacid, Mohand-Said},
+	editor = {Zhou, Xiaofang and Zhang, Yanchun and Orlowska, Maria E.}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}
+@article {journals/cee/VakaliT02,
+	title = {Video data storage policies: an access frequency based approach},
+	journal = {Computers \& Electrical Engineering},
+	volume = {28},
+	number = {6},
+	year = {2002},
+	pages = {447-464},
+	author = {Athena Vakali and Terzi, Evimaria}
+}
+@article {journals/sigops/VakaliT01,
+	title = {Multimedia Data Storage and Representation Issues on Tertiary Storage Subssystems: An Overview},
+	journal = {Operating Systems Review},
+	volume = {35},
+	number = {2},
+	year = {2001},
+	pages = {61-77},
+	author = {Athena Vakali and Terzi, Evimaria}
+}
+@inproceedings {conf/ic/HacidTV01,
+	title = {Querying XML with Constraints},
+	booktitle = {International Conference on Internet Computing (1)},
+	year = {2001},
+	pages = {171-177},
+	abstract = {<p>XML is a language for the description of structured documents and data. It is on the way to become the new standard for data exchange, publishing, and developing intelligent Web agents. XML is based on the concept of documents composed of a series of entities (i.e., objects). Each entity can contain one or more logical elements. Each of these elements can have certain attributes (properties) that describe the way in which it is to be processed. XML provides a formal syntax for describing the relationships between the entities, elements and attributes that make up an XML document. In this paper, we introduce a framework for querying XML databases by specifying ordering constraints over documents.</p>
+},
+	keywords = {Query Languages Rules, xml},
+	author = {Hacid, Mohand-Said and Terzi, Evimaria and Athena Vakali}
+}
+@inproceedings {conf/dexaw/VakaliM96,
+	title = {The Impact of Seeking in Partial Match Retrieval},
+	booktitle = {DEXA Workshop},
+	year = {1996},
+	pages = {432-437},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+},
+	isbn = {0-8186-7662-0},
+	author = {Athena Vakali and Manolopoulos, Yannis},
+	editor = {Wagner, Roland and Thoma, Helmut}
+}
+@inproceedings {conf/dexa/ManolopoulosV95,
+	title = {Partial Match Retrieval in Two-Headed Disk Systems},
+	booktitle = {DEXA},
+	series = {Lecture Notes in Computer Science},
+	volume = {978},
+	year = {1995},
+	pages = {594-603},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {3-540-60303-4},
+	author = {Manolopoulos, Yannis and Athena Vakali},
+	editor = {Revell, Norman and Tjoa, A Min}
+}

@@ -1,0 +1,11 @@
+@inbook {books/daglib/p/NikolopoulosGKPV11,
+	title = {Combining Multi-modal Features for Social Media Analysis},
+	booktitle = {Social Media Modeling and Computing},
+	year = {2011},
+	pages = {71-96},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-0-85729-435-7},
+	author = {Nikolopoulos, Spiros and Giannakidou, Eirini and Yiannis Kompatsiaris and Patras, Ioannis and Athena Vakali},
+	editor = {Hoi, Steven C. H. and Luo, Jiebo and Boll, Susanne and Xu, Dong and Jin, Rong}
+}

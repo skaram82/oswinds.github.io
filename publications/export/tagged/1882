@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2004
+%T A XML-based Bootstrapping Method for Pattern Acquisition
+%X <p>Extensible Markup Language (XML) has been widely used as a middleware because of its flexibility. Fixeddomain is one of the bottlenecks of Information Extraction (IE) technologies. In this paper we present aXML-based domain-adaptable bootstrapping method of pattern acquisition, which focuses on minimizingthe cost of domain migration. The approach starts from a seed corpus with some seed patterns; extends thecorpus based on the seed corpus through the Internet and acquires the new patterns from extended corpus.Positive and negative examples classified from training corpus are used to evaluate the patterns acquired.The result shows our method is a practical way in pattern acquisitions.</p>
+%G eng
+

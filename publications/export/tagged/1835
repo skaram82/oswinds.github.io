@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2006
+%T An evolutionary scheme for Web Replication and Caching
+%X <p>Design and implementation of eectivecaching schemes has been a critical issue withrespect to World Wide Web ob jects circulation and availability Caching and replication have been combined and applied in prototype systems in order to reduce the overallbandwidth and increase systems fault tolerance This paper presents a model for optimizing access performance when requesting Web ob jects across distributed systems Thereplication and caching scheme is designed by the use of an evolutionary computationalgorithm Cached data are considered as a population evolving over simulated timereplicating the most prominent data to dedicated replication servers The simulationmodel is experimented and tested under cache traces provided by the Squid proxy cacheserver at the Aristotle University of Thessaloniki Cache hit rates and bytes hit length arereported showing that the proposed evolutionary mechanisms improve cache consistencyand reliability.</p>
+%G eng
+

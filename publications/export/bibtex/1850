@@ -1,0 +1,6 @@
+@inproceedings {1850,
+	title = {Information Placement Policies in Tertiary Storage Systems},
+	year = {1998},
+	abstract = {<p>The development and evolution of new applications with high storage needs resultedin strengthening the role and importance of Tertiary Storage SystemsInformation arrangement on tertiary me dia is a crucial fact or affecting the overall systems performance.In the present paper an overview of Tertiary Storage Systems is presented and differentdata placement policies (adopted in secondary storage as well) are studied.The so calledorganpipe and the camel data placement schemes are applied on mid range Tertiary tapedrive models where the area is divided into a specific number of fixed sized partitions.The expected seek time and the overall expected service time are derived for these tertiarystorage models.Experiments are carried out for different models representing the mostwidely available tertiary storage media.The organpipe shows better performance metricsthan the camel arrangement policy whereas both policies are improved by the increase inthe number of tape are a partitions.Experimental results of the applied placement policiesare compared and discussed and future research areas are suggested.</p>
+}
+}

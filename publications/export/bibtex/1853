@@ -1,0 +1,6 @@
+@inproceedings {1853,
+	title = {A Study on Web Caching Architectures and Performance},
+	year = {2001},
+	abstract = {<p>As World Wide Web usage has grown dramaticallyin recent yearsso has grown the recognition thatWeb caches especially proxy caches will have animportant role in reducing server loadsclient request latenciesand network trac In this survey we present the most common architectures for webcaching and their most important characteristics areoutlined These architectures include proxy cachingcooperative cachingadaptive cachingpush cachingand active caching Furthermoreemphasis is givenon the basic metrics and factors for evaluating proxycache performance.</p>
+}
+}

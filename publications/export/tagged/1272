@@ -1,0 +1,21 @@
+%0 Conference Paper
+%B MMDB
+%D 2004
+%T Semantic retrieval of multimedia data
+%A Hammiche, Samira
+%A Benbernou, Salima
+%A Hacid, Mohand-Said
+%A Athena Vakali
+%E Chen, Shu-Ching
+%E Shyu, Mei-Ling
+%K Approximation Ontologies
+%K MPEG-7
+%K Multimedia Data
+%K Tree embedding
+%X <p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+%B MMDB
+%I ACM
+%P 36-44
+%@ 1-58113-975-6
+%G eng
+

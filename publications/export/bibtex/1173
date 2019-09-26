@@ -1,0 +1,11 @@
+@inproceedings {conf/wims/AnthopoulosV14,
+	title = {Foreword to 3M4City Workshop},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {55},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}

@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2011
+%T City Exploration by use of Spatio-temporal Analysis and Clustering of User Contributed Photos
+%X <p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+%G eng
+

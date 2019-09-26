@@ -1,0 +1,18 @@
+%0 Journal Article
+%J Neurocomputing
+%D 2004
+%T A learning-automata-based controller for client/server systems
+%A Papadimitriou, Georgios I.
+%A Athena Vakali
+%A Pomportsis, Andreas S.
+%K client/server systems
+%K learning automata
+%K polling policies
+%K throughput improvement
+%K time-delay
+%X <p>Polling policies have been introduced to simplifythe accessing process in client/server systems by acentralized control access scheme. This paper considers aclient/server model which employs a polling policy as itsaccess strategy. We propose a learning-automata-based approachfor polling in order to improve the throughput-delayperformance of the system. Each client has an associatedqueue and the server performs selective polling such thatthe next client to be served is identified by a learning automaton.The learning automaton updates each clientâ€™schoice probability according to the feedback information.Under the considered approach, a clientâ€™s choice probabilityasymptotically tends to be proportional to the probabilitythat this client is ready. Simulation results have shown thatthe proposed polling policy is beneficial in comparison tothe conventional round-robin polling when operating underbursty traffic conditions. The benefits are significant for thedelay reduction in the considered client/server system.</p>
+%B Neurocomputing
+%V 61
+%P 381-394
+%G eng
+

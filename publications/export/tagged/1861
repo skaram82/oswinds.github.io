@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2007
+%T Assigning Gene Ontology terms to biotext by classification methods
+%X <p>Biomedical literature databases constitute valuable repositories of up to date scientificknowledge. The development of efficient classification methods in order to facilitate theorganization of these databases and the extraction of novel biomedical knowledge is becomingincreasingly important. Several of these methods use bio-ontologies, like Gene Ontology toconcisely describe and classify biological documents. The purpose of this paper is to comparetwo classical statistical classification methods, namely multinomial logistic regression (MLR)and linear discriminant analysis (LDA), to a machine learning classification method, calledsupport vector machines (SVM). Although all the methods have been used with success forclassifying texts, there is not a direct comparison between them for classifying biological textto specific Gene Ontology terms. The results from the study show that LDA performs better(accuracy 80.32%) than SVM (77.18%) and MLR (57.4%). LDA not only performs well inthe assignment of Gene Ontology terms to documents, but also reduces the dimensions of theoriginal data, making them easier to manage.</p>
+%G eng
+

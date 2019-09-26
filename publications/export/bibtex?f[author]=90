@@ -1,0 +1,132 @@
+@article {journals/ras/AliSGVFVM14,
+	title = {Contextual object category recognition for RGB-D scene labeling},
+	journal = {Robotics and Autonomous Systems},
+	volume = {62},
+	number = {2},
+	year = {2014},
+	pages = {241-256},
+	author = {Ali, Haider and Shafait, Faisal and Giannakidou, Eirini and Athena Vakali and Figueroa, Nadia and Varvadoukas, Theodoros and Mavridis, Nikolaos}
+}
+@inproceedings {conf/wims/GiannakidouVM14,
+	title = {Towards a Framework for Social Semiotic Mining},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {21},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Giannakidou, Eirini and Athena Vakali and Mavridis, Nikolaos},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@article {journals/jiis/GiannakidouKVK12,
+	title = {In \& out zooming on time-aware user/tag clusters},
+	journal = {J. Intell. Inf. Syst.},
+	volume = {38},
+	number = {3},
+	year = {2012},
+	pages = {685-708},
+	abstract = {<p>The common ground behind most approaches that analyze social taggingsystems is addressing the information challenge that emerges from the massiveactivity of millions of users who interact and share resources and/or metadata online.However, lack of any time-related data in the analysis process implicitly deniesmuch of the dynamic nature of social tagging activity. In this paper we claim thatholding a temporal dimension, allows for tracking macroscopic and microscopicusers{\^a}{\texteuro}{\texttrademark} interests, detecting emerging trends and recognizing events. To this end, wepropose a time-aware co-clustering approach for acquiring semantic and temporalpatterns out of the tagging activity. The resulted clusters contain both users and tagsof similar patterns over time, and reveal non-obvious or {\^a}{\texteuro}{\'s}hidden{\^a}{\texteuro}{\v t} relations amongusers and topics of their common interest. Zoom in \&amp; out views serve as visualizationmethods on different aspects of the clusters{\^a}{\texteuro}{\texttrademark} structure, in order to evaluate theefficiency of the approach.</p>
+},
+	keywords = {Events, Social tagging systems, Time-aware clustering, Users{\textquoteright} interests over time},
+	author = {Giannakidou, Eirini and Vassiliki A. Koutsonikola and Athena Vakali and Yiannis Kompatsiaris}
+}
+@inbook {books/daglib/p/NikolopoulosGKPV11,
+	title = {Combining Multi-modal Features for Social Media Analysis},
+	booktitle = {Social Media Modeling and Computing},
+	year = {2011},
+	pages = {71-96},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-0-85729-435-7},
+	author = {Nikolopoulos, Spiros and Giannakidou, Eirini and Yiannis Kompatsiaris and Patras, Ioannis and Athena Vakali},
+	editor = {Hoi, Steven C. H. and Luo, Jiebo and Boll, Susanne and Xu, Dong and Jin, Rong}
+}
+@inbook {series/sci/NikolopoulosCGPKV11,
+	title = {Leveraging Massive User Contributions for Knowledge Extraction},
+	booktitle = {Next Generation Data Technologies for Collective Computational Intelligence},
+	series = {Studies in Computational Intelligence},
+	volume = {352},
+	year = {2011},
+	pages = {415-443},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-20343-5},
+	author = {Nikolopoulos, Spiros and Chatzilari, Elisavet and Giannakidou, Eirini and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bessis, Nik and Xhafa, Fatos}
+}
+@inproceedings {conf/wiamis/GiannakidouKVK10,
+	title = {Exploring temporal aspects in user-tag co-clustering},
+	booktitle = {WIAMIS},
+	year = {2010},
+	pages = {1-4},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Tagging environments have become an interesting topic ofresearch lately, focused mainly on clustering approaches, inorder to extract emergent patterns that are derived from tagsimilarity and involve tag relations or user interconnections.Apart from tag similarity, an interesting parameter to be analyzedduring the clustering/mining process in such data isthe actual time that each tagging activity occurred. Indeed,holding a temporal dimension unfolds macroscopic and microscopicviews of tagging, highlights links between objectsfor specific time periods and, in general, lets us observe howthe users{\^a}{\texteuro}{\texttrademark} tagging activity changes over time. In this article,we propose a time-aware user/tag clustering approach, whichgroups together similar users and tags that are very {\^a}{\texteuro}{\'s}active{\^a}{\texteuro}{\v t}during the same time periods. Emphasis is given on usingvarying time scales, so that we distinguish between clustersthat are robust at many time scales and clusters that are somehowoccasional, i.e. they emerge, only at a specific time period.</p>
+},
+	isbn = {978-88-905328-0-1},
+	author = {Giannakidou, Eirini and Vassiliki A. Koutsonikola and Athena Vakali and Yiannis Kompatsiaris}
+}
+@inproceedings {CEUR-WS.org/Vol-700/Paper9,
+	title = {Integrating Web 20 Data into Linked Open Data Cloud via Clustering},
+	booktitle = {CEUR Workshop Proceedings ISSN 1613-0073},
+	volume = {700},
+	year = {2010},
+	month = {February},
+	keywords = {FIA-LOD2010 imported},
+	author = {Giannakidou, Eirini and Athena Vakali},
+	editor = {Auer, S{\textquoteright}oren and Decker, Stefan and Hauswirth, Manfred}
+}
+@inproceedings {conf/dasfaa/StampouliGV10,
+	title = {Tag Disambiguation through Flickr and Wikipedia},
+	booktitle = {DASFAA Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {6193},
+	year = {2010},
+	pages = {252-263},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion {\^a}{\texteuro}{\'s}Apple{\^a}{\texteuro}{\v t} illustrates the value of the proposed approach.</p>
+},
+	keywords = {DBpedia project, flick, mashup, term disambiguation, Wikipedia},
+	isbn = {978-3-642-14588-9},
+	author = {Stampouli, Anastasia and Giannakidou, Eirini and Athena Vakali},
+	editor = {Yoshikawa, Masatoshi and Meng, Xiaofeng and Yumoto, Takayuki and Ma, Qiang and Sun, Lifeng and Watanabe, Chiemi}
+}
+@inproceedings {conf/wise/KoutsonikolaVGK09,
+	title = {Clustering of Social Tagging System Users: A Topic and Time Based Approach},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5802},
+	year = {2009},
+	pages = {75-86},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Under Social Tagging Systems, a typical Web 2.0 application,users label digital data sources by using freely chosen textual descriptions(tags). Mining tag information reveals the topic-domain ofusers interests and significantly contributes in a profile construction process.In this paper we propose a clustering framework which groups usersaccording to their preferred topics and the time locality of their taggingactivity. Experimental results demonstrate the efficiency of the proposedapproach which results in more enriched time-aware users profiles.</p>
+},
+	keywords = {Social tagging systems, time, topic, user clustering},
+	isbn = {978-3-642-04408-3},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Giannakidou, Eirini and Yiannis Kompatsiaris},
+	editor = {Vossen, Gottfried and Long, Darrell D. E. and Yu, Jeffrey Xu}
+}
+@inproceedings {conf/waim/GiannakidouKVK08,
+	title = {Co-Clustering Tags and Social Data Sources},
+	booktitle = {WAIM},
+	year = {2008},
+	pages = {317-324},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Under social tagging systems, a typical Web 2.0 application,users label digital data sources by using freely chosentextual descriptions (tags). Poor retrieval in the aforementionedsystems remains a major problem mostly due toquestionable tag validity and tag ambiguity. Earlier clusteringtechniques have shown limited improvements, since theywere based mostly on tag co-occurrences. In this paper,a co-clustering approach is employed, that exploits jointgroups of related tags and social data sources, in whichboth social and semantic aspects of tags are consideredsimultaneously. Experimental results demonstrate the effi-ciency and the beneficial outcome of the proposed approachin correlating relevant tags and resources.</p>
+},
+	isbn = {978-0-7695-3185-4},
+	author = {Giannakidou, Eirini and Vassiliki A. Koutsonikola and Athena Vakali and Yiannis Kompatsiaris}
+}
+@inproceedings {conf/semco/GiannakidouKV08,
+	title = {SEMSOC: SEMantic, SOcial and Content-Based Clustering in Multimedia Collaborative Tagging Systems},
+	booktitle = {ICSC},
+	year = {2008},
+	pages = {128-135},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-3279-0},
+	author = {Giannakidou, Eirini and Yiannis Kompatsiaris and Athena Vakali}
+}

@@ -1,0 +1,6 @@
+@inproceedings {1879,
+	title = {Web Data Accessing and the Web Searching Process},
+	year = {2003},
+	abstract = {<p>The enormous growth in the number of documentscirculated over the Web increases the need for improvedWeb data management systems. Web data accessing andWeb searching are the main processes in Web datamanagement systems. In order to evaluate the performanceof such systems, various simulation approaches must beused. In this paper, we survey the most recent approachesfor Web data representation, Web data accessing as well asfor Web search engines.</p>
+}
+}

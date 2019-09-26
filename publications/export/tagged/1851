@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2006
+%T Replication in Mirrored Disk Systems
+%X <p>In this paper we study data replication in a mirrored disk system.Free disk space is exploited by keeping replicas of specific cylindersat appropriate disk locations. Assuming an organ-pipe arrangement wecalculate the expected seek distance by varying the probability cylinderaccess under different distributions. Also, analytic formulae are derivedfor the expected seek distance under replication and comparison with theconventional (without replication) mirrored disk system is performed.</p>
+%G eng
+

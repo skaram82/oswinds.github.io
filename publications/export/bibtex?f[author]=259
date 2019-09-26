@@ -1,0 +1,12 @@
+@article {journals/jdim/HammicheLBHV07,
+	title = {Domain Knowledge Based Queries for Multimedia Data Retrieval},
+	journal = {JDIM},
+	volume = {5},
+	number = {2},
+	year = {2007},
+	pages = {75-81},
+	abstract = {<p>This paper describes an approach for semantic description and retrieval of multimedia data described by means ofMPEG-7. This standard uses XML schema to define the descriptions. Therefore, it lacks ability to represent the data semanticsin a formal and concise way and it does not allow integration and use of domain specific knowledge. Moreover,inference mechanisms are not provided and hence the extraction of implicit information is not (always) possible. To addressthese issues, we propose to add a conceptual layer on top of MPEG-7 metadata layer, where the domain knowledgeis represented using a formal language. A set of mapping rules is proposed. They serve as a bridge between the twolayers.Querying MPEG-7 descriptions using XML query languages such as XPath or XQuery requires to know MPEG-7syntax and documents structure. To provide a flexible query formulation, we exploit the conceptual layer vocabularyto express user queries. A user query, making reference to terms specified at the conceptual level, is rewritten into anXQuery expression over MPEG-7 descriptions.</p>
+},
+	keywords = {Logic Languages, Mapping Rules, MPEG-7, Multimedia Data Descriptions, Ontology, Semantic and Structural Aspects},
+	author = {Hammiche, Samira and Lopez, Bernardo and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali}
+}

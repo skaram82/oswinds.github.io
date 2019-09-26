@@ -1,0 +1,11 @@
+@inproceedings {6681459,
+	title = {Micro-blogging Content Analysis via Emotionally-Driven Clustering},
+	booktitle = {Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on},
+	year = {2013},
+	month = {Sept},
+	pages = {375-380},
+	keywords = {affective analysis methodology, Clustering algorithms, content management, content sharing, Dictionaries, emotion intensity monitoring, emotionally-driven clustering, Equations, human emotion states, information sharing, lexicon-based technique, Mathematical model, microblogging content analysis, pattern clustering, people perception, Pragmatics, Semantics, Sentiment analysis, social networking (online), social pulse, social relations, text analysis, Twitter},
+	issn = {2156-8103},
+	doi = {10.1109/ACII.2013.68},
+	author = {Despoina Chatzakou and Vassiliki A. Koutsonikola and Athena Vakali and Konstantinos Kafetsios}
+}

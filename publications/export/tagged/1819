@@ -1,0 +1,6 @@
+%0 Journal Article
+%D 2010
+%T CDNsim: A Simulation Tool for Content Distribution Networks
+%X <p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+%G eng
+

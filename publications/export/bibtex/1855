@@ -1,0 +1,6 @@
+@inproceedings {1855,
+	title = {Integrating Caching Techniques on a Content Distribution Network},
+	year = {2006},
+	abstract = {<p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDN{\textquoteright} s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+}
+}

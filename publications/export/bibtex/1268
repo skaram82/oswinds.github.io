@@ -1,0 +1,10 @@
+@proceedings {conf/edbtw/2004,
+	title = {Current Trends in Database Technology {\^a}{\texteuro}{\textquotedblleft} EDBT 2004 Workshops, EDBT 2004 Workshops PhD, DataX, PIM, P2P\&DB, and ClustWeb, Heraklion, Crete, Greece, March 14-18, 2004, Revised Selected Papers},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	publisher = {Springer},
+	isbn = {3-540-23305-9},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}

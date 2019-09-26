@@ -1,0 +1,156 @@
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T Towards a Framework for Social Semiotic Mining
+%A Giannakidou, Eirini
+%A Athena Vakali
+%A Mavridis, Nikolaos
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 21
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Proceedings
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%D 2014
+%T Transactions on Large-Scale Data- and Knowledge-Centered Systems
+%E Hameurlain, Abdelkader
+%E Küng, Josef
+%E Wagner, Roland
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8920
+%@ 978-3-662-45760-3
+%G eng
+
+%0 Conference Paper
+%B Future Internet Assembly
+%D 2012
+%T Towards a Narrative-Aware Design Framework for Smart Urban Environments
+%A Srivastava, Lara
+%A Athena Vakali
+%E Alvarez, Federico
+%E Cleary, Frances
+%E Daras, Petros
+%E Domingue, John
+%E Galis, Alex
+%E Garcia, Ana
+%E Gavras, Anastasius
+%E Karnouskos, Stamatis
+%E Krco, Srdjan
+%E Li, Man-Sze
+%E Lotz, Volkmar
+%E Müller, Henning
+%E Salvadori, Elio
+%E Sassen, Anne-Marie
+%E Schaffers, Hans
+%E Stiller, Burkhard
+%E Tselentis, Georgios
+%E Turkama, Petra
+%E Zahariadis, Theodore B.
+%B Future Internet Assembly
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7281
+%P 166-177
+%@ 978-3-642-30240-4
+%G eng
+
+%0 Conference Paper
+%D 2011
+%T Towards a user-aware virtual museum
+%X <p>The exploration of cultural heritage through welldesignedvirtual worlds has met an increase in popularity withinthe last decade. More and more well-known museums aroundthe globe have started to spend funds in order to build systemswith which users can virtually navigate through the museums’exhibits. Technological breakthroughs in graphics design and theuse of multimedia content have helped these systems becomemore attractive and easier to use. However, the vast majority ofthese systems are solely there to represent content in an appealingway, with users just having the submissive role of requestinginformation. In this paper, we want to make one step furtherand present a user-aware system for virtual museums. Usersin the proposed system are active users who can express theiropinions in many different ways, enabling us to extract userpreferences on cultural content. We follow a group-based logicin order to capture the underlying differences in user preferencesbetween the groups. We believe that these findings are beneficialfor providing a better user experience and, also, for the museum’sadministrators who can easily assess user interest about themuseum by analyzing their evaluations.</p>
+%G eng
+
+%0 Conference Paper
+%B VS-GAMES
+%D 2011
+%T Towards a User-Aware Virtual Museum
+%A Christos Zigkolis
+%A Vassiliki A. Koutsonikola
+%A Despoina Chatzakou
+%A Karagiannidis, Savvas
+%A Maria Giatsoglou
+%A Kosmatopoulos, Andreas
+%A Athena Vakali
+%E Liarokapis, Fotis
+%E Doulamis, Anastasios D.
+%E Vescoukis, Vassilios
+%K user groups
+%K user preferences
+%K virtual museum
+%B VS-GAMES
+%I IEEE Computer Society
+%P 228-235
+%@ 978-1-4577-0316-4
+%G eng
+
+%0 Conference Paper
+%B DASFAA Workshops
+%D 2010
+%T Tag Disambiguation through Flickr and Wikipedia
+%A Stampouli, Anastasia
+%A Giannakidou, Eirini
+%A Athena Vakali
+%E Yoshikawa, Masatoshi
+%E Meng, Xiaofeng
+%E Yumoto, Takayuki
+%E Ma, Qiang
+%E Sun, Lifeng
+%E Watanabe, Chiemi
+%K DBpedia project
+%K flick
+%K mashup
+%K term disambiguation
+%K Wikipedia
+%X <p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion â€śAppleâ€ť illustrates the value of the proposed approach.</p>
+%B DASFAA Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6193
+%P 252-263
+%@ 978-3-642-14588-9
+%G eng
+
+%0 Conference Paper
+%D 2010
+%T Tag Disambiguation through Flickr and Wikipedia
+%X <p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion “Apple” illustrates the value of the proposed approach.</p>
+%G eng
+
+%0 Journal Article
+%D 2009
+%T Time Aware Web Users Clustering
+%X <p>Web users clustering is a crucial task for mininginformation related to users needs and preferences. Up to now,popular clustering approaches build clusters based on usagepatterns derived from users’ page preferences. This paper emphasizesthe need to discover similarities in users’ accessing behaviorwith respect to the time locality of their navigational acts. Inthis context, we present two time aware clustering approachesfor tuning and binding the page and time visiting criteria. Thetwo tracks of the proposed algorithms define clusters with usersthat show similar visiting behavior at the same time period, byvarying the priority given to page or time visiting. The proposedalgorithms are evaluated using both synthetic and real datasetsand the experimentation has shown that the new clusteringschemes result in enriched clusters compared to those createdby the conventional non-time aware users clustering approaches.These clusters contain users exhibiting similar access behaviornot only in terms of their page preferences but also of their accesstime.</p>
+%G eng
+
+%0 Journal Article
+%J IEEE Trans. Knowl. Data Eng.
+%D 2008
+%T Time-Aware Web Users’ Clustering
+%A Petridou, Sophia G.
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%B IEEE Trans. Knowl. Data Eng.
+%V 20
+%P 653-667
+%G eng
+
+%0 Conference Paper
+%D 2000
+%T A Two-Level Representation Model for Effective Video Data Storage
+%X <p>The main issues characterizing current video applications are their strong requirements for huge storage spaces andtheir need for timing synchronizationVideo data storageis a critical research topic due to the socalled IObottle neck problem which aects the quality of service of videoapplicationsThis paper introduces a two level video datarepresentation model in order to guide video data storage on a tertiary storage subsystemA simulation model hasbeen developed to evaluate dierent video placement strategies based on both Constructive and Iterative ImprovementapproachesExperimentation has been carried out for theproposed placement approaches as well as for a typical random placement policy which serves as a comparison refer enceIterative Improvement placement has been proven tooutperform the other considered video data placement approaches in both seek and service times.</p>
+%G eng
+

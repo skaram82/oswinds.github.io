@@ -1,0 +1,14 @@
+@inproceedings {conf/webi/GabrielSSV11,
+	title = {Summarization Meets Visualization on Online Social Networks},
+	booktitle = {Web Intelligence},
+	year = {2011},
+	pages = {475-478},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+},
+	keywords = {Clustering, communities, community representatives, social network summarization, social network visualization, Social networks, visualization},
+	isbn = {978-0-7695-4513-4},
+	author = {Gabriel, Hans-Henning and Spiliopoulou, Myra and Stachtiari, Emmanouela and Athena Vakali},
+	editor = {Boissier, Olivier and Benatallah, Boualem and Papazoglou, Mike P. and Ras, Zbigniew W. and Hacid, Mohand-Said}
+}

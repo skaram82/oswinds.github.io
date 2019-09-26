@@ -1,0 +1,1162 @@
+%0 Generic
+%D 2018
+%T Smart Cities at Risk!: Privacy and Security Borderlines  from Social Networking in Cities
+%A Moustaka, Vaia
+%A Zenonas Theodosiou
+%A Athena Vakali
+%A Anastasis Kounoudes
+%K online social networks
+%K privacy threats
+%K security threats
+%K smart cities
+%K smart living
+%K smart people
+%X <p class="rtejustify">As smart cities infrastructures mature, data becomes a valuable asset which can radically improve city services and tools. Registration, acquisition and utilization of data, which will be transformed into smart services, are becoming more necessary than ever. Online social networks with their enormous momentum are one of the main sources of urban data offering heterogeneous real-time data at a minimal cost. However, various types of attacks often appear on them, which risk users' privacy and affect their online trust. The purpose of this article is to investigate how risks on online social networks affect smart cities and study the differences between privacy and security threats with regard to smart people and smart living dimensions.</p>
+%S WWW ’18 Companion
+%I ACM
+%C Lyon, France
+%G eng
+%( WWW ’18 Companion
+%R https://doi.org/10.1145/3184558.3191516
+
+%0 Journal Article
+%J Computing Surveys (CSUR)
+%D 2018
+%T A Systematic Review for Smart City Data Analytics
+%A Moustaka, Vaia
+%A Vakali, Athena
+%A Anthopoulos, Leonidas G.
+%B Computing Surveys (CSUR)
+%G eng
+%R https://doi.org/10.1145/3239566
+
+%0 Generic
+%D 2017
+%T CityDNA: Smart City Dimensions' Correlations for Identifying Urban Profile
+%A Vaia Moustaka
+%A Athena Vakali
+%A Leonidas G. Anthopoulos
+%K city boroughs
+%K city profiles
+%K DNA structure
+%K Greater London areas
+%K smart cities
+%K smart economy and mobility
+%K smart mobility
+%X <div>Smart cities evolve over multiple themes and areas with the development of cyber-physical systems and smart services that address several urban issues regarding economy, mobility,&nbsp; environment, people, living and governance. This evolution has bliged the definition of several conceptualization and evaluation models, which respect alternative smart city perspectives. This work proposes smart city profiling with the introduction of the “CityDNA” model, ccording which, smart city’s dimensions’ relevance can be captured and visualized. Based on this model, a smart city’s profile can be defined and characterized, under a simple comprehensive view of local needs and challenges. A particular smart city scenario is highlighted as a proof of concept for CityDNA and future design and implementation ideas are identified and justified.</div>
+%B WWW (Companion Volume)
+%I ACM
+%C Perth, Australia
+%G eng
+%U http://dx.doi.org/10.1145/3041021.3054714
+
+%0 Book Section
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%D 2016
+%T A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads
+%A Vakali, Athena
+%A Kitmeridis, Nikolaos
+%A Panourgia, Maria
+%E Angelov, Plamen
+%E Manolopoulos, Yannis
+%E Iliadis, Lazaros
+%E Roy, Asim
+%E Vellasco, Marley
+%X <p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics’ and trends’ early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%I Springer International Publishing
+%C Cham
+%P 186–194
+%@ 978-3-319-47898-2
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-47898-2_20
+%R 10.1007/978-3-319-47898-2_20
+
+%0 Conference Paper
+%D 2016
+%T Early Malicious Activity Discovery in Microblogs by Social Bridges Detection
+%A Antonia Gogoglou
+%A Zenonas Theodosiou
+%A Tasos Kounoudes
+%A Athena Vakali
+%A Yannis Manolopoulos
+%X <p>With the emerging and intense use of Online Social Networks (OSNs) amongst young children and teenagers (youngters), safe networking and socializing on the Web has faced extensive scrutiny. Content and interactions which are considered safe for adult OSN users, might embed potentially threatening and malicious information when it comes to underage users. This work is motivated by the strong need to safeguard youngsters OSNs experience such that they can be empowered and aware. The topology of a graph is studied towards detecting the so called social bridges, i.e. the group(s) of malicious users and their supporters, who have links and ties to both honest and malicious user communities. A graph-topology based classification scheme is proposed to detect such bridge linkages which are suspicious for threatening youngsters networking vulnerability. The proposed scheme is validated by a Twitter network, at which potentially dangerous users are identified based on their Twitter connections. The achieved performance is higher compared to previous efforts, despite the increased complexity due to the variety of groups identified as malicious.</p>
+%I 16th International Symposium on Signal Processing and Information Technology
+%C Limassol, Cyprus
+%G eng
+
+%0 Conference Paper
+%B Internet Science - Third International Conference, INSCI 2016, Florence, Italy, September 12-14, 2016, Proceedings
+%D 2016
+%T Smart Cities Tales and Trails
+%A Athena Vakali
+%A Angeliki Milonaki
+%A Ioannis Gkrosdanis
+%B Internet Science - Third International Conference, INSCI 2016, Florence, Italy, September 12-14, 2016, Proceedings
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-45982-0_24
+%R 10.1007/978-3-319-45982-0_24
+
+%0 Book Section
+%B Big Data Analytics and Knowledge Discovery
+%D 2015
+%T MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis
+%A Despoina Chatzakou
+%A Passalis, Nikolaos
+%A Athena Vakali
+%E Sanjay Kumar Madria
+%E Hara, Takahiro
+%K Multilevel features
+%K Sentiment detection
+%B Big Data Analytics and Knowledge Discovery
+%S Lecture Notes in Computer Science
+%I Springer International Publishing
+%V 9263
+%P 337-350
+%@ 978-3-319-22728-3
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-22729-0_26
+%R 10.1007/978-3-319-22729-0_26
+
+%0 Conference Proceedings
+%B Advances in Intelligent Systems and Computing
+%D 2015
+%T New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II
+%E Nick Bassiliades
+%E Mirjana Ivanovic
+%E Margita Kon-Popovska
+%E Yannis Manolopoulos
+%E Themis Palpanas
+%E Goce Trajcevski
+%E Athena Vakali
+%B Advances in Intelligent Systems and Computing
+%S 
+%I Springer
+%V 312
+%@ 978-3-319-10517-8
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-10518-5
+%R 10.1007/978-3-319-10518-5
+
+%0 Conference Paper
+%B PAKDD (1)
+%D 2015
+%T Retweeting Activity on Twitter: Signs of Deception
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Christos Faloutsos
+%A Athena Vakali
+%E Cao, Tru
+%E Lim, Ee-Peng
+%E Zhou, Zhi-Hua
+%E Ho, Tu-Bao
+%E Cheung, David
+%E Motoda, Hiroshi
+%B PAKDD (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 9077
+%P 122-134
+%@ 978-3-319-18037-3
+%G eng
+
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers
+%E Boualem Benatallah
+%E Azer Bestavros
+%E Barbara Catania
+%E Armin Haller
+%E Yannis Manolopoulos
+%E Athena Vakali
+%E Yanchun Zhang
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9051
+%@ 978-3-319-20369-0
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-20370-6
+%R 10.1007/978-3-319-20370-6
+
+%0 Conference Paper
+%B ECML/PKDD (3)
+%D 2014
+%T Branty: A Social Media Ranking Tool for Brands
+%A Arvanitidis, Alexandros
+%A Serafi, Anna
+%A Athena Vakali
+%A Tsoumakas, Grigorios
+%E Calders, Toon
+%E Esposito, Floriana
+%E Hullermeier, Eyke
+%E Meo, Rosa
+%B ECML/PKDD (3)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8726
+%P 432-435
+%@ 978-3-662-44844-1
+%G eng
+
+%0 Journal Article
+%J Robotics and Autonomous Systems
+%D 2014
+%T Contextual object category recognition for RGB-D scene labeling
+%A Ali, Haider
+%A Shafait, Faisal
+%A Giannakidou, Eirini
+%A Athena Vakali
+%A Figueroa, Nadia
+%A Varvadoukas, Theodoros
+%A Mavridis, Nikolaos
+%B Robotics and Autonomous Systems
+%V 62
+%P 241-256
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T Towards a Framework for Social Semiotic Mining
+%A Giannakidou, Eirini
+%A Athena Vakali
+%A Mavridis, Nikolaos
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 21
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Proceedings
+%B WISE (1)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8786
+%@ 978-3-319-11748-5
+%G eng
+
+%0 Conference Proceedings
+%B WISE (2)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8787
+%@ 978-3-319-11745-4
+%G eng
+
+%0 Conference Paper
+%B WISE (2)
+%D 2013
+%T Community Detection in Social Media by Leveraging Interactions and Intensities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Lin, Xuemin
+%E Manolopoulos, Yannis
+%E Srivastava, Divesh
+%E Huang, Guangyan
+%K community detection
+%K user weighted interaction networks
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8181
+%P 57-72
+%@ 978-3-642-41153-3
+%G eng
+
+%0 Conference Paper
+%B Panhellenic Conference on Informatics
+%D 2013
+%T Requirements and architecture design principles for a smart city experiment with sensor and social networks integration
+%A Samaras, Christos
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Angelis, Lefteris
+%E Ketikidis, Panayiotis H.
+%E Margaritis, Konstantinos G.
+%E Vlahavas, Ioannis P.
+%E Chatzigeorgiou, Alexander
+%E Eleftherakis, George
+%E Stamelos, Ioannis
+%B Panhellenic Conference on Informatics
+%I ACM
+%P 327-334
+%@ 978-1-4503-1969-0
+%G eng
+
+%0 Conference Paper
+%B MMM (1)
+%D 2013
+%T Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs
+%A Symeon Papadopoulos
+%A Sagonas, Christos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Li, Shipeng
+%E El-Saddik, Abdulmotaleb
+%E Wang, Meng
+%E Mei, Tao
+%E Sebe, Nicu
+%E Yan, Shuicheng
+%E Hong, Richang
+%E Gurrin, Cathal
+%X <p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+%B MMM (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7732
+%P 1-12
+%@ 978-3-642-35725-1
+%G eng
+
+%0 Conference Paper
+%B WWW (Companion Volume)
+%D 2012
+%T Social networking trends and dynamics detection via a cloud-based framework design
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Antaris, Stefanos
+%E Mille, Alain
+%E Gandon, Fabien L.
+%E Misselis, Jacques
+%E Rabinovich, Michael
+%E Staab, Steffen
+%K cloud service deployment
+%K microblogs and blogosphere dynamics
+%K Social networks social
+%K Web Data Clustering
+%B WWW (Companion Volume)
+%I ACM
+%P 1213-1220
+%@ 978-1-4503-1230-1
+%G eng
+
+%0 Conference Paper
+%B Future Internet Assembly
+%D 2012
+%T Towards a Narrative-Aware Design Framework for Smart Urban Environments
+%A Srivastava, Lara
+%A Athena Vakali
+%E Alvarez, Federico
+%E Cleary, Frances
+%E Daras, Petros
+%E Domingue, John
+%E Galis, Alex
+%E Garcia, Ana
+%E Gavras, Anastasius
+%E Karnouskos, Stamatis
+%E Krco, Srdjan
+%E Li, Man-Sze
+%E Lotz, Volkmar
+%E Müller, Henning
+%E Salvadori, Elio
+%E Sassen, Anne-Marie
+%E Schaffers, Hans
+%E Stiller, Burkhard
+%E Tselentis, Georgios
+%E Turkama, Petra
+%E Zahariadis, Theodore B.
+%B Future Internet Assembly
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7281
+%P 166-177
+%@ 978-3-642-30240-4
+%G eng
+
+%0 Conference Paper
+%B Future Internet Assembly
+%D 2012
+%T Urban Planning and Smart Cities: Interrelations and Reciprocities
+%A Anthopoulos, Leonidas G.
+%A Athena Vakali
+%E Alvarez, Federico
+%E Cleary, Frances
+%E Daras, Petros
+%E Domingue, John
+%E Galis, Alex
+%E Garcia, Ana
+%E Gavras, Anastasius
+%E Karnouskos, Stamatis
+%E Krco, Srdjan
+%E Li, Man-Sze
+%E Lotz, Volkmar
+%E Müller, Henning
+%E Salvadori, Elio
+%E Sassen, Anne-Marie
+%E Schaffers, Hans
+%E Stiller, Burkhard
+%E Tselentis, Georgios
+%E Turkama, Petra
+%E Zahariadis, Theodore B.
+%B Future Internet Assembly
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7281
+%P 178-189
+%@ 978-3-642-30240-4
+%G eng
+
+%0 Conference Paper
+%B MediaEval
+%D 2011
+%T CERTH @ MediaEval 2011 Social Event Detection Task
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Larson, Martha
+%E Rae, Adam
+%E Demarty, Claire-Helene
+%E Kofler, Christoph
+%E Metze, Florian
+%E Troncy, Raphaël
+%E Mezaris, Vasileios
+%E Jones, Gareth J. F.
+%X <p>This paper describes the participation of CERTH in the â€śSocialEvent Detection Task @ MediaEval 2011â€ť, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4% and 0.63 respectivelyfor Challenge 1, and 64% and 0.38 for Challenge 2.</p>
+%B MediaEval
+%S CEUR Workshop Proceedings
+%I CEUR-WS.org
+%V 807
+%G eng
+
+%0 Conference Paper
+%B ICMR
+%D 2011
+%T City exploration by use of spatio-temporal analysis and clustering of user contributed photos
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Kapiris, Stefanos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Natale, Francesco G. B. De
+%E Bimbo, Alberto Del
+%E Hanjalic, Alan
+%E Manjunath, B. S.
+%E Satoh, Shin’ichi
+%K Clustering
+%K content browsing
+%K landmark/event detection
+%K spatio-temporal mining
+%X <p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+%B ICMR
+%I ACM
+%P 65
+%@ 978-1-4503-0336-1
+%G eng
+
+%0 Conference Paper
+%B CBMI
+%D 2011
+%T Detecting the long-tail of Points of Interest in tagged photo collections
+%A Christos Zigkolis
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Martinez, José M.
+%X <p>The paper tackles the problem of matching the photosof a tagged photo collection to a list of â€ślong-tailâ€ť PointsOf Interest (PoIs), that is PoIs that are not very popularand thus not well represented in the photo collection. Despitethe significance of improving â€ślong-tailâ€ť PoI photoretrieval for travel applications, most landmark detectionmethods to date have been tested on very popular landmarks.In this paper, we conduct a thorough empirical analysiscomparing four baseline matching methods that relyon photo metadata, three variants of an approach that usescluster analysis in order to discover PoI-related photo clusters,and a real-world retrieval mechanism (Flickr search)on a set of less popular PoIs.A user-based evaluation of the aforementioned methodsis conducted on a Flickr photo collection of over 100, 000photos from 10 well-known touristic destinations in Greece.A set of 104 â€ślong-tailâ€ť PoIs is collected for these destinationsfrom Wikipedia, Wikimapia and OpenStreetMap. Theresults demonstrate that two of the baseline methods outperformFlickr search in terms of precision and F-measure,whereas two of the cluster-based methods outperform it interms of recall and PoI coverage. We consider the results ofthis study valuable for enhancing the indexing of pictorialcontent in social media sites.</p>
+%B CBMI
+%I IEEE
+%P 235-240
+%@ 978-1-61284-433-6
+%G eng
+
+%0 Conference Paper
+%B ACII (1)
+%D 2011
+%T Emotional Aware Clustering on Micro-blogging Sources
+%A Tsagkalidou, Katerina
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%E D’Mello, Sidney K.
+%E Graesser, Arthur C.
+%E Schuller, Björn
+%E Martin, Jean-Claude
+%K Microblogging services
+%K Sentiment analysis
+%K web clustering
+%X <p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+%B ACII (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6974
+%P 387-396
+%@ 978-3-642-24599-2
+%G eng
+
+%0 Conference Paper
+%B SERVICES
+%D 2011
+%T Social Web Mashups Full Completion via Frequent Sequence Mining
+%A Maaradji, Abderrahmane
+%A Hacid, Hakim
+%A Skraba, Ryan
+%A Athena Vakali
+%K Mashups
+%K Sequence mining
+%K Social networks
+%K Web services
+%X <p>In this paper we address the problem of WebMashups full completion which consists of predicting themost suitable set of (combined) services that successfully meetthe goals of an end-user Mashup, given the current service(or composition of services) initially supplied. We model fullcompletion as a frequent sequence mining problem and weshow how existing algorithms can be applied in this context.To overcome some limitations of the frequent sequence miningalgorithms, e.g., efficiency and recommendation granularity,we propose FESMA, a new and efficient algorithm for computingfrequent sequences of services and recommending completions.FESMA also integrates a social dimension, extractedfrom the transformation of user ? service interactions intouser ? user interactions, building an implicit graph thathelps to better predict completions of services in a fashiontailored to individual users. Evaluations show that FESMAis more efficient outperforming the existing algorithms evenwith the consideration of the social dimension. Our proposalhas been implemented in a prototype, SoCo, developed at BellLabs.</p>
+%B SERVICES
+%I IEEE Computer Society
+%P 9-16
+%@ 978-1-4577-0879-4
+%G eng
+
+%0 Journal Article
+%J ACM Trans. Model. Comput. Simul.
+%D 2010
+%T CDNsim: A simulation tool for content distribution networks
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%A Katsaros, Dimitrios
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%K caching
+%K Content Distribution Network
+%K services
+%K trace-driven simulation
+%X <p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+%B ACM Trans. Model. Comput. Simul.
+%V 20
+%G eng
+
+%0 Journal Article
+%J Inf. Process. Manage.
+%D 2010
+%T Clustering dense graphs: A web site graph paradigm
+%A Moussiades, Lefteris
+%A Athena Vakali
+%B Inf. Process. Manage.
+%V 46
+%P 247-267
+%G eng
+
+%0 Conference Paper
+%B ICIP
+%D 2010
+%T Image clustering through community detection on hybrid image similarity graphs
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Tolias, Giorgos
+%A Kalantidis, Yannis
+%A Mylonas, Phivos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%K community detection
+%K content-based image retrieval
+%K image clustering
+%K tags
+%K visual similarity
+%X <p>The wide adoption of photo sharing applications such as FlickrÂ°cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from FlickrÂ°c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+%B ICIP
+%I IEEE
+%P 2353-2356
+%@ 978-1-4244-7994-8
+%G eng
+
+%0 Conference Paper
+%B DASFAA Workshops
+%D 2010
+%T Tag Disambiguation through Flickr and Wikipedia
+%A Stampouli, Anastasia
+%A Giannakidou, Eirini
+%A Athena Vakali
+%E Yoshikawa, Masatoshi
+%E Meng, Xiaofeng
+%E Yumoto, Takayuki
+%E Ma, Qiang
+%E Sun, Lifeng
+%E Watanabe, Chiemi
+%K DBpedia project
+%K flick
+%K mashup
+%K term disambiguation
+%K Wikipedia
+%X <p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion â€śAppleâ€ť illustrates the value of the proposed approach.</p>
+%B DASFAA Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6193
+%P 252-263
+%@ 978-3-642-14588-9
+%G eng
+
+%0 Conference Paper
+%B RCIS
+%D 2009
+%T Benchmark graphs for the evaluation of Clustering Algorithms
+%A Moussiades, Lefteris
+%A Athena Vakali
+%E Flory, Andre
+%E Collard, Martine
+%K Artificial graph
+%K Community structure
+%K Graph clustering
+%K Intra linkage ratio
+%K Modularity
+%X <p>Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.</p>
+%B RCIS
+%I IEEE
+%P 197-206
+%@ 978-1-4244-2864-9
+%G eng
+
+%0 Journal Article
+%J IEEE Trans. Knowl. Data Eng.
+%D 2009
+%T CDNs Content Outsourcing via Generalized Communities
+%A Katsaros, Dimitrios
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%K caching
+%K content distribution networks
+%K replication
+%K social network analysis
+%K web communities
+%X <p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of â€ścorrelatedâ€ť Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+%B IEEE Trans. Knowl. Data Eng.
+%V 21
+%P 137-151
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2009
+%T Cloud Computing: Distributed Internet Computing for IT and Scientific Research
+%A Dikaiakos, Marios D.
+%A Katsaros, Dimitrios
+%A Mehra, Pankaj
+%A Pallis, George
+%A Athena Vakali
+%X <p>Cloud computing is a recent trend in informationtechnology and networking that has the potentialto change radically the way computer servicesare constructed, managed, and delivered. The key drivingforces behind the emergence of cloud computing includethe overcapacity of todayâ€™s large corporate data centers,the ubiquity of broadband and wireless networking, thefalling cost of storage, and progressive improvements innetworking technologies. Cloud computing opens new perspectiveswith profound implications in the area of communicationnetworks, raising new issues in their architecture,design, and implementation.</p>
+%B IEEE Internet Computing
+%V 13
+%P 10-13
+%G eng
+
+%0 Conference Paper
+%B UPGRADE-CN
+%D 2009
+%T Evaluating the utility of content delivery networks
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%A Dikaiakos, Marios D.
+%E Fortino, Giancarlo
+%E Mastroianni, Carlo
+%E Al-Mukaddim Khan Pathan
+%E Athena Vakali
+%K CDN pricing
+%K Content Delivery
+%K network utility
+%K networks
+%X <p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+%B UPGRADE-CN
+%I ACM
+%P 11-20
+%@ 978-1-60558-591-8
+%G eng
+
+%0 Journal Article
+%J Neurocomputing
+%D 2009
+%T Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning
+%A Kaburlasos, Vassilis G.
+%A Moussiades, Lefteris
+%A Athena Vakali
+%K Clustering
+%K Fuzzy lattices
+%K Graph partitioning
+%K Metric Measurable path
+%K Similarity measure
+%X <p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+%B Neurocomputing
+%V 72
+%P 2121-2133
+%G eng
+
+%0 Conference Paper
+%B BCI
+%D 2009
+%T Mining the Community Structure of a Web Site
+%A Moussiades, Lefteris
+%A Athena Vakali
+%E Kefalas, Petros
+%E Stamatis, Demosthenes
+%E Douligeris, Christos
+%B BCI
+%I IEEE Computer Society
+%P 239-244
+%@ 978-0-7695-3783-2
+%G eng
+
+%0 Conference Paper
+%B UPGRADE-CN
+%D 2009
+%T Next generation content networks: trends and challenges
+%A Fortino, Giancarlo
+%A Mastroianni, Carlo
+%A Al-Mukaddim Khan Pathan
+%A Athena Vakali
+%E Fortino, Giancarlo
+%E Mastroianni, Carlo
+%E Al-Mukaddim Khan Pathan
+%E Athena Vakali
+%B UPGRADE-CN
+%I ACM
+%P 49
+%@ 978-1-60558-591-8
+%G eng
+
+%0 Conference Proceedings
+%B UPGRADE-CN
+%D 2009
+%T Proceedings of the 4th Workshop on the Use of P2P, GRID and Agents for the Development of Content Networks, UPGRADE-CNâ€™09, jointly held with the 18th International Symposium on High-Performance Distributed Computing (HPDC-18 2009), 10 June 2009, Ga
+%E Fortino, Giancarlo
+%E Mastroianni, Carlo
+%E Al-Mukaddim Khan Pathan
+%E Athena Vakali
+%B UPGRADE-CN
+%I ACM
+%@ 978-1-60558-591-8
+%G eng
+
+%0 Conference Paper
+%B WISE
+%D 2008
+%T Correlating Time-Related Data Sources with Co-clustering
+%A Vassiliki A. Koutsonikola
+%A Petridou, Sophia G.
+%A Athena Vakali
+%A Hacid, Hakim
+%A Benatallah, Boualem
+%E Bailey, James
+%E Maier, David
+%E Schewe, Klaus-Dieter
+%E Thalheim, Bernhard
+%E Wang, Xiaoyang Sean
+%X <p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stockâ€™s market real datasets.</p>
+%B WISE
+%S Lecture Notes in Computer Science
+%I Springer
+%V 5175
+%P 264-279
+%@ 978-3-540-85480-7
+%G eng
+
+%0 Journal Article
+%J World Wide Web
+%D 2008
+%T Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing
+%A Sidiropoulos, Antonis
+%A Pallis, George
+%A Katsaros, Dimitrios
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B World Wide Web
+%V 11
+%P 39-70
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2008
+%T A Structure-Based Clustering on LDAP Directory Information
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Mpalasas, Antonios
+%A Valavanis, Michael
+%E An, Aijun
+%E Matwin, Stan
+%E Ras, Zbigniew W.
+%E Slezak, Dominik
+%X <p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entriesâ€™structure. The clustering-based LDAP data organization enhances LDAPserverâ€™s response times, under a specific query framework.</p>
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4994
+%P 121-130
+%@ 978-3-540-68122-9
+%G eng
+
+%0 Conference Paper
+%B ICCSA (2)
+%D 2006
+%T A Divergence-Oriented Approach for Web Users Clustering
+%A Petridou, Sophia G.
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%E Gavrilova, Marina L.
+%E Gervasi, Osvaldo
+%E Kumar, Vipin
+%E Tan, Chih Jeng Kenneth
+%E Taniar, David
+%E LaganĂ , Antonio
+%E Mun, Youngsong
+%E Choo, Hyunseung
+%X Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective functionâ€™s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.
+%B ICCSA (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3981
+%P 1229-1238
+%@ 3-540-34072-6
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 2006
+%T Integrating Caching Techniques on a Content Distribution Network
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%E Manolopoulos, Yannis
+%E Pokorny, Jaroslav
+%E Sellis, Timos K.
+%X <p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDNâ€™ s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4152
+%P 200-215
+%@ 3-540-37899-5
+%G eng
+
+%0 Conference Paper
+%B ICDE Workshops
+%D 2006
+%T Replication Based on Objects Load under a Content Distribution Network
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Katsaros, Dimitrios
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%E Barga, Roger S.
+%E Zhou, Xiaofang
+%B ICDE Workshops
+%I IEEE Computer Society
+%P 53
+%G eng
+
+%0 Conference Paper
+%B LA-WEB
+%D 2005
+%T A Latency-Based Object Placement Approach in Content Distribution Networks
+%A Pallis, George
+%A Athena Vakali
+%A Stamos, Konstantinos
+%A Sidiropoulos, Antonis
+%A Katsaros, Dimitrios
+%A Manolopoulos, Yannis
+%B LA-WEB
+%I IEEE Computer Society
+%P 140-147
+%@ 0-7695-2471-0
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2005
+%T Model-Based Cluster Analysis for Web Users Sessions
+%A Pallis, George
+%A Angelis, Lefteris
+%A Athena Vakali
+%E Hacid, Mohand-Said
+%E Murray, Neil V.
+%E Ras, Zbigniew W.
+%E Tsumoto, Shusaku
+%K Model-Based Cluster Analysis
+%X One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof usersâ€™sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3488
+%P 219-227
+%@ 3-540-25878-7
+%G eng
+
+%0 Journal Article
+%J Comput. J.
+%D 2005
+%T PDetect: A Clustering Approach for Detecting Plagiarism in Source Code Datasets
+%A Moussiades, Lefteris
+%A Athena Vakali
+%B Comput. J.
+%V 48
+%P 651-661
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Data Stores: Emerging Practices
+%A Athena Vakali
+%A Barbara Catania
+%A Anna Maddalena
+%B IEEE Internet Computing
+%V 9
+%P 62-69
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Document Indexes: A Classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%B IEEE Internet Computing
+%V 9
+%P 64-71
+%G eng
+
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2005
+%T XML document indexes: a classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%K documents indexing
+%K xml
+%X <p>XML’s increasing diffusion makes efficient XML query processing and indexing all the more critical. Given the semistructured nature of XML documents, however, general query processing techniques won’t work. Researchers have proposed several specialized indexing methods that offer query processors efficient access to XML documents, although none are yet fully implemented in commercial products. In this article the classification of XML indexing techniques identifies current practices and trends, offering insight into how developers can improve query processing and select the best solution for particular contexts.</p>
+%B Internet Computing, IEEE
+%V 9
+%P 64–71
+%G eng
+
+%0 Conference Proceedings
+%B EDBT Workshops
+%D 2004
+%T Current Trends in Database Technology â€“ EDBT 2004 Workshops, EDBT 2004 Workshops PhD, DataX, PIM, P2P&DB, and ClustWeb, Heraklion, Crete, Greece, March 14-18, 2004, Revised Selected Papers
+%E Lindner, Wolfgang
+%E Mesiti, Marco
+%E Türker, Can
+%E Tzitzikas, Yannis
+%E Athena Vakali
+%B EDBT Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3268
+%@ 3-540-23305-9
+%G eng
+
+%0 Conference Paper
+%B EDBT Workshops
+%D 2004
+%T An Overview of Web Data Clustering Practices
+%A Athena Vakali
+%A Pokorny, Jaroslav
+%A Dalamagas, Theodore
+%E Lindner, Wolfgang
+%E Mesiti, Marco
+%E Türker, Can
+%E Tzitzikas, Yannis
+%E Athena Vakali
+%K Web Data Clustering
+%X <p>Clustering is a challenging topic in the area of Web data management.Various forms of clustering are required in a wide range of applications, includingfinding mirrored Web pages, detecting copyright violations, and reporting searchresults in a structured way. Clustering can either be performed once offline, (independentlyto search queries), or online (on the results of search queries). Importantefforts have focused on mining Web access logs and to cluster search engine resultson the fly. Online methods based on link structure and text have been appliedsuccessfully to finding pages on related topics. This paper presents an overview ofthe most popular methodologies and implementations in terms of clustering eitherWeb users or Web sources and presents a survey about current status and futuretrends in clustering employed over the Web.</p>
+%B EDBT Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3268
+%P 597-606
+%@ 3-540-23305-9
+%G eng
+
+%0 Conference Paper
+%B EDBT Workshops
+%D 2004
+%T XML-Based Revocation and Delegation in a Distributed Environment
+%A Stoupa, Konstantina
+%A Athena Vakali
+%A Li, Fang
+%A Tsoukalas, Ioannis
+%E Lindner, Wolfgang
+%E Mesiti, Marco
+%E Türker, Can
+%E Tzitzikas, Yannis
+%E Athena Vakali
+%X <p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+%B EDBT Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3268
+%P 299-308
+%@ 3-540-23305-9
+%G eng
+
+%0 Conference Paper
+%B ICDE
+%D 2002
+%T A Distributed Database Server for Continuous Media
+%A Aref, Walid G.
+%A Catlin, Ann Christine
+%A Elmagarmid, Ahmed K.
+%A Fan, Jianping
+%A Guo, J.
+%A Hammad, Moustafa A.
+%A Ilyas, Ihab F.
+%A Marzouk, Mirette S.
+%A Prabhakar, Sunil
+%A Rezgui, Abdelmounaam
+%A Teoh, S.
+%A Terzi, Evimaria
+%A Tu, Yi-Cheng
+%A Athena Vakali
+%A Zhu, Xingquan
+%E Agrawal, Rakesh
+%E Dittrich, Klaus R.
+%X In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.
+%B ICDE
+%I IEEE Computer Society
+%P 490-491
+%@ 0-7695-1531-2
+%G eng
+
+%0 Journal Article
+%J Journal of Systems and Software
+%D 2000
+%T Data placement schemes in replicated mirrored disk systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Journal of Systems and Software
+%V 55
+%P 115-128
+%G eng
+
+%0 Conference Paper
+%B EC-Web
+%D 2000
+%T LRU-based Algorithms for Web Cache Replacement
+%A Athena Vakali
+%E Bauknecht, Kurt
+%E Sanjay Kumar Madria
+%E Pernul, Günther
+%K Cache consistency
+%K Cache replacement algorithms
+%K Web caching and proxies
+%K Web-based information systems
+%X <p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase systemâ€™s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+%B EC-Web
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1875
+%P 409-418
+%@ 3-540-67981-2
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 1998
+%T Replication in Mirrored Disk Systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Litwin, Witold
+%E Morzy, Tadeusz
+%E Vossen, Gottfried
+%X In this paper we study data replication in a mirrored disk system.Free disk space is exploited by keeping replicas of specific cylindersat appropriate disk locations. Assuming an organ-pipe arrangement wecalculate the expected seek distance by varying the probability cylinderaccess under different distributions. Also, analytic formulae are derivedfor the expected seek distance under replication and comparison with theconventional (without replication) mirrored disk system is performed.
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1475
+%P 224-235
+%@ 3-540-64924-7
+%G eng
+
+%0 Journal Article
+%J Inf. Process. Lett.
+%D 1997
+%T An Exact Analysis on Expected Seeks in Shadowed Disks
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Inf. Process. Lett.
+%V 61
+%P 323-329
+%G eng
+
+%0 Journal Article
+%J Information & Software Technology
+%D 1997
+%T Parallel data paths in two-headed disk systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Information & Software Technology
+%V 39
+%P 125-135
+%G eng
+
+%0 Conference Paper
+%B DEXA Workshop
+%D 1996
+%T The Impact of Seeking in Partial Match Retrieval
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Wagner, Roland
+%E Thoma, Helmut
+%X <p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+%B DEXA Workshop
+%I IEEE Computer Society
+%P 432-437
+%@ 0-8186-7662-0
+%G eng
+
+%0 Conference Paper
+%B DEXA
+%D 1995
+%T Partial Match Retrieval in Two-Headed Disk Systems
+%A Manolopoulos, Yannis
+%A Athena Vakali
+%E Revell, Norman
+%E Tjoa, A Min
+%B DEXA
+%S Lecture Notes in Computer Science
+%I Springer
+%V 978
+%P 594-603
+%@ 3-540-60303-4
+%G eng
+
+%0 Journal Article
+%J Inf. Process. Lett.
+%D 1991
+%T Seek Distances in Disks with Two Independent Heads Per Surface
+%A Manolopoulos, Yannis
+%A Athena Vakali
+%B Inf. Process. Lett.
+%V 37
+%P 37-42
+%G eng
+

@@ -1,0 +1,23 @@
+%0 Conference Paper
+%B ICIP
+%D 2010
+%T Image clustering through community detection on hybrid image similarity graphs
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Tolias, Giorgos
+%A Kalantidis, Yannis
+%A Mylonas, Phivos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%K community detection
+%K content-based image retrieval
+%K image clustering
+%K tags
+%K visual similarity
+%X <p>The wide adoption of photo sharing applications such as FlickrÂ°cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from FlickrÂ°c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+%B ICIP
+%I IEEE
+%P 2353-2356
+%@ 978-1-4244-7994-8
+%G eng
+

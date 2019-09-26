@@ -1,0 +1,13 @@
+@inproceedings {conf/mediaeval/PapadopoulosZKV11,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	booktitle = {MediaEval},
+	series = {CEUR Workshop Proceedings},
+	volume = {807},
+	year = {2011},
+	publisher = {CEUR-WS.org},
+	organization = {CEUR-WS.org},
+	abstract = {<p>This paper describes the participation of CERTH in the {\^a}{\texteuro}{\'s}SocialEvent Detection Task @ MediaEval 2011{\^a}{\texteuro}{\v t}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Larson, Martha and Rae, Adam and Demarty, Claire-Helene and Kofler, Christoph and Metze, Florian and Troncy, Rapha{\"e}l and Mezaris, Vasileios and Jones, Gareth J. F.}
+}

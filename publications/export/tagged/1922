@@ -1,0 +1,16 @@
+%0 Conference Paper
+%B Workshop on Real-time & Stream Analytics in Big Data
+%D 2016
+%T A multi-layer software architecture framework for adaptive real-time analytics
+%A Athena Vakali
+%A Paschalis Korosoglou
+%A Pavlos Daoglou
+%K big data analytics
+%K cloud based services
+%K real time data management
+%K software architecutures
+%X <p>Highly distributed applications dominate today’s software industry posing new challenges for novel software architectures capable of supporting real time processing and analytics. The proposed framework, so called REAλICS, is motivated by the fact that the demand for aggregating current and past big data streams requires new software methodologies, platforms and services. The proposed framework is designed to tackle with data intensive problems in real time environments, via services built dynamically under a fully scalable and elastic Lambda based architecture. REAλICS proposes a multi-layer software platform, based on the lambda architecture paradigm, for aggregating and synchronizing real time and batch processing. The proposed software layers and adaptive components support quality of experience, along with community driven software development. Flexibility and elasticity are targeted by hiding the complexity of bootstrapping and maintaining a multi level architecture, upon which the end user can drive queries over input data streams. REAλICS proposes a flexible and extensible software architecture that can capture<br />  users preference at the front-end and adapHighly distributed applications dominate today’s software industry posing new challenges for novel software architectures capable of supporting real time processing and analytics. The proposed framework, so called REAλICS, is motivated by the fact that the demand for aggregating current and past big data streams requires new software methodologies, platforms and services. The proposed framework is designed to tackle with data intensive problems in real time environments, via services built dynamically under a fully scalable and elastic Lambda based architecture. REAλICS proposes a multi-layer software platform, based on the lambda architecture paradigm, for aggregating and synchronizing real time and batch<br />  processing. The proposed software layers and adaptive components support quality of experience, along with community<br />  driven software development. Flexibility and elasticity are targeted by hiding the complexity of bootstrapping and maintaining a multi level architecture, upon which the end user can drive queries over input data streams. REAλICS proposes a flexible and extensible software architecture that can capture users preference at the front-end and adapt the appropriate distributed technologies and processes at the back-end. Such a model enables real time analytics in large-scale data driven cloud-based systems.t the appropriate distributed technologies and processes at the back-end. Such a model enables real time analytics in large-scale data driven cloud-based systems.</p>
+%B Workshop on Real-time & Stream Analytics in Big Data
+%C Washington D.C.
+%G eng
+

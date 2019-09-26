@@ -1,0 +1,49 @@
+@proceedings {conf/wise/2014-1,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I},
+	booktitle = {WISE (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8786},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11748-5},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@proceedings {conf/wise/2014-2,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8787},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11745-4},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@inproceedings {conf/webi/GabrielSSV11,
+	title = {Summarization Meets Visualization on Online Social Networks},
+	booktitle = {Web Intelligence},
+	year = {2011},
+	pages = {475-478},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+},
+	keywords = {Clustering, communities, community representatives, social network summarization, social network visualization, Social networks, visualization},
+	isbn = {978-0-7695-4513-4},
+	author = {Gabriel, Hans-Henning and Spiliopoulou, Myra and Stachtiari, Emmanouela and Athena Vakali},
+	editor = {Boissier, Olivier and Benatallah, Boualem and Papazoglou, Mike P. and Ras, Zbigniew W. and Hacid, Mohand-Said}
+}
+@inproceedings {conf/wise/KoutsonikolaPVHB08,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5175},
+	year = {2008},
+	pages = {264-279},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\^a}{\texteuro}{\texttrademark}s market real datasets.</p>
+},
+	isbn = {978-3-540-85480-7},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Hacid, Hakim and Benatallah, Boualem},
+	editor = {Bailey, James and Maier, David and Schewe, Klaus-Dieter and Thalheim, Bernhard and Wang, Xiaoyang Sean}
+}

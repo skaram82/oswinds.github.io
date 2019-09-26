@@ -1,0 +1,10 @@
+@proceedings {journals/tlsdkcs/2014-15,
+	title = {Transactions on Large-Scale Data- and Knowledge-Centered Systems},
+	booktitle = {T. Large-Scale Data- and Knowledge-Centered Systems},
+	series = {Lecture Notes in Computer Science},
+	volume = {8920},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-662-45760-3},
+	editor = {Hameurlain, Abdelkader and K{\"u}ng, Josef and Wagner, Roland and Barbara Catania and Guerrini, Giovanna and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}

@@ -1,0 +1,6 @@
+@inproceedings {1841,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	year = {2000},
+	abstract = {<p>The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\textquotedblleft}popularity{\textquotedblright}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.</p>
+}
+}

@@ -1,0 +1,11 @@
+@inproceedings {conf/wims/PolymerouCV14,
+	title = {EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {20},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Polymerou, Evangelia and Despoina Chatzakou and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}

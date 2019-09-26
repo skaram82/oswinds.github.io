@@ -1,0 +1,39 @@
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Data Stores: Emerging Practices
+%A Athena Vakali
+%A Barbara Catania
+%A Anna Maddalena
+%B IEEE Internet Computing
+%V 9
+%P 62-69
+%G eng
+
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2005
+%T XML document indexes: a classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%K documents indexing
+%K xml
+%X <p>XML’s increasing diffusion makes efficient XML query processing and indexing all the more critical. Given the semistructured nature of XML documents, however, general query processing techniques won’t work. Researchers have proposed several specialized indexing methods that offer query processors efficient access to XML documents, although none are yet fully implemented in commercial products. In this article the classification of XML indexing techniques identifies current practices and trends, offering insight into how developers can improve query processing and select the best solution for particular contexts.</p>
+%B Internet Computing, IEEE
+%V 9
+%P 64–71
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Document Indexes: A Classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%B IEEE Internet Computing
+%V 9
+%P 64-71
+%G eng
+

@@ -1,0 +1,14 @@
+@inproceedings {conf/mir/PapadopoulosZKKV11,
+	title = {City exploration by use of spatio-temporal analysis and clustering of user contributed photos},
+	booktitle = {ICMR},
+	year = {2011},
+	pages = {65},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+},
+	keywords = {Clustering, content browsing, landmark/event detection, spatio-temporal mining},
+	isbn = {978-1-4503-0336-1},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Natale, Francesco G. B. De and Bimbo, Alberto Del and Hanjalic, Alan and Manjunath, B. S. and Satoh, Shin{\textquoteright}ichi}
+}

@@ -1,0 +1,27 @@
+%0 Conference Paper
+%B Web Intelligence
+%D 2011
+%T Summarization Meets Visualization on Online Social Networks
+%A Gabriel, Hans-Henning
+%A Spiliopoulou, Myra
+%A Stachtiari, Emmanouela
+%A Athena Vakali
+%E Boissier, Olivier
+%E Benatallah, Boualem
+%E Papazoglou, Mike P.
+%E Ras, Zbigniew W.
+%E Hacid, Mohand-Said
+%K Clustering
+%K communities
+%K community representatives
+%K social network summarization
+%K social network visualization
+%K Social networks
+%K visualization
+%X <p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+%B Web Intelligence
+%I IEEE Computer Society
+%P 475-478
+%@ 978-0-7695-4513-4
+%G eng
+

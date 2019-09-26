@@ -1,0 +1,39 @@
+﻿/*Εδώ μπαίνουν όσα αφορούν την περιοχή με τα bottom-blocks */
+.bottom-blocks{
+	background-color:#525050;
+	color:#cecece;
+	margin-right:0em;
+	padding:1em;
+	margin-top:1em;
+
+
+}
+
+.bottom-blocks a {
+    color: #ffffff;
+}
+
+div.bottom-first>div>section>h2.block-title, div.bottom-second>div>section>h2.block-title, div.bottom-third>div>section>h2.block-title, div.bottom-forth>div>section>h2.block-title
+ {
+	
+	border-bottom:1px solid rgba(206, 206, 206, 0.23);
+	color:#ffffff;
+	font-size:1.5em;
+	padding:0.5em;
+		
+
+}
+
+div.bottom-first>div>section>p, div.bottom-second>div>section>p,
+div.bottom-third>div>section>p, div.bottom-forth>div>section>p{
+	padding:0.8em;
+
+}
+
+
+.bottom-first, .bottom-second,
+.bottom-third, .bottom-forth{
+	
+	padding:1em;
+
+}

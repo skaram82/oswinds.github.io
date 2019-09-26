@@ -1,0 +1,15 @@
+@inproceedings {conf/mmm/PapadopoulosSKV13,
+	title = {Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs},
+	booktitle = {MMM (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {7732},
+	year = {2013},
+	pages = {1-12},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+},
+	isbn = {978-3-642-35725-1},
+	author = {Symeon Papadopoulos and Sagonas, Christos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Li, Shipeng and El-Saddik, Abdulmotaleb and Wang, Meng and Mei, Tao and Sebe, Nicu and Yan, Shuicheng and Hong, Richang and Gurrin, Cathal}
+}

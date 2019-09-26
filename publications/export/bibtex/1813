@@ -1,0 +1,6 @@
+@article {1813,
+	title = {Integrating Caching Techniques in CDNs using a Classification Approach},
+	year = {2008},
+	abstract = {<p>Content Delivery Networks (CDNs) provide an efficient support for serving {\textquotedblleft}resourcehungry{\textquotedblright}applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN{\textquoteright}s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN{\textquoteright}s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN{\textquoteright}s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+}
+}

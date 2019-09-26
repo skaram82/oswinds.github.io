@@ -1,0 +1,11 @@
+@inbook {books/idea/encyclopedia2005/PallisSV05,
+	title = {Storage and Access Control Issues for XML Documents},
+	booktitle = {Encyclopedia of Information Science and Technology (V)},
+	year = {2005},
+	pages = {2616-2621},
+	publisher = {Idea Group},
+	organization = {Idea Group},
+	isbn = {1-59140-553-X},
+	author = {Pallis, George and Stoupa, Konstantina and Athena Vakali},
+	editor = {Khosrow-Pour, Mehdi}
+}

@@ -1,0 +1,9 @@
+@article {journals/ipl/VakaliM97,
+	title = {An Exact Analysis on Expected Seeks in Shadowed Disks},
+	journal = {Inf. Process. Lett.},
+	volume = {61},
+	number = {6},
+	year = {1997},
+	pages = {323-329},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}

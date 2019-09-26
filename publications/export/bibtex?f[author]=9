@@ -1,0 +1,13 @@
+@inproceedings {conf/pakdd/GiatsoglouCSFV15,
+	title = {Retweeting Activity on Twitter: Signs of Deception},
+	booktitle = {PAKDD (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {9077},
+	year = {2015},
+	pages = {122-134},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-319-18037-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Christos Faloutsos and Athena Vakali},
+	editor = {Cao, Tru and Lim, Ee-Peng and Zhou, Zhi-Hua and Ho, Tu-Bao and Cheung, David and Motoda, Hiroshi}
+}

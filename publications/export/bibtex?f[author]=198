@@ -1,0 +1,63 @@
+@article {journals/tomacs/StamosPVKSM10,
+	title = {CDNsim: A simulation tool for content distribution networks},
+	journal = {ACM Trans. Model. Comput. Simul.},
+	volume = {20},
+	number = {2},
+	year = {2010},
+	abstract = {<p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+},
+	keywords = {caching, Content Distribution Network, services, trace-driven simulation},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@article {journals/tkde/KatsarosPSVSM09,
+	title = {CDNs Content Outsourcing via Generalized Communities},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {21},
+	number = {1},
+	year = {2009},
+	pages = {137-151},
+	abstract = {<p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of {\^a}{\texteuro}{\'s}correlated{\^a}{\texteuro}{\v t} Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+},
+	keywords = {caching, content distribution networks, replication, social network analysis, web communities},
+	author = {Katsaros, Dimitrios and Pallis, George and Stamos, Konstantinos and Athena Vakali and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@article {journals/internet/DikaiakosKMPV09,
+	title = {Cloud Computing: Distributed Internet Computing for IT and Scientific Research},
+	journal = {IEEE Internet Computing},
+	volume = {13},
+	number = {5},
+	year = {2009},
+	pages = {10-13},
+	abstract = {<p>Cloud computing is a recent trend in informationtechnology and networking that has the potentialto change radically the way computer servicesare constructed, managed, and delivered. The key drivingforces behind the emergence of cloud computing includethe overcapacity of today{\^a}{\texteuro}{\texttrademark}s large corporate data centers,the ubiquity of broadband and wireless networking, thefalling cost of storage, and progressive improvements innetworking technologies. Cloud computing opens new perspectiveswith profound implications in the area of communicationnetworks, raising new issues in their architecture,design, and implementation.</p>
+},
+	author = {Dikaiakos, Marios D. and Katsaros, Dimitrios and Mehra, Pankaj and Pallis, George and Athena Vakali}
+}
+@article {journals/www/SidiropoulosPKSVM08,
+	title = {Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing},
+	journal = {World Wide Web},
+	volume = {11},
+	number = {1},
+	year = {2008},
+	pages = {39-70},
+	author = {Sidiropoulos, Antonis and Pallis, George and Katsaros, Dimitrios and Stamos, Konstantinos and Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/icde/PallisSVKS06,
+	title = {Replication Based on Objects Load under a Content Distribution Network},
+	booktitle = {ICDE Workshops},
+	year = {2006},
+	pages = {53},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis},
+	editor = {Barga, Roger S. and Zhou, Xiaofang}
+}
+@inproceedings {conf/la-web/PallisVSSKM05,
+	title = {A Latency-Based Object Placement Approach in Content Distribution Networks},
+	booktitle = {LA-WEB},
+	year = {2005},
+	pages = {140-147},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {0-7695-2471-0},
+	author = {Pallis, George and Athena Vakali and Stamos, Konstantinos and Sidiropoulos, Antonis and Katsaros, Dimitrios and Manolopoulos, Yannis}
+}

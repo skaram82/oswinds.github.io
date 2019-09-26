@@ -1,0 +1,88 @@
+@article {journals/internet/VakaliCM05,
+	title = {XML Data Stores: Emerging Practices},
+	journal = {IEEE Internet Computing},
+	volume = {9},
+	number = {2},
+	year = {2005},
+	pages = {62-69},
+	author = {Athena Vakali and Barbara Catania and Anna Maddalena}
+}
+@article {catania05xml,
+	title = {XML document indexes: a classification},
+	journal = {Internet Computing, IEEE},
+	volume = {9},
+	number = {5},
+	year = {2005},
+	pages = {64{\textendash}71},
+	abstract = {<p>XML{\textquoteright}s increasing diffusion makes efficient XML query processing and indexing all the more critical. Given the semistructured nature of XML documents, however, general query processing techniques won{\textquoteright}t work. Researchers have proposed several specialized indexing methods that offer query processors efficient access to XML documents, although none are yet fully implemented in commercial products. In this article the classification of XML indexing techniques identifies current practices and trends, offering insight into how developers can improve query processing and select the best solution for particular contexts.</p>
+},
+	keywords = {documents indexing, xml},
+	author = {Barbara Catania and Anna Maddalena and Athena Vakali}
+}
+@article {journals/internet/CataniaMV05,
+	title = {XML Document Indexes: A Classification},
+	journal = {IEEE Internet Computing},
+	volume = {9},
+	number = {5},
+	year = {2005},
+	pages = {64-71},
+	author = {Barbara Catania and Anna Maddalena and Athena Vakali}
+}
+@inproceedings {1881,
+	title = {XML-Based Revocation and Delegation in a Distributed Environment},
+	year = {2005},
+	abstract = {<p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+}
+}
+@inproceedings {conf/iceis/ZengLV04,
+	title = {An XML-Based Bootstrapping Method for Pattern Acquisition},
+	booktitle = {ICEIS (2)},
+	year = {2004},
+	pages = {303-308},
+	author = {Zeng, Xingjie and Li, Fang and Zhang, Dongmo and Athena Vakali}
+}
+@inproceedings {1882,
+	title = {A XML-based Bootstrapping Method for Pattern Acquisition},
+	year = {2004},
+	abstract = {<p>Extensible Markup Language (XML) has been widely used as a middleware because of its flexibility. Fixeddomain is one of the bottlenecks of Information Extraction (IE) technologies. In this paper we present aXML-based domain-adaptable bootstrapping method of pattern acquisition, which focuses on minimizingthe cost of domain migration. The approach starts from a seed corpus with some seed patterns; extends thecorpus based on the seed corpus through the Internet and acquires the new patterns from extended corpus.Positive and negative examples classified from training corpus are used to evaluate the patterns acquired.The result shows our method is a practical way in pattern acquisitions.</p>
+}
+}
+@inproceedings {1883,
+	title = {An XML-based Framework for the development of Adaptive Educational Software},
+	year = {2004},
+	abstract = {<p>Large-scale adaptive educational software requires advanced technologicalinfrastructures in order to support various cooperative educational organizations. Thispaper proposes a framework for overcoming the difficulties that arise due to thedistribution and heterogeneity of current collaborative educational technologies. Theproposed framework is based on XML it is of distributive and cooperative naturesince it is characterized by the following:{\textbullet} Each educational organization may plan its development to meet its own needs.{\textbullet} It is possible for each organization to concurrently reuse the software that hasalready been developed by any other organization,{\textbullet} Each organization can combine its own software production, with the productionof other cooperative organizations, in various ways.</p>
+}
+}
+@inproceedings {conf/edbtw/StoupaVLT04,
+	title = {XML-Based Revocation and Delegation in a Distributed Environment},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {299-308},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+},
+	isbn = {3-540-23305-9},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Tsoukalas, Ioannis},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@inproceedings {conf/smc/StoupaV03,
+	title = {An XML-based language for access control specifications in an RBAC environment},
+	booktitle = {SMC},
+	year = {2003},
+	pages = {1717-1722},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Lately, Web-accessed resources havesuperceded the resources accessed by local or wide-areanetworks. Therefore, new mechanisms should beimplemented for protecting resources from unknownclients. Attribute Certificates is a quite new technologyoffering such functionality. Those certificates are issuedby Attribute Authorities validating the attributes of theowner of the certificate. Based on this technology anXML-based access control mechanism is introduced forprotecting any kind of resources (from both known andunknown clients). The proposed model is ultimately rolebasedsince both clients and protected resources areorganized into roles. Moreover, an XML-based languageis introduced to express roles, authorizations, delegationrules, hierarchies and certificates.</p>
+},
+	keywords = {Access control, Attribute Certificates, Role Based Access Control, XML-based language},
+	isbn = {0-7803-7952-7},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {1880,
+	title = {An XML-based Language for Access Control Specifications in an RBAC Environment},
+	year = {2003},
+	abstract = {Lately, Web-accessed resources havesuperceded the resources accessed by local or wide-areanetworks. Therefore, new mechanisms should beimplemented for protecting resources from unknownclients. Attribute Certificates is a quite new technologyoffering such functionality. Those certificates are issuedby Attribute Authorities validating the attributes of theowner of the certificate. Based on this technology anXML-based access control mechanism is introduced forprotecting any kind of resources (from both known andunknown clients). The proposed model is ultimately rolebasedsince both clients and protected resources areorganized into roles. Moreover, an XML-based languageis introduced to express roles, authorizations, delegationrules, hierarchies and certificates.}
+}

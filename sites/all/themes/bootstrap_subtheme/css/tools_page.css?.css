@@ -1,0 +1,131 @@
+/*Description and people*/
+
+.group-tool-description.field-group-div {
+    background-color: #f3f3f3;
+}
+.group-tool-description.field-group-div h3{
+	background-color:#525050;
+	color:white;
+	padding:0.5em;
+	margin-top:0.9em;
+}
+
+.group-tool-people-area.field-group-div{
+	background-color: #f3f3f3;
+
+}
+
+.group-tool-people-area.field-group-div h3{
+	background-color:#525050;
+	color:white;
+	padding:0.5em;
+
+}
+.tool-people{
+	padding:0.5em;
+}
+/*logo center */
+
+div.field.field-name-field-logo-tools-apps.field-type-image.field-label-hidden>div>div>img {
+    /* text-align: center; */
+    display: block;
+    margin: 0 auto;
+}
+.group-tool-logo.field-group-div.row.page-tool-side {
+    border-top: 10px solid #38a3dc;
+}
+
+div.field.field-name-field-get-the-app.field-type-linkimagefield.field-label-hidden.tool-get-app>div>div>a>img {
+    display: block;
+    margin: 0 auto;
+}
+
+div.field-slideshow-wrapper>div {
+    display: block;
+    margin: 1em auto;
+}
+
+
+div.tool-page-img>div>div>img{
+	display: block;
+   
+	margin-top:1em;
+	padding:0;
+	border-top:4px solid #38A3DC;
+
+
+}
+
+.tool-page-bottom-area{
+	
+}
+.page-tool-side{
+	
+    margin: 1em;
+    padding: 0.5em;
+    background-color: #e5e5e5;
+
+
+}
+
+.page-tool-side h3{
+	text-align:center;
+	border-bottom:2px solid #222222;
+	padding-bottom:0.5em;
+	line-height:1.2;
+	margin-top:0;
+
+}
+
+
+.tool-description {
+    /*background-color: #eaeaea;*/
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+.tool-slideshow{
+	margin-bottom:1em;
+
+}
+div.tool-get-app>div.field-label, div.tool-people>div.field-label {
+    background-color: #201f1f;
+    display: inline;
+    color: white;
+    padding: 0.5em;
+    margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+div.tool-get-app>div.field-items, div.tool-people>div.field-items{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+/*view*/
+
+span.tool-title >a{
+	display: block;
+    background-color: #525050;
+    padding: 1em;
+	color:#ffffff;
+	margin:0 auto;
+	max-width:220px;
+	text-align:center;
+	height:80px;
+	
+}
+span.tool-title >a:hover{
+	color:#ffffff;
+	text-decoration:none;
+	background-color:#6d6b6b;
+
+}
+/*center the logo*/
+div.views-field-field-logo-tools-apps>div>a>img {
+    display: block;
+    margin: 0 auto;
+	margin-top:1.5em;
+	padding:0;
+	border-top:4px solid #38A3DC;
+}

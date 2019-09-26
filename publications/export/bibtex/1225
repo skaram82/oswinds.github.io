@@ -1,0 +1,12 @@
+@article {journals/ijwis/KoutsonikolaPVP09,
+	title = {A new approach to web users clustering and validation: a divergence-based scheme},
+	journal = {IJWIS},
+	volume = {5},
+	number = {3},
+	year = {2009},
+	pages = {348-371},
+	abstract = {<p>Purpose {\^a}{\texteuro}{\textquotedblleft} Web users{\^a}{\texteuro}{\texttrademark} clustering is an important mining task since it contributes in identifying usagepatterns, a beneficial task for a wide range of applications that rely on the web. The purpose of thispaper is to examine the usage of Kullback-Leibler (KL) divergence, an information theoretic distance,as an alternative option for measuring distances in web users clustering.Design/methodology/approach {\^a}{\texteuro}{\textquotedblleft} KL-divergence is compared with other well-known distancemeasures and clustering results are evaluated using a criterion function, validity indices, andgraphical representations. Furthermore, the impact of noise (i.e. occasional or mistaken page visits) isevaluated, since it is imperative to assess whether a clustering process exhibits tolerance in noisyenvironments such as the web.Findings {\^a}{\texteuro}{\textquotedblleft} The proposed KL clustering approach is of similar performance when compared withother distance measures under both synthetic and real data workloads. Moreover, imposing extranoise on real data, the approach shows minimum deterioration among most of the other conventionaldistance measures.Practical implications {\^a}{\texteuro}{\textquotedblleft} The experimental results show that a probabilistic measure such asKL-divergence has proven to be quite efficient in noisy environments and thus constitute a goodalternative, the web users clustering problem.Originality/value {\^a}{\texteuro}{\textquotedblleft} This work is inspired by the usage of divergence in clustering of biological dataand it is introduced by the authors in the area of web clustering. According to the experimental resultspresented in this paper, KL-divergence can be considered as a good alternative for measuringdistances in noisy environments such as the web.</p>
+},
+	keywords = {Cluster analysis, Internet Data mining, User studies},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Papadimitriou, Georgios I.}
+}

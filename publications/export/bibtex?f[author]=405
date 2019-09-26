@@ -1,0 +1,11 @@
+@article {1956,
+	title = {DynamiCITY : Revealing city dynamics from citizens social media broadcasts},
+	journal = {Information Systems},
+	year = {2017},
+	pages = {-},
+	keywords = {crowdsourcing, Data Mining, Smart City Applications, Social Data Mining, Urban Dynamics},
+	issn = {0306-4379},
+	doi = {https://doi.org/10.1016/j.is.2017.07.007},
+	url = {http://www.sciencedirect.com/science/article/pii/S0306437917300650},
+	author = {Vasiliki Gkatziaki and Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}

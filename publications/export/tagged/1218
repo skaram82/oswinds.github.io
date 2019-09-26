@@ -1,0 +1,16 @@
+%0 Journal Article
+%J I. J. Knowledge and Web Intelligence
+%D 2009
+%T A fuzzy bi-clustering approach to correlate web users and pages
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%K fuzzy bi-clustering
+%K spectral analysis
+%K web pages
+%K web users
+%X <p>With the rapid development of information technology, thesignificance of clustering in the process of delivering information to users isbecoming more eminent. Especially in the web information space, clusteringanalysis can prove particularly beneficial for a variety of applications such asweb personalisation and profiling, caching and prefetching and content deliverynetworks. In this paper, we propose a bi-clustering approach, which identifiesgroups of related web users and pages. The proposed approach is a three-stepprocess that relies on the principles of spectral clustering analysis and providesa fuzzy relation scheme for the revealed usersâ€™ and pagesâ€™ clusters. Experimentshave been conducted on both synthetic and real datasets to prove the proposedmethodâ€™s efficiency and reveal hidden knowledge.</p>
+%B I. J. Knowledge and Web Intelligence
+%V 1
+%P 3-23
+%G eng
+

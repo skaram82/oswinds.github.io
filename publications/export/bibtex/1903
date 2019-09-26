@@ -1,0 +1,6 @@
+@inproceedings {1903,
+	title = {Towards a user-aware virtual museum},
+	year = {2011},
+	abstract = {<p>The exploration of cultural heritage through welldesignedvirtual worlds has met an increase in popularity withinthe last decade. More and more well-known museums aroundthe globe have started to spend funds in order to build systemswith which users can virtually navigate through the museums{\textquoteright}exhibits. Technological breakthroughs in graphics design and theuse of multimedia content have helped these systems becomemore attractive and easier to use. However, the vast majority ofthese systems are solely there to represent content in an appealingway, with users just having the submissive role of requestinginformation. In this paper, we want to make one step furtherand present a user-aware system for virtual museums. Usersin the proposed system are active users who can express theiropinions in many different ways, enabling us to extract userpreferences on cultural content. We follow a group-based logicin order to capture the underlying differences in user preferencesbetween the groups. We believe that these findings are beneficialfor providing a better user experience and, also, for the museum{\textquoteright}sadministrators who can easily assess user interest about themuseum by analyzing their evaluations.</p>
+}
+}

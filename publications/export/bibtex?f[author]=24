@@ -1,0 +1,12 @@
+@proceedings {conf/adbis/2013-2,
+	title = {New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems},
+	booktitle = {ADBIS (2)},
+	series = {Advances in Intelligent Systems and Computing},
+	volume = {241},
+	year = {2014},
+	month = {04/2013},
+	publisher = {Springer},
+	address = {Genoa, Italy},
+	isbn = {978-3-319-01863-8},
+	editor = {Barbara Catania and Cerquitelli, Tania and Chiusano, Silvia and Guerrini, Giovanna and K{\"a}mpf, Mirko and Kemper, Alfons and Novikov, Boris and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}

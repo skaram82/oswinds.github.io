@@ -1,0 +1,42 @@
+@article {journals/dke/StoupaV06,
+	title = {QoS-oriented negotiation in disk subsystems},
+	journal = {Data Knowl. Eng.},
+	volume = {58},
+	number = {2},
+	year = {2006},
+	pages = {107-128},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {conf/cata/VakaliS01,
+	title = {A QoS based disk subsystem},
+	booktitle = {Computers and Their Applications},
+	year = {2001},
+	pages = {409-412},
+	publisher = {ISCA},
+	organization = {ISCA},
+	isbn = {1-880843-37-4},
+	author = {Athena Vakali and Stupa, Constantina},
+	editor = {Hung, C. C.}
+}
+@inproceedings {1852,
+	title = {A QoS-based Disk Subsystem},
+	year = {2001},
+	abstract = {<p>QoS has been proposed in storage subsystem management towards eective disk space utilization andrequest servicing We present a QoS based storage model for eective user negotiation in terms ofscheduling and the number of storage devices A simulation model is developed based on an available disksimulator which is experimented under articial request workload towards better systems responsiveness performance and functionality Certain remarksand conclusions are raised with respect to the simulated scheduling algorithms and the capacity availableto the clients environment.</p>
+}
+}
+@inproceedings {1887,
+	title = {Querying XML with Constraints},
+	year = {2001},
+	abstract = {<p>XML is a language for the description of structured documents and data. It is on the way to become the new standard for data exchange, publishing, and developing intelligent Web agents. XML is based on the concept of documents composed of a series of entities (i.e., objects). Each entity can contain one or more logical elements. Each of these elements can have certain attributes (properties) that describe the way in which it is to be processed. XML provides a formal syntax for describing the relationships between the entities, elements and attributes that make up an XML document. In this paper, we introduce a framework for querying XML databases by specifying ordering constraints over documents.</p>
+}
+}
+@inproceedings {conf/ic/HacidTV01,
+	title = {Querying XML with Constraints},
+	booktitle = {International Conference on Internet Computing (1)},
+	year = {2001},
+	pages = {171-177},
+	abstract = {<p>XML is a language for the description of structured documents and data. It is on the way to become the new standard for data exchange, publishing, and developing intelligent Web agents. XML is based on the concept of documents composed of a series of entities (i.e., objects). Each entity can contain one or more logical elements. Each of these elements can have certain attributes (properties) that describe the way in which it is to be processed. XML provides a formal syntax for describing the relationships between the entities, elements and attributes that make up an XML document. In this paper, we introduce a framework for querying XML databases by specifying ordering constraints over documents.</p>
+},
+	keywords = {Query Languages Rules, xml},
+	author = {Hacid, Mohand-Said and Terzi, Evimaria and Athena Vakali}
+}

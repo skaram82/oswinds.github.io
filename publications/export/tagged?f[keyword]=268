@@ -1,0 +1,19 @@
+%0 Journal Article
+%J Expert Systems with Applications
+%D 2017
+%T Detecting Variation of Emotions in Online Activities
+%A Despoina Chatzakou
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K Emotion detection
+%K Hybrid process
+%K Lexicon-based approach
+%K Machine learning
+%X <p>Online text sources form evolving large scale data repositories out of which valuable knowledge about human emotions can be derived. Beyond the primary emotions which refer to the global emotional signals, deeper understanding of a wider spectrum of emotions is important to detect online public views and attitudes. The present work is motivated by the need to test and provide a system that categorizes emotion in online activities. Such a system can be beneficial for online services, companies recommendations, and social support communities. The main contributions of this work are to: (a) detect primary emotions, social ones, and those that characterize general affective states from online text sources, (b) compare and validate different emotional analysis processes to highlight the most efficient, and (c) provide a proof of concept case study to monitor and validate online activity, both explicitly and implicitly. The proposed approaches are tested on three datasets collected from different sources, i.e., news agencies, Twitter, and Facebook, and on different languages, i.e., English and Greek. Study results demonstrate that the methodologies at hand succeed to detect a wider spectrum of emotions out of text sources.</p>
+%B Expert Systems with Applications
+%V 89
+%P 318 - 332
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0957417417305213
+%R http://dx.doi.org/10.1016/j.eswa.2017.07.044
+

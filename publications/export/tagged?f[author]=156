@@ -1,0 +1,101 @@
+%0 Journal Article
+%J Expert Systems with Applications
+%D 2017
+%T Detecting Variation of Emotions in Online Activities
+%A Despoina Chatzakou
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K Emotion detection
+%K Hybrid process
+%K Lexicon-based approach
+%K Machine learning
+%X <p>Online text sources form evolving large scale data repositories out of which valuable knowledge about human emotions can be derived. Beyond the primary emotions which refer to the global emotional signals, deeper understanding of a wider spectrum of emotions is important to detect online public views and attitudes. The present work is motivated by the need to test and provide a system that categorizes emotion in online activities. Such a system can be beneficial for online services, companies recommendations, and social support communities. The main contributions of this work are to: (a) detect primary emotions, social ones, and those that characterize general affective states from online text sources, (b) compare and validate different emotional analysis processes to highlight the most efficient, and (c) provide a proof of concept case study to monitor and validate online activity, both explicitly and implicitly. The proposed approaches are tested on three datasets collected from different sources, i.e., news agencies, Twitter, and Facebook, and on different languages, i.e., English and Greek. Study results demonstrate that the methodologies at hand succeed to detect a wider spectrum of emotions out of text sources.</p>
+%B Expert Systems with Applications
+%V 89
+%P 318 - 332
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0957417417305213
+%R http://dx.doi.org/10.1016/j.eswa.2017.07.044
+
+%0 Journal Article
+%J Computers in Human Behavior
+%D 2017
+%T Experience of emotion in face to face and computer-mediated social interactions: An event sampling study
+%A Konstantinos Kafetsios
+%A Despoina Chatzakou
+%A Nikolaos Tsigilis
+%A Athena Vakali
+%K Computer-mediated communication
+%K Emotion
+%K FtF
+%K Internet
+%K Social interaction
+%X <p>The present study compared the experience of emotion in social interactions that take place face to face (FtF), co-presently, and those that take place online, in computer-mediated communications (CMC). For a period of ten days participants reported how intensely they experienced positive and negative emotions in CMC and in FtF interactions they had with persons from their social network. Results from factor analyses discerned a three factor emotion structure (positive, negative, and anxious emotions) that was largely shared between CMC and FtF social interactions. Multilevel analyses of emotion across modes of interaction found that in FtF social encounters participants experienced more positive and less negative emotion and higher satisfaction than in CMC; there was no difference in anxious emotion. Positive, but not negative emotions or anxiety partially mediated levels of satisfaction differences between interactions in CMC and those taking place FtF. The results point to similarities and differences in emotion experience in FtF and CMC, underlining in particular the affiliative function of positive emotion in peoples' encounters.</p>
+%B Computers in Human Behavior
+%V 76
+%P 287 - 293
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0747563217304557
+%R https://doi.org/10.1016/j.chb.2017.07.033
+
+%0 Conference Paper
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%D 2013
+%T Micro-blogging Content Analysis via Emotionally-Driven Clustering
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K affective analysis methodology
+%K Clustering algorithms
+%K content management
+%K content sharing
+%K Dictionaries
+%K emotion intensity monitoring
+%K emotionally-driven clustering
+%K Equations
+%K human emotion states
+%K information sharing
+%K lexicon-based technique
+%K Mathematical model
+%K microblogging content analysis
+%K pattern clustering
+%K people perception
+%K Pragmatics
+%K Semantics
+%K Sentiment analysis
+%K social networking (online)
+%K social pulse
+%K social relations
+%K text analysis
+%K Twitter
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%P 375-380
+%8 Sept
+%G eng
+%R 10.1109/ACII.2013.68
+
+%0 Conference Paper
+%B ACII (1)
+%D 2011
+%T Emotional Aware Clustering on Micro-blogging Sources
+%A Tsagkalidou, Katerina
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%E D’Mello, Sidney K.
+%E Graesser, Arthur C.
+%E Schuller, Björn
+%E Martin, Jean-Claude
+%K Microblogging services
+%K Sentiment analysis
+%K web clustering
+%X <p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+%B ACII (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6974
+%P 387-396
+%@ 978-3-642-24599-2
+%G eng
+

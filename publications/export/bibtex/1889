@@ -1,0 +1,6 @@
+@inproceedings {1889,
+	title = {Performance of Disk Systems with Two Read/write Heads per Surface},
+	year = {1995},
+	abstract = {<p>Our research topic is the performance of two-headed disk systems. Several scheduling algorithms have been adopted to serve read and write requests, and the expected seek has been calculated and compared to that of single-headed disk systems. Data placement schemes have been also studied in conjunction with the scheduling algorithms in order to study the efficiency and fault tolerance of two-headed disk systems. Probability theory and simulation models have been used to achieve results and reach conclusions.</p>
+}
+}

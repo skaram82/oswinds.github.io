@@ -1,0 +1,114 @@
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T Foreword to 3M4City Workshop
+%A Anthopoulos, Leonidas G.
+%A Athena Vakali
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 55
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Journal Article
+%D 2009
+%T A fuzzy bi-clustering approach to correlate web users and pages
+%X <p>With the rapid development of information technology, thesignificance of clustering in the process of delivering information to users isbecoming more eminent. Especially in the web information space, clusteringanalysis can prove particularly beneficial for a variety of applications such asweb personalisation and profiling, caching and prefetching and content deliverynetworks. In this paper, we propose a bi-clustering approach, which identifiesgroups of related web users and pages. The proposed approach is a three-stepprocess that relies on the principles of spectral clustering analysis and providesa fuzzy relation scheme for the revealed users’ and pages’ clusters. Experimentshave been conducted on both synthetic and real datasets to prove the proposedmethod’s efficiency and reveal hidden knowledge.</p>
+%G eng
+
+%0 Journal Article
+%J I. J. Knowledge and Web Intelligence
+%D 2009
+%T A fuzzy bi-clustering approach to correlate web users and pages
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%K fuzzy bi-clustering
+%K spectral analysis
+%K web pages
+%K web users
+%X <p>With the rapid development of information technology, thesignificance of clustering in the process of delivering information to users isbecoming more eminent. Especially in the web information space, clusteringanalysis can prove particularly beneficial for a variety of applications such asweb personalisation and profiling, caching and prefetching and content deliverynetworks. In this paper, we propose a bi-clustering approach, which identifiesgroups of related web users and pages. The proposed approach is a three-stepprocess that relies on the principles of spectral clustering analysis and providesa fuzzy relation scheme for the revealed usersâ€™ and pagesâ€™ clusters. Experimentshave been conducted on both synthetic and real datasets to prove the proposedmethodâ€™s efficiency and reveal hidden knowledge.</p>
+%B I. J. Knowledge and Web Intelligence
+%V 1
+%P 3-23
+%G eng
+
+%0 Journal Article
+%J Neurocomputing
+%D 2009
+%T Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning
+%A Kaburlasos, Vassilis G.
+%A Moussiades, Lefteris
+%A Athena Vakali
+%K Clustering
+%K Fuzzy lattices
+%K Graph partitioning
+%K Metric Measurable path
+%K Similarity measure
+%X <p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+%B Neurocomputing
+%V 72
+%P 2121-2133
+%G eng
+
+%0 Journal Article
+%D 2009
+%T Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning
+%X <p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+%G eng
+
+%0 Conference Paper
+%D 2005
+%T FRES-CAR: An Adaptive Cache Replacement Policy
+%X Caching Web objects has become a common practicetowards improving content delivery and users’ servicing.A Web caching framework is characterized by its cachereplacement policy, which identifies the objects (i.e. theelements on a Web page, which include text, graphics,and scripts) to be replaced in a cache upon a requestarrival. In this paper, we present a cache replacementalgorithm (so-called FRES-CAR), which identifies theobjects that should be evicted by considering togetherthree important criteria: object’s frequency, recency andsize. Experimentation under synthetic workloads hasshown that FRES-CAR achieves higher hit rates whencompared with the most popular and existing algorithms.
+%G eng
+
+%0 Conference Paper
+%B WIRI
+%D 2005
+%T FRES-CAR: An Adaptive Cache Replacement Policy
+%A Pallis, George
+%A Athena Vakali
+%A Sidiropoulos, Eythimis
+%X <p>Caching Web objects has become a common practicetowards improving content delivery and usersâ€™ servicing.A Web caching framework is characterized by its cachereplacement policy, which identifies the objects (i.e. theelements on a Web page, which include text, graphics,and scripts) to be replaced in a cache upon a requestarrival. In this paper, we present a cache replacementalgorithm (so-called FRES-CAR), which identifies theobjects that should be evicted by considering togetherthree important criteria: objectâ€™s frequency, recency andsize. Experimentation under synthetic workloads hasshown that FRES-CAR achieves higher hit rates whencompared with the most popular and existing algorithms.</p>
+%B WIRI
+%I IEEE Computer Society
+%P 74-81
+%@ 0-7695-2414-1
+%G eng
+
+%0 Conference Paper
+%B DEXA Workshops
+%D 2005
+%T Functional Annotation of Genes through Statistical Analysis of Biomedical Articles
+%A Theodosiou, Theodosios
+%A Angelis, Lefteris
+%A Athena Vakali
+%X One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.
+%B DEXA Workshops
+%I IEEE Computer Society
+%P 585-589
+%@ 0-7695-2424-9
+%G eng
+
+%0 Conference Paper
+%D 2005
+%T Functional annotation of genes through statistical analysis of biomedical articles
+%X <p>One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.</p>
+%G eng
+
+%0 Journal Article
+%J Computers & Electrical Engineering
+%D 2001
+%T A feedback-based model for I/O servicing
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%A Pomportsis, Andreas S.
+%B Computers & Electrical Engineering
+%V 27
+%P 309-322
+%G eng
+

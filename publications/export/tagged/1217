@@ -1,0 +1,20 @@
+%0 Conference Paper
+%B Proceedings of the 12th international conference on Data warehousing and knowledge discovery
+%D 2010
+%T A graph-based clustering scheme for identifying related tags in folksonomies
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%K community detection
+%K folksonomies
+%K graph-based clustering
+%K tag recommendation
+%X <p>The paper presents a novel scheme for graph-based clusteringwith the goal of identifying groups of related tags in folksonomies.The proposed scheme searches for core sets, i.e. groups of nodes thatare densely connected to each other by efficiently exploring the twodimensional core parameter space, and successively expands the identified cores by maximizing a local subgraph quality measure. We evaluate this scheme on three real-world tag networks by assessing the relatedness of same-cluster tags and by using tag clusters for tag recommendation. In addition, we compare our results to the ones derived from a baseline graph-based clustering method and from a popular modularity maximization clustering method.</p>
+%B Proceedings of the 12th international conference on Data warehousing and knowledge discovery
+%S DaWaK’10
+%I Springer-Verlag
+%C Berlin, Heidelberg
+%P 65–76
+%@ 3-642-15104-3, 978-3-642-15104-0
+%G eng
+

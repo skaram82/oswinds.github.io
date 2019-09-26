@@ -1,0 +1,6 @@
+@article {1811,
+	title = {The Dynamics of Content Popularity in Social Media},
+	year = {2010},
+	abstract = {<p>Social Bookmarking Systems (SBS) have been widely adopted in the last years, and thus they havehad a significant impact on the way that online content is accessed, read and rated. Until recently,the decision on what content to display in a publisher{\textquoteright}s web pages was made by one or at most fewauthorities. In contrast, modern SBS-based applications permit their users to submit their preferredcontent, to comment on and to rate the content of other users and establish social relations witheach other. In that way, the vision of the social media is realized, i.e. the online users collectivelydecide upon the interestingness of the available bookmarked content. This article attempts to provideinsights into the dynamics emerging from the process of content rating by the user community.To this end, the article proposes a framework for the study of the statistical properties of an SBS,the evolution of bookmarked content popularity and user activity in time, as well as the impact ofonline social networks on the content consumption behavior of individuals. The proposed analysisframework is applied to a large dataset collected from digg, a popular social media application.</p>
+}
+}

@@ -1,0 +1,53 @@
+%0 Conference Paper
+%D 2016
+%T Early Malicious Activity Discovery in Microblogs by Social Bridges Detection
+%A Antonia Gogoglou
+%A Zenonas Theodosiou
+%A Tasos Kounoudes
+%A Athena Vakali
+%A Yannis Manolopoulos
+%X <p>With the emerging and intense use of Online Social Networks (OSNs) amongst young children and teenagers (youngters), safe networking and socializing on the Web has faced extensive scrutiny. Content and interactions which are considered safe for adult OSN users, might embed potentially threatening and malicious information when it comes to underage users. This work is motivated by the strong need to safeguard youngsters OSNs experience such that they can be empowered and aware. The topology of a graph is studied towards detecting the so called social bridges, i.e. the group(s) of malicious users and their supporters, who have links and ties to both honest and malicious user communities. A graph-topology based classification scheme is proposed to detect such bridge linkages which are suspicious for threatening youngsters networking vulnerability. The proposed scheme is validated by a Twitter network, at which potentially dangerous users are identified based on their Twitter connections. The achieved performance is higher compared to previous efforts, despite the increased complexity due to the variety of groups identified as malicious.</p>
+%I 16th International Symposium on Signal Processing and Information Technology
+%C Limassol, Cyprus
+%G eng
+
+%0 Conference Proceedings
+%B Advances in Intelligent Systems and Computing
+%D 2015
+%T New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II
+%E Nick Bassiliades
+%E Mirjana Ivanovic
+%E Margita Kon-Popovska
+%E Yannis Manolopoulos
+%E Themis Palpanas
+%E Goce Trajcevski
+%E Athena Vakali
+%B Advances in Intelligent Systems and Computing
+%S 
+%I Springer
+%V 312
+%@ 978-3-319-10517-8
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-10518-5
+%R 10.1007/978-3-319-10518-5
+
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers
+%E Boualem Benatallah
+%E Azer Bestavros
+%E Barbara Catania
+%E Armin Haller
+%E Yannis Manolopoulos
+%E Athena Vakali
+%E Yanchun Zhang
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9051
+%@ 978-3-319-20369-0
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-20370-6
+%R 10.1007/978-3-319-20370-6
+

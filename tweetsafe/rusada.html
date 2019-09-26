@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="OSWINDS">
+    <meta name="keyword" content="Doping, Sports, Analytics, Data, Twitter, YouTube, Corruption, Match, Jones, Marion, Lois, Thompson, Track, Field, Running">
+
+    <title>TWEETSAFE</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!--external css-->
+    <link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
+    <link rel="stylesheet" href="http://cdn.anychart.com/css/latest/anychart-ui.css">
+    <script src="http://cdn.wordart.com/wordart.min.js" async defer></script>
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/style-responsive.css" rel="stylesheet">
+
+    <script src="http://cdn.anychart.com/js/latest/anychart.min.js" type="text/javascript"></script>
+    <script src="http://cdn.anychart.com/js/latest/anymap.min.js" type="text/javascript"></script>
+    <script src="http://cdn.anychart.com/geodata/1.2.0/custom/world_source/world_source.js"></script>
+
+    <script src="http://oswinds.csd.auth.gr/tweetsafe/assets/js/customJS.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+  <section id="container" >
+      <!-- **********************************************************************************************************************************************************
+      TOP BAR CONTENT & NOTIFICATIONS
+      *********************************************************************************************************************************************************** -->
+      <!--header start-->
+      <header class="header black-bg">
+              <div class="sidebar-toggle-box">
+                  <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
+              </div>
+            <!--logo start-->
+            <a href="index.html" class="logo"><b>ANTI-DOPING TWITTER</b></a>
+            <!--logo end-->
+            <div class="nav notify-row" id="top_menu">
+            </div>
+            <div class="top-menu">
+              <ul class="nav pull-right top-menu">
+                <div class="row">made by <a href="../index.html" class="top-menu-oswinds" target="_blank">OSWINDS</a></div>
+                <div class="row top-menu-social-media">
+                  <a href="https://github.com/OSWINDS" target="_blank"><i class="fa fa-github pull-right"></i></a>
+                  <a href="rusada.html#" target="_blank"><i class="fa fa-linkedin pull-right"></i></a>
+                  <a href="https://www.facebook.com/oswinds/" target="_blank"><i class="fa fa-facebook pull-right"></i></a>
+                  <a href="https://twitter.com/oswinds_auth" target="_blank"><i class="fa fa-twitter pull-right"></i></a>
+                </div>
+              </ul>
+            </div>
+        </header>
+      <!--header end-->
+
+      <!-- **********************************************************************************************************************************************************
+      MAIN SIDEBAR MENU
+      *********************************************************************************************************************************************************** -->
+      <!--sidebar start-->
+      <aside>
+          <div id="sidebar"  class="nav-collapse ">
+              <!-- sidebar menu start-->
+              <ul class="sidebar-menu" id="nav-accordion">
+
+                  <li class="mt">
+                      <a href="index.html">
+                          <i class="fa fa-home"></i>
+                          <span>Home</span>
+                      </a>
+                  </li>
+
+                  <li class="sub-menu">
+                      <a class="active" href="javascript:;" >
+                          <i class="fa fa-bar-chart"></i>
+                          <span>Cases</span>
+                      </a>
+                      <ul class="sub">
+                          <li><a  href="general.html">General</a></li>
+                          <li><a  href="substances.html">Substances</a></li>
+                          <li><a  href="sharapova.html">M. Sharapova</a></li>
+                          <li><a  href="meldonium.html">Meldonium</a></li>
+                          <li><a  href="armstrong.html">L. Armstrong</a></li>
+                          <li><a  href="gay.html">T. Gay</a></li>
+                          <li><a  href="jones.html">M. Jones</a></li>
+                          <li class="active"><a  href="rusada.html">Rusada Scandal</a></li>
+                          <li><a  href="fancy_bears.html">Fancy Bears</a></li>
+                      </ul>
+                  </li>
+
+                  <li class="sub-menu">
+                    <a href="lexicon.php.html">
+                      <i class="fa fa-book"></i>
+                      <span>Lexicon</span>
+                    </a>
+                  </li>
+
+                  <li class="sub-menu">
+                      <a href="about.html">
+                          <i class="fa fa-desktop"></i>
+                          <span>About</span>
+                      </a>
+                  </li>
+
+              </ul>
+              <!-- sidebar menu end-->
+          </div>
+      </aside>
+      <!--sidebar end-->
+
+      <!-- **********************************************************************************************************************************************************
+      MAIN CONTENT
+      *********************************************************************************************************************************************************** -->
+      <!--main content start-->
+      <section id="main-content">
+          <section class="wrapper site-min-height">
+              <h2><i class="fa fa-angle-right"></i> Rusada Scandal Case</h2>
+
+              <!-- FIRST ROW: INTRO / LINE CHART / TAG CLOUD / INFOBOX -->
+              <div class="row mt">
+                  <div class="col-lg-9 col-md-9 col-sm-9">
+                    <!-- INTRO TO THE CASE -->
+                    <div class="row">
+                      <p class="intro intro-cases">
+                        Following allegations made by German broadcaster ARD in 2014, WADA commissioned a report into doping and associated corruption in Russian athletics. The report, published in November 2015, was highly critical of RUSADA and the All-Russia Athletic Federation (ARAF), as well as singling out several individuals for doping offences. It concluded that RUSADA was under improper influence from the Russian Ministry of Sport. They further alleged that the agency and its employees athletes gave advance notice of tests to athletes and "routinely" took bribes to cover up doping. On 18 November 2015, WADA suspended laboratory of RUSADA – Moscow Anti-Doping Laboratory, however the organization was not dissolved and tests are to be done by other independent labs. In February 2016, two high-ranking directors of the organisation — Vyacheslav Sinyev and Nikita Kamayev — died. According to Sunday Times, Kamayev approached the news agency shortly before his death planning to publish a book on "the true story of sport pharmacology and doping in Russia since 1987".
+                      </p>
+                      <p class="query-words">
+                          Query Words:
+        				<span class="label label-danger">rusada scandal</span>
+                      </p>
+                    </div>
+                    <!-- TWEETS PER MONTH PLOT -->
+                    <div class="row mt case-charts">
+                      <h4><i class="fa fa-angle-right"></i> Tweets per Month <i class="fa fa-info-circle infopop-icon"></i> </h4>
+                      <div class="infopop">
+                          <p>Contains the count of tweets submitted every month during the researching period.</p>
+                      </div>
+                      <div class="panel-body">
+                          <div id="date-graph" class="graph"></div>
+                      </div>
+                    </div>
+                    <!-- SENTIMENT PER MONTH PLOT -->
+                    <div class="row mt case-charts">
+                      <h4><i class="fa fa-angle-right"></i> Sentiment per Month <i class="fa fa-info-circle infopop-icon"></i> </h4>
+                      <div class="infopop">
+                          <p>Contains information about the scores of six basic sentiments (Anger, Disgust, Fear, Joy, Sadness &amp; Surprise), on each month.</p>
+                      </div>
+                      <div class="panel-body">
+                        <div id="sentiment-graph" class="graph"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-3">
+                      <!-- GENERAL INFO -->
+                      <div class="content-panel case-right">
+                        <h4><i class="fa fa-angle-right"></i> Infobox</h4>
+                        <div class="panel-body ">
+                          <div class="row panel-body-less-padding">
+                              <div class="box0 box1">
+                                  <span class="fa fa-twitter"></span>
+                                  <h3>4776</h3>
+                                  <p>4776 distinct tweets</p>
+                              </div>
+                          </div>
+                          <div class="row">
+                              <div class="box0 box1">
+                                  <span class="fa fa-youtube"></span>
+                                  <h3>0</h3>
+                                  <p>0 distinct Youtube comments</p>
+                              </div>
+                          </div>
+                          <div class="row">
+                               <div class="box0 box1">
+                                    <span class="fa fa-user"></span>
+                                    <h3>3055</h3>
+                                    <p>3055 distinct users</p>
+                                </div>
+                          </div>
+                          <div class="row">
+                                <div class="box0 box1">
+                                    <span class="fa fa-list"></span>
+                                    <h3>11452</h3>
+                                    <p>11452 distinct words</p>
+                                </div>
+                          </div>
+                          <div class="row">
+                              <div class="box0 box1">
+                                  <span class="fa fa-calendar-o"></span>
+                                  <h4>01/11/2015 to 15/12/2017</h4>
+                                  <p>The time frame of the data is 26 months</p>
+                              </div>
+                          </div>
+                          <!-- SENTIMENT ANALYSIS SCORES -->
+                          <div class="row">
+                              <div class="box0 box1 box-SA">
+                                  <h3>Sentiment: <span style="font-size: 32px; color: #ac92ec;">Fear</span></h3>
+                                  <p>The overall score of our sentiment analysis indicated the main sentiment of the users was Fear.</p>
+                              </div>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                </div>
+
+
+                <!-- SECOND ROW: TAG CLOUD - WORDS -->
+                <div class="row mt case-charts">
+                    <!-- TAG CLOUD - WORDS -->
+                    <div class="col-md-9">
+                        <h4><i class="fa fa-angle-right"></i> Most Frequent Words <i class="fa fa-info-circle infopop-icon"></i> </h4>
+                        <div class="infopop">
+                            <p>Contains the most frequent distinct words as extracted from the final data. The table shows the top-10 words along with their frequencies.</p>
+                        </div>
+                        <div class="tag-cloud">
+                            <div data-wordart-src="//cdn.wordart.com/json/p92zsxawu47q"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                      <table class="table table-hover mt">
+                          <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Word</th>
+                                <th>Frequency</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>rusada</td>
+                                <td>4236</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>doping</td>
+                                <td>1224</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>wada</td>
+                                <td>897</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>la</td>
+                                <td>595</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>anti</td>
+                                <td>581</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>de</td>
+                                <td>574</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>russia</td>
+                                <td>494</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>twitter</td>
+                                <td>459</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>russian</td>
+                                <td>449</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>agency</td>
+                                <td>313</td>
+                            </tr>
+                          </tbody>
+                      </table>
+                    </div>
+                </div>
+
+                <!-- THIRD ROW: TAG CLOUDS - HASHTAGS -->
+                <div class="row mt case-charts">
+                  <!-- TAG CLOUD - HASHTAGS -->
+                  <div class="col-md-9">
+                    <h4><i class="fa fa-angle-right"></i> Most Frequent Hashtags <i class="fa fa-info-circle infopop-icon"></i> </h4>
+                    <div class="infopop">
+                        <p>Contains the most frequent distinct hashtags as extracted from the final data. The table shows the top-10 hashtags along with their frequencies.</p>
+                    </div>
+                    <div class="tag-cloud">
+                        <div data-wordart-src="//cdn.wordart.com/json/yd2kt0wu22t9" ></div>
+                    </div>
+                  </div>
+                  <!-- TABLE OF MOST FREQUENT HASHTAGS -->
+                  <div class="col-md-3">
+                    <table class="table table-hover mt">
+                        <thead>
+                          <tr>
+                              <th>#</th>
+                              <th>Hashtag</th>
+                              <th>Frequency</th>
+                          </tr>
+                        </thead>
+                        <tbody id="most_frequent_hashtags">
+                          <tr>
+                              <td>1</td>
+                              <td>#RUSADA</td>
+                              <td>265</td>
+                          </tr>
+                          <tr>
+                              <td>2</td>
+                              <td>#doping</td>
+                              <td>147</td>
+                          </tr>
+                          <tr>
+                              <td>3</td>
+                              <td>#WADA</td>
+                              <td>122</td>
+                          </tr>
+                          <tr>
+                              <td>4</td>
+                              <td>#Rusada</td>
+                              <td>100</td>
+                          </tr>
+                          <tr>
+                              <td>5</td>
+                              <td>#Russia</td>
+                              <td>87</td>
+                          </tr>
+                          <tr>
+                              <td>6</td>
+                              <td>#Doping</td>
+                              <td>87</td>
+                          </tr>
+                          <tr>
+                              <td>7</td>
+                              <td>#rusada</td>
+                              <td>85</td>
+                          </tr>
+                          <tr>
+                              <td>8</td>
+                              <td>#avmro</td>
+                              <td>47</td>
+                          </tr>
+                          <tr>
+                              <td>9</td>
+                              <td>#wada</td>
+                              <td>38</td>
+                          </tr>
+                          <tr>
+                              <td>10</td>
+                              <td>#IAAF</td>
+                              <td>28</td>
+                          </tr>
+                        </tbody>
+                    </table>
+                  </div>
+                </div>
+
+                <!-- FIFTH ROW: TAG CLOUDS -  USERS -->
+                <div class="row mt case-charts">
+                    <div class="col-md-9">
+                        <h4><i class="fa fa-angle-right"></i> Most Frequent Users <i class="fa fa-info-circle infopop-icon"></i> </h4>
+                        <div class="infopop">
+                            <p>Contains the most frequent Twitter users as extracted from the final data. The table shows the top-10 users along with their frequencies.</p>
+                        </div>
+                        <!-- TAG CLOUD - USERS -->
+                        <div class="tag-cloud">
+                            <div data-wordart-src="//cdn.wordart.com/json/9mguhpu3m03h"></div>
+                        </div>
+                    </div>
+                    <!-- TABLE OF MOST FREQUENT USERS -->
+                    <div class="col-md-3">
+                        <table class="table table-hover mt">
+                            <thead>
+                              <tr>
+                                  <th>#</th>
+                                  <th>User</th>
+                                  <th>Frequency</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                  <td>1</td>
+                                  <td>@rusadasoftware</td>
+                                  <td>191</td>
+                              </tr>
+                              <tr>
+                                  <td>2</td>
+                                  <td>@ringsau</td>
+                                  <td>50</td>
+                              </tr>
+                              <tr>
+                                  <td>3</td>
+                                  <td>@rusada</td>
+                                  <td>47</td>
+                              </tr>
+                              <tr>
+                                  <td>4</td>
+                                  <td>@Sport_Integrity</td>
+                                  <td>45</td>
+                              </tr>
+                              <tr>
+                                  <td>5</td>
+                                  <td>@insidethegames</td>
+                                  <td>40</td>
+                              </tr>
+                              <tr>
+                                  <td>6</td>
+                                  <td>@russia_jp</td>
+                                  <td>30</td>
+                              </tr>
+                              <tr>
+                                  <td>7</td>
+                                  <td>@RAnneShirley</td>
+                                  <td>28</td>
+                              </tr>
+                              <tr>
+                                  <td>8</td>
+                                  <td>@Wordnewus</td>
+                                  <td>27</td>
+                              </tr>
+                              <tr>
+                                  <td>9</td>
+                                  <td>@hajoseppelt</td>
+                                  <td>23</td>
+                              </tr>
+                              <tr>
+                                  <td>10</td>
+                                  <td>@RAnneShirley</td>
+                                  <td>22</td>
+                              </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- FOURTH ROW: TAG CLOUDS -  MENTIONS -->
+                <div class="row mt case-charts">
+                    <div class="col-md-9">
+                        <h4><i class="fa fa-angle-right"></i> Most Frequent Mentions <i class="fa fa-info-circle infopop-icon"></i> </h4>
+                        <div class="infopop">
+                            <p>Contains the most frequent Twitter mentions as extracted from the final data. The table shows the top-10 mentions along with their frequencies.</p>
+                        </div>
+                        <!-- TAG CLOUD - MENTIONS -->
+                        <div class="tag-cloud">
+                            <div data-wordart-src="//cdn.wordart.com/json/fclohetg1vc3"></div>
+                        </div>
+                    </div>
+                      <!-- TABLE OF MOST FREQUENT USERS -->
+                      <div class="col-md-3">
+                        <table class="table table-hover mt">
+                            <thead>
+                              <tr>
+                                  <th>#</th>
+                                  <th>Mention</th>
+                                  <th>Frequency</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                  <td>1</td>
+                                  <td>@rusada</td>
+                                  <td>227</td>
+                              </tr>
+                              <tr>
+                                  <td>2</td>
+                                  <td>@wada_ama</td>
+                                  <td>160</td>
+                              </tr>
+                              <tr>
+                                  <td>3</td>
+                                  <td>@rusadasoftware</td>
+                                  <td>104</td>
+                              </tr>
+                              <tr>
+                                  <td>4</td>
+                                  <td>@rusada_russia</td>
+                                  <td>70</td>
+                              </tr>
+                              <tr>
+                                  <td>5</td>
+                                  <td>@yelenaisinbaeva</td>
+                                  <td>33</td>
+                              </tr>
+                              <tr>
+                                  <td>6</td>
+                                  <td>@OpsMRO_ITConf</td>
+                                  <td>32</td>
+                              </tr>
+                              <tr>
+                                  <td>7</td>
+                                  <td>@ringsau</td>
+                                  <td>29</td>
+                              </tr>
+                              <tr>
+                                  <td>8</td>
+                                  <td>@RAnneShirley</td>
+                                  <td>26</td>
+                              </tr>
+                              <tr>
+                                  <td>9</td>
+                                  <td>@nytimes</td>
+                                  <td>21</td>
+                              </tr>
+                              <tr>
+                                  <td>10</td>
+                                  <td>@hajoseppelt</td>
+                                  <td>19</td>
+                              </tr>
+                            </tbody>
+                        </table>
+                      </div>
+                </div>
+
+      <!--main content end-->
+      <!--footer start-->
+      <footer class="site-footer">
+          <div class="text-center">
+              © 2017 <a href="../index.html" target="_blank">OSWINDS</a>, Source Code can be found <a href="https://github.com/OSWINDS/TweetSafe" target="_blank">here</a>
+              <a href="rusada.html#" class="go-top">
+                  <i class="fa fa-angle-up"></i>
+              </a>
+          </div>
+      </footer>
+      <!--footer end-->
+  </section>
+
+  <!-- js placed at the end of the document so the pages load faster -->
+  <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="http://oswinds.csd.auth.gr/tweetsafe/assets/js/jquery-ui-1.9.2.custom.min.js"></script>
+  <script src="http://oswinds.csd.auth.gr/tweetsafe/assets/js/jquery.ui.touch-punch.min.js"></script>
+  <script class="include" type="text/javascript" src="assets/js/jquery.dcjqaccordion.2.7.js"></script>
+  <script src="assets/js/jquery.scrollTo.min.js"></script>
+  <script src="assets/js/jquery.nicescroll.js" type="text/javascript"></script>
+
+
+  <!--common script for all pages-->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>
+  <script src="assets/js/common-scripts.js"></script>
+
+  <!--script for this page-->
+  <script src="http://oswinds.csd.auth.gr/tweetsafe/assets/js/morris/morris-rusada.js"></script>
+
+  </body>
+</html>

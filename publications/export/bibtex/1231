@@ -1,0 +1,11 @@
+@inproceedings {conf/hpdc/FortinoMPV09,
+	title = {Next generation content networks: trends and challenges},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {49},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-60558-591-8},
+	author = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}

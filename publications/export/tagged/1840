@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 1999
+%T A Webbased evolutionary model for Internet Data Caching
+%X <p>Caching is a standard solution to the problem of insufcient bandwidth caused by the rapid increase of information circulation across the Internet Cache consistency mechanisms are a crucial component of eachcache scheme inuencing the cache usefulness and reliability This paper presents a model for optimizingInternet cache content by the use of a genetic algorithm and examines the model by tracedrivenexperiments Cached data are considered as a populationevolving over simulated time by a number of successive cache generations The model is tested by theuse of traces provided by a Squid proxy cache serverUsing tracedrivencaching we show that the proposed evolutionary mechanisms improve cache nonstaleness and consistency and result in an updatedcache content.</p>
+%G eng
+

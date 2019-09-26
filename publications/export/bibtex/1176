@@ -1,0 +1,11 @@
+@article {journals/internet/GiatsoglouV13,
+	title = {Capturing Social Data Evolution Using Graph Clustering},
+	journal = {IEEE Internet Computing},
+	volume = {17},
+	number = {1},
+	year = {2013},
+	pages = {74-79},
+	abstract = {<p>The fast and unpredictable evolution of social data poses challenges for capturing user activities and complex associations. Evolving social graph clustering promises to uncover the dynamics of latent user and content patterns.</p>
+},
+	author = {Maria Giatsoglou and Athena Vakali}
+}

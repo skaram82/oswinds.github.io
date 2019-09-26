@@ -1,0 +1,10 @@
+@inproceedings {conf/smc/PallisAVP04,
+	title = {A probabilistic validation algorithm for Web users{\textquoteright} clusters},
+	booktitle = {SMC (5)},
+	year = {2004},
+	pages = {4129-4134},
+	publisher = {IEEE},
+	organization = {IEEE},
+	isbn = {0-7803-8566-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali and Pokorny, Jaroslav}
+}

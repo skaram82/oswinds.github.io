@@ -1,0 +1,9 @@
+@article {journals/sigecom/VakaliAP01,
+	title = {Internet based auctions: a survey on models and applications},
+	journal = {SIGecom Exchanges},
+	volume = {2},
+	number = {2},
+	year = {2001},
+	pages = {6-15},
+	author = {Athena Vakali and Angelis, Lefteris and Pournara, Dimitra}
+}

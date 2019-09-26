@@ -1,0 +1,38 @@
+%0 Conference Paper
+%B ICT-GLOW
+%D 2011
+%T Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation
+%A ul Islam, Saif
+%A Stamos, Konstantinos
+%A Pierson, Jean-Marc
+%A Athena Vakali
+%E Kranzlmller, Dieter
+%E Tjoa, A Min
+%K CDNs
+%K Energy conservation
+%K QoE
+%X <p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+%B ICT-GLOW
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6868
+%P 180-187
+%@ 978-3-642-23446-0
+%G eng
+
+%0 Conference Paper
+%B DEXA
+%D 1995
+%T Partial Match Retrieval in Two-Headed Disk Systems
+%A Manolopoulos, Yannis
+%A Athena Vakali
+%E Revell, Norman
+%E Tjoa, A Min
+%B DEXA
+%S Lecture Notes in Computer Science
+%I Springer
+%V 978
+%P 594-603
+%@ 3-540-60303-4
+%G eng
+

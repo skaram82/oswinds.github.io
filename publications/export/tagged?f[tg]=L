@@ -1,0 +1,147 @@
+%0 Generic
+%D 2018
+%T Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
+%A Antigoni-Maria Founta
+%A Constantinos Djouvas
+%A Despoina Chatzakou
+%A Ilias Leontiadis
+%A Jeremy Blackburn
+%A Gianluca Stringhini
+%A Athena Vakali
+%A Michael Sirivianos
+%A Nicolas Kourtellis
+%X <p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+%S ICWSM-18
+%I AAAI
+%C Stanford, California
+
+%0 Book Section
+%B Next Generation Data Technologies for Collective Computational Intelligence
+%D 2011
+%T Leveraging Massive User Contributions for Knowledge Extraction
+%A Nikolopoulos, Spiros
+%A Chatzilari, Elisavet
+%A Giannakidou, Eirini
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Bessis, Nik
+%E Xhafa, Fatos
+%B Next Generation Data Technologies for Collective Computational Intelligence
+%S Studies in Computational Intelligence
+%I Springer
+%V 352
+%P 415-443
+%@ 978-3-642-20343-5
+%G eng
+
+%0 Unpublished Work
+%D 2009
+%T Leveraging Collective Intelligence through Community Detection in Tag Networks
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%K collective intelligence
+%K community detection
+%K tag networks
+%X <p>The paper studies the problem of community detectionin tag networks, i.e. networks consisting of associationsbetween tags that are used within Social Tagging Systems(STS) to annotate online resources (e.g. bookmarks,pictures, videos, etc.). Community detectionmethods aim at uncovering densely connected groupsof tags, which can reveal the topic structure emergingin the STS. In this way, community detection in tagnetworks leverages Collective Intelligence (CI), that isthe intelligence that is accumulated as a result of thecollective activities of masses of users.</p>
+%G eng
+
+%0 Conference Paper
+%D 2009
+%T Leveraging Collective Intelligence through Community Detection in Tag Networks
+%X <p>The paper studies the problem of community detectionin tag networks, i.e. networks consisting of associationsbetween tags that are used within Social Tagging Systems(STS) to annotate online resources (e.g. bookmarks,pictures, videos, etc.). Community detectionmethods aim at uncovering densely connected groupsof tags, which can reveal the topic structure emergingin the STS. In this way, community detection in tagnetworks leverages Collective Intelligence (CI), that isthe intelligence that is accumulated as a result of thecollective activities of masses of users.</p>
+%G eng
+
+%0 Conference Paper
+%B LA-WEB
+%D 2005
+%T A Latency-Based Object Placement Approach in Content Distribution Networks
+%A Pallis, George
+%A Athena Vakali
+%A Stamos, Konstantinos
+%A Sidiropoulos, Antonis
+%A Katsaros, Dimitrios
+%A Manolopoulos, Yannis
+%B LA-WEB
+%I IEEE Computer Society
+%P 140-147
+%@ 0-7695-2471-0
+%G eng
+
+%0 Conference Paper
+%D 2005
+%T A Logic Based Approach for the Multimedia Data Representation and Retrieval
+%X <p>Nowadays, the amount of multimedia data is increasingrapidly, and hence, there is an increasing need for efficientmethods to manage the multimedia content. This paper proposesa framework for the description and retrieval of multimediadata. The data are represented at both the syntactic(structure, metadata and low level features) and semantic(the meaning of the data) levels. We use the MPEG-7 standard,which provides a set of tools to describe multimediacontent from different viewpoints, to represent the syntacticlevel. However, due to its XML Schema based representation,MPEG-7 is not suitable to represent the semanticaspect of the data in a formal and concise way. Moreover,inferential mechanisms are not provided. To alleviate theselimitations, we propose to extend MPEG-7 with a domainontology, formalized using a logical formalism. Then, thesemantic aspect of the data is described using the ontology’svocabulary, as a set of logical expressions. We enhancethe ontology by a rules layer, to describe more complexconstraints between domain concepts and relations.User’s queries may concern the syntactic and/or semanticfeatures. The syntactic constraints are expressed usingXQuery language and evaluated using an XML query engine;whereas the semantic query constraints are expressedusing a rules language and evaluated using a specific resolutionmechanism.</p>
+%G eng
+
+%0 Conference Paper
+%B ISM
+%D 2005
+%T A Logic Based Approach for the Multimedia Data Representation and Retrieval
+%A Hammiche, Samira
+%A Benbernou, Salima
+%A Athena Vakali
+%X Nowadays, the amount of multimedia data is increasingrapidly, and hence, there is an increasing need for efficientmethods to manage the multimedia content. This paper proposesa framework for the description and retrieval of multimediadata. The data are represented at both the syntactic(structure, metadata and low level features) and semantic(the meaning of the data) levels. We use the MPEG-7 standard,which provides a set of tools to describe multimediacontent from different viewpoints, to represent the syntacticlevel. However, due to its XML Schema based representation,MPEG-7 is not suitable to represent the semanticaspect of the data in a formal and concise way. Moreover,inferential mechanisms are not provided. To alleviate theselimitations, we propose to extend MPEG-7 with a domainontology, formalized using a logical formalism. Then, thesemantic aspect of the data is described using the ontologyâ€™svocabulary, as a set of logical expressions. We enhancethe ontology by a rules layer, to describe more complexconstraints between domain concepts and relations.Userâ€™s queries may concern the syntactic and/or semanticfeatures. The syntactic constraints are expressed usingXQuery language and evaluated using an XML query engine;whereas the semantic query constraints are expressedusing a rules language and evaluated using a specific resolutionmechanism.
+%B ISM
+%I IEEE Computer Society
+%P 241-248
+%@ 0-7695-2489-3
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2004
+%T LDAP: Framework, Practices, and Trends
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%B IEEE Internet Computing
+%V 8
+%P 66-72
+%G eng
+
+%0 Journal Article
+%J Neurocomputing
+%D 2004
+%T A learning-automata-based controller for client/server systems
+%A Papadimitriou, Georgios I.
+%A Athena Vakali
+%A Pomportsis, Andreas S.
+%K client/server systems
+%K learning automata
+%K polling policies
+%K throughput improvement
+%K time-delay
+%X <p>Polling policies have been introduced to simplifythe accessing process in client/server systems by acentralized control access scheme. This paper considers aclient/server model which employs a polling policy as itsaccess strategy. We propose a learning-automata-based approachfor polling in order to improve the throughput-delayperformance of the system. Each client has an associatedqueue and the server performs selective polling such thatthe next client to be served is identified by a learning automaton.The learning automaton updates each clientâ€™schoice probability according to the feedback information.Under the considered approach, a clientâ€™s choice probabilityasymptotically tends to be proportional to the probabilitythat this client is ready. Simulation results have shown thatthe proposed polling policy is beneficial in comparison tothe conventional round-robin polling when operating underbursty traffic conditions. The benefits are significant for thedelay reduction in the considered client/server system.</p>
+%B Neurocomputing
+%V 61
+%P 381-394
+%G eng
+
+%0 Conference Paper
+%D 2000
+%T LRU-based algorithms for Web Cache Replacement
+%X <p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase system’s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+%G eng
+
+%0 Conference Paper
+%B EC-Web
+%D 2000
+%T LRU-based Algorithms for Web Cache Replacement
+%A Athena Vakali
+%E Bauknecht, Kurt
+%E Sanjay Kumar Madria
+%E Pernul, Günther
+%K Cache consistency
+%K Cache replacement algorithms
+%K Web caching and proxies
+%K Web-based information systems
+%X <p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase systemâ€™s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+%B EC-Web
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1875
+%P 409-418
+%@ 3-540-67981-2
+%G eng
+

@@ -1,0 +1,5 @@
+@inproceedings {1880,
+	title = {An XML-based Language for Access Control Specifications in an RBAC Environment},
+	year = {2003},
+	abstract = {Lately, Web-accessed resources havesuperceded the resources accessed by local or wide-areanetworks. Therefore, new mechanisms should beimplemented for protecting resources from unknownclients. Attribute Certificates is a quite new technologyoffering such functionality. Those certificates are issuedby Attribute Authorities validating the attributes of theowner of the certificate. Based on this technology anXML-based access control mechanism is introduced forprotecting any kind of resources (from both known andunknown clients). The proposed model is ultimately rolebasedsince both clients and protected resources areorganized into roles. Moreover, an XML-based languageis introduced to express roles, authorizations, delegationrules, hierarchies and certificates.}
+}

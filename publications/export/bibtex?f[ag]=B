@@ -1,0 +1,402 @@
+@article {1968,
+	title = {Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior},
+	year = {2018},
+	publisher = {AAAI},
+	address = {Stanford, California},
+	abstract = {<p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+},
+	author = {Antigoni-Maria Founta and Constantinos Djouvas and Despoina Chatzakou and Ilias Leontiadis and Jeremy Blackburn and Gianluca Stringhini and Athena Vakali and Michael Sirivianos and Nicolas Kourtellis}
+}
+@proceedings {1953,
+	title = {Class-based Prediction Errors to Categorize Text with Out-of-vocabulary Words},
+	series = {ALW1{\textquoteright}17},
+	year = {2017},
+	address = {Vancouver, Canada},
+	abstract = {<p>Common approaches to text categorization essentially rely either on n-gram counts or on word embeddings. This presents important difficulties in highly dynamic or quickly-interacting environments, where the appearance of new words and/or varied misspellings is the norm. A paradigmatic example of this situation is abusive online behavior, with social networks and media platforms struggling to effectively combat uncommon or non-blacklisted hate words. To better deal with these issues in those fast-paced environments, we propose using the error signal of class-based language models as input to text classification algorithms. In particular, we train a next-character prediction model for any given class, and then exploit the error of such class-based models to inform a neural network classifier. This way, we shift from the ability to describe seen documents to the ability to predict unseen content. Preliminary studies using out-of-vocabulary splits from abusive tweet data show promising results, outperforming competitive text categorization strategies by 4{\textendash}11\%.</p>
+},
+	author = {Joan Serr{\`a} and Ilias Leontiadis and Dimitris Spathis and Gianluca Stringhini and Jeremy Blackburn and Athena Vakali}
+}
+@proceedings {1943,
+	title = {Detecting Aggressors and Bullies on Twitter},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {767--768},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Online social networks constitute an integral part of people{\textquoteright}s every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+},
+	keywords = {crowdsourcing, cyber-aggression, cyberbullying, Twitter},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3054211},
+	url = {http://dl.acm.org/citation.cfm?id=3054211},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1944,
+	title = {Hate is not Binary: Studying Abusive Behavior of $\#$GamerGate on Twitter},
+	series = {HT {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Prague, Czech Republic},
+	abstract = {<p>Over the past few years, online bullying and aggression have become increasingly prominent, and manifested in many different forms on social media. However, there is little work analyzing the characteristics of abusive users and what distinguishes them from typical social media users. In this paper, we start addressing this gap by analyzing tweets containing a great amount of abusiveness. We focus on a Twitter dataset revolving around the Gamergate controversy, which led to many incidents of cyberbullying and cyberaggression on various gaming and social media platforms. We study the properties of the users tweeting about Gamergate, the content they post, and the differences in their behavior compared to typical Twitter users.</p>
+
+<p>We find that while their tweets are often seemingly about aggressive and hateful subjects, {\textquoteleft}{\textquoteleft}Gamergaters{\textquoteright}{\textquoteright} do not exhibit common expressions of online anger, and in fact primarily differ from typical users in that their tweets are less joyful. They are also more engaged than typical Twitter users, which is an indication as to how and why this controversy is still ongoing. Surprisingly, we find that Gamergaters are less likely to be suspended by Twitter, thus we analyze their properties to identify differences from typical users and what may have led to their suspension. We perform an unsupervised machine learning analysis to detect clusters of users who, though currently active, could be considered for suspension since they exhibit similar behaviors with suspended users. Finally, we confirm the usefulness of our analyzed features by emulating the Twitter suspension mechanism with a supervised learning method, achieving very good precision and recall.</p>
+},
+	issn = {978-1-4503-4708-2/17/07},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1939,
+	title = {Mean Birds: Detecting Aggression and Bullying on Twitter},
+	series = {WebSci {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Troy, NY, USA},
+	abstract = {<p>In recent years, bullying and aggression against users on social media have grown significantly, causing serious consequences to victims of all demographics. In particular, cyberbullying affects more than half of young social media users worldwide, and has also led to teenage suicides, prompted by prolonged and/or coordinated digital harassment. Nonetheless, tools and technologies for understanding and mitigating it are scarce and mostly ineffective. In this paper, we present a principled and scalable approach to detect bullying and aggressive behavior on Twitter. We propose a robust methodology for extracting text, user, and network-based attributes, studying the properties of cyberbullies and aggressors, and what features distinguish them from regular users. We find that bully users post less, participate in fewer online communities, and are less popular than normal users, while aggressors are quite popular and tend to include more negativity in their posts. We evaluate our methodology using a corpus of 1.6M tweets posted over 3 months, and show that machine learning classification algorithms can accurately detect users exhibiting bullying and aggressive behavior, achieving over 90\% AUC.</p>
+},
+	issn = {978-1-4503-4896-6/17/06},
+	url = {https://arxiv.org/abs/1702.06877},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1940,
+	title = {Measuring $\#$GamerGate: A Tale of Hate, Sexism, and Bullying},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {1285-1290},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Over the past few years, online aggression and abusive behaviors have occurred in many different forms and on a variety of platforms. In extreme cases, these incidents have evolved into hate, discrimination, and bullying, and even materialized into real-world threats and attacks against individuals or groups. In this paper, we study the Gamergate controversy. Started in August 2014 in the online gaming world, it quickly spread across various social networking platforms, ultimately leading to many incidents of cyberbullying and cyberaggression. We focus on Twitter, presenting a measurement study of a dataset of 340k unique users and 1.6M tweets to study the properties of these users, the content they post, and how they differ from random Twitter users. We find that users involved in this "Twitter war" tend to have more friends and followers, are generally more engaged and post tweets with negative sentiment, less joy, and more hate than random users. We also perform preliminary measurements on how the Twitter suspension mechanism deals with such abusive behaviors. While we focus on Gamergate, our methodology to collect and analyze tweets related to aggressive and bullying activities is of independent interest.</p>
+},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3053890},
+	url = {http://dl.acm.org/citation.cfm?id=3053890},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@article {1926,
+	title = {PerSaDoR: Personalized social document representation for improving web search},
+	journal = {Information Sciences},
+	volume = {369},
+	year = {2016},
+	pages = {614 - 633},
+	abstract = {<p>Abstract In this paper, we discuss a contribution towards the integration of social information in the index structure of an {IR} system. Since each user has his/her own understanding and point of view of a given document, we propose an approach in which the index model provides a Personalized Social Document Representation (PerSaDoR) of each document per user based on his/her activities in a social tagging system. The proposed approach relies on matrix factorization to compute the PerSaDoR of documents that match a query, at query time. The complexity analysis shows that our approach scales linearly with the number of documents that match the query, and thus, it can scale to very large datasets. PerSaDoR has been also intensively evaluated by an offline study and by a user survey operated on a large public dataset from delicious showing significant benefits for personalized search compared to state of the art methods.</p>
+},
+	keywords = {Social recommendation},
+	issn = {0020-0255},
+	doi = {http://dx.doi.org/10.1016/j.ins.2016.07.046},
+	url = {http://www.sciencedirect.com/science/article/pii/S0020025516305278},
+	author = {Mohamed Reda Bouadjenek and Hakim Hacid and Mokrane Bouzeghoub and Athena Vakali}
+}
+@proceedings {1931,
+	title = {Internet Science - Second International Conference, INSCI 2015, Brussels, Belgium, May 27-29, 2015, Proceedings},
+	booktitle = {Lecture Notes in Computer Science},
+	series = { },
+	volume = {9089},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-18608-5},
+	doi = {10.1007/978-3-319-18609-2},
+	url = {http://dx.doi.org/10.1007/978-3-319-18609-2},
+	editor = {Thanassis Tiropanis and Athena Vakali and Laura Sartori and Pete Burnap}
+}
+@inproceedings {DBLP:conf/pakdd/GiatsoglouCSBFV15,
+	title = {ND-SYNC: Detecting Synchronized Fraud Activities},
+	booktitle = {Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II},
+	year = {2015},
+	pages = {201{\^a}{\texteuro}{\textquotedblleft}214},
+	doi = {10.1007/978-3-319-18032-8_16},
+	url = {http://dx.doi.org/10.1007/978-3-319-18032-8_16},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Alex Beutel and Christos Faloutsos and Athena Vakali}
+}
+@proceedings {1930,
+	title = {New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II},
+	booktitle = {Advances in Intelligent Systems and Computing},
+	series = { },
+	volume = {312},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-10517-8},
+	doi = {10.1007/978-3-319-10518-5},
+	url = {http://dx.doi.org/10.1007/978-3-319-10518-5},
+	editor = {Nick Bassiliades and Mirjana Ivanovic and Margita Kon-Popovska and Yannis Manolopoulos and Themis Palpanas and Goce Trajcevski and Athena Vakali}
+}
+@proceedings {1932,
+	title = {Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers},
+	booktitle = {Lecture Notes in Computer Science},
+	series = { },
+	volume = {9051},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-20369-0},
+	doi = {10.1007/978-3-319-20370-6},
+	url = {http://dx.doi.org/10.1007/978-3-319-20370-6},
+	editor = {Boualem Benatallah and Azer Bestavros and Barbara Catania and Armin Haller and Yannis Manolopoulos and Athena Vakali and Yanchun Zhang}
+}
+@inproceedings {conf/wims/PolymerouCV14,
+	title = {EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {20},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Polymerou, Evangelia and Despoina Chatzakou and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/AnthopoulosV14,
+	title = {Foreword to 3M4City Workshop},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {55},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/VakaliAK14,
+	title = {Smart Cities Data Streams Integration: experimenting with Internet of Things and social data flows},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {60},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Athena Vakali and Anthopoulos, Leonidas G. and Krco, Srdjan},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/GiannakidouVM14,
+	title = {Towards a Framework for Social Semiotic Mining},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {21},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Giannakidou, Eirini and Athena Vakali and Mavridis, Nikolaos},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@proceedings {conf/wise/2014-2,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8787},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11745-4},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@proceedings {conf/wise/2014-1,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I},
+	booktitle = {WISE (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8786},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11748-5},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@inproceedings {conf/ideas/Vakali12,
+	title = {Evolving social data mining and affective analysis methodologies, framework and applications},
+	booktitle = {IDEAS},
+	year = {2012},
+	pages = {1-7},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+},
+	keywords = {evolving social data mining, microblogging data analysis, social affective analysis, Social networking},
+	isbn = {978-1-4503-1234-9},
+	author = {Athena Vakali},
+	editor = {Desai, Bipin C. and Pokorny, Jaroslav and Bernardino, Jorge}
+}
+@inbook {books/daglib/p/NikolopoulosGKPV11,
+	title = {Combining Multi-modal Features for Social Media Analysis},
+	booktitle = {Social Media Modeling and Computing},
+	year = {2011},
+	pages = {71-96},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-0-85729-435-7},
+	author = {Nikolopoulos, Spiros and Giannakidou, Eirini and Yiannis Kompatsiaris and Patras, Ioannis and Athena Vakali},
+	editor = {Hoi, Steven C. H. and Luo, Jiebo and Boll, Susanne and Xu, Dong and Jin, Rong}
+}
+@inbook {series/sci/NikolopoulosCGPKV11,
+	title = {Leveraging Massive User Contributions for Knowledge Extraction},
+	booktitle = {Next Generation Data Technologies for Collective Computational Intelligence},
+	series = {Studies in Computational Intelligence},
+	volume = {352},
+	year = {2011},
+	pages = {415-443},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-20343-5},
+	author = {Nikolopoulos, Spiros and Chatzilari, Elisavet and Giannakidou, Eirini and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bessis, Nik and Xhafa, Fatos}
+}
+@inproceedings {conf/webi/GabrielSSV11,
+	title = {Summarization Meets Visualization on Online Social Networks},
+	booktitle = {Web Intelligence},
+	year = {2011},
+	pages = {475-478},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+},
+	keywords = {Clustering, communities, community representatives, social network summarization, social network visualization, Social networks, visualization},
+	isbn = {978-0-7695-4513-4},
+	author = {Gabriel, Hans-Henning and Spiliopoulou, Myra and Stachtiari, Emmanouela and Athena Vakali},
+	editor = {Boissier, Olivier and Benatallah, Boualem and Papazoglou, Mike P. and Ras, Zbigniew W. and Hacid, Mohand-Said}
+}
+@article {journals/aes/BouzakisAVS09,
+	title = {Automating the manufacturing process under a web based framework},
+	journal = {Advances in Engineering Software},
+	volume = {40},
+	number = {9},
+	year = {2009},
+	pages = {956-964},
+	abstract = {<p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework {\^a}{\texteuro}{\textquotedblleft} independent from any specific CAD/CAM software {\^a}{\texteuro}{\textquotedblleft} is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+},
+	keywords = {CAD/CAM, Manufacturing process, Process planning, SOAP, UDDI, Web services, xml},
+	author = {Bouzakis, K.-D. and Andreadis, George and Athena Vakali and Sarigiannidou, M.}
+}
+@book {Buyya2008,
+	title = {Content Delivery Networks (Lecture Notes Electrical Engineering)},
+	series = {Content Delivery Networks},
+	year = {2008},
+	publisher = {Springer-Verlag Gmbh},
+	organization = {Springer-Verlag Gmbh},
+	edition = {1},
+	abstract = {**Content Delivery Networks** enables the readers to understand the basics, to identify the underlying technology, to summarize their knowledge on concepts, ideas, principles and various paradigms which span on broad CDNs areas. Therefore, aspects of CDNs in terms of basics, design process, practice, techniques, performances, platforms, applications, and experimental results have been presented in a proper order. Fundamental methods, initiatives, significant research results, as well as references for further study have also been provided. Comparison of different design and development approaches are described at the appropriate places so that new researchers as well as advanced practitioners can use the CDNs evaluation as a research roadmap. All the contributions have been reviewed, edited, processed, and placed in the appropriate order to maintain consistency so that any reader irrespective of their level of knowledge and technological skills in CDNs would get the most out of it. The book is organized into three parts, namely, Part I: CDN Fundamentals; Part II: CDN Modeling and Performance; and Part III: Advanced CDN Platforms and Applications. The organization ensures the smooth flow of material as successive chapters build on prior ones.},
+	keywords = {cdn, content, lnee, networks, placement, qos, replacement, replica, search},
+	isbn = {3540778861},
+	doi = {10.1007/978-3-540-77887-5},
+	editor = {Buyya, Rajkumar and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@inproceedings {conf/wise/KoutsonikolaPVHB08,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5175},
+	year = {2008},
+	pages = {264-279},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\^a}{\texteuro}{\texttrademark}s market real datasets.</p>
+},
+	isbn = {978-3-540-85480-7},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Hacid, Hakim and Benatallah, Boualem},
+	editor = {Bailey, James and Maier, David and Schewe, Klaus-Dieter and Thalheim, Bernhard and Wang, Xiaoyang Sean}
+}
+@article {journals/jdim/HammicheLBHV07,
+	title = {Domain Knowledge Based Queries for Multimedia Data Retrieval},
+	journal = {JDIM},
+	volume = {5},
+	number = {2},
+	year = {2007},
+	pages = {75-81},
+	abstract = {<p>This paper describes an approach for semantic description and retrieval of multimedia data described by means ofMPEG-7. This standard uses XML schema to define the descriptions. Therefore, it lacks ability to represent the data semanticsin a formal and concise way and it does not allow integration and use of domain specific knowledge. Moreover,inference mechanisms are not provided and hence the extraction of implicit information is not (always) possible. To addressthese issues, we propose to add a conceptual layer on top of MPEG-7 metadata layer, where the domain knowledgeis represented using a formal language. A set of mapping rules is proposed. They serve as a bridge between the twolayers.Querying MPEG-7 descriptions using XML query languages such as XPath or XQuery requires to know MPEG-7syntax and documents structure. To provide a flexible query formulation, we exploit the conceptual layer vocabularyto express user queries. A user query, making reference to terms specified at the conceptual level, is rewritten into anXQuery expression over MPEG-7 descriptions.</p>
+},
+	keywords = {Logic Languages, Mapping Rules, MPEG-7, Multimedia Data Descriptions, Ontology, Semantic and Structural Aspects},
+	author = {Hammiche, Samira and Lopez, Bernardo and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali}
+}
+@inproceedings {conf/iscis/StoupaSV06,
+	title = {Credential-Based Policies Management in an Access Control Framework Protecting XML Resources},
+	booktitle = {ISCIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4263},
+	year = {2006},
+	pages = {603-612},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>XML has been widely adopted for Web data representation undervarious applications (such as DBMSs, Digital Libraries etc). Therefore, accessto XML data sources has become a crucial issue. In this paper we introduce acredential-based access control framework for protecting XML resources. Underthis framework, we propose the use of access policy files containing policiesconcerning a specific credentials type. Moreover, we propose the reorganizationof the policies in these files based on their frequency of use (the morefrequently it is used the higher in the file it is placed). Our main goal is to improverequest servicing times. Several experiments have been conducted whichare carried out either on single request or on multiple requests base. The proposedframework is proven quite beneficial for protecting XML-based frameworkssuch as digital libraries or any other data resources whose format is expressedin XML.</p>
+},
+	isbn = {3-540-47242-8},
+	author = {Stoupa, Konstantina and Simeoforidis, Zisis and Athena Vakali},
+	editor = {Levi, Albert and Savas, Erkay and Yenig{\"u}n, H{\"u}sn{\"u} and Balcisoy, Selim and Saygin, Y{\"u}cel}
+}
+@inproceedings {conf/icde/PallisSVKS06,
+	title = {Replication Based on Objects Load under a Content Distribution Network},
+	booktitle = {ICDE Workshops},
+	year = {2006},
+	pages = {53},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis},
+	editor = {Barga, Roger S. and Zhou, Xiaofang}
+}
+@inproceedings {conf/acsac/BertinoKTV05,
+	title = {Intrusion Detection in RBAC-administered Databases},
+	booktitle = {ACSAC},
+	year = {2005},
+	pages = {170-182},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>A considerable effort has been recently devoted to thedevelopment of Database Management Systems (DBMS)which guarantee high assurance security and privacy. Animportant component of any strong security solution is representedby intrusion detection (ID) systems, able to detectanomalous behavior by applications and users. To date,however, there have been very few ID mechanisms specificallytailored to database systems. In this paper, we proposesuch a mechanism. The approach we propose to IDis based on mining database traces stored in log files. Theresult of the mining process is used to form user profilesthat can model normal behavior and identify intruders. Anadditional feature of our approach is that we couple ourmechanism with Role Based Access Control (RBAC). Undera RBAC system permissions are associated with roles, usuallygrouping several users, rather than with single users.Our ID system is able to determine role intruders, that is,individuals that while holding a specific role, have a behaviordifferent from the normal behavior of the role. Animportant advantage of providing an ID mechanism specifi-cally tailored to databases is that it can also be used to protectagainst insider threats. Furthermore, the use of rolesmakes our approach usable even for databases with largeuser population. Our preliminary experimental evaluationon both real and synthetic database traces show that ourmethods work well in practical situations.</p>
+},
+	isbn = {0-7695-2461-3},
+	author = {Bertino, Elisa and Kamra, Ashish and Terzi, Evimaria and Athena Vakali}
+}
+@inproceedings {conf/ism/HammicheBV05,
+	title = {A Logic Based Approach for the Multimedia Data Representation and Retrieval},
+	booktitle = {ISM},
+	year = {2005},
+	pages = {241-248},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {Nowadays, the amount of multimedia data is increasingrapidly, and hence, there is an increasing need for efficientmethods to manage the multimedia content. This paper proposesa framework for the description and retrieval of multimediadata. The data are represented at both the syntactic(structure, metadata and low level features) and semantic(the meaning of the data) levels. We use the MPEG-7 standard,which provides a set of tools to describe multimediacontent from different viewpoints, to represent the syntacticlevel. However, due to its XML Schema based representation,MPEG-7 is not suitable to represent the semanticaspect of the data in a formal and concise way. Moreover,inferential mechanisms are not provided. To alleviate theselimitations, we propose to extend MPEG-7 with a domainontology, formalized using a logical formalism. Then, thesemantic aspect of the data is described using the ontology{\^a}{\texteuro}{\texttrademark}svocabulary, as a set of logical expressions. We enhancethe ontology by a rules layer, to describe more complexconstraints between domain concepts and relations.User{\^a}{\texteuro}{\texttrademark}s queries may concern the syntactic and/or semanticfeatures. The syntactic constraints are expressed usingXQuery language and evaluated using an XML query engine;whereas the semantic query constraints are expressedusing a rules language and evaluated using a specific resolutionmechanism.},
+	isbn = {0-7695-2489-3},
+	author = {Hammiche, Samira and Benbernou, Salima and Athena Vakali}
+}
+@inproceedings {conf/mmdb/HammicheBHV04,
+	title = {Semantic retrieval of multimedia data},
+	booktitle = {MMDB},
+	year = {2004},
+	pages = {36-44},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+},
+	keywords = {Approximation Ontologies, MPEG-7, Multimedia Data, Tree embedding},
+	isbn = {1-58113-975-6},
+	author = {Hammiche, Samira and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali},
+	editor = {Chen, Shu-Ching and Shyu, Mei-Ling}
+}
+@article {journals/dke/VakaliTBE03,
+	title = {Hierarchical data placement for navigational multimedia applications},
+	journal = {Data Knowl. Eng.},
+	volume = {44},
+	number = {1},
+	year = {2003},
+	pages = {49-80},
+	author = {Athena Vakali and Terzi, Evimaria and Bertino, Elisa and Elmagarmid, Ahmed K.}
+}
+@inproceedings {conf/ecweb/Vakali00,
+	title = {LRU-based Algorithms for Web Cache Replacement},
+	booktitle = {EC-Web},
+	series = {Lecture Notes in Computer Science},
+	volume = {1875},
+	year = {2000},
+	pages = {409-418},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase system{\^a}{\texteuro}{\texttrademark}s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+},
+	keywords = {Cache consistency, Cache replacement algorithms, Web caching and proxies, Web-based information systems},
+	isbn = {3-540-67981-2},
+	author = {Athena Vakali},
+	editor = {Bauknecht, Kurt and Sanjay Kumar Madria and Pernul, G{\"u}nther}
+}
+@inproceedings {conf/hpcn/VakaliPP00,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	booktitle = {HPCN Europe},
+	series = {Lecture Notes in Computer Science},
+	volume = {1823},
+	year = {2000},
+	pages = {610-613},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\^a}{\texteuro}{\'s}popularity{\^a}{\texteuro}{\v t}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.},
+	isbn = {3-540-67553-1},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.},
+	editor = {Bubak, Marian and Afsarmanesh, Hamideh and Williams, Roy and Hertzberger, Louis O.}
+}

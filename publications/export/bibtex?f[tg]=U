@@ -1,0 +1,45 @@
+@article {giatsoglou2014user,
+	title = {User communities evolution in microblogs: A public awareness barometer for real world events},
+	journal = {World Wide Web},
+	year = {2015},
+	pages = {1269-1299},
+	publisher = {Springer US},
+	abstract = {<p>In social media, users{\textquoteright} interactions are affected by real-world events which influence emergence and shifts of opinions and topics. Interactions around an event-related topic can be captured in a weighted network, while identification of connectivity and intensity patterns can improve understanding of users{\textquoteright} interest on the topic. Community detection is studied here as a means to reveal groups of social media users with common interaction patterns in such networks. The proposed community detection approach identifies communities exploiting both structural properties and intensity patterns, while dynamics of communities{\textquoteright} evolution around an event are revealed based on an iterative community detection and mapping scheme. We investigate the importance of considering interactions{\textquoteright} intensity for community detection via a benchmarking process on synthetic graphs and propose a generic framework for: i) modeling user interactions, ii) identifying static and evolving communities around events, iii) extracting quantitative and qualitative measurements from the communities{\textquoteright} timeline, iv) leveraging measurements to understand the events{\textquoteright} impact. Two real-world case studies based on Twitter interactions demonstrate the framework{\textquoteright}s potential for capturing and interpreting associations among communities and events.</p>
+},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}
+@inproceedings {conf/fia/AnthopoulosV12,
+	title = {Urban Planning and Smart Cities: Interrelations and Reciprocities},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {178-189},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/ictglow/IslamSPV11,
+	title = {Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation},
+	booktitle = {ICT-GLOW},
+	series = {Lecture Notes in Computer Science},
+	volume = {6868},
+	year = {2011},
+	pages = {180-187},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+},
+	keywords = {CDNs, Energy conservation, QoE},
+	isbn = {978-3-642-23446-0},
+	author = {ul Islam, Saif and Stamos, Konstantinos and Pierson, Jean-Marc and Athena Vakali},
+	editor = {Kranzlmller, Dieter and Tjoa, A Min}
+}
+@inproceedings {1899,
+	title = {Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation},
+	year = {2011},
+	abstract = {<p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+}
+}

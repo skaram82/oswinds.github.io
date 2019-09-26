@@ -1,0 +1,19 @@
+%0 Conference Paper
+%B Applied Informatics
+%D 2003
+%T A Study on Workload Characterization for a Web Proxy Server
+%A Pallis, George
+%A Athena Vakali
+%A Angelis, Lefteris
+%A Hacid, Mohand-Said
+%E Hamza, M. H.
+%K Web Caching
+%K Web Data Workload Analysis
+%K Web Technologies
+%X <p>The popularity of the World-Wide-Web has increaseddramatically in the past few years. Web proxy servershave an important role in reducing server loads, networktraffic, and client request latencies. This paper presentsa detailed workload characterization study of a busyWeb proxy server. The study aims in identifying themajor characteristics which will improve modelling ofWeb proxy accessing. A set of log files is processed forworkload characterization. Throughout the study,emphasis is given on identifying the criteria for a Webcaching model. A statistical analysis, based on theprevious criteria, is presented in order to characterizethe major workload parameters. Results of this analysisare presented and the paper concludes with a discussionabout workload characterization and content deliveryissues.</p>
+%B Applied Informatics
+%I IASTED/ACTA Press
+%P 779-784
+%@ 0-88986-345-8
+%G eng
+

@@ -1,0 +1,9 @@
+@article {journals/ipm/PallisAV07,
+	title = {Validation and interpretation of Web users{\textquoteright} sessions clusters},
+	journal = {Inf. Process. Manage.},
+	volume = {43},
+	number = {5},
+	year = {2007},
+	pages = {1348-1367},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali}
+}

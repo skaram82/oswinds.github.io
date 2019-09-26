@@ -1,0 +1,11 @@
+@inproceedings {conf/pci/SamarasVGCA13,
+	title = {Requirements and architecture design principles for a smart city experiment with sensor and social networks integration},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2013},
+	pages = {327-334},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-1969-0},
+	author = {Samaras, Christos and Athena Vakali and Maria Giatsoglou and Despoina Chatzakou and Angelis, Lefteris},
+	editor = {Ketikidis, Panayiotis H. and Margaritis, Konstantinos G. and Vlahavas, Ioannis P. and Chatzigeorgiou, Alexander and Eleftherakis, George and Stamelos, Ioannis}
+}

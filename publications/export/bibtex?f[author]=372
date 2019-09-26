@@ -1,0 +1,16 @@
+@inbook {1927,
+	title = {A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads},
+	booktitle = {Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece},
+	year = {2016},
+	pages = {186{\textendash}194},
+	publisher = {Springer International Publishing},
+	organization = {Springer International Publishing},
+	address = {Cham},
+	abstract = {<p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics{\textquoteright} and trends{\textquoteright} early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+},
+	isbn = {978-3-319-47898-2},
+	doi = {10.1007/978-3-319-47898-2_20},
+	url = {http://dx.doi.org/10.1007/978-3-319-47898-2_20},
+	author = {Vakali, Athena and Kitmeridis, Nikolaos and Panourgia, Maria},
+	editor = {Angelov, Plamen and Manolopoulos, Yannis and Iliadis, Lazaros and Roy, Asim and Vellasco, Marley}
+}

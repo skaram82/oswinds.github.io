@@ -1,0 +1,5 @@
+@inproceedings {1868,
+	title = {Benchmark graphs for the evaluation of Clustering Algorithms},
+	year = {2009},
+	abstract = {Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.}
+}

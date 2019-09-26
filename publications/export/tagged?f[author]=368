@@ -1,0 +1,17 @@
+%0 Journal Article
+%J Information Sciences
+%D 2016
+%T PerSaDoR: Personalized social document representation for improving web search
+%A Mohamed Reda Bouadjenek
+%A Hakim Hacid
+%A Mokrane Bouzeghoub
+%A Athena Vakali
+%K Social recommendation
+%X <p>Abstract In this paper, we discuss a contribution towards the integration of social information in the index structure of an {IR} system. Since each user has his/her own understanding and point of view of a given document, we propose an approach in which the index model provides a Personalized Social Document Representation (PerSaDoR) of each document per user based on his/her activities in a social tagging system. The proposed approach relies on matrix factorization to compute the PerSaDoR of documents that match a query, at query time. The complexity analysis shows that our approach scales linearly with the number of documents that match the query, and thus, it can scale to very large datasets. PerSaDoR has been also intensively evaluated by an offline study and by a user survey operated on a large public dataset from delicious showing significant benefits for personalized search compared to state of the art methods.</p>
+%B Information Sciences
+%V 369
+%P 614 - 633
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0020025516305278
+%R http://dx.doi.org/10.1016/j.ins.2016.07.046
+

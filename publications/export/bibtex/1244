@@ -1,0 +1,9 @@
+@article {journals/compsec/StoupaV07,
+	title = {Clustering subjects in a credential-based access control framework},
+	journal = {Computers \& Security},
+	volume = {26},
+	number = {2},
+	year = {2007},
+	pages = {120-129},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}

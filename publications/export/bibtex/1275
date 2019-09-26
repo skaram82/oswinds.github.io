@@ -1,0 +1,9 @@
+@article {journals/internet/KoutsonikolaV04,
+	title = {LDAP: Framework, Practices, and Trends},
+	journal = {IEEE Internet Computing},
+	volume = {8},
+	number = {5},
+	year = {2004},
+	pages = {66-72},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali}
+}

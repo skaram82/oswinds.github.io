@@ -1,0 +1,60 @@
+%0 Conference Proceedings
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%D 2017
+%T Detecting Aggressors and Bullies on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%K crowdsourcing
+%K cyber-aggression
+%K cyberbullying
+%K Twitter
+%X <p>Online social networks constitute an integral part of people's every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%S WWW '17 Companion
+%I ACM
+%C Perth, Australia
+%P 767--768
+%U http://dl.acm.org/citation.cfm?id=3054211
+%R 10.1145/3041021.3054211
+
+%0 Conference Paper
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%D 2013
+%T Micro-blogging Content Analysis via Emotionally-Driven Clustering
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K affective analysis methodology
+%K Clustering algorithms
+%K content management
+%K content sharing
+%K Dictionaries
+%K emotion intensity monitoring
+%K emotionally-driven clustering
+%K Equations
+%K human emotion states
+%K information sharing
+%K lexicon-based technique
+%K Mathematical model
+%K microblogging content analysis
+%K pattern clustering
+%K people perception
+%K Pragmatics
+%K Semantics
+%K Sentiment analysis
+%K social networking (online)
+%K social pulse
+%K social relations
+%K text analysis
+%K Twitter
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%P 375-380
+%8 Sept
+%G eng
+%R 10.1109/ACII.2013.68
+

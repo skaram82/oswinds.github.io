@@ -1,0 +1,13 @@
+@inproceedings {conf/pkdd/ArvanitidisSVT14,
+	title = {Branty: A Social Media Ranking Tool for Brands},
+	booktitle = {ECML/PKDD (3)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8726},
+	year = {2014},
+	pages = {432-435},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-662-44844-1},
+	author = {Arvanitidis, Alexandros and Serafi, Anna and Athena Vakali and Tsoumakas, Grigorios},
+	editor = {Calders, Toon and Esposito, Floriana and Hullermeier, Eyke and Meo, Rosa}
+}

@@ -1,0 +1,9 @@
+@article {journals/dpd/Vakali02,
+	title = {Evolutionary Techniques for Web Caching},
+	journal = {Distributed and Parallel Databases},
+	volume = {11},
+	number = {1},
+	year = {2002},
+	pages = {93-116},
+	author = {Athena Vakali}
+}

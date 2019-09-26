@@ -1,0 +1,15 @@
+@inproceedings {conf/edbtw/StoupaVLT04,
+	title = {XML-Based Revocation and Delegation in a Distributed Environment},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {299-308},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+},
+	isbn = {3-540-23305-9},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Tsoukalas, Ioannis},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}

@@ -1,0 +1,31 @@
+%0 Generic
+%D 2018
+%T Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
+%A Antigoni-Maria Founta
+%A Constantinos Djouvas
+%A Despoina Chatzakou
+%A Ilias Leontiadis
+%A Jeremy Blackburn
+%A Gianluca Stringhini
+%A Athena Vakali
+%A Michael Sirivianos
+%A Nicolas Kourtellis
+%X <p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+%S ICWSM-18
+%I AAAI
+%C Stanford, California
+
+%0 Conference Proceedings
+%D 2017
+%T Class-based Prediction Errors to Categorize Text with Out-of-vocabulary Words
+%A Joan Serrà
+%A Ilias Leontiadis
+%A Dimitris Spathis
+%A Gianluca Stringhini
+%A Jeremy Blackburn
+%A Athena Vakali
+%X <p>Common approaches to text categorization essentially rely either on n-gram counts or on word embeddings. This presents important difficulties in highly dynamic or quickly-interacting environments, where the appearance of new words and/or varied misspellings is the norm. A paradigmatic example of this situation is abusive online behavior, with social networks and media platforms struggling to effectively combat uncommon or non-blacklisted hate words. To better deal with these issues in those fast-paced environments, we propose using the error signal of class-based language models as input to text classification algorithms. In particular, we train a next-character prediction model for any given class, and then exploit the error of such class-based models to inform a neural network classifier. This way, we shift from the ability to describe seen documents to the ability to predict unseen content. Preliminary studies using out-of-vocabulary splits from abusive tweet data show promising results, outperforming competitive text categorization strategies by 4–11%.</p>
+%S ALW1'17
+%C Vancouver, Canada
+%G eng
+

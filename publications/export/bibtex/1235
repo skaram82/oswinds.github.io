@@ -1,0 +1,9 @@
+@article {journals/tkde/PetridouKVP08,
+	title = {Time-Aware Web Users{\textquoteright} Clustering},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {20},
+	number = {5},
+	year = {2008},
+	pages = {653-667},
+	author = {Petridou, Sophia G. and Vassiliki A. Koutsonikola and Athena Vakali and Papadimitriou, Georgios I.}
+}

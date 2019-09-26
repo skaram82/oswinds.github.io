@@ -1,0 +1,12 @@
+@proceedings {1932,
+	title = {Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers},
+	booktitle = {Lecture Notes in Computer Science},
+	series = { },
+	volume = {9051},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-20369-0},
+	doi = {10.1007/978-3-319-20370-6},
+	url = {http://dx.doi.org/10.1007/978-3-319-20370-6},
+	editor = {Boualem Benatallah and Azer Bestavros and Barbara Catania and Armin Haller and Yannis Manolopoulos and Athena Vakali and Yanchun Zhang}
+}

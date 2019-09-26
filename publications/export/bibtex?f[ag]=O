@@ -1,0 +1,47 @@
+@inproceedings {conf/icete/KakarontzasACV14,
+	title = {A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach},
+	booktitle = {ICE-B},
+	year = {2014},
+	pages = {47-54},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-758-043-7},
+	author = {Kakarontzas, George and Anthopoulos, Leonidas G. and Despoina Chatzakou and Athena Vakali},
+	editor = {Obaidat, Mohammad S. and Holzinger, Andreas and van Sinderen, Marten and Dolog, Peter}
+}
+@inbook {reference/db/Vakali09,
+	title = {Access Control Policy Languages},
+	booktitle = {Encyclopedia of Database Systems},
+	year = {2009},
+	pages = {15-18},
+	publisher = {Springer US},
+	organization = {Springer US},
+	isbn = {978-0-387-39940-9},
+	author = {Athena Vakali},
+	editor = {Liu, Ling and Ozsu, M. Tamer}
+}
+@inbook {reference/db/Vakali09a,
+	title = {Security Services},
+	booktitle = {Encyclopedia of Database Systems},
+	year = {2009},
+	pages = {2546-2547},
+	publisher = {Springer US},
+	organization = {Springer US},
+	isbn = {978-0-387-39940-9},
+	author = {Athena Vakali},
+	editor = {Liu, Ling and Ozsu, M. Tamer}
+}
+@inproceedings {conf/apweb/TerziVH03,
+	title = {Knowledge Representation, Ontologies, and the Semantic Web},
+	booktitle = {APWeb},
+	series = {Lecture Notes in Computer Science},
+	volume = {2642},
+	year = {2003},
+	pages = {382-387},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.},
+	isbn = {3-540-02354-2},
+	author = {Terzi, Evimaria and Athena Vakali and Hacid, Mohand-Said},
+	editor = {Zhou, Xiaofang and Zhang, Yanchun and Orlowska, Maria E.}
+}

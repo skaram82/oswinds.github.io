@@ -1,0 +1,26 @@
+@inproceedings {conf/ideas/Vakali12,
+	title = {Evolving social data mining and affective analysis methodologies, framework and applications},
+	booktitle = {IDEAS},
+	year = {2012},
+	pages = {1-7},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+},
+	keywords = {evolving social data mining, microblogging data analysis, social affective analysis, Social networking},
+	isbn = {978-1-4503-1234-9},
+	author = {Athena Vakali},
+	editor = {Desai, Bipin C. and Pokorny, Jaroslav and Bernardino, Jorge}
+}
+@inproceedings {conf/ideas/StamosPTV06,
+	title = {A similarity based approach for integrated Web caching and content replication in CDNs},
+	booktitle = {IDEAS},
+	year = {2006},
+	pages = {239-242},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Web caching and content replication techniques emergedto solve performance problems related to the Web. We proposea generic non-parametric heuristic method that integratesboth techniques under a CDN. We provide experimentationshowing that our method outperforms the so farseparate implementations of Web caching and content replication.Moreover, we show that the performance improvementcompared with an existing algorithm is significant. Wetest all these techniques in a simulation environment undera flash crowd event and a workload of a typical lightweightedCDN operation.</p>
+},
+	author = {Stamos, Konstantinos and Pallis, George and Thomos, Charilaos and Athena Vakali},
+	editor = {Desai, Bipin C. and Gupta, Shyam K.}
+}

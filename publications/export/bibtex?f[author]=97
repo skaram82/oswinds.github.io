@@ -1,0 +1,47 @@
+@inproceedings {conf/data/VakaliCKA13,
+	title = {Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing},
+	booktitle = {DATA},
+	year = {2013},
+	pages = {175-182},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-8565-67-9},
+	author = {Athena Vakali and Despoina Chatzakou and Vassiliki A. Koutsonikola and Andreadis, George},
+	editor = {Helfert, Markus and Francalanci, Chiara and Filipe, Joaquim}
+}
+@article {journals/aes/BouzakisAVS09,
+	title = {Automating the manufacturing process under a web based framework},
+	journal = {Advances in Engineering Software},
+	volume = {40},
+	number = {9},
+	year = {2009},
+	pages = {956-964},
+	abstract = {<p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework {\^a}{\texteuro}{\textquotedblleft} independent from any specific CAD/CAM software {\^a}{\texteuro}{\textquotedblleft} is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+},
+	keywords = {CAD/CAM, Manufacturing process, Process planning, SOAP, UDDI, Web services, xml},
+	author = {Bouzakis, K.-D. and Andreadis, George and Athena Vakali and Sarigiannidou, M.}
+}
+@article {journals/ijbdcn/PallisSVTA08,
+	title = {Integrating Caching Techniques in CDNs using a Classification Approach},
+	journal = {IJBDCN},
+	volume = {4},
+	number = {4},
+	year = {2008},
+	pages = {1-12},
+	abstract = {<p>Content Delivery Networks (CDNs) provide an efficient support for serving {\^a}{\texteuro}{\'s}resourcehungry{\^a}{\texteuro}{\v t}applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN{\^a}{\texteuro}{\texttrademark}s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN{\^a}{\texteuro}{\texttrademark}s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN{\^a}{\texteuro}{\texttrademark}s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Thomos, Charilaos and Andreadis, George}
+}
+@inproceedings {conf/smc/StoupaVLA04,
+	title = {Web-based delegation using XML},
+	booktitle = {SMC (6)},
+	year = {2004},
+	pages = {5189-5194},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+},
+	keywords = {Delegation, XML access control},
+	isbn = {0-7803-8566-7},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Andreadis, George}
+}

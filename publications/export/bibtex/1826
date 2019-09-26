@@ -1,0 +1,6 @@
+@article {1826,
+	title = {Capturing Social Data Evolution Using Graph Clustering},
+	year = {2012},
+	abstract = {<p>The fast and unpredictable evolution of social data poses challenges for capturinguser activities and complex associations. Evolving social graph clusteringpromises to uncover the dynamics of latent user and content patterns.</p>
+}
+}

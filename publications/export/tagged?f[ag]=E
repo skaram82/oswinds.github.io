@@ -1,0 +1,186 @@
+%0 Conference Paper
+%B ECML/PKDD (3)
+%D 2014
+%T Branty: A Social Media Ranking Tool for Brands
+%A Arvanitidis, Alexandros
+%A Serafi, Anna
+%A Athena Vakali
+%A Tsoumakas, Grigorios
+%E Calders, Toon
+%E Esposito, Floriana
+%E Hullermeier, Eyke
+%E Meo, Rosa
+%B ECML/PKDD (3)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8726
+%P 432-435
+%@ 978-3-662-44844-1
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content
+%A Polymerou, Evangelia
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 20
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T Foreword to 3M4City Workshop
+%A Anthopoulos, Leonidas G.
+%A Athena Vakali
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 55
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T Smart Cities Data Streams Integration: experimenting with Internet of Things and social data flows
+%A Athena Vakali
+%A Anthopoulos, Leonidas G.
+%A Krco, Srdjan
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 60
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T Towards a Framework for Social Semiotic Mining
+%A Giannakidou, Eirini
+%A Athena Vakali
+%A Mavridis, Nikolaos
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 21
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Paper
+%B Panhellenic Conference on Informatics
+%D 2013
+%T Requirements and architecture design principles for a smart city experiment with sensor and social networks integration
+%A Samaras, Christos
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Angelis, Lefteris
+%E Ketikidis, Panayiotis H.
+%E Margaritis, Konstantinos G.
+%E Vlahavas, Ioannis P.
+%E Chatzigeorgiou, Alexander
+%E Eleftherakis, George
+%E Stamelos, Ioannis
+%B Panhellenic Conference on Informatics
+%I ACM
+%P 327-334
+%@ 978-1-4503-1969-0
+%G eng
+
+%0 Conference Paper
+%B MMM (1)
+%D 2013
+%T Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs
+%A Symeon Papadopoulos
+%A Sagonas, Christos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Li, Shipeng
+%E El-Saddik, Abdulmotaleb
+%E Wang, Meng
+%E Mei, Tao
+%E Sebe, Nicu
+%E Yan, Shuicheng
+%E Hong, Richang
+%E Gurrin, Cathal
+%X <p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+%B MMM (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7732
+%P 1-12
+%@ 978-3-642-35725-1
+%G eng
+
+%0 Journal Article
+%J Image Vision Comput.
+%D 2004
+%T MPEG-7 based description schemes for multi-level video content classification
+%A Athena Vakali
+%A Hacid, Mohand-Said
+%A Elmagarmid, Ahmed K.
+%B Image Vision Comput.
+%V 22
+%P 367-378
+%G eng
+
+%0 Journal Article
+%J Data Knowl. Eng.
+%D 2003
+%T Hierarchical data placement for navigational multimedia applications
+%A Athena Vakali
+%A Terzi, Evimaria
+%A Bertino, Elisa
+%A Elmagarmid, Ahmed K.
+%B Data Knowl. Eng.
+%V 44
+%P 49-80
+%G eng
+
+%0 Conference Paper
+%B ICDE
+%D 2002
+%T A Distributed Database Server for Continuous Media
+%A Aref, Walid G.
+%A Catlin, Ann Christine
+%A Elmagarmid, Ahmed K.
+%A Fan, Jianping
+%A Guo, J.
+%A Hammad, Moustafa A.
+%A Ilyas, Ihab F.
+%A Marzouk, Mirette S.
+%A Prabhakar, Sunil
+%A Rezgui, Abdelmounaam
+%A Teoh, S.
+%A Terzi, Evimaria
+%A Tu, Yi-Cheng
+%A Athena Vakali
+%A Zhu, Xingquan
+%E Agrawal, Rakesh
+%E Dittrich, Klaus R.
+%X In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.
+%B ICDE
+%I IEEE Computer Society
+%P 490-491
+%@ 0-7695-1531-2
+%G eng
+

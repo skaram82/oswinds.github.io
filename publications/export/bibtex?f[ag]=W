@@ -1,0 +1,94 @@
+@proceedings {journals/tlsdkcs/2014-15,
+	title = {Transactions on Large-Scale Data- and Knowledge-Centered Systems},
+	booktitle = {T. Large-Scale Data- and Knowledge-Centered Systems},
+	series = {Lecture Notes in Computer Science},
+	volume = {8920},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-662-45760-3},
+	editor = {Hameurlain, Abdelkader and K{\"u}ng, Josef and Wagner, Roland and Barbara Catania and Guerrini, Giovanna and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@inproceedings {conf/icdm/ZigkolisKV13,
+	title = {Dissimilarity Features in Recommender Systems},
+	booktitle = {ICDM Workshops},
+	year = {2013},
+	pages = {825-832},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-5109-8},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Athena Vakali},
+	editor = {Wei Ding and Washio, Takashi and Xiong, Hui and Karypis, George and Thuraisingham, Bhavani M. and Cook, Diane J. and Wu, Xindong}
+}
+@inproceedings {conf/mmm/PapadopoulosSKV13,
+	title = {Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs},
+	booktitle = {MMM (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {7732},
+	year = {2013},
+	pages = {1-12},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+},
+	isbn = {978-3-642-35725-1},
+	author = {Symeon Papadopoulos and Sagonas, Christos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Li, Shipeng and El-Saddik, Abdulmotaleb and Wang, Meng and Mei, Tao and Sebe, Nicu and Yan, Shuicheng and Hong, Richang and Gurrin, Cathal}
+}
+@inproceedings {conf/dasfaa/StampouliGV10,
+	title = {Tag Disambiguation through Flickr and Wikipedia},
+	booktitle = {DASFAA Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {6193},
+	year = {2010},
+	pages = {252-263},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion {\^a}{\texteuro}{\'s}Apple{\^a}{\texteuro}{\v t} illustrates the value of the proposed approach.</p>
+},
+	keywords = {DBpedia project, flick, mashup, term disambiguation, Wikipedia},
+	isbn = {978-3-642-14588-9},
+	author = {Stampouli, Anastasia and Giannakidou, Eirini and Athena Vakali},
+	editor = {Yoshikawa, Masatoshi and Meng, Xiaofeng and Yumoto, Takayuki and Ma, Qiang and Sun, Lifeng and Watanabe, Chiemi}
+}
+@inproceedings {conf/wise/KoutsonikolaPVHB08,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5175},
+	year = {2008},
+	pages = {264-279},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\^a}{\texteuro}{\texttrademark}s market real datasets.</p>
+},
+	isbn = {978-3-540-85480-7},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Hacid, Hakim and Benatallah, Boualem},
+	editor = {Bailey, James and Maier, David and Schewe, Klaus-Dieter and Thalheim, Bernhard and Wang, Xiaoyang Sean}
+}
+@inproceedings {conf/hpcn/VakaliPP00,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	booktitle = {HPCN Europe},
+	series = {Lecture Notes in Computer Science},
+	volume = {1823},
+	year = {2000},
+	pages = {610-613},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\^a}{\texteuro}{\'s}popularity{\^a}{\texteuro}{\v t}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.},
+	isbn = {3-540-67553-1},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.},
+	editor = {Bubak, Marian and Afsarmanesh, Hamideh and Williams, Roy and Hertzberger, Louis O.}
+}
+@inproceedings {conf/dexaw/VakaliM96,
+	title = {The Impact of Seeking in Partial Match Retrieval},
+	booktitle = {DEXA Workshop},
+	year = {1996},
+	pages = {432-437},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+},
+	isbn = {0-8186-7662-0},
+	author = {Athena Vakali and Manolopoulos, Yannis},
+	editor = {Wagner, Roland and Thoma, Helmut}
+}

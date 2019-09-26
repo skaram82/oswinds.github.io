@@ -1,0 +1,180 @@
+%0 Book Section
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%D 2016
+%T A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads
+%A Vakali, Athena
+%A Kitmeridis, Nikolaos
+%A Panourgia, Maria
+%E Angelov, Plamen
+%E Manolopoulos, Yannis
+%E Iliadis, Lazaros
+%E Roy, Asim
+%E Vellasco, Marley
+%X <p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics’ and trends’ early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%I Springer International Publishing
+%C Cham
+%P 186–194
+%@ 978-3-319-47898-2
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-47898-2_20
+%R 10.1007/978-3-319-47898-2_20
+
+%0 Conference Paper
+%B WWW (Companion Volume)
+%D 2012
+%T Social networking trends and dynamics detection via a cloud-based framework design
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Antaris, Stefanos
+%E Mille, Alain
+%E Gandon, Fabien L.
+%E Misselis, Jacques
+%E Rabinovich, Michael
+%E Staab, Steffen
+%K cloud service deployment
+%K microblogs and blogosphere dynamics
+%K Social networks social
+%K Web Data Clustering
+%B WWW (Companion Volume)
+%I ACM
+%P 1213-1220
+%@ 978-1-4503-1230-1
+%G eng
+
+%0 Conference Paper
+%B MediaEval
+%D 2011
+%T CERTH @ MediaEval 2011 Social Event Detection Task
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Larson, Martha
+%E Rae, Adam
+%E Demarty, Claire-Helene
+%E Kofler, Christoph
+%E Metze, Florian
+%E Troncy, Raphaël
+%E Mezaris, Vasileios
+%E Jones, Gareth J. F.
+%X <p>This paper describes the participation of CERTH in the â€śSocialEvent Detection Task @ MediaEval 2011â€ť, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4% and 0.63 respectivelyfor Challenge 1, and 64% and 0.38 for Challenge 2.</p>
+%B MediaEval
+%S CEUR Workshop Proceedings
+%I CEUR-WS.org
+%V 807
+%G eng
+
+%0 Conference Paper
+%B Web Intelligence
+%D 2011
+%T Summarization Meets Visualization on Online Social Networks
+%A Gabriel, Hans-Henning
+%A Spiliopoulou, Myra
+%A Stachtiari, Emmanouela
+%A Athena Vakali
+%E Boissier, Olivier
+%E Benatallah, Boualem
+%E Papazoglou, Mike P.
+%E Ras, Zbigniew W.
+%E Hacid, Mohand-Said
+%K Clustering
+%K communities
+%K community representatives
+%K social network summarization
+%K social network visualization
+%K Social networks
+%K visualization
+%X <p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+%B Web Intelligence
+%I IEEE Computer Society
+%P 475-478
+%@ 978-0-7695-4513-4
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2008
+%T A Structure-Based Clustering on LDAP Directory Information
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Mpalasas, Antonios
+%A Valavanis, Michael
+%E An, Aijun
+%E Matwin, Stan
+%E Ras, Zbigniew W.
+%E Slezak, Dominik
+%X <p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entriesâ€™structure. The clustering-based LDAP data organization enhances LDAPserverâ€™s response times, under a specific query framework.</p>
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4994
+%P 121-130
+%@ 978-3-540-68122-9
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2005
+%T Model-Based Cluster Analysis for Web Users Sessions
+%A Pallis, George
+%A Angelis, Lefteris
+%A Athena Vakali
+%E Hacid, Mohand-Said
+%E Murray, Neil V.
+%E Ras, Zbigniew W.
+%E Tsumoto, Shusaku
+%K Model-Based Cluster Analysis
+%X One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof usersâ€™sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3488
+%P 219-227
+%@ 3-540-25878-7
+%G eng
+
+%0 Conference Paper
+%B ICDE
+%D 2002
+%T A Distributed Database Server for Continuous Media
+%A Aref, Walid G.
+%A Catlin, Ann Christine
+%A Elmagarmid, Ahmed K.
+%A Fan, Jianping
+%A Guo, J.
+%A Hammad, Moustafa A.
+%A Ilyas, Ihab F.
+%A Marzouk, Mirette S.
+%A Prabhakar, Sunil
+%A Rezgui, Abdelmounaam
+%A Teoh, S.
+%A Terzi, Evimaria
+%A Tu, Yi-Cheng
+%A Athena Vakali
+%A Zhu, Xingquan
+%E Agrawal, Rakesh
+%E Dittrich, Klaus R.
+%X In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.
+%B ICDE
+%I IEEE Computer Society
+%P 490-491
+%@ 0-7695-1531-2
+%G eng
+
+%0 Conference Paper
+%B DEXA
+%D 1995
+%T Partial Match Retrieval in Two-Headed Disk Systems
+%A Manolopoulos, Yannis
+%A Athena Vakali
+%E Revell, Norman
+%E Tjoa, A Min
+%B DEXA
+%S Lecture Notes in Computer Science
+%I Springer
+%V 978
+%P 594-603
+%@ 3-540-60303-4
+%G eng
+

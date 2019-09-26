@@ -1,0 +1,831 @@
+%0 Generic
+%D 2018
+%T Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
+%A Antigoni-Maria Founta
+%A Constantinos Djouvas
+%A Despoina Chatzakou
+%A Ilias Leontiadis
+%A Jeremy Blackburn
+%A Gianluca Stringhini
+%A Athena Vakali
+%A Michael Sirivianos
+%A Nicolas Kourtellis
+%X <p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+%S ICWSM-18
+%I AAAI
+%C Stanford, California
+
+%0 Conference Proceedings
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%D 2017
+%T Detecting Aggressors and Bullies on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%K crowdsourcing
+%K cyber-aggression
+%K cyberbullying
+%K Twitter
+%X <p>Online social networks constitute an integral part of people's every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%S WWW '17 Companion
+%I ACM
+%C Perth, Australia
+%P 767--768
+%U http://dl.acm.org/citation.cfm?id=3054211
+%R 10.1145/3041021.3054211
+
+%0 Journal Article
+%J Expert Systems with Applications
+%D 2017
+%T Detecting Variation of Emotions in Online Activities
+%A Despoina Chatzakou
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K Emotion detection
+%K Hybrid process
+%K Lexicon-based approach
+%K Machine learning
+%X <p>Online text sources form evolving large scale data repositories out of which valuable knowledge about human emotions can be derived. Beyond the primary emotions which refer to the global emotional signals, deeper understanding of a wider spectrum of emotions is important to detect online public views and attitudes. The present work is motivated by the need to test and provide a system that categorizes emotion in online activities. Such a system can be beneficial for online services, companies recommendations, and social support communities. The main contributions of this work are to: (a) detect primary emotions, social ones, and those that characterize general affective states from online text sources, (b) compare and validate different emotional analysis processes to highlight the most efficient, and (c) provide a proof of concept case study to monitor and validate online activity, both explicitly and implicitly. The proposed approaches are tested on three datasets collected from different sources, i.e., news agencies, Twitter, and Facebook, and on different languages, i.e., English and Greek. Study results demonstrate that the methodologies at hand succeed to detect a wider spectrum of emotions out of text sources.</p>
+%B Expert Systems with Applications
+%V 89
+%P 318 - 332
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0957417417305213
+%R http://dx.doi.org/10.1016/j.eswa.2017.07.044
+
+%0 Journal Article
+%J Information Systems
+%D 2017
+%T DynamiCITY : Revealing city dynamics from citizens social media broadcasts
+%A Vasiliki Gkatziaki
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%K crowdsourcing
+%K Data Mining
+%K Smart City Applications
+%K Social Data Mining
+%K Urban Dynamics
+%B Information Systems
+%P -
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0306437917300650
+%R https://doi.org/10.1016/j.is.2017.07.007
+
+%0 Journal Article
+%J Computers in Human Behavior
+%D 2017
+%T Experience of emotion in face to face and computer-mediated social interactions: An event sampling study
+%A Konstantinos Kafetsios
+%A Despoina Chatzakou
+%A Nikolaos Tsigilis
+%A Athena Vakali
+%K Computer-mediated communication
+%K Emotion
+%K FtF
+%K Internet
+%K Social interaction
+%X <p>The present study compared the experience of emotion in social interactions that take place face to face (FtF), co-presently, and those that take place online, in computer-mediated communications (CMC). For a period of ten days participants reported how intensely they experienced positive and negative emotions in CMC and in FtF interactions they had with persons from their social network. Results from factor analyses discerned a three factor emotion structure (positive, negative, and anxious emotions) that was largely shared between CMC and FtF social interactions. Multilevel analyses of emotion across modes of interaction found that in FtF social encounters participants experienced more positive and less negative emotion and higher satisfaction than in CMC; there was no difference in anxious emotion. Positive, but not negative emotions or anxiety partially mediated levels of satisfaction differences between interactions in CMC and those taking place FtF. The results point to similarities and differences in emotion experience in FtF and CMC, underlining in particular the affiliative function of positive emotion in peoples' encounters.</p>
+%B Computers in Human Behavior
+%V 76
+%P 287 - 293
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0747563217304557
+%R https://doi.org/10.1016/j.chb.2017.07.033
+
+%0 Conference Proceedings
+%D 2017
+%T Hate is not Binary: Studying Abusive Behavior of #GamerGate on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>Over the past few years, online bullying and aggression have become increasingly prominent, and manifested in many different forms on social media. However, there is little work analyzing the characteristics of abusive users and what distinguishes them from typical social media users. In this paper, we start addressing this gap by analyzing tweets containing a great amount of abusiveness. We focus on a Twitter dataset revolving around the Gamergate controversy, which led to many incidents of cyberbullying and cyberaggression on various gaming and social media platforms. We study the properties of the users tweeting about Gamergate, the content they post, and the differences in their behavior compared to typical Twitter users.</p>    <p>We find that while their tweets are often seemingly about aggressive and hateful subjects, ``Gamergaters'' do not exhibit common expressions of online anger, and in fact primarily differ from typical users in that their tweets are less joyful. They are also more engaged than typical Twitter users, which is an indication as to how and why this controversy is still ongoing. Surprisingly, we find that Gamergaters are less likely to be suspended by Twitter, thus we analyze their properties to identify differences from typical users and what may have led to their suspension. We perform an unsupervised machine learning analysis to detect clusters of users who, though currently active, could be considered for suspension since they exhibit similar behaviors with suspended users. Finally, we confirm the usefulness of our analyzed features by emulating the Twitter suspension mechanism with a supervised learning method, achieving very good precision and recall.</p>
+%S HT '17
+%I ACM
+%C Prague, Czech Republic
+%G eng
+
+%0 Conference Proceedings
+%D 2017
+%T Mean Birds: Detecting Aggression and Bullying on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>In recent years, bullying and aggression against users on social media have grown significantly, causing serious consequences to victims of all demographics. In particular, cyberbullying affects more than half of young social media users worldwide, and has also led to teenage suicides, prompted by prolonged and/or coordinated digital harassment. Nonetheless, tools and technologies for understanding and mitigating it are scarce and mostly ineffective. In this paper, we present a principled and scalable approach to detect bullying and aggressive behavior on Twitter. We propose a robust methodology for extracting text, user, and network-based attributes, studying the properties of cyberbullies and aggressors, and what features distinguish them from regular users. We find that bully users post less, participate in fewer online communities, and are less popular than normal users, while aggressors are quite popular and tend to include more negativity in their posts. We evaluate our methodology using a corpus of 1.6M tweets posted over 3 months, and show that machine learning classification algorithms can accurately detect users exhibiting bullying and aggressive behavior, achieving over 90% AUC.</p>
+%S WebSci '17
+%I ACM
+%C Troy, NY, USA
+%G eng
+%U https://arxiv.org/abs/1702.06877
+
+%0 Conference Proceedings
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%D 2017
+%T Measuring #GamerGate: A Tale of Hate, Sexism, and Bullying
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>Over the past few years, online aggression and abusive behaviors have occurred in many different forms and on a variety of platforms. In extreme cases, these incidents have evolved into hate, discrimination, and bullying, and even materialized into real-world threats and attacks against individuals or groups. In this paper, we study the Gamergate controversy. Started in August 2014 in the online gaming world, it quickly spread across various social networking platforms, ultimately leading to many incidents of cyberbullying and cyberaggression. We focus on Twitter, presenting a measurement study of a dataset of 340k unique users and 1.6M tweets to study the properties of these users, the content they post, and how they differ from random Twitter users. We find that users involved in this "Twitter war" tend to have more friends and followers, are generally more engaged and post tweets with negative sentiment, less joy, and more hate than random users. We also perform preliminary measurements on how the Twitter suspension mechanism deals with such abusive behaviors. While we focus on Gamergate, our methodology to collect and analyze tweets related to aggressive and bullying activities is of independent interest.</p>
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%S WWW '17 Companion
+%I ACM
+%C Perth, Australia
+%P 1285-1290
+%G eng
+%U http://dl.acm.org/citation.cfm?id=3053890
+%R 10.1145/3041021.3053890
+
+%0 Journal Article
+%J Expert Systems with Applications
+%D 2017
+%T Sentiment analysis leveraging emotions and word embeddings
+%A Maria Giatsoglou
+%A Manolis G. Vozalis
+%A Konstantinos Diamantaras
+%A Athena Vakali
+%A George Sarigiannidis
+%A Konstantinos Ch. Chatzisavvas
+%K Online user reviews
+%X <p>Abstract Sentiment analysis and opinion mining are valuable for extraction of useful subjective information out of text documents. These tasks have become of great importance, especially for business and marketing professionals, since online posted products and services reviews impact markets and consumers shifts. This work is motivated by the fact that automating retrieval and detection of sentiments expressed for certain products and services embeds complex processes and pose research challenges, due to the textual phenomena and the language specific expression variations. This paper proposes a fast, flexible, generic methodology for sentiment detection out of textual snippets which express people’s opinions in different languages. The proposed methodology adopts a machine learning approach with which textual documents are represented by vectors and are used for training a polarity classification model. Several documents’ vector representation approaches have been studied, including lexicon-based, word embedding-based and hybrid vectorizations. The competence of these feature representations for the sentiment classification task is assessed through experiments on four datasets containing online user reviews in both Greek and English languages, in order to represent high and weak inflection language groups. The proposed methodology requires minimal computational resources, thus, it might have impact in real world scenarios where limited resources is the case.</p>
+%B Expert Systems with Applications
+%V 69
+%P 214 - 224
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S095741741630584X
+%R http://dx.doi.org/10.1016/j.eswa.2016.10.043
+
+%0 Journal Article
+%J Journal of the Knowledge Economy
+%D 2016
+%T CityPulse: A platform prototype for smart city social data mining
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Gkatziaki, Vasiliki
+%A Vakali, Athena
+%A Anthopoulos, Leonidas
+%B Journal of the Knowledge Economy
+%V 7
+%P 344–372
+%G eng
+
+%0 Conference Paper
+%B Proceedings of the 24th International Conference on World Wide Web Companion, WWW 2015, Florence, Italy, May 18-22, 2015 - Companion Volume
+%D 2015
+%T Exploriometer: Leveraging Personality Traits for Coverage and Diversity Aware Recommendations
+%A Evangelos Chatzicharalampous
+%A Christos Zigkolis
+%A Athena Vakali
+%B Proceedings of the 24th International Conference on World Wide Web Companion, WWW 2015, Florence, Italy, May 18-22, 2015 - Companion Volume
+%G eng
+%U http://doi.acm.org/10.1145/2740908.2742140
+%R 10.1145/2740908.2742140
+
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2015
+%T Harvesting Opinions and Emotions from Social Media Textual Resources
+%A Despoina Chatzakou
+%A Athena Vakali
+%K Adaptation models
+%K Analytical models
+%K Filtering
+%K Internet/Web technologies
+%K Media
+%K Sentiment analysis
+%K Text processing
+%K textual resources
+%K Web 2.0
+%B Internet Computing, IEEE
+%V 19
+%P 46-50
+%8 July
+%G eng
+%R 10.1109/MIC.2015.28
+
+%0 Book Section
+%B Big Data Analytics and Knowledge Discovery
+%D 2015
+%T MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis
+%A Despoina Chatzakou
+%A Passalis, Nikolaos
+%A Athena Vakali
+%E Sanjay Kumar Madria
+%E Hara, Takahiro
+%K Multilevel features
+%K Sentiment detection
+%B Big Data Analytics and Knowledge Discovery
+%S Lecture Notes in Computer Science
+%I Springer International Publishing
+%V 9263
+%P 337-350
+%@ 978-3-319-22728-3
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-22729-0_26
+%R 10.1007/978-3-319-22729-0_26
+
+%0 Conference Paper
+%B Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II
+%D 2015
+%T ND-SYNC: Detecting Synchronized Fraud Activities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Alex Beutel
+%A Christos Faloutsos
+%A Athena Vakali
+%B Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II
+%P 201â€“214
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-18032-8_16
+%R 10.1007/978-3-319-18032-8_16
+
+%0 Conference Paper
+%B PAKDD (1)
+%D 2015
+%T Retweeting Activity on Twitter: Signs of Deception
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Christos Faloutsos
+%A Athena Vakali
+%E Cao, Tru
+%E Lim, Ee-Peng
+%E Zhou, Zhi-Hua
+%E Ho, Tu-Bao
+%E Cheung, David
+%E Motoda, Hiroshi
+%B PAKDD (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 9077
+%P 122-134
+%@ 978-3-319-18037-3
+%G eng
+
+%0 Journal Article
+%J World Wide Web
+%D 2015
+%T User communities evolution in microblogs: A public awareness barometer for real world events
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%X <p>In social media, users' interactions are affected by real-world events which influence emergence and shifts of opinions and topics. Interactions around an event-related topic can be captured in a weighted network, while identification of connectivity and intensity patterns can improve understanding of users' interest on the topic. Community detection is studied here as a means to reveal groups of social media users with common interaction patterns in such networks. The proposed community detection approach identifies communities exploiting both structural properties and intensity patterns, while dynamics of communities' evolution around an event are revealed based on an iterative community detection and mapping scheme. We investigate the importance of considering interactions' intensity for community detection via a benchmarking process on synthetic graphs and propose a generic framework for: i) modeling user interactions, ii) identifying static and evolving communities around events, iii) extracting quantitative and qualitative measurements from the communities' timeline, iv) leveraging measurements to understand the events' impact. Two real-world case studies based on Twitter interactions demonstrate the framework's potential for capturing and interpreting associations among communities and events.</p>
+%B World Wide Web
+%I Springer US
+%P 1269-1299
+%G eng
+
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers
+%E Boualem Benatallah
+%E Azer Bestavros
+%E Barbara Catania
+%E Armin Haller
+%E Yannis Manolopoulos
+%E Athena Vakali
+%E Yanchun Zhang
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9051
+%@ 978-3-319-20369-0
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-20370-6
+%R 10.1007/978-3-319-20370-6
+
+%0 Conference Paper
+%B ECML/PKDD (3)
+%D 2014
+%T Branty: A Social Media Ranking Tool for Brands
+%A Arvanitidis, Alexandros
+%A Serafi, Anna
+%A Athena Vakali
+%A Tsoumakas, Grigorios
+%E Calders, Toon
+%E Esposito, Floriana
+%E Hullermeier, Eyke
+%E Meo, Rosa
+%B ECML/PKDD (3)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8726
+%P 432-435
+%@ 978-3-662-44844-1
+%G eng
+
+%0 Conference Paper
+%B ICE-B
+%D 2014
+%T A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach
+%A Kakarontzas, George
+%A Anthopoulos, Leonidas G.
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Obaidat, Mohammad S.
+%E Holzinger, Andreas
+%E van Sinderen, Marten
+%E Dolog, Peter
+%B ICE-B
+%I SciTePress
+%P 47-54
+%@ 978-989-758-043-7
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content
+%A Polymerou, Evangelia
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 20
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Proceedings
+%B ADBIS (2)
+%D 2014
+%T New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems
+%E Barbara Catania
+%E Cerquitelli, Tania
+%E Chiusano, Silvia
+%E Guerrini, Giovanna
+%E Kämpf, Mirko
+%E Kemper, Alfons
+%E Novikov, Boris
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B ADBIS (2)
+%S Advances in Intelligent Systems and Computing
+%I Springer
+%C Genoa, Italy
+%V 241
+%8 04/2013
+%@ 978-3-319-01863-8
+%G eng
+
+%0 Conference Proceedings
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%D 2014
+%T Transactions on Large-Scale Data- and Knowledge-Centered Systems
+%E Hameurlain, Abdelkader
+%E Küng, Josef
+%E Wagner, Roland
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8920
+%@ 978-3-662-45760-3
+%G eng
+
+%0 Conference Paper
+%B WISE (2)
+%D 2013
+%T Community Detection in Social Media by Leveraging Interactions and Intensities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Lin, Xuemin
+%E Manolopoulos, Yannis
+%E Srivastava, Divesh
+%E Huang, Guangyan
+%K community detection
+%K user weighted interaction networks
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8181
+%P 57-72
+%@ 978-3-642-41153-3
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 2013
+%T Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing
+%A Kastrinakis, Dimitrios
+%A Symeon Papadopoulos
+%A Athena Vakali
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Pokorny, Jaroslav
+%K composite visual word
+%K local descriptors
+%K multimedia data indexing
+%K visual word
+%X <p>Multimedia data indexing for content-based retrieval has attractedsignificant attention in recent years due to the commoditizationof multimedia capturing equipment and the widespread adoption of social networking platforms as means for sharing media content online. Due to the very large amounts of multimedia content, notably images, produced and shared online by people, a very important requirement for multimedia indexing approaches pertains to their efficiency both in terms of computation and memory usage. A common approach to support query-by-example image search is based on the extraction of visual words from images and their indexing by means of inverted indices, a method proposed and popularized in the field of text retrieval.The main challenge that visual word indexing systems currently facearises from the fact that it is necessary to build very large visual vocabularies (hundreds of thousands or even millions of words) to support sufficiently precise search. However, when the visual vocabulary is large,the image indexing process becomes computationally expensive due to the fact that the local image descriptors (e.g. SIFT) need to be quantized to the nearest visual words.To this end, this paper proposes a novel method that significantly decreases the time required for the above quantization process. Instead of using hundreds of thousands of visual words for quantization, the proposed method manages to preserve retrieval quality by using a much smaller number of words for indexing. This is achieved by the concept of composite words, i.e. assigning multiple words to a local descriptor in ascending order of distance. We evaluate the proposed method in the Oxford and Paris buildings datasets to demonstrate the validity of the proposed approach.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8133
+%P 98-111
+%@ 978-3-642-40682-9
+%G eng
+
+%0 Conference Paper
+%B ICDM Workshops
+%D 2013
+%T Dissimilarity Features in Recommender Systems
+%A Christos Zigkolis
+%A Karagiannidis, Savvas
+%A Athena Vakali
+%E Wei Ding
+%E Washio, Takashi
+%E Xiong, Hui
+%E Karypis, George
+%E Thuraisingham, Bhavani M.
+%E Cook, Diane J.
+%E Wu, Xindong
+%B ICDM Workshops
+%I IEEE Computer Society
+%P 825-832
+%@ 978-0-7695-5109-8
+%G eng
+
+%0 Conference Paper
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%D 2013
+%T Micro-blogging Content Analysis via Emotionally-Driven Clustering
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K affective analysis methodology
+%K Clustering algorithms
+%K content management
+%K content sharing
+%K Dictionaries
+%K emotion intensity monitoring
+%K emotionally-driven clustering
+%K Equations
+%K human emotion states
+%K information sharing
+%K lexicon-based technique
+%K Mathematical model
+%K microblogging content analysis
+%K pattern clustering
+%K people perception
+%K Pragmatics
+%K Semantics
+%K Sentiment analysis
+%K social networking (online)
+%K social pulse
+%K social relations
+%K text analysis
+%K Twitter
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%P 375-380
+%8 Sept
+%G eng
+%R 10.1109/ACII.2013.68
+
+%0 Conference Paper
+%B Panhellenic Conference on Informatics
+%D 2013
+%T Requirements and architecture design principles for a smart city experiment with sensor and social networks integration
+%A Samaras, Christos
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Angelis, Lefteris
+%E Ketikidis, Panayiotis H.
+%E Margaritis, Konstantinos G.
+%E Vlahavas, Ioannis P.
+%E Chatzigeorgiou, Alexander
+%E Eleftherakis, George
+%E Stamelos, Ioannis
+%B Panhellenic Conference on Informatics
+%I ACM
+%P 327-334
+%@ 978-1-4503-1969-0
+%G eng
+
+%0 Conference Paper
+%B DATA
+%D 2013
+%T Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing
+%A Athena Vakali
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Andreadis, George
+%E Helfert, Markus
+%E Francalanci, Chiara
+%E Filipe, Joaquim
+%B DATA
+%I SciTePress
+%P 175-182
+%@ 978-989-8565-67-9
+%G eng
+
+%0 Conference Paper
+%B Future Internet Assembly
+%D 2012
+%T Towards a Narrative-Aware Design Framework for Smart Urban Environments
+%A Srivastava, Lara
+%A Athena Vakali
+%E Alvarez, Federico
+%E Cleary, Frances
+%E Daras, Petros
+%E Domingue, John
+%E Galis, Alex
+%E Garcia, Ana
+%E Gavras, Anastasius
+%E Karnouskos, Stamatis
+%E Krco, Srdjan
+%E Li, Man-Sze
+%E Lotz, Volkmar
+%E Müller, Henning
+%E Salvadori, Elio
+%E Sassen, Anne-Marie
+%E Schaffers, Hans
+%E Stiller, Burkhard
+%E Tselentis, Georgios
+%E Turkama, Petra
+%E Zahariadis, Theodore B.
+%B Future Internet Assembly
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7281
+%P 166-177
+%@ 978-3-642-30240-4
+%G eng
+
+%0 Conference Paper
+%B Future Internet Assembly
+%D 2012
+%T Urban Planning and Smart Cities: Interrelations and Reciprocities
+%A Anthopoulos, Leonidas G.
+%A Athena Vakali
+%E Alvarez, Federico
+%E Cleary, Frances
+%E Daras, Petros
+%E Domingue, John
+%E Galis, Alex
+%E Garcia, Ana
+%E Gavras, Anastasius
+%E Karnouskos, Stamatis
+%E Krco, Srdjan
+%E Li, Man-Sze
+%E Lotz, Volkmar
+%E Müller, Henning
+%E Salvadori, Elio
+%E Sassen, Anne-Marie
+%E Schaffers, Hans
+%E Stiller, Burkhard
+%E Tselentis, Georgios
+%E Turkama, Petra
+%E Zahariadis, Theodore B.
+%B Future Internet Assembly
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7281
+%P 178-189
+%@ 978-3-642-30240-4
+%G eng
+
+%0 Book Section
+%B Next Generation Data Technologies for Collective Computational Intelligence
+%D 2011
+%T Leveraging Massive User Contributions for Knowledge Extraction
+%A Nikolopoulos, Spiros
+%A Chatzilari, Elisavet
+%A Giannakidou, Eirini
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Bessis, Nik
+%E Xhafa, Fatos
+%B Next Generation Data Technologies for Collective Computational Intelligence
+%S Studies in Computational Intelligence
+%I Springer
+%V 352
+%P 415-443
+%@ 978-3-642-20343-5
+%G eng
+
+%0 Conference Paper
+%B VS-GAMES
+%D 2011
+%T Towards a User-Aware Virtual Museum
+%A Christos Zigkolis
+%A Vassiliki A. Koutsonikola
+%A Despoina Chatzakou
+%A Karagiannidis, Savvas
+%A Maria Giatsoglou
+%A Kosmatopoulos, Andreas
+%A Athena Vakali
+%E Liarokapis, Fotis
+%E Doulamis, Anastasios D.
+%E Vescoukis, Vassilios
+%K user groups
+%K user preferences
+%K virtual museum
+%B VS-GAMES
+%I IEEE Computer Society
+%P 228-235
+%@ 978-1-4577-0316-4
+%G eng
+
+%0 Conference Paper
+%B HT
+%D 2010
+%T Automatic extraction of structure, content and usage data statistics of web sites
+%A Paparrizos, Ioannis K.
+%A Vassiliki A. Koutsonikola
+%A Angelis, Lefteris
+%A Athena Vakali
+%E Chignell, Mark H.
+%E Toms, Elaine G.
+%K classification
+%K Crawling
+%K Structure Content and Usage data
+%K Web Mining Algorithm
+%X <p>In this paper we present a web mining tool which automaticallyextracts the structure, content and usage data statistics of websites. This work inspired by the fact that web mining consists ofthree axes: web structure mining, web content mining and webusage mining. Each one of those axes is using the structure,content and usage data respectively. The scope is to use thedeveloped multi-thread web crawler as a tool to automaticallyextract from web pages data that are associated with each one ofthose three axes in order afterwards to compute several usefuldescriptive statistics and apply advanced mathematical andstatistical methods. A description of our system is provided aswell as some experimentation results.</p>
+%B HT
+%I ACM
+%P 301-302
+%@ 978-1-4503-0041-4
+%G eng
+
+%0 Conference Paper
+%B ACM Multimedia
+%D 2010
+%T ClustTour: city exploration by use of hybrid photo clustering
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Kapiris, Stefanos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Bimbo, Alberto Del
+%E Chang, Shih-Fu
+%E Smeulders, Arnold W. M.
+%K Clustering
+%K event and landmark detection
+%K tagging
+%X <p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+%B ACM Multimedia
+%I ACM
+%P 1617-1620
+%@ 978-1-60558-933-6
+%G eng
+
+%0 Conference Paper
+%B RCIS
+%D 2009
+%T Benchmark graphs for the evaluation of Clustering Algorithms
+%A Moussiades, Lefteris
+%A Athena Vakali
+%E Flory, Andre
+%E Collard, Martine
+%K Artificial graph
+%K Community structure
+%K Graph clustering
+%K Intra linkage ratio
+%K Modularity
+%X <p>Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.</p>
+%B RCIS
+%I IEEE
+%P 197-206
+%@ 978-1-4244-2864-9
+%G eng
+
+%0 Conference Paper
+%B ICCSA (2)
+%D 2006
+%T A Divergence-Oriented Approach for Web Users Clustering
+%A Petridou, Sophia G.
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%E Gavrilova, Marina L.
+%E Gervasi, Osvaldo
+%E Kumar, Vipin
+%E Tan, Chih Jeng Kenneth
+%E Taniar, David
+%E LaganĂ , Antonio
+%E Mun, Youngsong
+%E Choo, Hyunseung
+%X Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective functionâ€™s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.
+%B ICCSA (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3981
+%P 1229-1238
+%@ 3-540-34072-6
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Data Stores: Emerging Practices
+%A Athena Vakali
+%A Barbara Catania
+%A Anna Maddalena
+%B IEEE Internet Computing
+%V 9
+%P 62-69
+%G eng
+
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2005
+%T XML document indexes: a classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%K documents indexing
+%K xml
+%X <p>XML’s increasing diffusion makes efficient XML query processing and indexing all the more critical. Given the semistructured nature of XML documents, however, general query processing techniques won’t work. Researchers have proposed several specialized indexing methods that offer query processors efficient access to XML documents, although none are yet fully implemented in commercial products. In this article the classification of XML indexing techniques identifies current practices and trends, offering insight into how developers can improve query processing and select the best solution for particular contexts.</p>
+%B Internet Computing, IEEE
+%V 9
+%P 64–71
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Document Indexes: A Classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%B IEEE Internet Computing
+%V 9
+%P 64-71
+%G eng
+
+%0 Conference Paper
+%B MMDB
+%D 2004
+%T Semantic retrieval of multimedia data
+%A Hammiche, Samira
+%A Benbernou, Salima
+%A Hacid, Mohand-Said
+%A Athena Vakali
+%E Chen, Shu-Ching
+%E Shyu, Mei-Ling
+%K Approximation Ontologies
+%K MPEG-7
+%K Multimedia Data
+%K Tree embedding
+%X <p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+%B MMDB
+%I ACM
+%P 36-44
+%@ 1-58113-975-6
+%G eng
+
+%0 Conference Paper
+%B ICDE
+%D 2002
+%T A Distributed Database Server for Continuous Media
+%A Aref, Walid G.
+%A Catlin, Ann Christine
+%A Elmagarmid, Ahmed K.
+%A Fan, Jianping
+%A Guo, J.
+%A Hammad, Moustafa A.
+%A Ilyas, Ihab F.
+%A Marzouk, Mirette S.
+%A Prabhakar, Sunil
+%A Rezgui, Abdelmounaam
+%A Teoh, S.
+%A Terzi, Evimaria
+%A Tu, Yi-Cheng
+%A Athena Vakali
+%A Zhu, Xingquan
+%E Agrawal, Rakesh
+%E Dittrich, Klaus R.
+%X In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.
+%B ICDE
+%I IEEE Computer Society
+%P 490-491
+%@ 0-7695-1531-2
+%G eng
+

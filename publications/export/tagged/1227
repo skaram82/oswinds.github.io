@@ -1,0 +1,12 @@
+%0 Unpublished Work
+%D 2009
+%T Leveraging Collective Intelligence through Community Detection in Tag Networks
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%K collective intelligence
+%K community detection
+%K tag networks
+%X <p>The paper studies the problem of community detectionin tag networks, i.e. networks consisting of associationsbetween tags that are used within Social Tagging Systems(STS) to annotate online resources (e.g. bookmarks,pictures, videos, etc.). Community detectionmethods aim at uncovering densely connected groupsof tags, which can reveal the topic structure emergingin the STS. In this way, community detection in tagnetworks leverages Collective Intelligence (CI), that isthe intelligence that is accumulated as a result of thecollective activities of masses of users.</p>
+%G eng
+

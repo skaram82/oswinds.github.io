@@ -1,0 +1,12 @@
+@inproceedings {conf/www/VakaliGA12,
+	title = {Social networking trends and dynamics detection via a cloud-based framework design},
+	booktitle = {WWW (Companion Volume)},
+	year = {2012},
+	pages = {1213-1220},
+	publisher = {ACM},
+	organization = {ACM},
+	keywords = {cloud service deployment, microblogs and blogosphere dynamics, Social networks social, Web Data Clustering},
+	isbn = {978-1-4503-1230-1},
+	author = {Athena Vakali and Maria Giatsoglou and Antaris, Stefanos},
+	editor = {Mille, Alain and Gandon, Fabien L. and Misselis, Jacques and Rabinovich, Michael and Staab, Steffen}
+}

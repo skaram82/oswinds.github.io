@@ -1,0 +1,6 @@
+@inproceedings {1839,
+	title = {Caching Ob jects from Heterogeneous Information Sources},
+	year = {1999},
+	abstract = {<p>Information exchange has shown a rapid growth due to Internet expansion and hasaltered the structure of information sources worldwideStructured and semistructureddata are stored in various heterogeneous information sources and thus tools have beendeveloped for facilitating their rapid integrationThe goal of this paper is to extend theintegration process by the introduction of caching techniques to the client environmentin order to decrease access time to ob jects distributed over various information sourcesIn particular two methods for optimizing distributed ob jects exchange have been studiedand implemented the rst method is based on evolutionary computation whereas thesecond one is based on the LeastRecentlyUsed caching algorithmIn our model queriesask for documents or ob jects which are identied by the information source and theirplacement within that sourceOb jects are kept in cache area based on their access patternand the cache is updated by the two proposed algorithmsBoth methods are evaluatedexperimentally and results show that the evolutionary computing based algorithm issuperior than the traditional LRU algorithm.</p>
+}
+}

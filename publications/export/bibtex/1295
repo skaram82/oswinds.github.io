@@ -1,0 +1,16 @@
+@inproceedings {conf/advis/Vakali00,
+	title = {Evolutionary Prefetching and Caching in an Independent Storage Units Model},
+	booktitle = {ADVIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {1909},
+	year = {2000},
+	pages = {265-274},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Modern applications demand support for a large number ofclients and require large scale storage subsystems. This paper presentsa theoretical model of prefetching and caching of storage objects undera parallel storage units architecture. The storage objects are definedas variable sized data blocks and a specific cache area is reserved fordata prefetching and caching. An evolutionary algorithm is proposed foridentifying the storage objects to be prefetched and cached. The storageobject prefetching approach is experimented under certain artificialworkloads of requests for a set of storage units and has shown significantperformance improvement with respect to request service times, as wellas cache and byte hit ratios.</p>
+},
+	keywords = {data prefetching and caching, object-based storage models, parallel storage units},
+	isbn = {3-540-41184-4},
+	author = {Athena Vakali},
+	editor = {Yakhno, Tatyana M.}
+}

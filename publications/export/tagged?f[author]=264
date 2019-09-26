@@ -1,0 +1,36 @@
+%0 Conference Paper
+%B ICDE Workshops
+%D 2006
+%T Replication Based on Objects Load under a Content Distribution Network
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Katsaros, Dimitrios
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%E Barga, Roger S.
+%E Zhou, Xiaofang
+%B ICDE Workshops
+%I IEEE Computer Society
+%P 53
+%G eng
+
+%0 Conference Paper
+%B APWeb
+%D 2003
+%T Knowledge Representation, Ontologies, and the Semantic Web
+%A Terzi, Evimaria
+%A Athena Vakali
+%A Hacid, Mohand-Said
+%E Zhou, Xiaofang
+%E Zhang, Yanchun
+%E Orlowska, Maria E.
+%X A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.
+%B APWeb
+%S Lecture Notes in Computer Science
+%I Springer
+%V 2642
+%P 382-387
+%@ 3-540-02354-2
+%G eng
+

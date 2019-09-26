@@ -1,0 +1,14 @@
+@inproceedings {conf/iccsa/PetridouKVP06,
+	title = {A Divergence-Oriented Approach for Web Users Clustering},
+	booktitle = {ICCSA (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {3981},
+	year = {2006},
+	pages = {1229-1238},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective function{\^a}{\texteuro}{\texttrademark}s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.},
+	isbn = {3-540-34072-6},
+	author = {Petridou, Sophia G. and Vassiliki A. Koutsonikola and Athena Vakali and Papadimitriou, Georgios I.},
+	editor = {Gavrilova, Marina L. and Gervasi, Osvaldo and Kumar, Vipin and Tan, Chih Jeng Kenneth and Taniar, David and Lagan{\u A} , Antonio and Mun, Youngsong and Choo, Hyunseung}
+}

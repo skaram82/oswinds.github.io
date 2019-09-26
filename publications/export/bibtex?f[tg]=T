@@ -1,0 +1,95 @@
+@inproceedings {conf/wims/GiannakidouVM14,
+	title = {Towards a Framework for Social Semiotic Mining},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {21},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Giannakidou, Eirini and Athena Vakali and Mavridis, Nikolaos},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@proceedings {journals/tlsdkcs/2014-15,
+	title = {Transactions on Large-Scale Data- and Knowledge-Centered Systems},
+	booktitle = {T. Large-Scale Data- and Knowledge-Centered Systems},
+	series = {Lecture Notes in Computer Science},
+	volume = {8920},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-662-45760-3},
+	editor = {Hameurlain, Abdelkader and K{\"u}ng, Josef and Wagner, Roland and Barbara Catania and Guerrini, Giovanna and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@inproceedings {conf/fia/SrivastavaV12,
+	title = {Towards a Narrative-Aware Design Framework for Smart Urban Environments},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {166-177},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Srivastava, Lara and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {1903,
+	title = {Towards a user-aware virtual museum},
+	year = {2011},
+	abstract = {<p>The exploration of cultural heritage through welldesignedvirtual worlds has met an increase in popularity withinthe last decade. More and more well-known museums aroundthe globe have started to spend funds in order to build systemswith which users can virtually navigate through the museums{\textquoteright}exhibits. Technological breakthroughs in graphics design and theuse of multimedia content have helped these systems becomemore attractive and easier to use. However, the vast majority ofthese systems are solely there to represent content in an appealingway, with users just having the submissive role of requestinginformation. In this paper, we want to make one step furtherand present a user-aware system for virtual museums. Usersin the proposed system are active users who can express theiropinions in many different ways, enabling us to extract userpreferences on cultural content. We follow a group-based logicin order to capture the underlying differences in user preferencesbetween the groups. We believe that these findings are beneficialfor providing a better user experience and, also, for the museum{\textquoteright}sadministrators who can easily assess user interest about themuseum by analyzing their evaluations.</p>
+}
+}
+@inproceedings {conf/vsgames/ZigkolisKCKGKV11,
+	title = {Towards a User-Aware Virtual Museum},
+	booktitle = {VS-GAMES},
+	year = {2011},
+	pages = {228-235},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	keywords = {user groups, user preferences, virtual museum},
+	isbn = {978-1-4577-0316-4},
+	author = {Christos Zigkolis and Vassiliki A. Koutsonikola and Despoina Chatzakou and Karagiannidis, Savvas and Maria Giatsoglou and Kosmatopoulos, Andreas and Athena Vakali},
+	editor = {Liarokapis, Fotis and Doulamis, Anastasios D. and Vescoukis, Vassilios}
+}
+@inproceedings {conf/dasfaa/StampouliGV10,
+	title = {Tag Disambiguation through Flickr and Wikipedia},
+	booktitle = {DASFAA Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {6193},
+	year = {2010},
+	pages = {252-263},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion {\^a}{\texteuro}{\'s}Apple{\^a}{\texteuro}{\v t} illustrates the value of the proposed approach.</p>
+},
+	keywords = {DBpedia project, flick, mashup, term disambiguation, Wikipedia},
+	isbn = {978-3-642-14588-9},
+	author = {Stampouli, Anastasia and Giannakidou, Eirini and Athena Vakali},
+	editor = {Yoshikawa, Masatoshi and Meng, Xiaofeng and Yumoto, Takayuki and Ma, Qiang and Sun, Lifeng and Watanabe, Chiemi}
+}
+@inproceedings {1892,
+	title = {Tag Disambiguation through Flickr and Wikipedia},
+	year = {2010},
+	abstract = {<p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion {\textquotedblleft}Apple{\textquotedblright} illustrates the value of the proposed approach.</p>
+}
+}
+@article {1810,
+	title = {Time Aware Web Users Clustering},
+	year = {2009},
+	abstract = {<p>Web users clustering is a crucial task for mininginformation related to users needs and preferences. Up to now,popular clustering approaches build clusters based on usagepatterns derived from users{\textquoteright} page preferences. This paper emphasizesthe need to discover similarities in users{\textquoteright} accessing behaviorwith respect to the time locality of their navigational acts. Inthis context, we present two time aware clustering approachesfor tuning and binding the page and time visiting criteria. Thetwo tracks of the proposed algorithms define clusters with usersthat show similar visiting behavior at the same time period, byvarying the priority given to page or time visiting. The proposedalgorithms are evaluated using both synthetic and real datasetsand the experimentation has shown that the new clusteringschemes result in enriched clusters compared to those createdby the conventional non-time aware users clustering approaches.These clusters contain users exhibiting similar access behaviornot only in terms of their page preferences but also of their accesstime.</p>
+}
+}
+@article {journals/tkde/PetridouKVP08,
+	title = {Time-Aware Web Users{\textquoteright} Clustering},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {20},
+	number = {5},
+	year = {2008},
+	pages = {653-667},
+	author = {Petridou, Sophia G. and Vassiliki A. Koutsonikola and Athena Vakali and Papadimitriou, Georgios I.}
+}
+@inproceedings {1845,
+	title = {A Two-Level Representation Model for Effective Video Data Storage},
+	year = {2000},
+	abstract = {<p>The main issues characterizing current video applications are their strong requirements for huge storage spaces andtheir need for timing synchronizationVideo data storageis a critical research topic due to the socalled IObottle neck problem which aects the quality of service of videoapplicationsThis paper introduces a two level video datarepresentation model in order to guide video data storage on a tertiary storage subsystemA simulation model hasbeen developed to evaluate dierent video placement strategies based on both Constructive and Iterative ImprovementapproachesExperimentation has been carried out for theproposed placement approaches as well as for a typical random placement policy which serves as a comparison refer enceIterative Improvement placement has been proven tooutperform the other considered video data placement approaches in both seek and service times.</p>
+}
+}

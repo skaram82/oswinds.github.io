@@ -1,0 +1,11 @@
+@inbook {books/daglib/p/PapadopoulosVK11,
+	title = {Community Detection in Collaborative Tagging Systems},
+	booktitle = {Community-Built Databases},
+	year = {2011},
+	pages = {107-131},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-19046-9},
+	author = {Symeon Papadopoulos and Athena Vakali and Yiannis Kompatsiaris},
+	editor = {Pardede, Eric}
+}

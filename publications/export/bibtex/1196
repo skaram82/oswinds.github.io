@@ -1,0 +1,13 @@
+@inbook {series/sci/NikolopoulosCGPKV11,
+	title = {Leveraging Massive User Contributions for Knowledge Extraction},
+	booktitle = {Next Generation Data Technologies for Collective Computational Intelligence},
+	series = {Studies in Computational Intelligence},
+	volume = {352},
+	year = {2011},
+	pages = {415-443},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-20343-5},
+	author = {Nikolopoulos, Spiros and Chatzilari, Elisavet and Giannakidou, Eirini and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bessis, Nik and Xhafa, Fatos}
+}

@@ -1,0 +1,11 @@
+@inproceedings {conf/data/VakaliCKA13,
+	title = {Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing},
+	booktitle = {DATA},
+	year = {2013},
+	pages = {175-182},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-8565-67-9},
+	author = {Athena Vakali and Despoina Chatzakou and Vassiliki A. Koutsonikola and Andreadis, George},
+	editor = {Helfert, Markus and Francalanci, Chiara and Filipe, Joaquim}
+}

@@ -1,0 +1,83 @@
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2015
+%T Harvesting Opinions and Emotions from Social Media Textual Resources
+%A Despoina Chatzakou
+%A Athena Vakali
+%K Adaptation models
+%K Analytical models
+%K Filtering
+%K Internet/Web technologies
+%K Media
+%K Sentiment analysis
+%K Text processing
+%K textual resources
+%K Web 2.0
+%B Internet Computing, IEEE
+%V 19
+%P 46-50
+%8 July
+%G eng
+%R 10.1109/MIC.2015.28
+
+%0 Conference Paper
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%D 2013
+%T Micro-blogging Content Analysis via Emotionally-Driven Clustering
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K affective analysis methodology
+%K Clustering algorithms
+%K content management
+%K content sharing
+%K Dictionaries
+%K emotion intensity monitoring
+%K emotionally-driven clustering
+%K Equations
+%K human emotion states
+%K information sharing
+%K lexicon-based technique
+%K Mathematical model
+%K microblogging content analysis
+%K pattern clustering
+%K people perception
+%K Pragmatics
+%K Semantics
+%K Sentiment analysis
+%K social networking (online)
+%K social pulse
+%K social relations
+%K text analysis
+%K Twitter
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%P 375-380
+%8 Sept
+%G eng
+%R 10.1109/ACII.2013.68
+
+%0 Conference Paper
+%B ACII (1)
+%D 2011
+%T Emotional Aware Clustering on Micro-blogging Sources
+%A Tsagkalidou, Katerina
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%E D’Mello, Sidney K.
+%E Graesser, Arthur C.
+%E Schuller, Björn
+%E Martin, Jean-Claude
+%K Microblogging services
+%K Sentiment analysis
+%K web clustering
+%X <p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+%B ACII (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6974
+%P 387-396
+%@ 978-3-642-24599-2
+%G eng
+

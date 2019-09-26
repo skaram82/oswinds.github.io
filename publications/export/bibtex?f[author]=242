@@ -1,0 +1,11 @@
+@inproceedings {conf/bci/MoussiadesV09,
+	title = {Mining the Community Structure of a Web Site},
+	booktitle = {BCI},
+	year = {2009},
+	pages = {239-244},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-3783-2},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Kefalas, Petros and Stamatis, Demosthenes and Douligeris, Christos}
+}

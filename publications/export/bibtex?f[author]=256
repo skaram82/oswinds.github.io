@@ -1,0 +1,29 @@
+@article {journals/jbi/TheodosiouAV08,
+	title = {Non-linear correlation of content and metadata information extracted from biomedical article datasets},
+	journal = {Journal of Biomedical Informatics},
+	volume = {41},
+	number = {1},
+	year = {2008},
+	pages = {202-216},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@article {journals/ijmi/TheodosiouAVT07,
+	title = {Gene functional annotation by statistical analysis of biomedical articles},
+	journal = {I. J. Medical Informatics},
+	volume = {76},
+	number = {8},
+	year = {2007},
+	pages = {601-613},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali and Thomopoulos, G. N.}
+}
+@inproceedings {conf/dexaw/TheodosiouAV05,
+	title = {Functional Annotation of Genes through Statistical Analysis of Biomedical Articles},
+	booktitle = {DEXA Workshops},
+	year = {2005},
+	pages = {585-589},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.},
+	isbn = {0-7695-2424-9},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}

@@ -1,0 +1,14 @@
+@inproceedings {conf/ht/PaparrizosKAV10,
+	title = {Automatic extraction of structure, content and usage data statistics of web sites},
+	booktitle = {HT},
+	year = {2010},
+	pages = {301-302},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>In this paper we present a web mining tool which automaticallyextracts the structure, content and usage data statistics of websites. This work inspired by the fact that web mining consists ofthree axes: web structure mining, web content mining and webusage mining. Each one of those axes is using the structure,content and usage data respectively. The scope is to use thedeveloped multi-thread web crawler as a tool to automaticallyextract from web pages data that are associated with each one ofthose three axes in order afterwards to compute several usefuldescriptive statistics and apply advanced mathematical andstatistical methods. A description of our system is provided aswell as some experimentation results.</p>
+},
+	keywords = {classification, Crawling, Structure Content and Usage data, Web Mining Algorithm},
+	isbn = {978-1-4503-0041-4},
+	author = {Paparrizos, Ioannis K. and Vassiliki A. Koutsonikola and Angelis, Lefteris and Athena Vakali},
+	editor = {Chignell, Mark H. and Toms, Elaine G.}
+}

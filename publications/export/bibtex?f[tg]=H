@@ -1,0 +1,41 @@
+@proceedings {1944,
+	title = {Hate is not Binary: Studying Abusive Behavior of $\#$GamerGate on Twitter},
+	series = {HT {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Prague, Czech Republic},
+	abstract = {<p>Over the past few years, online bullying and aggression have become increasingly prominent, and manifested in many different forms on social media. However, there is little work analyzing the characteristics of abusive users and what distinguishes them from typical social media users. In this paper, we start addressing this gap by analyzing tweets containing a great amount of abusiveness. We focus on a Twitter dataset revolving around the Gamergate controversy, which led to many incidents of cyberbullying and cyberaggression on various gaming and social media platforms. We study the properties of the users tweeting about Gamergate, the content they post, and the differences in their behavior compared to typical Twitter users.</p>
+
+<p>We find that while their tweets are often seemingly about aggressive and hateful subjects, {\textquoteleft}{\textquoteleft}Gamergaters{\textquoteright}{\textquoteright} do not exhibit common expressions of online anger, and in fact primarily differ from typical users in that their tweets are less joyful. They are also more engaged than typical Twitter users, which is an indication as to how and why this controversy is still ongoing. Surprisingly, we find that Gamergaters are less likely to be suspended by Twitter, thus we analyze their properties to identify differences from typical users and what may have led to their suspension. We perform an unsupervised machine learning analysis to detect clusters of users who, though currently active, could be considered for suspension since they exhibit similar behaviors with suspended users. Finally, we confirm the usefulness of our analyzed features by emulating the Twitter suspension mechanism with a supervised learning method, achieving very good precision and recall.</p>
+},
+	issn = {978-1-4503-4708-2/17/07},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@article {7045420,
+	title = {Harvesting Opinions and Emotions from Social Media Textual Resources},
+	journal = {Internet Computing, IEEE},
+	volume = {19},
+	number = {4},
+	year = {2015},
+	month = {July},
+	pages = {46-50},
+	keywords = {Adaptation models, Analytical models, Filtering, Internet/Web technologies, Media, Sentiment analysis, Text processing, textual resources, Web 2.0},
+	issn = {1089-7801},
+	doi = {10.1109/MIC.2015.28},
+	author = {Despoina Chatzakou and Athena Vakali}
+}
+@inproceedings {1873,
+	title = {Hydra: An Open Framework for Virtual-Fusion of Recommendation Filters},
+	year = {2010},
+	abstract = {<p>Today{\textquoteright}s web commercial applications demand more powerfulrecommendation systems due to the rapid increase in thenumber of both consumers and available products. Searchingfor the best algorithm with the highest accuracy and realisticcomplexity is, most of the time, a very costly processin terms of both time and resources. In this paper we suggestan alternative framework called Hydra which enablesthe virtual fusion of any and as many currently availablerecommendation algorithms in such a distributed mannerthat algorithms{\textquoteright} complexities are not summarized but parallelized.Therefore, we utilize the available algorithms andtechnologies aiming to achieve better accuracy in order tosurpass even the most state of the art algorithms. In addition,Hydra can be used to find how algorithms interactwith each other in order to estimate the resulting accuracytowards inventing a more precise algorithm diminishing therisk of a failed investment. Hydra can be adjusted and integratedin any recommendation application while it is alsoopen to new functionalities which can be embedded easilyand in a transparent manner.</p>
+}
+}
+@article {journals/dke/VakaliTBE03,
+	title = {Hierarchical data placement for navigational multimedia applications},
+	journal = {Data Knowl. Eng.},
+	volume = {44},
+	number = {1},
+	year = {2003},
+	pages = {49-80},
+	author = {Athena Vakali and Terzi, Evimaria and Bertino, Elisa and Elmagarmid, Ahmed K.}
+}

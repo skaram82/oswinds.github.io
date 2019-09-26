@@ -1,0 +1,16 @@
+@inbook {1161,
+	title = {MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis},
+	booktitle = {Big Data Analytics and Knowledge Discovery},
+	series = {Lecture Notes in Computer Science},
+	volume = {9263},
+	year = {2015},
+	pages = {337-350},
+	publisher = {Springer International Publishing},
+	organization = {Springer International Publishing},
+	keywords = {Multilevel features, Sentiment detection},
+	isbn = {978-3-319-22728-3},
+	doi = {10.1007/978-3-319-22729-0_26},
+	url = {http://dx.doi.org/10.1007/978-3-319-22729-0_26},
+	author = {Despoina Chatzakou and Passalis, Nikolaos and Athena Vakali},
+	editor = {Sanjay Kumar Madria and Hara, Takahiro}
+}

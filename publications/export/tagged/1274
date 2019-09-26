@@ -1,0 +1,22 @@
+%0 Conference Paper
+%B EDBT Workshops
+%D 2004
+%T An Overview of Web Data Clustering Practices
+%A Athena Vakali
+%A Pokorny, Jaroslav
+%A Dalamagas, Theodore
+%E Lindner, Wolfgang
+%E Mesiti, Marco
+%E Türker, Can
+%E Tzitzikas, Yannis
+%E Athena Vakali
+%K Web Data Clustering
+%X <p>Clustering is a challenging topic in the area of Web data management.Various forms of clustering are required in a wide range of applications, includingfinding mirrored Web pages, detecting copyright violations, and reporting searchresults in a structured way. Clustering can either be performed once offline, (independentlyto search queries), or online (on the results of search queries). Importantefforts have focused on mining Web access logs and to cluster search engine resultson the fly. Online methods based on link structure and text have been appliedsuccessfully to finding pages on related topics. This paper presents an overview ofthe most popular methodologies and implementations in terms of clustering eitherWeb users or Web sources and presents a survey about current status and futuretrends in clustering employed over the Web.</p>
+%B EDBT Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3268
+%P 597-606
+%@ 3-540-23305-9
+%G eng
+

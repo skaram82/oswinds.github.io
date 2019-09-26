@@ -1,0 +1,9 @@
+@article {journals/www/SidiropoulosPKSVM08,
+	title = {Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing},
+	journal = {World Wide Web},
+	volume = {11},
+	number = {1},
+	year = {2008},
+	pages = {39-70},
+	author = {Sidiropoulos, Antonis and Pallis, George and Katsaros, Dimitrios and Stamos, Konstantinos and Athena Vakali and Manolopoulos, Yannis}
+}

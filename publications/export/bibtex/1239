@@ -1,0 +1,9 @@
+@article {journals/cee/PallisVP08,
+	title = {A clustering-based prefetching scheme on a Web cache environment},
+	journal = {Computers \& Electrical Engineering},
+	volume = {34},
+	number = {4},
+	year = {2008},
+	pages = {309-323},
+	author = {Pallis, George and Athena Vakali and Pokorny, Jaroslav}
+}

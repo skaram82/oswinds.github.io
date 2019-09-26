@@ -1,0 +1,19 @@
+%0 Conference Paper
+%B IDEAS
+%D 2012
+%T Evolving social data mining and affective analysis methodologies, framework and applications
+%A Athena Vakali
+%E Desai, Bipin C.
+%E Pokorny, Jaroslav
+%E Bernardino, Jorge
+%K evolving social data mining
+%K microblogging data analysis
+%K social affective analysis
+%K Social networking
+%X <p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+%B IDEAS
+%I ACM
+%P 1-7
+%@ 978-1-4503-1234-9
+%G eng
+

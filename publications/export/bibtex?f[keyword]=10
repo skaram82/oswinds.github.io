@@ -1,0 +1,13 @@
+@article {7045420,
+	title = {Harvesting Opinions and Emotions from Social Media Textual Resources},
+	journal = {Internet Computing, IEEE},
+	volume = {19},
+	number = {4},
+	year = {2015},
+	month = {July},
+	pages = {46-50},
+	keywords = {Adaptation models, Analytical models, Filtering, Internet/Web technologies, Media, Sentiment analysis, Text processing, textual resources, Web 2.0},
+	issn = {1089-7801},
+	doi = {10.1109/MIC.2015.28},
+	author = {Despoina Chatzakou and Athena Vakali}
+}

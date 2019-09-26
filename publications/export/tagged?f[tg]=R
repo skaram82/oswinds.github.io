@@ -1,0 +1,85 @@
+%0 Conference Paper
+%B PAKDD (1)
+%D 2015
+%T Retweeting Activity on Twitter: Signs of Deception
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Christos Faloutsos
+%A Athena Vakali
+%E Cao, Tru
+%E Lim, Ee-Peng
+%E Zhou, Zhi-Hua
+%E Ho, Tu-Bao
+%E Cheung, David
+%E Motoda, Hiroshi
+%B PAKDD (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 9077
+%P 122-134
+%@ 978-3-319-18037-3
+%G eng
+
+%0 Conference Paper
+%B Panhellenic Conference on Informatics
+%D 2013
+%T Requirements and architecture design principles for a smart city experiment with sensor and social networks integration
+%A Samaras, Christos
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Angelis, Lefteris
+%E Ketikidis, Panayiotis H.
+%E Margaritis, Konstantinos G.
+%E Vlahavas, Ioannis P.
+%E Chatzigeorgiou, Alexander
+%E Eleftherakis, George
+%E Stamelos, Ioannis
+%B Panhellenic Conference on Informatics
+%I ACM
+%P 327-334
+%@ 978-1-4503-1969-0
+%G eng
+
+%0 Conference Paper
+%B ICDE Workshops
+%D 2006
+%T Replication Based on Objects Load under a Content Distribution Network
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Katsaros, Dimitrios
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%E Barga, Roger S.
+%E Zhou, Xiaofang
+%B ICDE Workshops
+%I IEEE Computer Society
+%P 53
+%G eng
+
+%0 Conference Paper
+%D 2006
+%T Replication in Mirrored Disk Systems
+%X <p>In this paper we study data replication in a mirrored disk system.Free disk space is exploited by keeping replicas of specific cylindersat appropriate disk locations. Assuming an organ-pipe arrangement wecalculate the expected seek distance by varying the probability cylinderaccess under different distributions. Also, analytic formulae are derivedfor the expected seek distance under replication and comparison with theconventional (without replication) mirrored disk system is performed.</p>
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 1998
+%T Replication in Mirrored Disk Systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Litwin, Witold
+%E Morzy, Tadeusz
+%E Vossen, Gottfried
+%X In this paper we study data replication in a mirrored disk system.Free disk space is exploited by keeping replicas of specific cylindersat appropriate disk locations. Assuming an organ-pipe arrangement wecalculate the expected seek distance by varying the probability cylinderaccess under different distributions. Also, analytic formulae are derivedfor the expected seek distance under replication and comparison with theconventional (without replication) mirrored disk system is performed.
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1475
+%P 224-235
+%@ 3-540-64924-7
+%G eng
+

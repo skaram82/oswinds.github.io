@@ -1,0 +1,105 @@
+@article {1968,
+	title = {Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior},
+	year = {2018},
+	publisher = {AAAI},
+	address = {Stanford, California},
+	abstract = {<p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+},
+	author = {Antigoni-Maria Founta and Constantinos Djouvas and Despoina Chatzakou and Ilias Leontiadis and Jeremy Blackburn and Gianluca Stringhini and Athena Vakali and Michael Sirivianos and Nicolas Kourtellis}
+}
+@inbook {series/sci/NikolopoulosCGPKV11,
+	title = {Leveraging Massive User Contributions for Knowledge Extraction},
+	booktitle = {Next Generation Data Technologies for Collective Computational Intelligence},
+	series = {Studies in Computational Intelligence},
+	volume = {352},
+	year = {2011},
+	pages = {415-443},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-20343-5},
+	author = {Nikolopoulos, Spiros and Chatzilari, Elisavet and Giannakidou, Eirini and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bessis, Nik and Xhafa, Fatos}
+}
+@unpublished {papadopoulos2009leveraging,
+	title = {Leveraging Collective Intelligence through Community Detection in Tag Networks},
+	year = {2009},
+	abstract = {<p>The paper studies the problem of community detectionin tag networks, i.e. networks consisting of associationsbetween tags that are used within Social Tagging Systems(STS) to annotate online resources (e.g. bookmarks,pictures, videos, etc.). Community detectionmethods aim at uncovering densely connected groupsof tags, which can reveal the topic structure emergingin the STS. In this way, community detection in tagnetworks leverages Collective Intelligence (CI), that isthe intelligence that is accumulated as a result of thecollective activities of masses of users.</p>
+},
+	keywords = {collective intelligence, community detection, tag networks},
+	author = {Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali}
+}
+@inproceedings {1867,
+	title = {Leveraging Collective Intelligence through Community Detection in Tag Networks},
+	year = {2009},
+	abstract = {<p>The paper studies the problem of community detectionin tag networks, i.e. networks consisting of associationsbetween tags that are used within Social Tagging Systems(STS) to annotate online resources (e.g. bookmarks,pictures, videos, etc.). Community detectionmethods aim at uncovering densely connected groupsof tags, which can reveal the topic structure emergingin the STS. In this way, community detection in tagnetworks leverages Collective Intelligence (CI), that isthe intelligence that is accumulated as a result of thecollective activities of masses of users.</p>
+}
+}
+@inproceedings {conf/la-web/PallisVSSKM05,
+	title = {A Latency-Based Object Placement Approach in Content Distribution Networks},
+	booktitle = {LA-WEB},
+	year = {2005},
+	pages = {140-147},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {0-7695-2471-0},
+	author = {Pallis, George and Athena Vakali and Stamos, Konstantinos and Sidiropoulos, Antonis and Katsaros, Dimitrios and Manolopoulos, Yannis}
+}
+@inproceedings {1833,
+	title = {A Logic Based Approach for the Multimedia Data Representation and Retrieval},
+	year = {2005},
+	abstract = {<p>Nowadays, the amount of multimedia data is increasingrapidly, and hence, there is an increasing need for efficientmethods to manage the multimedia content. This paper proposesa framework for the description and retrieval of multimediadata. The data are represented at both the syntactic(structure, metadata and low level features) and semantic(the meaning of the data) levels. We use the MPEG-7 standard,which provides a set of tools to describe multimediacontent from different viewpoints, to represent the syntacticlevel. However, due to its XML Schema based representation,MPEG-7 is not suitable to represent the semanticaspect of the data in a formal and concise way. Moreover,inferential mechanisms are not provided. To alleviate theselimitations, we propose to extend MPEG-7 with a domainontology, formalized using a logical formalism. Then, thesemantic aspect of the data is described using the ontology{\textquoteright}svocabulary, as a set of logical expressions. We enhancethe ontology by a rules layer, to describe more complexconstraints between domain concepts and relations.User{\textquoteright}s queries may concern the syntactic and/or semanticfeatures. The syntactic constraints are expressed usingXQuery language and evaluated using an XML query engine;whereas the semantic query constraints are expressedusing a rules language and evaluated using a specific resolutionmechanism.</p>
+}
+}
+@inproceedings {conf/ism/HammicheBV05,
+	title = {A Logic Based Approach for the Multimedia Data Representation and Retrieval},
+	booktitle = {ISM},
+	year = {2005},
+	pages = {241-248},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {Nowadays, the amount of multimedia data is increasingrapidly, and hence, there is an increasing need for efficientmethods to manage the multimedia content. This paper proposesa framework for the description and retrieval of multimediadata. The data are represented at both the syntactic(structure, metadata and low level features) and semantic(the meaning of the data) levels. We use the MPEG-7 standard,which provides a set of tools to describe multimediacontent from different viewpoints, to represent the syntacticlevel. However, due to its XML Schema based representation,MPEG-7 is not suitable to represent the semanticaspect of the data in a formal and concise way. Moreover,inferential mechanisms are not provided. To alleviate theselimitations, we propose to extend MPEG-7 with a domainontology, formalized using a logical formalism. Then, thesemantic aspect of the data is described using the ontology{\^a}{\texteuro}{\texttrademark}svocabulary, as a set of logical expressions. We enhancethe ontology by a rules layer, to describe more complexconstraints between domain concepts and relations.User{\^a}{\texteuro}{\texttrademark}s queries may concern the syntactic and/or semanticfeatures. The syntactic constraints are expressed usingXQuery language and evaluated using an XML query engine;whereas the semantic query constraints are expressedusing a rules language and evaluated using a specific resolutionmechanism.},
+	isbn = {0-7695-2489-3},
+	author = {Hammiche, Samira and Benbernou, Salima and Athena Vakali}
+}
+@article {journals/internet/KoutsonikolaV04,
+	title = {LDAP: Framework, Practices, and Trends},
+	journal = {IEEE Internet Computing},
+	volume = {8},
+	number = {5},
+	year = {2004},
+	pages = {66-72},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali}
+}
+@article {journals/ijon/PapadimitriouVP04,
+	title = {A learning-automata-based controller for client/server systems},
+	journal = {Neurocomputing},
+	volume = {61},
+	year = {2004},
+	pages = {381-394},
+	abstract = {<p>Polling policies have been introduced to simplifythe accessing process in client/server systems by acentralized control access scheme. This paper considers aclient/server model which employs a polling policy as itsaccess strategy. We propose a learning-automata-based approachfor polling in order to improve the throughput-delayperformance of the system. Each client has an associatedqueue and the server performs selective polling such thatthe next client to be served is identified by a learning automaton.The learning automaton updates each client{\^a}{\texteuro}{\texttrademark}schoice probability according to the feedback information.Under the considered approach, a client{\^a}{\texteuro}{\texttrademark}s choice probabilityasymptotically tends to be proportional to the probabilitythat this client is ready. Simulation results have shown thatthe proposed polling policy is beneficial in comparison tothe conventional round-robin polling when operating underbursty traffic conditions. The benefits are significant for thedelay reduction in the considered client/server system.</p>
+},
+	keywords = {client/server systems, learning automata, polling policies, throughput improvement, time-delay},
+	author = {Papadimitriou, Georgios I. and Athena Vakali and Pomportsis, Andreas S.}
+}
+@inproceedings {1844,
+	title = {LRU-based algorithms for Web Cache Replacement},
+	year = {2000},
+	abstract = {<p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase system{\textquoteright}s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+}
+}
+@inproceedings {conf/ecweb/Vakali00,
+	title = {LRU-based Algorithms for Web Cache Replacement},
+	booktitle = {EC-Web},
+	series = {Lecture Notes in Computer Science},
+	volume = {1875},
+	year = {2000},
+	pages = {409-418},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Caching has been introduced and applied in prototype andcommercial Web-based information systems in order to reduce the overallbandwidth and increase system{\^a}{\texteuro}{\texttrademark}s fault tolerance. This paper presents atrack of Web cache replacement algorithms based on the Least RecentlyUsed (LRU) idea. We propose an extension to the conventional LRUalgorithm by considering the number of references to Web objects as acritical parameter for the cache content replacement. The proposed algorithmsare validated and experimented under Web cache traces providedby a major Squid proxy cache server installation environment. Cache andbytes hit rates are reported showing that the proposed cache replacementalgorithms improve cache content.</p>
+},
+	keywords = {Cache consistency, Cache replacement algorithms, Web caching and proxies, Web-based information systems},
+	isbn = {3-540-67981-2},
+	author = {Athena Vakali},
+	editor = {Bauknecht, Kurt and Sanjay Kumar Madria and Pernul, G{\"u}nther}
+}

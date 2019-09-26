@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2001
+%T Security Model for XML data
+%X The significance of XML technology for sharing data over the Internet is being rapidly recognised. In this paper, we examine the security problems related to XML data and present our approach, the XML Security model, for enforcing security policies in XML based Information systems. Our methodology has been based on the study of the XML data model, on the identification of the security requirements of XML Information systems and on the survey of security models which have been proposed to support the conventional data models(relational, object-oriented, hypertext etc). The proposed approach takes into account and exploits the specific characteristics of XML data and incorporates the flexibility of Role based Access Control policies.
+%G eng
+

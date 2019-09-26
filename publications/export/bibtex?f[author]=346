@@ -1,0 +1,16 @@
+@inproceedings {conf/acii/TsagkalidouKVK11,
+	title = {Emotional Aware Clustering on Micro-blogging Sources},
+	booktitle = {ACII (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {6974},
+	year = {2011},
+	pages = {387-396},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+},
+	keywords = {Microblogging services, Sentiment analysis, web clustering},
+	isbn = {978-3-642-24599-2},
+	author = {Tsagkalidou, Katerina and Vassiliki A. Koutsonikola and Athena Vakali and Konstantinos Kafetsios},
+	editor = {D{\textquoteright}Mello, Sidney K. and Graesser, Arthur C. and Schuller, Bj{\"o}rn and Martin, Jean-Claude}
+}

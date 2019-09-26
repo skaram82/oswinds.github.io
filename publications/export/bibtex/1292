@@ -1,0 +1,14 @@
+@inproceedings {conf/hpcn/VakaliPP00,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	booktitle = {HPCN Europe},
+	series = {Lecture Notes in Computer Science},
+	volume = {1823},
+	year = {2000},
+	pages = {610-613},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\^a}{\texteuro}{\'s}popularity{\^a}{\texteuro}{\v t}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.},
+	isbn = {3-540-67553-1},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.},
+	editor = {Bubak, Marian and Afsarmanesh, Hamideh and Williams, Roy and Hertzberger, Louis O.}
+}

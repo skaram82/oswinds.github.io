@@ -1,0 +1,75 @@
+%0 Journal Article
+%J Inf. Process. Manage.
+%D 2010
+%T Clustering dense graphs: A web site graph paradigm
+%A Moussiades, Lefteris
+%A Athena Vakali
+%B Inf. Process. Manage.
+%V 46
+%P 247-267
+%G eng
+
+%0 Conference Paper
+%B RCIS
+%D 2009
+%T Benchmark graphs for the evaluation of Clustering Algorithms
+%A Moussiades, Lefteris
+%A Athena Vakali
+%E Flory, Andre
+%E Collard, Martine
+%K Artificial graph
+%K Community structure
+%K Graph clustering
+%K Intra linkage ratio
+%K Modularity
+%X <p>Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.</p>
+%B RCIS
+%I IEEE
+%P 197-206
+%@ 978-1-4244-2864-9
+%G eng
+
+%0 Journal Article
+%J Neurocomputing
+%D 2009
+%T Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning
+%A Kaburlasos, Vassilis G.
+%A Moussiades, Lefteris
+%A Athena Vakali
+%K Clustering
+%K Fuzzy lattices
+%K Graph partitioning
+%K Metric Measurable path
+%K Similarity measure
+%X <p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+%B Neurocomputing
+%V 72
+%P 2121-2133
+%G eng
+
+%0 Conference Paper
+%B BCI
+%D 2009
+%T Mining the Community Structure of a Web Site
+%A Moussiades, Lefteris
+%A Athena Vakali
+%E Kefalas, Petros
+%E Stamatis, Demosthenes
+%E Douligeris, Christos
+%B BCI
+%I IEEE Computer Society
+%P 239-244
+%@ 978-0-7695-3783-2
+%G eng
+
+%0 Journal Article
+%J Comput. J.
+%D 2005
+%T PDetect: A Clustering Approach for Detecting Plagiarism in Source Code Datasets
+%A Moussiades, Lefteris
+%A Athena Vakali
+%B Comput. J.
+%V 48
+%P 651-661
+%G eng
+

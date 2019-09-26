@@ -1,0 +1,15 @@
+%0 Conference Paper
+%B ACSAC
+%D 2005
+%T Intrusion Detection in RBAC-administered Databases
+%A Bertino, Elisa
+%A Kamra, Ashish
+%A Terzi, Evimaria
+%A Athena Vakali
+%X <p>A considerable effort has been recently devoted to thedevelopment of Database Management Systems (DBMS)which guarantee high assurance security and privacy. Animportant component of any strong security solution is representedby intrusion detection (ID) systems, able to detectanomalous behavior by applications and users. To date,however, there have been very few ID mechanisms specificallytailored to database systems. In this paper, we proposesuch a mechanism. The approach we propose to IDis based on mining database traces stored in log files. Theresult of the mining process is used to form user profilesthat can model normal behavior and identify intruders. Anadditional feature of our approach is that we couple ourmechanism with Role Based Access Control (RBAC). Undera RBAC system permissions are associated with roles, usuallygrouping several users, rather than with single users.Our ID system is able to determine role intruders, that is,individuals that while holding a specific role, have a behaviordifferent from the normal behavior of the role. Animportant advantage of providing an ID mechanism specifi-cally tailored to databases is that it can also be used to protectagainst insider threats. Furthermore, the use of rolesmakes our approach usable even for databases with largeuser population. Our preliminary experimental evaluationon both real and synthetic database traces show that ourmethods work well in practical situations.</p>
+%B ACSAC
+%I IEEE Computer Society
+%P 170-182
+%@ 0-7695-2461-3
+%G eng
+

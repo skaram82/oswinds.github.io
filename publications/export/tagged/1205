@@ -1,0 +1,17 @@
+%0 Journal Article
+%J TWEB
+%D 2011
+%T A Clustering-Driven LDAP Framework
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%K Clustering
+%K DIT organization
+%K LDAP services
+%K merging criteria
+%K query and retrieval engine
+%X <p>LDAP directories have proliferated as the appropriate storage framework for various and heterogeneousdata sources, operating under a wide range of applications and services. Due to the increased amount andheterogeneity of the LDAP data, there is a requirement for appropriate data organization schemes. TheLPAIR &amp; LMERGE (LP-LM) algorithm, presented in this article, is a hierarchical agglomerative structurebasedclustering algorithm which can be used for the LDAP directory information tree definition. A thoroughstudy of the algorithmâ€™s performance is provided, which designates its efficiency. Moreover, the RelativeLink as an alternative merging criterion is proposed, since as indicated by the experimentation, it canresult in more balanced clusters. Finally, the LP and LM Query Engine is presented, which considering theclustering-based LDAP data organization, results in the enhancement of the LDAP serverâ€™s performance.</p>
+%B TWEB
+%V 5
+%P 12
+%G eng
+

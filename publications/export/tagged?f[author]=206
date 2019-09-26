@@ -1,0 +1,27 @@
+%0 Conference Paper
+%B DASFAA Workshops
+%D 2010
+%T Tag Disambiguation through Flickr and Wikipedia
+%A Stampouli, Anastasia
+%A Giannakidou, Eirini
+%A Athena Vakali
+%E Yoshikawa, Masatoshi
+%E Meng, Xiaofeng
+%E Yumoto, Takayuki
+%E Ma, Qiang
+%E Sun, Lifeng
+%E Watanabe, Chiemi
+%K DBpedia project
+%K flick
+%K mashup
+%K term disambiguation
+%K Wikipedia
+%X <p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion â€śAppleâ€ť illustrates the value of the proposed approach.</p>
+%B DASFAA Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6193
+%P 252-263
+%@ 978-3-642-14588-9
+%G eng
+

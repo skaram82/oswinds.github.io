@@ -1,0 +1,6 @@
+@inproceedings {1808,
+	title = {Semantic Retrieval of Multimedia Data},
+	year = {2004},
+	abstract = {<p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+}
+}

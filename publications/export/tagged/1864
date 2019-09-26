@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2008
+%T SEMSOC: Semantics Mining on Multimedia Social Data Sources
+%X <p>A huge amount of data and metadata emerges fromWeb 2.0 applications which have transformed the Webto a mass social interaction and collabo-ration medium.Collaborative Tagging Systems is a typical,popular and promising Web 2.0 application and despiteits adoption it faces some serious limitations thatrestrict their usability. These limitations (no structureon tags, tags validation, spamming and redundancy)are more evident in the case of multi-media contentdue to its challenging automatic annotation and retrievalrequirements. In this paper, we present an approachfor social data clustering which combinesjointly semantic, social and content-based information.We propose an unsupervised model for efficient andscalable mining on multimedia social-related data,which leads to the extraction of rich and trustworthysemantics and the improvement of retrieval in a socialtagging system. Experimental results demonstrate theefficiency of the proposed approach.</p>
+%G eng
+

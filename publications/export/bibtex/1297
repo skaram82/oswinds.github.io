@@ -1,0 +1,10 @@
+@inproceedings {conf/dexaw/Vakali99,
+	title = {A Web-Based Evolutionary Model for Internet Data Caching},
+	booktitle = {DEXA Workshop},
+	year = {1999},
+	pages = {650-654},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {0-7695-0281-4},
+	author = {Athena Vakali}
+}

@@ -1,0 +1,99 @@
+@inproceedings {DBLP:conf/pakdd/GiatsoglouCSBFV15,
+	title = {ND-SYNC: Detecting Synchronized Fraud Activities},
+	booktitle = {Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II},
+	year = {2015},
+	pages = {201{\^a}{\texteuro}{\textquotedblleft}214},
+	doi = {10.1007/978-3-319-18032-8_16},
+	url = {http://dx.doi.org/10.1007/978-3-319-18032-8_16},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Alex Beutel and Christos Faloutsos and Athena Vakali}
+}
+@proceedings {1930,
+	title = {New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II},
+	booktitle = {Advances in Intelligent Systems and Computing},
+	series = { },
+	volume = {312},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-10517-8},
+	doi = {10.1007/978-3-319-10518-5},
+	url = {http://dx.doi.org/10.1007/978-3-319-10518-5},
+	editor = {Nick Bassiliades and Mirjana Ivanovic and Margita Kon-Popovska and Yannis Manolopoulos and Themis Palpanas and Goce Trajcevski and Athena Vakali}
+}
+@proceedings {conf/adbis/2013-2,
+	title = {New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems},
+	booktitle = {ADBIS (2)},
+	series = {Advances in Intelligent Systems and Computing},
+	volume = {241},
+	year = {2014},
+	month = {04/2013},
+	publisher = {Springer},
+	address = {Genoa, Italy},
+	isbn = {978-3-319-01863-8},
+	editor = {Barbara Catania and Cerquitelli, Tania and Chiusano, Silvia and Guerrini, Giovanna and K{\"a}mpf, Mirko and Kemper, Alfons and Novikov, Boris and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@book {series/sci/2011-331,
+	title = {New Directions in Web Data Management 1},
+	series = {New Directions in Web Data Management 1},
+	volume = {331},
+	year = {2011},
+	isbn = {978-3-642-17550-3},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}
+@article {1818,
+	title = {A new approach to web users clustering and validation: a divergence-based scheme},
+	year = {2009},
+	abstract = {<p>Purpose {\textendash} Web users{\textquoteright} clustering is an important mining task since it contributes in identifying usagepatterns, a beneficial task for a wide range of applications that rely on the web. The purpose of thispaper is to examine the usage of Kullback-Leibler (KL) divergence, an information theoretic distance,as an alternative option for measuring distances in web users clustering.Design/methodology/approach {\textendash} KL-divergence is compared with other well-known distancemeasures and clustering results are evaluated using a criterion function, validity indices, andgraphical representations. Furthermore, the impact of noise (i.e. occasional or mistaken page visits) isevaluated, since it is imperative to assess whether a clustering process exhibits tolerance in noisyenvironments such as the web.Findings {\textendash} The proposed KL clustering approach is of similar performance when compared withother distance measures under both synthetic and real data workloads. Moreover, imposing extranoise on real data, the approach shows minimum deterioration among most of the other conventionaldistance measures.Practical implications {\textendash} The experimental results show that a probabilistic measure such asKL-divergence has proven to be quite efficient in noisy environments and thus constitute a goodalternative, the web users clustering problem.Originality/value {\textendash} This work is inspired by the usage of divergence in clustering of biological dataand it is introduced by the authors in the area of web clustering. According to the experimental resultspresented in this paper, KL-divergence can be considered as a good alternative for measuringdistances in noisy environments such as the web.</p>
+}
+}
+@article {journals/ijwis/KoutsonikolaPVP09,
+	title = {A new approach to web users clustering and validation: a divergence-based scheme},
+	journal = {IJWIS},
+	volume = {5},
+	number = {3},
+	year = {2009},
+	pages = {348-371},
+	abstract = {<p>Purpose {\^a}{\texteuro}{\textquotedblleft} Web users{\^a}{\texteuro}{\texttrademark} clustering is an important mining task since it contributes in identifying usagepatterns, a beneficial task for a wide range of applications that rely on the web. The purpose of thispaper is to examine the usage of Kullback-Leibler (KL) divergence, an information theoretic distance,as an alternative option for measuring distances in web users clustering.Design/methodology/approach {\^a}{\texteuro}{\textquotedblleft} KL-divergence is compared with other well-known distancemeasures and clustering results are evaluated using a criterion function, validity indices, andgraphical representations. Furthermore, the impact of noise (i.e. occasional or mistaken page visits) isevaluated, since it is imperative to assess whether a clustering process exhibits tolerance in noisyenvironments such as the web.Findings {\^a}{\texteuro}{\textquotedblleft} The proposed KL clustering approach is of similar performance when compared withother distance measures under both synthetic and real data workloads. Moreover, imposing extranoise on real data, the approach shows minimum deterioration among most of the other conventionaldistance measures.Practical implications {\^a}{\texteuro}{\textquotedblleft} The experimental results show that a probabilistic measure such asKL-divergence has proven to be quite efficient in noisy environments and thus constitute a goodalternative, the web users clustering problem.Originality/value {\^a}{\texteuro}{\textquotedblleft} This work is inspired by the usage of divergence in clustering of biological dataand it is introduced by the authors in the area of web clustering. According to the experimental resultspresented in this paper, KL-divergence can be considered as a good alternative for measuringdistances in noisy environments such as the web.</p>
+},
+	keywords = {Cluster analysis, Internet Data mining, User studies},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Papadimitriou, Georgios I.}
+}
+@inproceedings {conf/hpdc/FortinoMPV09,
+	title = {Next generation content networks: trends and challenges},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {49},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-60558-591-8},
+	author = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@article {journals/jbi/TheodosiouAV08,
+	title = {Non-linear correlation of content and metadata information extracted from biomedical article datasets},
+	journal = {Journal of Biomedical Informatics},
+	volume = {41},
+	number = {1},
+	year = {2008},
+	pages = {202-216},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@inproceedings {1841,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	year = {2000},
+	abstract = {<p>The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\textquotedblleft}popularity{\textquotedblright}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.</p>
+}
+}
+@inproceedings {conf/hpcn/VakaliPP00,
+	title = {A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes},
+	booktitle = {HPCN Europe},
+	series = {Lecture Notes in Computer Science},
+	volume = {1823},
+	year = {2000},
+	pages = {610-613},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives {\^a}{\texteuro}{\'s}popularity{\^a}{\texteuro}{\v t}. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.},
+	isbn = {3-540-67553-1},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.},
+	editor = {Bubak, Marian and Afsarmanesh, Hamideh and Williams, Roy and Hertzberger, Louis O.}
+}

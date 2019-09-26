@@ -1,0 +1,43 @@
+﻿/*Εδώ μπαίνουν όσα αφορούν την περιοχή με τα intro-blocks */
+.intro-blocks{
+	background-color:#ffffff;
+	color:#00000;
+	margin-right:0em;
+	padding:1em;
+	margin-top:1em;
+
+
+}
+
+div.intro-first>div>section>h2.block-title, div.intro-second>div>section>h2.block-title, div.intro-third>div>section>h2.block-title
+{
+	background-color:#535050;
+	border-bottom:2px solid #cecece;
+	color:#ffffff;
+	font-size:1.5em;
+	padding:0.5em;
+	margin:0;
+
+}
+
+div.intro-first>div>section>p, div.intro-second>div>section>p,
+div.intro-third>div>section>p{
+	padding:0.8em;
+
+}
+
+
+.intro-first, .intro-second,
+.intro-third{
+	
+	padding:1em;
+
+}
+
+div.region.region-intro-third>section>h2:before {
+    font-family: Glyphicons Halflings;
+    content: "\e012";
+    color: white;
+    font-size: 0.8em;
+    padding: 0.5em 0.5em 0 0;
+}

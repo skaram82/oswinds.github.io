@@ -1,0 +1,9 @@
+@article {journals/internet/VakaliP03,
+	title = {Content Delivery Networks: Status and Trends},
+	journal = {IEEE Internet Computing},
+	volume = {7},
+	number = {6},
+	year = {2003},
+	pages = {68-74},
+	author = {Athena Vakali and Pallis, George}
+}

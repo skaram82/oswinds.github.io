@@ -1,0 +1,9 @@
+@article {journals/jss/VakaliM00,
+	title = {Data placement schemes in replicated mirrored disk systems},
+	journal = {Journal of Systems and Software},
+	volume = {55},
+	number = {2},
+	year = {2000},
+	pages = {115-128},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}

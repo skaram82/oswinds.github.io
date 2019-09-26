@@ -1,0 +1,69 @@
+%0 Conference Paper
+%B Web Intelligence
+%D 2011
+%T Summarization Meets Visualization on Online Social Networks
+%A Gabriel, Hans-Henning
+%A Spiliopoulou, Myra
+%A Stachtiari, Emmanouela
+%A Athena Vakali
+%E Boissier, Olivier
+%E Benatallah, Boualem
+%E Papazoglou, Mike P.
+%E Ras, Zbigniew W.
+%E Hacid, Mohand-Said
+%K Clustering
+%K communities
+%K community representatives
+%K social network summarization
+%K social network visualization
+%K Social networks
+%K visualization
+%X <p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+%B Web Intelligence
+%I IEEE Computer Society
+%P 475-478
+%@ 978-0-7695-4513-4
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2008
+%T A Structure-Based Clustering on LDAP Directory Information
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Mpalasas, Antonios
+%A Valavanis, Michael
+%E An, Aijun
+%E Matwin, Stan
+%E Ras, Zbigniew W.
+%E Slezak, Dominik
+%X <p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entriesâ€™structure. The clustering-based LDAP data organization enhances LDAPserverâ€™s response times, under a specific query framework.</p>
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4994
+%P 121-130
+%@ 978-3-540-68122-9
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2005
+%T Model-Based Cluster Analysis for Web Users Sessions
+%A Pallis, George
+%A Angelis, Lefteris
+%A Athena Vakali
+%E Hacid, Mohand-Said
+%E Murray, Neil V.
+%E Ras, Zbigniew W.
+%E Tsumoto, Shusaku
+%K Model-Based Cluster Analysis
+%X One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof usersâ€™sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3488
+%P 219-227
+%@ 3-540-25878-7
+%G eng
+

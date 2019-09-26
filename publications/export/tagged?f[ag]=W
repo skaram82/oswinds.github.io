@@ -1,0 +1,149 @@
+%0 Conference Proceedings
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%D 2014
+%T Transactions on Large-Scale Data- and Knowledge-Centered Systems
+%E Hameurlain, Abdelkader
+%E Küng, Josef
+%E Wagner, Roland
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8920
+%@ 978-3-662-45760-3
+%G eng
+
+%0 Conference Paper
+%B ICDM Workshops
+%D 2013
+%T Dissimilarity Features in Recommender Systems
+%A Christos Zigkolis
+%A Karagiannidis, Savvas
+%A Athena Vakali
+%E Wei Ding
+%E Washio, Takashi
+%E Xiong, Hui
+%E Karypis, George
+%E Thuraisingham, Bhavani M.
+%E Cook, Diane J.
+%E Wu, Xindong
+%B ICDM Workshops
+%I IEEE Computer Society
+%P 825-832
+%@ 978-0-7695-5109-8
+%G eng
+
+%0 Conference Paper
+%B MMM (1)
+%D 2013
+%T Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs
+%A Symeon Papadopoulos
+%A Sagonas, Christos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Li, Shipeng
+%E El-Saddik, Abdulmotaleb
+%E Wang, Meng
+%E Mei, Tao
+%E Sebe, Nicu
+%E Yan, Shuicheng
+%E Hong, Richang
+%E Gurrin, Cathal
+%X <p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+%B MMM (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7732
+%P 1-12
+%@ 978-3-642-35725-1
+%G eng
+
+%0 Conference Paper
+%B DASFAA Workshops
+%D 2010
+%T Tag Disambiguation through Flickr and Wikipedia
+%A Stampouli, Anastasia
+%A Giannakidou, Eirini
+%A Athena Vakali
+%E Yoshikawa, Masatoshi
+%E Meng, Xiaofeng
+%E Yumoto, Takayuki
+%E Ma, Qiang
+%E Sun, Lifeng
+%E Watanabe, Chiemi
+%K DBpedia project
+%K flick
+%K mashup
+%K term disambiguation
+%K Wikipedia
+%X <p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion â€śAppleâ€ť illustrates the value of the proposed approach.</p>
+%B DASFAA Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6193
+%P 252-263
+%@ 978-3-642-14588-9
+%G eng
+
+%0 Conference Paper
+%B WISE
+%D 2008
+%T Correlating Time-Related Data Sources with Co-clustering
+%A Vassiliki A. Koutsonikola
+%A Petridou, Sophia G.
+%A Athena Vakali
+%A Hacid, Hakim
+%A Benatallah, Boualem
+%E Bailey, James
+%E Maier, David
+%E Schewe, Klaus-Dieter
+%E Thalheim, Bernhard
+%E Wang, Xiaoyang Sean
+%X <p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stockâ€™s market real datasets.</p>
+%B WISE
+%S Lecture Notes in Computer Science
+%I Springer
+%V 5175
+%P 264-279
+%@ 978-3-540-85480-7
+%G eng
+
+%0 Conference Paper
+%B HPCN Europe
+%D 2000
+%T A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%A Pomportsis, Andreas S.
+%E Bubak, Marian
+%E Afsarmanesh, Hamideh
+%E Williams, Roy
+%E Hertzberger, Louis O.
+%X The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives â€śpopularityâ€ť. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.
+%B HPCN Europe
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1823
+%P 610-613
+%@ 3-540-67553-1
+%G eng
+
+%0 Conference Paper
+%B DEXA Workshop
+%D 1996
+%T The Impact of Seeking in Partial Match Retrieval
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Wagner, Roland
+%E Thoma, Helmut
+%X <p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+%B DEXA Workshop
+%I IEEE Computer Society
+%P 432-437
+%@ 0-8186-7662-0
+%G eng
+

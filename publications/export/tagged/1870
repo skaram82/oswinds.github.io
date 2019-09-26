@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2009
+%T Clustering of Social Tagging System Users: A Topic and Time Based Approach
+%X <p>Under Social Tagging Systems, a typical Web 2.0 application,users label digital data sources by using freely chosen textual descriptions(tags). Mining tag information reveals the topic-domain ofusers interests and significantly contributes in a profile construction process.In this paper we propose a clustering framework which groups usersaccording to their preferred topics and the time locality of their taggingactivity. Experimental results demonstrate the efficiency of the proposedapproach which results in more enriched time-aware users profiles.</p>
+%G eng
+

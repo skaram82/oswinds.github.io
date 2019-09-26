@@ -1,0 +1,16 @@
+@inproceedings {conf/wise/KoutsonikolaVGK09,
+	title = {Clustering of Social Tagging System Users: A Topic and Time Based Approach},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5802},
+	year = {2009},
+	pages = {75-86},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Under Social Tagging Systems, a typical Web 2.0 application,users label digital data sources by using freely chosen textual descriptions(tags). Mining tag information reveals the topic-domain ofusers interests and significantly contributes in a profile construction process.In this paper we propose a clustering framework which groups usersaccording to their preferred topics and the time locality of their taggingactivity. Experimental results demonstrate the efficiency of the proposedapproach which results in more enriched time-aware users profiles.</p>
+},
+	keywords = {Social tagging systems, time, topic, user clustering},
+	isbn = {978-3-642-04408-3},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Giannakidou, Eirini and Yiannis Kompatsiaris},
+	editor = {Vossen, Gottfried and Long, Darrell D. E. and Yu, Jeffrey Xu}
+}

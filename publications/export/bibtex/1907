@@ -1,0 +1,6 @@
+@inproceedings {1907,
+	title = {Social Networking Trends and Dynamics Detection via a Cloud-based Framework Design},
+	year = {2012},
+	abstract = {<p>Social networking media generate huge content streams, whichleverage, both academia and developers efforts in providingunbiased, powerful indications of users{\textquoteright} opinion and interests.Here, we present Cloud4Trends, a framework for collecting andanalyzing user generated content through microblogging andblogging applications, both separately and jointly, focused oncertain geographical areas, towards the identification of the mostsignificant topics using trend analysis techniques. The cloudcomputing paradigm appears to offer a significant benefit in orderto make such applications viable considering that the massive datasizes produced daily impose the need of a scalable and powerfulinfrastructure. Cloud4Trends constitutes an efficient Cloud-basedapproach in order to solve the online trend tracking problem basedon Web 2.0 sources. A detailed system architecture model is alsoproposed, which is largely based on a set of service modulesdeveloped within the VENUS-C research project to facilitate thedeployment of research applications on Cloud infrastructures.</p>
+}
+}

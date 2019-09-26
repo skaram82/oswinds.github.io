@@ -1,0 +1,413 @@
+%0 Generic
+%D 2018
+%T Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
+%A Antigoni-Maria Founta
+%A Constantinos Djouvas
+%A Despoina Chatzakou
+%A Ilias Leontiadis
+%A Jeremy Blackburn
+%A Gianluca Stringhini
+%A Athena Vakali
+%A Michael Sirivianos
+%A Nicolas Kourtellis
+%X <p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+%S ICWSM-18
+%I AAAI
+%C Stanford, California
+
+%0 Conference Proceedings
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%D 2017
+%T Detecting Aggressors and Bullies on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%K crowdsourcing
+%K cyber-aggression
+%K cyberbullying
+%K Twitter
+%X <p>Online social networks constitute an integral part of people's every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%S WWW '17 Companion
+%I ACM
+%C Perth, Australia
+%P 767--768
+%U http://dl.acm.org/citation.cfm?id=3054211
+%R 10.1145/3041021.3054211
+
+%0 Journal Article
+%J Expert Systems with Applications
+%D 2017
+%T Detecting Variation of Emotions in Online Activities
+%A Despoina Chatzakou
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K Emotion detection
+%K Hybrid process
+%K Lexicon-based approach
+%K Machine learning
+%X <p>Online text sources form evolving large scale data repositories out of which valuable knowledge about human emotions can be derived. Beyond the primary emotions which refer to the global emotional signals, deeper understanding of a wider spectrum of emotions is important to detect online public views and attitudes. The present work is motivated by the need to test and provide a system that categorizes emotion in online activities. Such a system can be beneficial for online services, companies recommendations, and social support communities. The main contributions of this work are to: (a) detect primary emotions, social ones, and those that characterize general affective states from online text sources, (b) compare and validate different emotional analysis processes to highlight the most efficient, and (c) provide a proof of concept case study to monitor and validate online activity, both explicitly and implicitly. The proposed approaches are tested on three datasets collected from different sources, i.e., news agencies, Twitter, and Facebook, and on different languages, i.e., English and Greek. Study results demonstrate that the methodologies at hand succeed to detect a wider spectrum of emotions out of text sources.</p>
+%B Expert Systems with Applications
+%V 89
+%P 318 - 332
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0957417417305213
+%R http://dx.doi.org/10.1016/j.eswa.2017.07.044
+
+%0 Journal Article
+%J Information Systems
+%D 2017
+%T DynamiCITY : Revealing city dynamics from citizens social media broadcasts
+%A Vasiliki Gkatziaki
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%K crowdsourcing
+%K Data Mining
+%K Smart City Applications
+%K Social Data Mining
+%K Urban Dynamics
+%B Information Systems
+%P -
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0306437917300650
+%R https://doi.org/10.1016/j.is.2017.07.007
+
+%0 Journal Article
+%J Computers in Human Behavior
+%D 2017
+%T Experience of emotion in face to face and computer-mediated social interactions: An event sampling study
+%A Konstantinos Kafetsios
+%A Despoina Chatzakou
+%A Nikolaos Tsigilis
+%A Athena Vakali
+%K Computer-mediated communication
+%K Emotion
+%K FtF
+%K Internet
+%K Social interaction
+%X <p>The present study compared the experience of emotion in social interactions that take place face to face (FtF), co-presently, and those that take place online, in computer-mediated communications (CMC). For a period of ten days participants reported how intensely they experienced positive and negative emotions in CMC and in FtF interactions they had with persons from their social network. Results from factor analyses discerned a three factor emotion structure (positive, negative, and anxious emotions) that was largely shared between CMC and FtF social interactions. Multilevel analyses of emotion across modes of interaction found that in FtF social encounters participants experienced more positive and less negative emotion and higher satisfaction than in CMC; there was no difference in anxious emotion. Positive, but not negative emotions or anxiety partially mediated levels of satisfaction differences between interactions in CMC and those taking place FtF. The results point to similarities and differences in emotion experience in FtF and CMC, underlining in particular the affiliative function of positive emotion in peoples' encounters.</p>
+%B Computers in Human Behavior
+%V 76
+%P 287 - 293
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0747563217304557
+%R https://doi.org/10.1016/j.chb.2017.07.033
+
+%0 Conference Proceedings
+%D 2017
+%T Hate is not Binary: Studying Abusive Behavior of #GamerGate on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>Over the past few years, online bullying and aggression have become increasingly prominent, and manifested in many different forms on social media. However, there is little work analyzing the characteristics of abusive users and what distinguishes them from typical social media users. In this paper, we start addressing this gap by analyzing tweets containing a great amount of abusiveness. We focus on a Twitter dataset revolving around the Gamergate controversy, which led to many incidents of cyberbullying and cyberaggression on various gaming and social media platforms. We study the properties of the users tweeting about Gamergate, the content they post, and the differences in their behavior compared to typical Twitter users.</p>    <p>We find that while their tweets are often seemingly about aggressive and hateful subjects, ``Gamergaters'' do not exhibit common expressions of online anger, and in fact primarily differ from typical users in that their tweets are less joyful. They are also more engaged than typical Twitter users, which is an indication as to how and why this controversy is still ongoing. Surprisingly, we find that Gamergaters are less likely to be suspended by Twitter, thus we analyze their properties to identify differences from typical users and what may have led to their suspension. We perform an unsupervised machine learning analysis to detect clusters of users who, though currently active, could be considered for suspension since they exhibit similar behaviors with suspended users. Finally, we confirm the usefulness of our analyzed features by emulating the Twitter suspension mechanism with a supervised learning method, achieving very good precision and recall.</p>
+%S HT '17
+%I ACM
+%C Prague, Czech Republic
+%G eng
+
+%0 Conference Proceedings
+%D 2017
+%T Mean Birds: Detecting Aggression and Bullying on Twitter
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>In recent years, bullying and aggression against users on social media have grown significantly, causing serious consequences to victims of all demographics. In particular, cyberbullying affects more than half of young social media users worldwide, and has also led to teenage suicides, prompted by prolonged and/or coordinated digital harassment. Nonetheless, tools and technologies for understanding and mitigating it are scarce and mostly ineffective. In this paper, we present a principled and scalable approach to detect bullying and aggressive behavior on Twitter. We propose a robust methodology for extracting text, user, and network-based attributes, studying the properties of cyberbullies and aggressors, and what features distinguish them from regular users. We find that bully users post less, participate in fewer online communities, and are less popular than normal users, while aggressors are quite popular and tend to include more negativity in their posts. We evaluate our methodology using a corpus of 1.6M tweets posted over 3 months, and show that machine learning classification algorithms can accurately detect users exhibiting bullying and aggressive behavior, achieving over 90% AUC.</p>
+%S WebSci '17
+%I ACM
+%C Troy, NY, USA
+%G eng
+%U https://arxiv.org/abs/1702.06877
+
+%0 Conference Proceedings
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%D 2017
+%T Measuring #GamerGate: A Tale of Hate, Sexism, and Bullying
+%A Despoina Chatzakou
+%A Nicolas Kourtellis
+%A Jeremy Blackburn
+%A Emiliano De Cristofaro
+%A Gianluca Stringhini
+%A Athena Vakali
+%X <p>Over the past few years, online aggression and abusive behaviors have occurred in many different forms and on a variety of platforms. In extreme cases, these incidents have evolved into hate, discrimination, and bullying, and even materialized into real-world threats and attacks against individuals or groups. In this paper, we study the Gamergate controversy. Started in August 2014 in the online gaming world, it quickly spread across various social networking platforms, ultimately leading to many incidents of cyberbullying and cyberaggression. We focus on Twitter, presenting a measurement study of a dataset of 340k unique users and 1.6M tweets to study the properties of these users, the content they post, and how they differ from random Twitter users. We find that users involved in this "Twitter war" tend to have more friends and followers, are generally more engaged and post tweets with negative sentiment, less joy, and more hate than random users. We also perform preliminary measurements on how the Twitter suspension mechanism deals with such abusive behaviors. While we focus on Gamergate, our methodology to collect and analyze tweets related to aggressive and bullying activities is of independent interest.</p>
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%S WWW '17 Companion
+%I ACM
+%C Perth, Australia
+%P 1285-1290
+%G eng
+%U http://dl.acm.org/citation.cfm?id=3053890
+%R 10.1145/3041021.3053890
+
+%0 Journal Article
+%J Journal of the Knowledge Economy
+%D 2016
+%T CityPulse: A platform prototype for smart city social data mining
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Gkatziaki, Vasiliki
+%A Vakali, Athena
+%A Anthopoulos, Leonidas
+%B Journal of the Knowledge Economy
+%V 7
+%P 344–372
+%G eng
+
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2015
+%T Harvesting Opinions and Emotions from Social Media Textual Resources
+%A Despoina Chatzakou
+%A Athena Vakali
+%K Adaptation models
+%K Analytical models
+%K Filtering
+%K Internet/Web technologies
+%K Media
+%K Sentiment analysis
+%K Text processing
+%K textual resources
+%K Web 2.0
+%B Internet Computing, IEEE
+%V 19
+%P 46-50
+%8 July
+%G eng
+%R 10.1109/MIC.2015.28
+
+%0 Book Section
+%B Big Data Analytics and Knowledge Discovery
+%D 2015
+%T MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis
+%A Despoina Chatzakou
+%A Passalis, Nikolaos
+%A Athena Vakali
+%E Sanjay Kumar Madria
+%E Hara, Takahiro
+%K Multilevel features
+%K Sentiment detection
+%B Big Data Analytics and Knowledge Discovery
+%S Lecture Notes in Computer Science
+%I Springer International Publishing
+%V 9263
+%P 337-350
+%@ 978-3-319-22728-3
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-22729-0_26
+%R 10.1007/978-3-319-22729-0_26
+
+%0 Conference Paper
+%B Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II
+%D 2015
+%T ND-SYNC: Detecting Synchronized Fraud Activities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Alex Beutel
+%A Christos Faloutsos
+%A Athena Vakali
+%B Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II
+%P 201â€“214
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-18032-8_16
+%R 10.1007/978-3-319-18032-8_16
+
+%0 Conference Paper
+%B PAKDD (1)
+%D 2015
+%T Retweeting Activity on Twitter: Signs of Deception
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Christos Faloutsos
+%A Athena Vakali
+%E Cao, Tru
+%E Lim, Ee-Peng
+%E Zhou, Zhi-Hua
+%E Ho, Tu-Bao
+%E Cheung, David
+%E Motoda, Hiroshi
+%B PAKDD (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 9077
+%P 122-134
+%@ 978-3-319-18037-3
+%G eng
+
+%0 Journal Article
+%J World Wide Web
+%D 2015
+%T User communities evolution in microblogs: A public awareness barometer for real world events
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%X <p>In social media, users' interactions are affected by real-world events which influence emergence and shifts of opinions and topics. Interactions around an event-related topic can be captured in a weighted network, while identification of connectivity and intensity patterns can improve understanding of users' interest on the topic. Community detection is studied here as a means to reveal groups of social media users with common interaction patterns in such networks. The proposed community detection approach identifies communities exploiting both structural properties and intensity patterns, while dynamics of communities' evolution around an event are revealed based on an iterative community detection and mapping scheme. We investigate the importance of considering interactions' intensity for community detection via a benchmarking process on synthetic graphs and propose a generic framework for: i) modeling user interactions, ii) identifying static and evolving communities around events, iii) extracting quantitative and qualitative measurements from the communities' timeline, iv) leveraging measurements to understand the events' impact. Two real-world case studies based on Twitter interactions demonstrate the framework's potential for capturing and interpreting associations among communities and events.</p>
+%B World Wide Web
+%I Springer US
+%P 1269-1299
+%G eng
+
+%0 Conference Paper
+%B ICE-B
+%D 2014
+%T A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach
+%A Kakarontzas, George
+%A Anthopoulos, Leonidas G.
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Obaidat, Mohammad S.
+%E Holzinger, Andreas
+%E van Sinderen, Marten
+%E Dolog, Peter
+%B ICE-B
+%I SciTePress
+%P 47-54
+%@ 978-989-758-043-7
+%G eng
+
+%0 Conference Paper
+%B WIMS
+%D 2014
+%T EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content
+%A Polymerou, Evangelia
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Akerkar, Rajendra
+%E Bassiliades, Nick
+%E Davies, John
+%E Ermolayev, Vadim
+%B WIMS
+%I ACM
+%P 20
+%@ 978-1-4503-2538-7
+%G eng
+
+%0 Conference Paper
+%B WISE (2)
+%D 2013
+%T Community Detection in Social Media by Leveraging Interactions and Intensities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Lin, Xuemin
+%E Manolopoulos, Yannis
+%E Srivastava, Divesh
+%E Huang, Guangyan
+%K community detection
+%K user weighted interaction networks
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8181
+%P 57-72
+%@ 978-3-642-41153-3
+%G eng
+
+%0 Conference Paper
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%D 2013
+%T Micro-blogging Content Analysis via Emotionally-Driven Clustering
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Konstantinos Kafetsios
+%K affective analysis methodology
+%K Clustering algorithms
+%K content management
+%K content sharing
+%K Dictionaries
+%K emotion intensity monitoring
+%K emotionally-driven clustering
+%K Equations
+%K human emotion states
+%K information sharing
+%K lexicon-based technique
+%K Mathematical model
+%K microblogging content analysis
+%K pattern clustering
+%K people perception
+%K Pragmatics
+%K Semantics
+%K Sentiment analysis
+%K social networking (online)
+%K social pulse
+%K social relations
+%K text analysis
+%K Twitter
+%B Affective Computing and Intelligent Interaction (ACII), 2013 Humaine Association Conference on
+%P 375-380
+%8 Sept
+%G eng
+%R 10.1109/ACII.2013.68
+
+%0 Conference Paper
+%B Panhellenic Conference on Informatics
+%D 2013
+%T Requirements and architecture design principles for a smart city experiment with sensor and social networks integration
+%A Samaras, Christos
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Angelis, Lefteris
+%E Ketikidis, Panayiotis H.
+%E Margaritis, Konstantinos G.
+%E Vlahavas, Ioannis P.
+%E Chatzigeorgiou, Alexander
+%E Eleftherakis, George
+%E Stamelos, Ioannis
+%B Panhellenic Conference on Informatics
+%I ACM
+%P 327-334
+%@ 978-1-4503-1969-0
+%G eng
+
+%0 Conference Paper
+%B DATA
+%D 2013
+%T Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing
+%A Athena Vakali
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Andreadis, George
+%E Helfert, Markus
+%E Francalanci, Chiara
+%E Filipe, Joaquim
+%B DATA
+%I SciTePress
+%P 175-182
+%@ 978-989-8565-67-9
+%G eng
+
+%0 Conference Paper
+%B VS-GAMES
+%D 2011
+%T Towards a User-Aware Virtual Museum
+%A Christos Zigkolis
+%A Vassiliki A. Koutsonikola
+%A Despoina Chatzakou
+%A Karagiannidis, Savvas
+%A Maria Giatsoglou
+%A Kosmatopoulos, Andreas
+%A Athena Vakali
+%E Liarokapis, Fotis
+%E Doulamis, Anastasios D.
+%E Vescoukis, Vassilios
+%K user groups
+%K user preferences
+%K virtual museum
+%B VS-GAMES
+%I IEEE Computer Society
+%P 228-235
+%@ 978-1-4577-0316-4
+%G eng
+

@@ -1,0 +1,6 @@
+@inproceedings {1807,
+	title = {A Probabilistic Validation Algorithm for Web Users{\textquoteright} Clusters},
+	year = {2004},
+	abstract = {<p>{\textendash} Cluster analysis is one of the most importantaspects in the data mining process for discovering groupsand identifying interesting distributions or patterns overthe considered data sets. In the context of Web datamining, model-based clustering algorithms are often usedto cluster similar users{\textquoteright} sessions in order to determineWebsite access behaviors. An important issue in clusteranalysis is the evaluation of clustering results to find thepartitioning that best fits the underlying data. In thispaper, we present a novel validation technique for modelbasedclustering approaches.</p>
+}
+}

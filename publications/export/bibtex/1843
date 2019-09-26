@@ -1,0 +1,6 @@
+@inproceedings {1843,
+	title = {A caching approach for XML based medical data},
+	year = {2000},
+	abstract = {<p>This paper discusses the representation and caching of medical data structured andstored as XML documents Caching of XML medical data is proposed towards improvingthe medical data accesibility and availability The representation of XML medical data isa tree like structure and the caching process is guided by frequency of access of the XMLmedical data records Experimentation is carried out for an articial workload of patientrecords and both cache and byte hit ratios are evaluated The proposed caching schemeis proven to be quite eective and benecial for accessing the medical data.</p>
+}
+}

@@ -1,0 +1,9 @@
+@article {journals/ipl/ManolopoulosV91,
+	title = {Seek Distances in Disks with Two Independent Heads Per Surface},
+	journal = {Inf. Process. Lett.},
+	volume = {37},
+	number = {1},
+	year = {1991},
+	pages = {37-42},
+	author = {Manolopoulos, Yannis and Athena Vakali}
+}

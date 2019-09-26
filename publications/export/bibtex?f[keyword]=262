@@ -1,0 +1,27 @@
+@proceedings {1943,
+	title = {Detecting Aggressors and Bullies on Twitter},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {767--768},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Online social networks constitute an integral part of people{\textquoteright}s every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+},
+	keywords = {crowdsourcing, cyber-aggression, cyberbullying, Twitter},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3054211},
+	url = {http://dl.acm.org/citation.cfm?id=3054211},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@article {1956,
+	title = {DynamiCITY : Revealing city dynamics from citizens social media broadcasts},
+	journal = {Information Systems},
+	year = {2017},
+	pages = {-},
+	keywords = {crowdsourcing, Data Mining, Smart City Applications, Social Data Mining, Urban Dynamics},
+	issn = {0306-4379},
+	doi = {https://doi.org/10.1016/j.is.2017.07.007},
+	url = {http://www.sciencedirect.com/science/article/pii/S0306437917300650},
+	author = {Vasiliki Gkatziaki and Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}

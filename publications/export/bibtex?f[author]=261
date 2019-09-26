@@ -1,0 +1,9 @@
+@article {journals/ijmi/TheodosiouAVT07,
+	title = {Gene functional annotation by statistical analysis of biomedical articles},
+	journal = {I. J. Medical Informatics},
+	volume = {76},
+	number = {8},
+	year = {2007},
+	pages = {601-613},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali and Thomopoulos, G. N.}
+}

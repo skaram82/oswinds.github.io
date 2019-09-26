@@ -1,0 +1,626 @@
+@article {1968,
+	title = {Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior},
+	year = {2018},
+	publisher = {AAAI},
+	address = {Stanford, California},
+	abstract = {<p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+},
+	author = {Antigoni-Maria Founta and Constantinos Djouvas and Despoina Chatzakou and Ilias Leontiadis and Jeremy Blackburn and Gianluca Stringhini and Athena Vakali and Michael Sirivianos and Nicolas Kourtellis}
+}
+@proceedings {1953,
+	title = {Class-based Prediction Errors to Categorize Text with Out-of-vocabulary Words},
+	series = {ALW1{\textquoteright}17},
+	year = {2017},
+	address = {Vancouver, Canada},
+	abstract = {<p>Common approaches to text categorization essentially rely either on n-gram counts or on word embeddings. This presents important difficulties in highly dynamic or quickly-interacting environments, where the appearance of new words and/or varied misspellings is the norm. A paradigmatic example of this situation is abusive online behavior, with social networks and media platforms struggling to effectively combat uncommon or non-blacklisted hate words. To better deal with these issues in those fast-paced environments, we propose using the error signal of class-based language models as input to text classification algorithms. In particular, we train a next-character prediction model for any given class, and then exploit the error of such class-based models to inform a neural network classifier. This way, we shift from the ability to describe seen documents to the ability to predict unseen content. Preliminary studies using out-of-vocabulary splits from abusive tweet data show promising results, outperforming competitive text categorization strategies by 4{\textendash}11\%.</p>
+},
+	author = {Joan Serr{\`a} and Ilias Leontiadis and Dimitris Spathis and Gianluca Stringhini and Jeremy Blackburn and Athena Vakali}
+}
+@proceedings {1943,
+	title = {Detecting Aggressors and Bullies on Twitter},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {767--768},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Online social networks constitute an integral part of people{\textquoteright}s every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+},
+	keywords = {crowdsourcing, cyber-aggression, cyberbullying, Twitter},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3054211},
+	url = {http://dl.acm.org/citation.cfm?id=3054211},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1944,
+	title = {Hate is not Binary: Studying Abusive Behavior of $\#$GamerGate on Twitter},
+	series = {HT {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Prague, Czech Republic},
+	abstract = {<p>Over the past few years, online bullying and aggression have become increasingly prominent, and manifested in many different forms on social media. However, there is little work analyzing the characteristics of abusive users and what distinguishes them from typical social media users. In this paper, we start addressing this gap by analyzing tweets containing a great amount of abusiveness. We focus on a Twitter dataset revolving around the Gamergate controversy, which led to many incidents of cyberbullying and cyberaggression on various gaming and social media platforms. We study the properties of the users tweeting about Gamergate, the content they post, and the differences in their behavior compared to typical Twitter users.</p>
+
+<p>We find that while their tweets are often seemingly about aggressive and hateful subjects, {\textquoteleft}{\textquoteleft}Gamergaters{\textquoteright}{\textquoteright} do not exhibit common expressions of online anger, and in fact primarily differ from typical users in that their tweets are less joyful. They are also more engaged than typical Twitter users, which is an indication as to how and why this controversy is still ongoing. Surprisingly, we find that Gamergaters are less likely to be suspended by Twitter, thus we analyze their properties to identify differences from typical users and what may have led to their suspension. We perform an unsupervised machine learning analysis to detect clusters of users who, though currently active, could be considered for suspension since they exhibit similar behaviors with suspended users. Finally, we confirm the usefulness of our analyzed features by emulating the Twitter suspension mechanism with a supervised learning method, achieving very good precision and recall.</p>
+},
+	issn = {978-1-4503-4708-2/17/07},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1939,
+	title = {Mean Birds: Detecting Aggression and Bullying on Twitter},
+	series = {WebSci {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Troy, NY, USA},
+	abstract = {<p>In recent years, bullying and aggression against users on social media have grown significantly, causing serious consequences to victims of all demographics. In particular, cyberbullying affects more than half of young social media users worldwide, and has also led to teenage suicides, prompted by prolonged and/or coordinated digital harassment. Nonetheless, tools and technologies for understanding and mitigating it are scarce and mostly ineffective. In this paper, we present a principled and scalable approach to detect bullying and aggressive behavior on Twitter. We propose a robust methodology for extracting text, user, and network-based attributes, studying the properties of cyberbullies and aggressors, and what features distinguish them from regular users. We find that bully users post less, participate in fewer online communities, and are less popular than normal users, while aggressors are quite popular and tend to include more negativity in their posts. We evaluate our methodology using a corpus of 1.6M tweets posted over 3 months, and show that machine learning classification algorithms can accurately detect users exhibiting bullying and aggressive behavior, achieving over 90\% AUC.</p>
+},
+	issn = {978-1-4503-4896-6/17/06},
+	url = {https://arxiv.org/abs/1702.06877},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1940,
+	title = {Measuring $\#$GamerGate: A Tale of Hate, Sexism, and Bullying},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {1285-1290},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Over the past few years, online aggression and abusive behaviors have occurred in many different forms and on a variety of platforms. In extreme cases, these incidents have evolved into hate, discrimination, and bullying, and even materialized into real-world threats and attacks against individuals or groups. In this paper, we study the Gamergate controversy. Started in August 2014 in the online gaming world, it quickly spread across various social networking platforms, ultimately leading to many incidents of cyberbullying and cyberaggression. We focus on Twitter, presenting a measurement study of a dataset of 340k unique users and 1.6M tweets to study the properties of these users, the content they post, and how they differ from random Twitter users. We find that users involved in this "Twitter war" tend to have more friends and followers, are generally more engaged and post tweets with negative sentiment, less joy, and more hate than random users. We also perform preliminary measurements on how the Twitter suspension mechanism deals with such abusive behaviors. While we focus on Gamergate, our methodology to collect and analyze tweets related to aggressive and bullying activities is of independent interest.</p>
+},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3053890},
+	url = {http://dl.acm.org/citation.cfm?id=3053890},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@article {1928,
+	title = {Sentiment analysis leveraging emotions and word embeddings},
+	journal = {Expert Systems with Applications},
+	volume = {69},
+	year = {2017},
+	pages = {214 - 224},
+	abstract = {<p>Abstract Sentiment analysis and opinion mining are valuable for extraction of useful subjective information out of text documents. These tasks have become of great importance, especially for business and marketing professionals, since online posted products and services reviews impact markets and consumers shifts. This work is motivated by the fact that automating retrieval and detection of sentiments expressed for certain products and services embeds complex processes and pose research challenges, due to the textual phenomena and the language specific expression variations. This paper proposes a fast, flexible, generic methodology for sentiment detection out of textual snippets which express people{\textquoteright}s opinions in different languages. The proposed methodology adopts a machine learning approach with which textual documents are represented by vectors and are used for training a polarity classification model. Several documents{\textquoteright} vector representation approaches have been studied, including lexicon-based, word embedding-based and hybrid vectorizations. The competence of these feature representations for the sentiment classification task is assessed through experiments on four datasets containing online user reviews in both Greek and English languages, in order to represent high and weak inflection language groups. The proposed methodology requires minimal computational resources, thus, it might have impact in real world scenarios where limited resources is the case.</p>
+},
+	keywords = {Online user reviews},
+	issn = {0957-4174},
+	doi = {http://dx.doi.org/10.1016/j.eswa.2016.10.043},
+	url = {http://www.sciencedirect.com/science/article/pii/S095741741630584X},
+	author = {Maria Giatsoglou and Manolis G. Vozalis and Konstantinos Diamantaras and Athena Vakali and George Sarigiannidis and Konstantinos Ch. Chatzisavvas}
+}
+@proceedings {1931,
+	title = {Internet Science - Second International Conference, INSCI 2015, Brussels, Belgium, May 27-29, 2015, Proceedings},
+	booktitle = {Lecture Notes in Computer Science},
+	series = { },
+	volume = {9089},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-18608-5},
+	doi = {10.1007/978-3-319-18609-2},
+	url = {http://dx.doi.org/10.1007/978-3-319-18609-2},
+	editor = {Thanassis Tiropanis and Athena Vakali and Laura Sartori and Pete Burnap}
+}
+@inproceedings {DBLP:conf/pakdd/GiatsoglouCSBFV15,
+	title = {ND-SYNC: Detecting Synchronized Fraud Activities},
+	booktitle = {Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II},
+	year = {2015},
+	pages = {201{\^a}{\texteuro}{\textquotedblleft}214},
+	doi = {10.1007/978-3-319-18032-8_16},
+	url = {http://dx.doi.org/10.1007/978-3-319-18032-8_16},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Alex Beutel and Christos Faloutsos and Athena Vakali}
+}
+@inproceedings {conf/pakdd/GiatsoglouCSFV15,
+	title = {Retweeting Activity on Twitter: Signs of Deception},
+	booktitle = {PAKDD (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {9077},
+	year = {2015},
+	pages = {122-134},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-319-18037-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Christos Faloutsos and Athena Vakali},
+	editor = {Cao, Tru and Lim, Ee-Peng and Zhou, Zhi-Hua and Ho, Tu-Bao and Cheung, David and Motoda, Hiroshi}
+}
+@inproceedings {conf/pkdd/ArvanitidisSVT14,
+	title = {Branty: A Social Media Ranking Tool for Brands},
+	booktitle = {ECML/PKDD (3)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8726},
+	year = {2014},
+	pages = {432-435},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-662-44844-1},
+	author = {Arvanitidis, Alexandros and Serafi, Anna and Athena Vakali and Tsoumakas, Grigorios},
+	editor = {Calders, Toon and Esposito, Floriana and Hullermeier, Eyke and Meo, Rosa}
+}
+@article {journals/ras/AliSGVFVM14,
+	title = {Contextual object category recognition for RGB-D scene labeling},
+	journal = {Robotics and Autonomous Systems},
+	volume = {62},
+	number = {2},
+	year = {2014},
+	pages = {241-256},
+	author = {Ali, Haider and Shafait, Faisal and Giannakidou, Eirini and Athena Vakali and Figueroa, Nadia and Varvadoukas, Theodoros and Mavridis, Nikolaos}
+}
+@inproceedings {conf/wise/GiatsoglouCV13,
+	title = {Community Detection in Social Media by Leveraging Interactions and Intensities},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8181},
+	year = {2013},
+	pages = {57-72},
+	publisher = {Springer},
+	organization = {Springer},
+	keywords = {community detection, user weighted interaction networks},
+	isbn = {978-3-642-41153-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali},
+	editor = {Lin, Xuemin and Manolopoulos, Yannis and Srivastava, Divesh and Huang, Guangyan}
+}
+@inproceedings {conf/pci/SamarasVGCA13,
+	title = {Requirements and architecture design principles for a smart city experiment with sensor and social networks integration},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2013},
+	pages = {327-334},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-1969-0},
+	author = {Samaras, Christos and Athena Vakali and Maria Giatsoglou and Despoina Chatzakou and Angelis, Lefteris},
+	editor = {Ketikidis, Panayiotis H. and Margaritis, Konstantinos G. and Vlahavas, Ioannis P. and Chatzigeorgiou, Alexander and Eleftherakis, George and Stamelos, Ioannis}
+}
+@inproceedings {conf/mmm/PapadopoulosSKV13,
+	title = {Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs},
+	booktitle = {MMM (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {7732},
+	year = {2013},
+	pages = {1-12},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+},
+	isbn = {978-3-642-35725-1},
+	author = {Symeon Papadopoulos and Sagonas, Christos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Li, Shipeng and El-Saddik, Abdulmotaleb and Wang, Meng and Mei, Tao and Sebe, Nicu and Yan, Shuicheng and Hong, Richang and Gurrin, Cathal}
+}
+@article {journals/tsmc/StamosLV12,
+	title = {Mani-Web: Large-Scale Web Graph Embedding via Laplacian Eigenmap Approximation},
+	journal = {IEEE Transactions on Systems, Man, and Cybernetics, Part C},
+	volume = {42},
+	number = {6},
+	year = {2012},
+	pages = {879-888},
+	abstract = {<p>The Web as a graph can be embedded in a lowdimensionalspace where its geometry can be visualized and studiedin order to mine interesting patterns such as web communities.The existing algorithms operate on small-to-medium-scalegraphs; thus, we propose a close to linear time algorithm calledMani-Web suitable for large-scale graphs. The result is similarto the one produced by the manifold-learning technique Laplacianeigenmap that is tested on artificial manifolds and real webgraphs.Mani-Web can also be used as a general-purpose manifoldlearning/dimensionality-reductiontechnique as long as the datacan be represented as a graph.</p>
+},
+	keywords = {Laplacian eigenmap, large scale, manifold learning, spectral graph theory, web communities},
+	author = {Stamos, Konstantinos and Laskaris, Nikolaos A. and Athena Vakali}
+}
+@inproceedings {conf/www/VakaliGA12,
+	title = {Social networking trends and dynamics detection via a cloud-based framework design},
+	booktitle = {WWW (Companion Volume)},
+	year = {2012},
+	pages = {1213-1220},
+	publisher = {ACM},
+	organization = {ACM},
+	keywords = {cloud service deployment, microblogs and blogosphere dynamics, Social networks social, Web Data Clustering},
+	isbn = {978-1-4503-1230-1},
+	author = {Athena Vakali and Maria Giatsoglou and Antaris, Stefanos},
+	editor = {Mille, Alain and Gandon, Fabien L. and Misselis, Jacques and Rabinovich, Michael and Staab, Steffen}
+}
+@inproceedings {conf/fia/SrivastavaV12,
+	title = {Towards a Narrative-Aware Design Framework for Smart Urban Environments},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {166-177},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Srivastava, Lara and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/fia/AnthopoulosV12,
+	title = {Urban Planning and Smart Cities: Interrelations and Reciprocities},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {178-189},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/mir/PapadopoulosZKKV11,
+	title = {City exploration by use of spatio-temporal analysis and clustering of user contributed photos},
+	booktitle = {ICMR},
+	year = {2011},
+	pages = {65},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+},
+	keywords = {Clustering, content browsing, landmark/event detection, spatio-temporal mining},
+	isbn = {978-1-4503-0336-1},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Natale, Francesco G. B. De and Bimbo, Alberto Del and Hanjalic, Alan and Manjunath, B. S. and Satoh, Shin{\textquoteright}ichi}
+}
+@inproceedings {conf/acii/TsagkalidouKVK11,
+	title = {Emotional Aware Clustering on Micro-blogging Sources},
+	booktitle = {ACII (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {6974},
+	year = {2011},
+	pages = {387-396},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+},
+	keywords = {Microblogging services, Sentiment analysis, web clustering},
+	isbn = {978-3-642-24599-2},
+	author = {Tsagkalidou, Katerina and Vassiliki A. Koutsonikola and Athena Vakali and Konstantinos Kafetsios},
+	editor = {D{\textquoteright}Mello, Sidney K. and Graesser, Arthur C. and Schuller, Bj{\"o}rn and Martin, Jean-Claude}
+}
+@inproceedings {conf/services/MaaradjiHSV11,
+	title = {Social Web Mashups Full Completion via Frequent Sequence Mining},
+	booktitle = {SERVICES},
+	year = {2011},
+	pages = {9-16},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>In this paper we address the problem of WebMashups full completion which consists of predicting themost suitable set of (combined) services that successfully meetthe goals of an end-user Mashup, given the current service(or composition of services) initially supplied. We model fullcompletion as a frequent sequence mining problem and weshow how existing algorithms can be applied in this context.To overcome some limitations of the frequent sequence miningalgorithms, e.g., efficiency and recommendation granularity,we propose FESMA, a new and efficient algorithm for computingfrequent sequences of services and recommending completions.FESMA also integrates a social dimension, extractedfrom the transformation of user ? service interactions intouser ? user interactions, building an implicit graph thathelps to better predict completions of services in a fashiontailored to individual users. Evaluations show that FESMAis more efficient outperforming the existing algorithms evenwith the consideration of the social dimension. Our proposalhas been implemented in a prototype, SoCo, developed at BellLabs.</p>
+},
+	keywords = {Mashups, Sequence mining, Social networks, Web services},
+	isbn = {978-1-4577-0879-4},
+	author = {Maaradji, Abderrahmane and Hacid, Hakim and Skraba, Ryan and Athena Vakali}
+}
+@inproceedings {conf/webi/GabrielSSV11,
+	title = {Summarization Meets Visualization on Online Social Networks},
+	booktitle = {Web Intelligence},
+	year = {2011},
+	pages = {475-478},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+},
+	keywords = {Clustering, communities, community representatives, social network summarization, social network visualization, Social networks, visualization},
+	isbn = {978-0-7695-4513-4},
+	author = {Gabriel, Hans-Henning and Spiliopoulou, Myra and Stachtiari, Emmanouela and Athena Vakali},
+	editor = {Boissier, Olivier and Benatallah, Boualem and Papazoglou, Mike P. and Ras, Zbigniew W. and Hacid, Mohand-Said}
+}
+@inproceedings {conf/ictglow/IslamSPV11,
+	title = {Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation},
+	booktitle = {ICT-GLOW},
+	series = {Lecture Notes in Computer Science},
+	volume = {6868},
+	year = {2011},
+	pages = {180-187},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+},
+	keywords = {CDNs, Energy conservation, QoE},
+	isbn = {978-3-642-23446-0},
+	author = {ul Islam, Saif and Stamos, Konstantinos and Pierson, Jean-Marc and Athena Vakali},
+	editor = {Kranzlmller, Dieter and Tjoa, A Min}
+}
+@article {journals/tomacs/StamosPVKSM10,
+	title = {CDNsim: A simulation tool for content distribution networks},
+	journal = {ACM Trans. Model. Comput. Simul.},
+	volume = {20},
+	number = {2},
+	year = {2010},
+	abstract = {<p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+},
+	keywords = {caching, Content Distribution Network, services, trace-driven simulation},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@inproceedings {conf/mm/PapadopoulosZKKV10,
+	title = {ClustTour: city exploration by use of hybrid photo clustering},
+	booktitle = {ACM Multimedia},
+	year = {2010},
+	pages = {1617-1620},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+},
+	keywords = {Clustering, event and landmark detection, tagging},
+	isbn = {978-1-60558-933-6},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bimbo, Alberto Del and Chang, Shih-Fu and Smeulders, Arnold W. M.}
+}
+@inproceedings {conf/pci/GiatsoglouKSVZ10,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2010},
+	pages = {21-24},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-1-4244-7838-5},
+	author = {Maria Giatsoglou and Vassiliki A. Koutsonikola and Stamos, Konstantinos and Athena Vakali and Christos Zigkolis}
+}
+@inproceedings {conf/dasfaa/StampouliGV10,
+	title = {Tag Disambiguation through Flickr and Wikipedia},
+	booktitle = {DASFAA Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {6193},
+	year = {2010},
+	pages = {252-263},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Given the popularity of social tagging systems and the limitationsthese systems have, due to lack of any structure, a common issue that arises involves the low retrieval quality in such systems due to ambiguities of certain terms. In this paper, an approach for improving the retrieval in these systems, in case of ambiguous terms, is presented that attempts to perform tag disambiguation and, at the same time, provide users with relevant content. The idea is based on a mashup that combines data and functionality of two major web 2.0 sites, namely Flickr and Wikipedia and aims at enhancing content retrieval for web users. A case study with the ambiguous notion {\^a}{\texteuro}{\'s}Apple{\^a}{\texteuro}{\v t} illustrates the value of the proposed approach.</p>
+},
+	keywords = {DBpedia project, flick, mashup, term disambiguation, Wikipedia},
+	isbn = {978-3-642-14588-9},
+	author = {Stampouli, Anastasia and Giannakidou, Eirini and Athena Vakali},
+	editor = {Yoshikawa, Masatoshi and Meng, Xiaofeng and Yumoto, Takayuki and Ma, Qiang and Sun, Lifeng and Watanabe, Chiemi}
+}
+@article {journals/aes/BouzakisAVS09,
+	title = {Automating the manufacturing process under a web based framework},
+	journal = {Advances in Engineering Software},
+	volume = {40},
+	number = {9},
+	year = {2009},
+	pages = {956-964},
+	abstract = {<p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework {\^a}{\texteuro}{\textquotedblleft} independent from any specific CAD/CAM software {\^a}{\texteuro}{\textquotedblleft} is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+},
+	keywords = {CAD/CAM, Manufacturing process, Process planning, SOAP, UDDI, Web services, xml},
+	author = {Bouzakis, K.-D. and Andreadis, George and Athena Vakali and Sarigiannidou, M.}
+}
+@article {journals/tkde/KatsarosPSVSM09,
+	title = {CDNs Content Outsourcing via Generalized Communities},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {21},
+	number = {1},
+	year = {2009},
+	pages = {137-151},
+	abstract = {<p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of {\^a}{\texteuro}{\'s}correlated{\^a}{\texteuro}{\v t} Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+},
+	keywords = {caching, content distribution networks, replication, social network analysis, web communities},
+	author = {Katsaros, Dimitrios and Pallis, George and Stamos, Konstantinos and Athena Vakali and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@inproceedings {conf/hpdc/StamosPVD09,
+	title = {Evaluating the utility of content delivery networks},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {11-20},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+},
+	keywords = {CDN pricing, Content Delivery, network utility, networks},
+	isbn = {978-1-60558-591-8},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Dikaiakos, Marios D.},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@inproceedings {conf/bci/MoussiadesV09,
+	title = {Mining the Community Structure of a Web Site},
+	booktitle = {BCI},
+	year = {2009},
+	pages = {239-244},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-3783-2},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Kefalas, Petros and Stamatis, Demosthenes and Douligeris, Christos}
+}
+@inproceedings {conf/wise/KoutsonikolaPVHB08,
+	title = {Correlating Time-Related Data Sources with Co-clustering},
+	booktitle = {WISE},
+	series = {Lecture Notes in Computer Science},
+	volume = {5175},
+	year = {2008},
+	pages = {264-279},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stock{\^a}{\texteuro}{\texttrademark}s market real datasets.</p>
+},
+	isbn = {978-3-540-85480-7},
+	author = {Vassiliki A. Koutsonikola and Petridou, Sophia G. and Athena Vakali and Hacid, Hakim and Benatallah, Boualem},
+	editor = {Bailey, James and Maier, David and Schewe, Klaus-Dieter and Thalheim, Bernhard and Wang, Xiaoyang Sean}
+}
+@article {journals/ijbdcn/PallisSVTA08,
+	title = {Integrating Caching Techniques in CDNs using a Classification Approach},
+	journal = {IJBDCN},
+	volume = {4},
+	number = {4},
+	year = {2008},
+	pages = {1-12},
+	abstract = {<p>Content Delivery Networks (CDNs) provide an efficient support for serving {\^a}{\texteuro}{\'s}resourcehungry{\^a}{\texteuro}{\v t}applications while minimizing the network impact of content delivery as well asshifting the traffic away from overloaded origin servers. However, their performance gain islimited since the storage space in CDN{\^a}{\texteuro}{\texttrademark}s servers is not used optimally. In order to managetheir storage capacity in an efficient way, we integrate caching techniques in CDNs. Thechallenge is to decide which objects would be devoted to caching so as the CDN{\^a}{\texteuro}{\texttrademark}s server maybe used both as a replicator and as a proxy server. In this paper we propose a nonlinear nonparametricmodel which classifies the CDN{\^a}{\texteuro}{\texttrademark}s server cache into two parts. Through a detailedsimulation environment, we show that the proposed technique can yield significant reductionin user-perceived latency as compared with other heuristic schemes.</p>
+},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Thomos, Charilaos and Andreadis, George}
+}
+@article {journals/www/SidiropoulosPKSVM08,
+	title = {Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing},
+	journal = {World Wide Web},
+	volume = {11},
+	number = {1},
+	year = {2008},
+	pages = {39-70},
+	author = {Sidiropoulos, Antonis and Pallis, George and Katsaros, Dimitrios and Stamos, Konstantinos and Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/ismis/KoutsonikolaVMV08,
+	title = {A Structure-Based Clustering on LDAP Directory Information},
+	booktitle = {ISMIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4994},
+	year = {2008},
+	pages = {121-130},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR\&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entries{\^a}{\texteuro}{\texttrademark}structure. The clustering-based LDAP data organization enhances LDAPserver{\^a}{\texteuro}{\texttrademark}s response times, under a specific query framework.</p>
+},
+	isbn = {978-3-540-68122-9},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Mpalasas, Antonios and Valavanis, Michael},
+	editor = {An, Aijun and Matwin, Stan and Ras, Zbigniew W. and Slezak, Dominik}
+}
+@article {journals/compsec/StoupaV07,
+	title = {Clustering subjects in a credential-based access control framework},
+	journal = {Computers \& Security},
+	volume = {26},
+	number = {2},
+	year = {2007},
+	pages = {120-129},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {conf/iscis/StoupaSV06,
+	title = {Credential-Based Policies Management in an Access Control Framework Protecting XML Resources},
+	booktitle = {ISCIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4263},
+	year = {2006},
+	pages = {603-612},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>XML has been widely adopted for Web data representation undervarious applications (such as DBMSs, Digital Libraries etc). Therefore, accessto XML data sources has become a crucial issue. In this paper we introduce acredential-based access control framework for protecting XML resources. Underthis framework, we propose the use of access policy files containing policiesconcerning a specific credentials type. Moreover, we propose the reorganizationof the policies in these files based on their frequency of use (the morefrequently it is used the higher in the file it is placed). Our main goal is to improverequest servicing times. Several experiments have been conducted whichare carried out either on single request or on multiple requests base. The proposedframework is proven quite beneficial for protecting XML-based frameworkssuch as digital libraries or any other data resources whose format is expressedin XML.</p>
+},
+	isbn = {3-540-47242-8},
+	author = {Stoupa, Konstantina and Simeoforidis, Zisis and Athena Vakali},
+	editor = {Levi, Albert and Savas, Erkay and Yenig{\"u}n, H{\"u}sn{\"u} and Balcisoy, Selim and Saygin, Y{\"u}cel}
+}
+@inproceedings {conf/adbis/StamosPV06,
+	title = {Integrating Caching Techniques on a Content Distribution Network},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4152},
+	year = {2006},
+	pages = {200-215},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDN{\^a}{\texteuro}{\texttrademark} s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+},
+	isbn = {3-540-37899-5},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali},
+	editor = {Manolopoulos, Yannis and Pokorny, Jaroslav and Sellis, Timos K.}
+}
+@article {journals/dke/StoupaV06,
+	title = {QoS-oriented negotiation in disk subsystems},
+	journal = {Data Knowl. Eng.},
+	volume = {58},
+	number = {2},
+	year = {2006},
+	pages = {107-128},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {conf/icde/PallisSVKS06,
+	title = {Replication Based on Objects Load under a Content Distribution Network},
+	booktitle = {ICDE Workshops},
+	year = {2006},
+	pages = {53},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis},
+	editor = {Barga, Roger S. and Zhou, Xiaofang}
+}
+@inproceedings {conf/ideas/StamosPTV06,
+	title = {A similarity based approach for integrated Web caching and content replication in CDNs},
+	booktitle = {IDEAS},
+	year = {2006},
+	pages = {239-242},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Web caching and content replication techniques emergedto solve performance problems related to the Web. We proposea generic non-parametric heuristic method that integratesboth techniques under a CDN. We provide experimentationshowing that our method outperforms the so farseparate implementations of Web caching and content replication.Moreover, we show that the performance improvementcompared with an existing algorithm is significant. Wetest all these techniques in a simulation environment undera flash crowd event and a workload of a typical lightweightedCDN operation.</p>
+},
+	author = {Stamos, Konstantinos and Pallis, George and Thomos, Charilaos and Athena Vakali},
+	editor = {Desai, Bipin C. and Gupta, Shyam K.}
+}
+@inproceedings {conf/wiri/PallisVS05,
+	title = {FRES-CAR: An Adaptive Cache Replacement Policy},
+	booktitle = {WIRI},
+	year = {2005},
+	pages = {74-81},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Caching Web objects has become a common practicetowards improving content delivery and users{\^a}{\texteuro}{\texttrademark} servicing.A Web caching framework is characterized by its cachereplacement policy, which identifies the objects (i.e. theelements on a Web page, which include text, graphics,and scripts) to be replaced in a cache upon a requestarrival. In this paper, we present a cache replacementalgorithm (so-called FRES-CAR), which identifies theobjects that should be evicted by considering togetherthree important criteria: object{\^a}{\texteuro}{\texttrademark}s frequency, recency andsize. Experimentation under synthetic workloads hasshown that FRES-CAR achieves higher hit rates whencompared with the most popular and existing algorithms.</p>
+},
+	isbn = {0-7695-2414-1},
+	author = {Pallis, George and Athena Vakali and Sidiropoulos, Eythimis}
+}
+@inproceedings {conf/la-web/PallisVSSKM05,
+	title = {A Latency-Based Object Placement Approach in Content Distribution Networks},
+	booktitle = {LA-WEB},
+	year = {2005},
+	pages = {140-147},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {0-7695-2471-0},
+	author = {Pallis, George and Athena Vakali and Stamos, Konstantinos and Sidiropoulos, Antonis and Katsaros, Dimitrios and Manolopoulos, Yannis}
+}
+@inbook {books/idea/encyclopedia2005/PallisSV05,
+	title = {Storage and Access Control Issues for XML Documents},
+	booktitle = {Encyclopedia of Information Science and Technology (V)},
+	year = {2005},
+	pages = {2616-2621},
+	publisher = {Idea Group},
+	organization = {Idea Group},
+	isbn = {1-59140-553-X},
+	author = {Pallis, George and Stoupa, Konstantina and Athena Vakali},
+	editor = {Khosrow-Pour, Mehdi}
+}
+@inproceedings {conf/mmdb/HammicheBHV04,
+	title = {Semantic retrieval of multimedia data},
+	booktitle = {MMDB},
+	year = {2004},
+	pages = {36-44},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+},
+	keywords = {Approximation Ontologies, MPEG-7, Multimedia Data, Tree embedding},
+	isbn = {1-58113-975-6},
+	author = {Hammiche, Samira and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali},
+	editor = {Chen, Shu-Ching and Shyu, Mei-Ling}
+}
+@inproceedings {conf/smc/StoupaVLA04,
+	title = {Web-based delegation using XML},
+	booktitle = {SMC (6)},
+	year = {2004},
+	pages = {5189-5194},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Existing access control mechanisms should beextended in order to authorize external (and possiblyunknown) clients, when entering distributedenvironments. This paper proposes the structure andissuing of appropriate authorization certificate to supportthe delegation process under a role-based access controlenvironment. The proposed processes aim to enhanceaccessing automation and to avoid (centraladministrator) bottlenecks (in cases of altering anauthorization or a policy). The delegation requests andthe certificates are expressed according to the XMLsyntax for enhancing the interoperability of thedelegation processes, which is highlighted in a step-bystepalgorithmic fashion using flowcharts.</p>
+},
+	keywords = {Delegation, XML access control},
+	isbn = {0-7803-8566-7},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Andreadis, George}
+}
+@inproceedings {conf/edbtw/StoupaVLT04,
+	title = {XML-Based Revocation and Delegation in a Distributed Environment},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {299-308},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>The rapid increase on the circulation of data over the web has highlightedthe need for distributed storage of Internet-accessible information due tothe rapid increase on the circulation of data over the web. Thus, access controlmechanisms should also be distributed in order to protect them effectively. A recentidea in the access control theory is the delegation and revocation of rights,i.e. the passing over of one clients rights to the other and vice versa. Here, wepropose an XML-based distributed delegation module which can be integratedinto a distributed role-based access control mechanism protecting networks. Theidea of X.509v3 certificates is used for the transfer of authorization informationreferring to a client. The modules are XML-based and all of the associated datastructures are expressed through Document Type Definitions (DTDs).</p>
+},
+	isbn = {3-540-23305-9},
+	author = {Stoupa, Konstantina and Athena Vakali and Li, Fang and Tsoukalas, Ioannis},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@inproceedings {conf/smc/StoupaV03,
+	title = {An XML-based language for access control specifications in an RBAC environment},
+	booktitle = {SMC},
+	year = {2003},
+	pages = {1717-1722},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Lately, Web-accessed resources havesuperceded the resources accessed by local or wide-areanetworks. Therefore, new mechanisms should beimplemented for protecting resources from unknownclients. Attribute Certificates is a quite new technologyoffering such functionality. Those certificates are issuedby Attribute Authorities validating the attributes of theowner of the certificate. Based on this technology anXML-based access control mechanism is introduced forprotecting any kind of resources (from both known andunknown clients). The proposed model is ultimately rolebasedsince both clients and protected resources areorganized into roles. Moreover, an XML-based languageis introduced to express roles, authorizations, delegationrules, hierarchies and certificates.</p>
+},
+	keywords = {Access control, Attribute Certificates, Role Based Access Control, XML-based language},
+	isbn = {0-7803-7952-7},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}
+@inproceedings {conf/cata/VakaliS01,
+	title = {A QoS based disk subsystem},
+	booktitle = {Computers and Their Applications},
+	year = {2001},
+	pages = {409-412},
+	publisher = {ISCA},
+	organization = {ISCA},
+	isbn = {1-880843-37-4},
+	author = {Athena Vakali and Stupa, Constantina},
+	editor = {Hung, C. C.}
+}

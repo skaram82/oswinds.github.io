@@ -1,0 +1,18 @@
+%0 Conference Paper
+%B ADVIS
+%D 2000
+%T Evolutionary Prefetching and Caching in an Independent Storage Units Model
+%A Athena Vakali
+%E Yakhno, Tatyana M.
+%K data prefetching and caching
+%K object-based storage models
+%K parallel storage units
+%X <p>Modern applications demand support for a large number ofclients and require large scale storage subsystems. This paper presentsa theoretical model of prefetching and caching of storage objects undera parallel storage units architecture. The storage objects are definedas variable sized data blocks and a specific cache area is reserved fordata prefetching and caching. An evolutionary algorithm is proposed foridentifying the storage objects to be prefetched and cached. The storageobject prefetching approach is experimented under certain artificialworkloads of requests for a set of storage units and has shown significantperformance improvement with respect to request service times, as wellas cache and byte hit ratios.</p>
+%B ADVIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1909
+%P 265-274
+%@ 3-540-41184-4
+%G eng
+

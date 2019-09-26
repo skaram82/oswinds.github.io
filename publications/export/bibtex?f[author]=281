@@ -1,0 +1,30 @@
+@article {journals/internet/VakaliCM05,
+	title = {XML Data Stores: Emerging Practices},
+	journal = {IEEE Internet Computing},
+	volume = {9},
+	number = {2},
+	year = {2005},
+	pages = {62-69},
+	author = {Athena Vakali and Barbara Catania and Anna Maddalena}
+}
+@article {catania05xml,
+	title = {XML document indexes: a classification},
+	journal = {Internet Computing, IEEE},
+	volume = {9},
+	number = {5},
+	year = {2005},
+	pages = {64{\textendash}71},
+	abstract = {<p>XML{\textquoteright}s increasing diffusion makes efficient XML query processing and indexing all the more critical. Given the semistructured nature of XML documents, however, general query processing techniques won{\textquoteright}t work. Researchers have proposed several specialized indexing methods that offer query processors efficient access to XML documents, although none are yet fully implemented in commercial products. In this article the classification of XML indexing techniques identifies current practices and trends, offering insight into how developers can improve query processing and select the best solution for particular contexts.</p>
+},
+	keywords = {documents indexing, xml},
+	author = {Barbara Catania and Anna Maddalena and Athena Vakali}
+}
+@article {journals/internet/CataniaMV05,
+	title = {XML Document Indexes: A Classification},
+	journal = {IEEE Internet Computing},
+	volume = {9},
+	number = {5},
+	year = {2005},
+	pages = {64-71},
+	author = {Barbara Catania and Anna Maddalena and Athena Vakali}
+}

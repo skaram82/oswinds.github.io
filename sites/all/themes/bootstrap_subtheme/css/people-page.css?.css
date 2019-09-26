@@ -1,0 +1,66 @@
+/*this is specific for the people node pages css --- classes are added in people content type's fieldsets*/
+
+
+.row.top-info {
+    margin-bottom: 1.5em;
+	/*border: 1px solid #cecece;*/
+    padding: 1em 0 1em 0;
+
+}
+
+/*Information block*/
+
+.people-info {
+    
+    padding: 0 0 1em 1em;
+   
+}
+/*view people's publications button text color white*/
+
+div.people-view-publications.btn.btn-info>div>div>a {
+    color: white;
+}
+div.people-view-publications.btn.btn-info>div>div>a:hover{
+   text-decoration:none;
+}
+
+div.people-view-publications.btn.btn-info{
+	
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	clear:both;
+
+}
+
+/*cv body*/
+
+div.row.cv-row >h3 {
+    margin: 0.1em;
+    background-color: #525050;
+	border:1px solid #525050;
+    color: white;
+    padding: 1em;
+}
+
+.field.field-name-body.field-type-text-with-summary.field-label-hidden.bio.col-lg-12.col-md-12.col-sm-12.col-xs-12 {
+    border: 1px solid #cecece;
+    top: 0;
+    padding-top: 1em;
+	padding-bottom: 1em;
+}
+.clear{
+	clear:both;
+
+}
+
+@media screen and (max-width:991px){
+
+.people-photo{
+	text-align:center;
+}
+
+div.people-info{
+	text-align:center;
+}
+
+}

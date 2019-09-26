@@ -1,0 +1,124 @@
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers
+%E Boualem Benatallah
+%E Azer Bestavros
+%E Barbara Catania
+%E Armin Haller
+%E Yannis Manolopoulos
+%E Athena Vakali
+%E Yanchun Zhang
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9051
+%@ 978-3-319-20369-0
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-20370-6
+%R 10.1007/978-3-319-20370-6
+
+%0 Conference Proceedings
+%B ADBIS (2)
+%D 2014
+%T New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems
+%E Barbara Catania
+%E Cerquitelli, Tania
+%E Chiusano, Silvia
+%E Guerrini, Giovanna
+%E Kämpf, Mirko
+%E Kemper, Alfons
+%E Novikov, Boris
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B ADBIS (2)
+%S Advances in Intelligent Systems and Computing
+%I Springer
+%C Genoa, Italy
+%V 241
+%8 04/2013
+%@ 978-3-319-01863-8
+%G eng
+
+%0 Conference Proceedings
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%D 2014
+%T Transactions on Large-Scale Data- and Knowledge-Centered Systems
+%E Hameurlain, Abdelkader
+%E Küng, Josef
+%E Wagner, Roland
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8920
+%@ 978-3-662-45760-3
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 2013
+%T Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing
+%A Kastrinakis, Dimitrios
+%A Symeon Papadopoulos
+%A Athena Vakali
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Pokorny, Jaroslav
+%K composite visual word
+%K local descriptors
+%K multimedia data indexing
+%K visual word
+%X <p>Multimedia data indexing for content-based retrieval has attractedsignificant attention in recent years due to the commoditizationof multimedia capturing equipment and the widespread adoption of social networking platforms as means for sharing media content online. Due to the very large amounts of multimedia content, notably images, produced and shared online by people, a very important requirement for multimedia indexing approaches pertains to their efficiency both in terms of computation and memory usage. A common approach to support query-by-example image search is based on the extraction of visual words from images and their indexing by means of inverted indices, a method proposed and popularized in the field of text retrieval.The main challenge that visual word indexing systems currently facearises from the fact that it is necessary to build very large visual vocabularies (hundreds of thousands or even millions of words) to support sufficiently precise search. However, when the visual vocabulary is large,the image indexing process becomes computationally expensive due to the fact that the local image descriptors (e.g. SIFT) need to be quantized to the nearest visual words.To this end, this paper proposes a novel method that significantly decreases the time required for the above quantization process. Instead of using hundreds of thousands of visual words for quantization, the proposed method manages to preserve retrieval quality by using a much smaller number of words for indexing. This is achieved by the concept of composite words, i.e. assigning multiple words to a local descriptor in ascending order of distance. We evaluate the proposed method in the Oxford and Paris buildings datasets to demonstrate the validity of the proposed approach.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8133
+%P 98-111
+%@ 978-3-642-40682-9
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Data Stores: Emerging Practices
+%A Athena Vakali
+%A Barbara Catania
+%A Anna Maddalena
+%B IEEE Internet Computing
+%V 9
+%P 62-69
+%G eng
+
+%0 Journal Article
+%J Internet Computing, IEEE
+%D 2005
+%T XML document indexes: a classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%K documents indexing
+%K xml
+%X <p>XML’s increasing diffusion makes efficient XML query processing and indexing all the more critical. Given the semistructured nature of XML documents, however, general query processing techniques won’t work. Researchers have proposed several specialized indexing methods that offer query processors efficient access to XML documents, although none are yet fully implemented in commercial products. In this article the classification of XML indexing techniques identifies current practices and trends, offering insight into how developers can improve query processing and select the best solution for particular contexts.</p>
+%B Internet Computing, IEEE
+%V 9
+%P 64–71
+%G eng
+
+%0 Journal Article
+%J IEEE Internet Computing
+%D 2005
+%T XML Document Indexes: A Classification
+%A Barbara Catania
+%A Anna Maddalena
+%A Athena Vakali
+%B IEEE Internet Computing
+%V 9
+%P 64-71
+%G eng
+

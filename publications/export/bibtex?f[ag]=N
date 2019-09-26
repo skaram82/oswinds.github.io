@@ -1,0 +1,36 @@
+@proceedings {conf/adbis/2013-2,
+	title = {New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems},
+	booktitle = {ADBIS (2)},
+	series = {Advances in Intelligent Systems and Computing},
+	volume = {241},
+	year = {2014},
+	month = {04/2013},
+	publisher = {Springer},
+	address = {Genoa, Italy},
+	isbn = {978-3-319-01863-8},
+	editor = {Barbara Catania and Cerquitelli, Tania and Chiusano, Silvia and Guerrini, Giovanna and K{\"a}mpf, Mirko and Kemper, Alfons and Novikov, Boris and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@inbook {books/daglib/p/NikolopoulosGKPV11,
+	title = {Combining Multi-modal Features for Social Media Analysis},
+	booktitle = {Social Media Modeling and Computing},
+	year = {2011},
+	pages = {71-96},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-0-85729-435-7},
+	author = {Nikolopoulos, Spiros and Giannakidou, Eirini and Yiannis Kompatsiaris and Patras, Ioannis and Athena Vakali},
+	editor = {Hoi, Steven C. H. and Luo, Jiebo and Boll, Susanne and Xu, Dong and Jin, Rong}
+}
+@inbook {series/sci/NikolopoulosCGPKV11,
+	title = {Leveraging Massive User Contributions for Knowledge Extraction},
+	booktitle = {Next Generation Data Technologies for Collective Computational Intelligence},
+	series = {Studies in Computational Intelligence},
+	volume = {352},
+	year = {2011},
+	pages = {415-443},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-20343-5},
+	author = {Nikolopoulos, Spiros and Chatzilari, Elisavet and Giannakidou, Eirini and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bessis, Nik and Xhafa, Fatos}
+}

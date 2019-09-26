@@ -1,0 +1,6 @@
+@inproceedings {1862,
+	title = {A Structure-Based Clustering on LDAP Directory Information},
+	year = {2008},
+	abstract = {<p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR\&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entries{\textquoteright}structure. The clustering-based LDAP data organization enhances LDAPserver{\textquoteright}s response times, under a specific query framework.</p>
+}
+}

@@ -1,0 +1,10 @@
+@inproceedings {conf/semco/GiannakidouKV08,
+	title = {SEMSOC: SEMantic, SOcial and Content-Based Clustering in Multimedia Collaborative Tagging Systems},
+	booktitle = {ICSC},
+	year = {2008},
+	pages = {128-135},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-3279-0},
+	author = {Giannakidou, Eirini and Yiannis Kompatsiaris and Athena Vakali}
+}

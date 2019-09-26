@@ -1,0 +1,167 @@
+@article {1956,
+	title = {DynamiCITY : Revealing city dynamics from citizens social media broadcasts},
+	journal = {Information Systems},
+	year = {2017},
+	pages = {-},
+	keywords = {crowdsourcing, Data Mining, Smart City Applications, Social Data Mining, Urban Dynamics},
+	issn = {0306-4379},
+	doi = {https://doi.org/10.1016/j.is.2017.07.007},
+	url = {http://www.sciencedirect.com/science/article/pii/S0306437917300650},
+	author = {Vasiliki Gkatziaki and Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}
+@article {1928,
+	title = {Sentiment analysis leveraging emotions and word embeddings},
+	journal = {Expert Systems with Applications},
+	volume = {69},
+	year = {2017},
+	pages = {214 - 224},
+	abstract = {<p>Abstract Sentiment analysis and opinion mining are valuable for extraction of useful subjective information out of text documents. These tasks have become of great importance, especially for business and marketing professionals, since online posted products and services reviews impact markets and consumers shifts. This work is motivated by the fact that automating retrieval and detection of sentiments expressed for certain products and services embeds complex processes and pose research challenges, due to the textual phenomena and the language specific expression variations. This paper proposes a fast, flexible, generic methodology for sentiment detection out of textual snippets which express people{\textquoteright}s opinions in different languages. The proposed methodology adopts a machine learning approach with which textual documents are represented by vectors and are used for training a polarity classification model. Several documents{\textquoteright} vector representation approaches have been studied, including lexicon-based, word embedding-based and hybrid vectorizations. The competence of these feature representations for the sentiment classification task is assessed through experiments on four datasets containing online user reviews in both Greek and English languages, in order to represent high and weak inflection language groups. The proposed methodology requires minimal computational resources, thus, it might have impact in real world scenarios where limited resources is the case.</p>
+},
+	keywords = {Online user reviews},
+	issn = {0957-4174},
+	doi = {http://dx.doi.org/10.1016/j.eswa.2016.10.043},
+	url = {http://www.sciencedirect.com/science/article/pii/S095741741630584X},
+	author = {Maria Giatsoglou and Manolis G. Vozalis and Konstantinos Diamantaras and Athena Vakali and George Sarigiannidis and Konstantinos Ch. Chatzisavvas}
+}
+@article {1959,
+	title = {CityPulse: A platform prototype for smart city social data mining},
+	journal = {Journal of the Knowledge Economy},
+	volume = {7},
+	year = {2016},
+	pages = {344{\textendash}372},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Gkatziaki, Vasiliki and Vakali, Athena and Anthopoulos, Leonidas}
+}
+@article {1925,
+	title = {Cloud-based architectures for Geo-located blogosphere dynamics detection},
+	journal = {Smart Cities},
+	year = {2016},
+	abstract = {<p>Social networking data threads emerge rapidly and such crowd-driven big data streams are valuable for detecting trends and opinions. For such analytics, conventional data mining approaches are challenged by both high-dimensionality and scalability concerns. Here, we leverage on the Cloud4Trends framework, for collecting and analyzing geo-located microblogging content, partitioned into clusters under cloud-based infrastructures. Different cloud architectures are proposed to offer flexible solutions for geo-located data analytics, with emphasis on incremental trend analysis. The proposed architectures are largely based on a set of service modules which facilitate the deployment of the experimentation on Cloud infrastructures. Several experimentation remarks are highlighted to showcase the requirements and testing capabilities of different cloud computing settings.</p>
+},
+	keywords = {cloud service deployment, geo-located blogosphere dynamics, social geo-located data clustering, social networks and wisdom of the crowd},
+	author = {Athena Vakali and Stefanos Antaris and Maria Giatsoglou}
+}
+@inproceedings {DBLP:conf/pakdd/GiatsoglouCSBFV15,
+	title = {ND-SYNC: Detecting Synchronized Fraud Activities},
+	booktitle = {Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II},
+	year = {2015},
+	pages = {201{\^a}{\texteuro}{\textquotedblleft}214},
+	doi = {10.1007/978-3-319-18032-8_16},
+	url = {http://dx.doi.org/10.1007/978-3-319-18032-8_16},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Alex Beutel and Christos Faloutsos and Athena Vakali}
+}
+@inproceedings {conf/pakdd/GiatsoglouCSFV15,
+	title = {Retweeting Activity on Twitter: Signs of Deception},
+	booktitle = {PAKDD (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {9077},
+	year = {2015},
+	pages = {122-134},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-319-18037-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Christos Faloutsos and Athena Vakali},
+	editor = {Cao, Tru and Lim, Ee-Peng and Zhou, Zhi-Hua and Ho, Tu-Bao and Cheung, David and Motoda, Hiroshi}
+}
+@article {giatsoglou2014user,
+	title = {User communities evolution in microblogs: A public awareness barometer for real world events},
+	journal = {World Wide Web},
+	year = {2015},
+	pages = {1269-1299},
+	publisher = {Springer US},
+	abstract = {<p>In social media, users{\textquoteright} interactions are affected by real-world events which influence emergence and shifts of opinions and topics. Interactions around an event-related topic can be captured in a weighted network, while identification of connectivity and intensity patterns can improve understanding of users{\textquoteright} interest on the topic. Community detection is studied here as a means to reveal groups of social media users with common interaction patterns in such networks. The proposed community detection approach identifies communities exploiting both structural properties and intensity patterns, while dynamics of communities{\textquoteright} evolution around an event are revealed based on an iterative community detection and mapping scheme. We investigate the importance of considering interactions{\textquoteright} intensity for community detection via a benchmarking process on synthetic graphs and propose a generic framework for: i) modeling user interactions, ii) identifying static and evolving communities around events, iii) extracting quantitative and qualitative measurements from the communities{\textquoteright} timeline, iv) leveraging measurements to understand the events{\textquoteright} impact. Two real-world case studies based on Twitter interactions demonstrate the framework{\textquoteright}s potential for capturing and interpreting associations among communities and events.</p>
+},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}
+@article {journals/internet/GiatsoglouV13,
+	title = {Capturing Social Data Evolution Using Graph Clustering},
+	journal = {IEEE Internet Computing},
+	volume = {17},
+	number = {1},
+	year = {2013},
+	pages = {74-79},
+	abstract = {<p>The fast and unpredictable evolution of social data poses challenges for capturing user activities and complex associations. Evolving social graph clustering promises to uncover the dynamics of latent user and content patterns.</p>
+},
+	author = {Maria Giatsoglou and Athena Vakali}
+}
+@inproceedings {conf/wise/GiatsoglouCV13,
+	title = {Community Detection in Social Media by Leveraging Interactions and Intensities},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8181},
+	year = {2013},
+	pages = {57-72},
+	publisher = {Springer},
+	organization = {Springer},
+	keywords = {community detection, user weighted interaction networks},
+	isbn = {978-3-642-41153-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali},
+	editor = {Lin, Xuemin and Manolopoulos, Yannis and Srivastava, Divesh and Huang, Guangyan}
+}
+@inproceedings {conf/pci/SamarasVGCA13,
+	title = {Requirements and architecture design principles for a smart city experiment with sensor and social networks integration},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2013},
+	pages = {327-334},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-1969-0},
+	author = {Samaras, Christos and Athena Vakali and Maria Giatsoglou and Despoina Chatzakou and Angelis, Lefteris},
+	editor = {Ketikidis, Panayiotis H. and Margaritis, Konstantinos G. and Vlahavas, Ioannis P. and Chatzigeorgiou, Alexander and Eleftherakis, George and Stamelos, Ioannis}
+}
+@inproceedings {conf/icc/VakaliAG13,
+	title = {Sensors talk and humans sense Towards a reciprocal collective awareness smart city framework},
+	booktitle = {ICC Workshops},
+	year = {2013},
+	pages = {189-193},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Smart city infrastructures provide unique opportunities for innovative applications developing and testing. Sensor city installations offer the ground for experimenting with user-oriented services, which at the same time can test and improve the infrastructure itself. The proposed work summarizes principles and methodology for and experiment, entitled SEN2SOC which will bridge sensor measurements and social networks interactions via natural language generation for supporting smart city services. SEN2SOC aims at exploiting the SmartSantander infrastructure in a sensor to social reciprocal fashion such that the sensor measurements will be and communicated to the public (citizens,authorities, etc), while social networks users activities in relevance to sensors social postings will be analyzed and summarized both to verify sensors reporting and to develop collective aware applications.</p>
+},
+	keywords = {collective aware applications, sensors data management, smart city, social networks mining},
+	author = {Athena Vakali and Angelis, Lefteris and Maria Giatsoglou}
+}
+@inproceedings {conf/www/VakaliGA12,
+	title = {Social networking trends and dynamics detection via a cloud-based framework design},
+	booktitle = {WWW (Companion Volume)},
+	year = {2012},
+	pages = {1213-1220},
+	publisher = {ACM},
+	organization = {ACM},
+	keywords = {cloud service deployment, microblogs and blogosphere dynamics, Social networks social, Web Data Clustering},
+	isbn = {978-1-4503-1230-1},
+	author = {Athena Vakali and Maria Giatsoglou and Antaris, Stefanos},
+	editor = {Mille, Alain and Gandon, Fabien L. and Misselis, Jacques and Rabinovich, Michael and Staab, Steffen}
+}
+@inbook {series/sci/GiatsoglouPV11,
+	title = {Massive Graph Management for the Web and Web 2.0},
+	booktitle = {New Directions in Web Data Management 1},
+	series = {Studies in Computational Intelligence},
+	volume = {331},
+	year = {2011},
+	pages = {19-58},
+	isbn = {978-3-642-17550-3},
+	author = {Maria Giatsoglou and Symeon Papadopoulos and Athena Vakali},
+	editor = {Athena Vakali and Jain, Lakhmi C.}
+}
+@inproceedings {conf/vsgames/ZigkolisKCKGKV11,
+	title = {Towards a User-Aware Virtual Museum},
+	booktitle = {VS-GAMES},
+	year = {2011},
+	pages = {228-235},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	keywords = {user groups, user preferences, virtual museum},
+	isbn = {978-1-4577-0316-4},
+	author = {Christos Zigkolis and Vassiliki A. Koutsonikola and Despoina Chatzakou and Karagiannidis, Savvas and Maria Giatsoglou and Kosmatopoulos, Andreas and Athena Vakali},
+	editor = {Liarokapis, Fotis and Doulamis, Anastasios D. and Vescoukis, Vassilios}
+}
+@inproceedings {conf/pci/GiatsoglouKSVZ10,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2010},
+	pages = {21-24},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-1-4244-7838-5},
+	author = {Maria Giatsoglou and Vassiliki A. Koutsonikola and Stamos, Konstantinos and Athena Vakali and Christos Zigkolis}
+}

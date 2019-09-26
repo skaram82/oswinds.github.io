@@ -1,0 +1,30 @@
+@article {journals/ivc/VakaliHE04,
+	title = {MPEG-7 based description schemes for multi-level video content classification},
+	journal = {Image Vision Comput.},
+	volume = {22},
+	number = {5},
+	year = {2004},
+	pages = {367-378},
+	author = {Athena Vakali and Hacid, Mohand-Said and Elmagarmid, Ahmed K.}
+}
+@article {journals/dke/VakaliTBE03,
+	title = {Hierarchical data placement for navigational multimedia applications},
+	journal = {Data Knowl. Eng.},
+	volume = {44},
+	number = {1},
+	year = {2003},
+	pages = {49-80},
+	author = {Athena Vakali and Terzi, Evimaria and Bertino, Elisa and Elmagarmid, Ahmed K.}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}

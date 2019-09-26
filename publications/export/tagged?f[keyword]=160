@@ -1,0 +1,37 @@
+%0 Journal Article
+%J Smart Cities
+%D 2016
+%T Cloud-based architectures for Geo-located blogosphere dynamics detection
+%A Athena Vakali
+%A Stefanos Antaris
+%A Maria Giatsoglou
+%K cloud service deployment
+%K geo-located blogosphere dynamics
+%K social geo-located data clustering
+%K social networks and wisdom of the crowd
+%X <p>Social networking data threads emerge rapidly and such crowd-driven big data streams are valuable for detecting trends and opinions. For such analytics, conventional data mining approaches are challenged by both high-dimensionality and scalability concerns. Here, we leverage on the Cloud4Trends framework, for collecting and analyzing geo-located microblogging content, partitioned into clusters under cloud-based infrastructures. Different cloud architectures are proposed to offer flexible solutions for geo-located data analytics, with emphasis on incremental trend analysis. The proposed architectures are largely based on a set of service modules which facilitate the deployment of the experimentation on Cloud infrastructures. Several experimentation remarks are highlighted to showcase the requirements and testing capabilities of different cloud computing settings.</p>
+%B Smart Cities
+%G eng
+
+%0 Conference Paper
+%B WWW (Companion Volume)
+%D 2012
+%T Social networking trends and dynamics detection via a cloud-based framework design
+%A Athena Vakali
+%A Maria Giatsoglou
+%A Antaris, Stefanos
+%E Mille, Alain
+%E Gandon, Fabien L.
+%E Misselis, Jacques
+%E Rabinovich, Michael
+%E Staab, Steffen
+%K cloud service deployment
+%K microblogs and blogosphere dynamics
+%K Social networks social
+%K Web Data Clustering
+%B WWW (Companion Volume)
+%I ACM
+%P 1213-1220
+%@ 978-1-4503-1230-1
+%G eng
+

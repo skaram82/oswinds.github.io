@@ -1,0 +1,8 @@
+@proceedings {conf/hpdc/2009upgrade,
+	title = {Proceedings of the 4th Workshop on the Use of P2P, GRID and Agents for the Development of Content Networks, UPGRADE-CN{\^a}{\texteuro}{\texttrademark}09, jointly held with the 18th International Symposium on High-Performance Distributed Computing (HPDC-18 2009), 10 June 2009, Ga},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	publisher = {ACM},
+	isbn = {978-1-60558-591-8},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}

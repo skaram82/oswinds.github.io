@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2006
+%T Partial Match Retrieval in Two-headed Disks
+%X <p>The performance of a disk with two heads per surface separatedby a fixed number of cylinders is examined. We derive the probabilitydistribution of arm stops, the expected number of stops as well asthe expected number of cylinder clusters, i.e. the number of sets of consecutivecompound cylinders. In comparison with a single-headed disk,it is shown that the performance gain may reach 50% on the average.</p>
+%G eng
+

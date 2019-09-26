@@ -1,0 +1,13 @@
+%0 Conference Paper
+%D 2016
+%T Early Malicious Activity Discovery in Microblogs by Social Bridges Detection
+%A Antonia Gogoglou
+%A Zenonas Theodosiou
+%A Tasos Kounoudes
+%A Athena Vakali
+%A Yannis Manolopoulos
+%X <p>With the emerging and intense use of Online Social Networks (OSNs) amongst young children and teenagers (youngters), safe networking and socializing on the Web has faced extensive scrutiny. Content and interactions which are considered safe for adult OSN users, might embed potentially threatening and malicious information when it comes to underage users. This work is motivated by the strong need to safeguard youngsters OSNs experience such that they can be empowered and aware. The topology of a graph is studied towards detecting the so called social bridges, i.e. the group(s) of malicious users and their supporters, who have links and ties to both honest and malicious user communities. A graph-topology based classification scheme is proposed to detect such bridge linkages which are suspicious for threatening youngsters networking vulnerability. The proposed scheme is validated by a Twitter network, at which potentially dangerous users are identified based on their Twitter connections. The achieved performance is higher compared to previous efforts, despite the increased complexity due to the variety of groups identified as malicious.</p>
+%I 16th International Symposium on Signal Processing and Information Technology
+%C Limassol, Cyprus
+%G eng
+

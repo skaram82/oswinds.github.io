@@ -1,0 +1,150 @@
+@inproceedings {1929,
+	title = {Exploriometer: Leveraging Personality Traits for Coverage and Diversity Aware Recommendations},
+	booktitle = {Proceedings of the 24th International Conference on World Wide Web Companion, WWW 2015, Florence, Italy, May 18-22, 2015 - Companion Volume},
+	year = {2015},
+	doi = {10.1145/2740908.2742140},
+	url = {http://doi.acm.org/10.1145/2740908.2742140},
+	author = {Evangelos Chatzicharalampous and Christos Zigkolis and Athena Vakali}
+}
+@article {journals/mta/ZigkolisPFKV14,
+	title = {Collaborative event annotation in tagged photo collections},
+	journal = {Multimedia Tools Appl.},
+	volume = {70},
+	number = {1},
+	year = {2014},
+	pages = {89-118},
+	abstract = {<p>Events constitute a significant means of multimedia content organizationand sharing. Despite the recent interest in detecting events and annotating mediacontent in an event-centric way, there is currently insufficient support for managingevents in large-scale content collections and limited understanding of the eventannotation process. To this end, this paper presents CrEve, a collaborative eventannotation framework which uses content found in social media sites with theprime objective to facilitate the annotation of large media corpora with eventinformation. The proposed annotation framework could significantly benefit socialmedia research due to the proliferation of event-related user-contributed content.We demonstrate that, compared to a standard {\^a}{\texteuro}{\'s}browse-and-annotate{\^a}{\texteuro}{\v t} interface,CrEve leads to a 19\% increase in the coverage of the generated ground truth in alarge-scale annotation experiment. Furthermore, the paper discusses the results of auser study that quantifies the performance of CrEve and the contribution of differentevent dimensions in the event annotation process. The study confirms the prevalenceof spatio-temporal queries as the prime option of discovering event-related contentin a large collection. In addition, textual queries and social cues (content contributor) were also found to be significant as event search dimensions. Finally, it demonstratesthe potential of employing automatic photo clustering methods with the goal offacilitating event annotation.</p>
+},
+	keywords = {Event authoring, Ground truth generation, Multimedia annotation},
+	author = {Christos Zigkolis and Symeon Papadopoulos and Filippou, George and Yiannis Kompatsiaris and Athena Vakali}
+}
+@inproceedings {conf/icdm/ZigkolisKV13,
+	title = {Dissimilarity Features in Recommender Systems},
+	booktitle = {ICDM Workshops},
+	year = {2013},
+	pages = {825-832},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-5109-8},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Athena Vakali},
+	editor = {Wei Ding and Washio, Takashi and Xiong, Hui and Karypis, George and Thuraisingham, Bhavani M. and Cook, Diane J. and Wu, Xindong}
+}
+@article {journals/eswa/ZigkolisKKV13,
+	title = {Integrating similarity and dissimilarity notions in recommenders},
+	journal = {Expert Syst. Appl.},
+	volume = {40},
+	number = {13},
+	year = {2013},
+	pages = {5132-5147},
+	abstract = {<p>Collaborative recommenders rely on the assumption that similar users may exhibit similar tastes whilecontent-based ones favour items that found to be similar with the items a user likes. Weak related entities,which are often considered to be useful, are neglected by those similarity-driven recommenders. Totake advantage of this neglected information, we introduce a novel dissimilarity-based recommenderthat bases its estimations on degrees of dissimilarities among items{\^a}{\texteuro}{\texttrademark} attributes. However, instead of usingthe proposed recommender as a stand-alone method, we combine it with similarity-based ones to maintainthe selective nature of the latter while detecting, through our recommender, information that mayhave been overlooked. Such combinations are established by IANOS, a proposed framework throughwhich we increase the accuracy of two popular similarity-based recommenders (Naive Bayes andSlope-One) after their combination with our algorithm. Improved accuracy results in experimentationon two datasets (Yahoo! Movies and Movielens) enhance our reasoning. However, the proposed recommendercomes with an additional computational complexity when combined with other techniques. Byusing Hadoop technology, we developed a distributed version of IANOS through which execution timewas reduced. Evaluation on IANOS procedures in terms of time performance endorses the use of distributedimplementations.</p>
+},
+	keywords = {Dissimilarity recommender, Distributed framework, Recommender systems},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Koumarelas, Ioannis K. and Athena Vakali}
+}
+@inproceedings {conf/mediaeval/PapadopoulosZKV11,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	booktitle = {MediaEval},
+	series = {CEUR Workshop Proceedings},
+	volume = {807},
+	year = {2011},
+	publisher = {CEUR-WS.org},
+	organization = {CEUR-WS.org},
+	abstract = {<p>This paper describes the participation of CERTH in the {\^a}{\texteuro}{\'s}SocialEvent Detection Task @ MediaEval 2011{\^a}{\texteuro}{\v t}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Larson, Martha and Rae, Adam and Demarty, Claire-Helene and Kofler, Christoph and Metze, Florian and Troncy, Rapha{\"e}l and Mezaris, Vasileios and Jones, Gareth J. F.}
+}
+@inproceedings {conf/mir/PapadopoulosZKKV11,
+	title = {City exploration by use of spatio-temporal analysis and clustering of user contributed photos},
+	booktitle = {ICMR},
+	year = {2011},
+	pages = {65},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+},
+	keywords = {Clustering, content browsing, landmark/event detection, spatio-temporal mining},
+	isbn = {978-1-4503-0336-1},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Natale, Francesco G. B. De and Bimbo, Alberto Del and Hanjalic, Alan and Manjunath, B. S. and Satoh, Shin{\textquoteright}ichi}
+}
+@article {journals/ieeemm/PapadopoulosZKV11,
+	title = {Cluster-Based Landmark and Event Detection for Tagged Photo Collections},
+	journal = {IEEE MultiMedia},
+	volume = {18},
+	number = {1},
+	year = {2011},
+	pages = {52-63},
+	abstract = {<p>The rising popularity of photosharingapplications on the Webhas led to the generation of hugeamounts of personal image collections.Browsing through image collections ofsuch magnitude is currently supported by theuse of tags. However, tags suffer from severallimitations{\^a}{\texteuro}{\textquotedblright}such as polysemy, lack of uniformity,and spam{\^a}{\texteuro}{\textquotedblright}thus not presenting an adequatesolution to the problem of contentorganization. Therefore, automated contentorganizationmethods are of particular importanceto improve the content-consumptionexperience. Because it{\^a}{\texteuro}{\texttrademark}s common for users to associatetheir photo-captured experiences withsome landmarks{\^a}{\texteuro}{\textquotedblright}for example, a tourist site oran event, such as a music concert or a gatheringwith friends{\^a}{\texteuro}{\textquotedblright}we can view landmarks andevents as natural units of organization forlarge image collections. It{\^a}{\texteuro}{\texttrademark}s for this reasonthat automating the process of detecting suchconcepts in large image sets can enhance theexperience of accessing massive amounts ofpictorial content.In this article, we present a novel scheme forautomatically detecting landmarks and eventsin tagged image collections. Our proposal isbased on the simple yet elegant concept ofimage similarity graphs as a means of combiningmultiple notions of similarity betweenimages in a photo collection; in our case, weuse visual and tag similarity. We perform clusteringon such image similarity graphs bymeans of community detection,1 a processthat identifies on the graph groups of nodesthat are more densely connected to eachother than to the rest of the network. In contrastto conventional clustering schemes suchas k-means or hierarchical agglomerative clustering,community detection is computationallymore efficient and doesn{\^a}{\texteuro}{\texttrademark}t require thenumber of clusters to be provided as input. Subsequently,we classify the resulting image clustersas landmarks or events by use of featuresrelated to the temporal, social, and tag characteristicsof image clusters. In the case of landmarks,we also conduct a cluster-merging stepon the basis of spatial proximity to enrich ourlandmark model.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali}
+}
+@inproceedings {conf/cbmi/ZigkolisPKV11,
+	title = {Detecting the long-tail of Points of Interest in tagged photo collections},
+	booktitle = {CBMI},
+	year = {2011},
+	pages = {235-240},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>The paper tackles the problem of matching the photosof a tagged photo collection to a list of {\^a}{\texteuro}{\'s}long-tail{\^a}{\texteuro}{\v t} PointsOf Interest (PoIs), that is PoIs that are not very popularand thus not well represented in the photo collection. Despitethe significance of improving {\^a}{\texteuro}{\'s}long-tail{\^a}{\texteuro}{\v t} PoI photoretrieval for travel applications, most landmark detectionmethods to date have been tested on very popular landmarks.In this paper, we conduct a thorough empirical analysiscomparing four baseline matching methods that relyon photo metadata, three variants of an approach that usescluster analysis in order to discover PoI-related photo clusters,and a real-world retrieval mechanism (Flickr search)on a set of less popular PoIs.A user-based evaluation of the aforementioned methodsis conducted on a Flickr photo collection of over 100, 000photos from 10 well-known touristic destinations in Greece.A set of 104 {\^a}{\texteuro}{\'s}long-tail{\^a}{\texteuro}{\v t} PoIs is collected for these destinationsfrom Wikipedia, Wikimapia and OpenStreetMap. Theresults demonstrate that two of the baseline methods outperformFlickr search in terms of precision and F-measure,whereas two of the cluster-based methods outperform it interms of recall and PoI coverage. We consider the results ofthis study valuable for enhancing the indexing of pictorialcontent in social media sites.</p>
+},
+	isbn = {978-1-61284-433-6},
+	author = {Christos Zigkolis and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Martinez, Jos{\'e} M.}
+}
+@inproceedings {conf/vsgames/ZigkolisKCKGKV11,
+	title = {Towards a User-Aware Virtual Museum},
+	booktitle = {VS-GAMES},
+	year = {2011},
+	pages = {228-235},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	keywords = {user groups, user preferences, virtual museum},
+	isbn = {978-1-4577-0316-4},
+	author = {Christos Zigkolis and Vassiliki A. Koutsonikola and Despoina Chatzakou and Karagiannidis, Savvas and Maria Giatsoglou and Kosmatopoulos, Andreas and Athena Vakali},
+	editor = {Liarokapis, Fotis and Doulamis, Anastasios D. and Vescoukis, Vassilios}
+}
+@inproceedings {conf/mm/PapadopoulosZKKV10,
+	title = {ClustTour: city exploration by use of hybrid photo clustering},
+	booktitle = {ACM Multimedia},
+	year = {2010},
+	pages = {1617-1620},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+},
+	keywords = {Clustering, event and landmark detection, tagging},
+	isbn = {978-1-60558-933-6},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bimbo, Alberto Del and Chang, Shih-Fu and Smeulders, Arnold W. M.}
+}
+@inproceedings {conf/pci/GiatsoglouKSVZ10,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2010},
+	pages = {21-24},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-1-4244-7838-5},
+	author = {Maria Giatsoglou and Vassiliki A. Koutsonikola and Stamos, Konstantinos and Athena Vakali and Christos Zigkolis}
+}
+@inproceedings {conf/icip/PapadopoulosZTKMKV10,
+	title = {Image clustering through community detection on hybrid image similarity graphs},
+	booktitle = {ICIP},
+	year = {2010},
+	pages = {2353-2356},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>The wide adoption of photo sharing applications such as Flickr{\^A}{\textdegree}cand the massive amounts of user-generated content uploaded to themraises an information overload issue for users. An established technique to overcome such an overload is to cluster images into groups based on their similarity and then use the derived clusters to assistnavigation and browsing of the collection. In this paper, we presenta community detection (i.e. graph-based clustering) approach thatmakes use of both visual and tagging features of images in orderto efficiently extract groups of related images within large imagecollections. Based on experiments we conducted on a dataset comprising publicly available images from Flickr{\^A}{\textdegree}c, we demonstrate the efficiency of our method, the added value of combining visual andtag features and the utility of the derived clusters for exploring animage collection.</p>
+},
+	keywords = {community detection, content-based image retrieval, image clustering, tags, visual similarity},
+	isbn = {978-1-4244-7994-8},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Tolias, Giorgos and Kalantidis, Yannis and Mylonas, Phivos and Yiannis Kompatsiaris and Athena Vakali}
+}
+@article {information,
+	title = {Information analysis in mobile social networks for added-value services},
+	year = {2009},
+	abstract = {<p>The emerging evolution of technology has changed the role of mobile phones which apart from beingcommunication devices are also powerful devices for uploading and consuming content. This fact poses newchallenges for the mobile industry, which needs to develop and adapt useful and appealing services for theusers in order to enhance the role of the mobile phone as a mainstream device. Adopting and using mobilesocial networks sites and other Web 2.0 services is expected to be inline with such a mobile technologytrend. Current mobile web technologies offer a computer-like user-experience since a user can easilygenerate and share digital content from his/her mobile. However, current services and applications do notinclude techniques for analyzing this mass user-generated input (e.g. content, annotations), user interactions(e.g. ranking) and social interactions (e.g. relationships). Knowledge extracted from this massive usercontribution and interaction can offer personalized added-value services enabling more efficient mobileusage. Our goal is to outline this information analysis gaps in existing services and going one step further tosuggest possible solutions. Aiming at social networks we discuss novel methods for analyzing users{\^a}{\texteuro}{\texttrademark} actionsand modeling users{\^a}{\texteuro}{\texttrademark} social relationships. The goal from these suggestions is to extract the underlyingknowledge from users{\^a}{\texteuro}{\texttrademark} tagging activities, users{\^a}{\texteuro}{\texttrademark} generated content and users{\^a}{\texteuro}{\texttrademark} social relationships within asocial network. We present our points with indicative example services.</p>
+},
+	author = {Athena Vakali and Christos Zigkolis}
+}

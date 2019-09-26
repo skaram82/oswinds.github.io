@@ -1,0 +1,936 @@
+/**
+ * Place your custom styles here.
+ */
+ 
+ a{
+	color:#60A84E;
+ 
+ }
+ a:hover{
+ 
+	color:#60A84E;
+ 
+ }
+ h1{
+ font-size:1.8em;
+ 
+ }
+ h2{
+ font-size:1.5em;
+ }
+ 
+ h3{
+ font-size:1.2em;
+ }
+ 
+ h4{
+ font-size:1.1em;
+ 
+ }
+ 
+ .about-body {
+    font-size: 1.1em;
+}
+/*remove border bottom from page header*/
+.page-header {
+    padding-bottom: 9.5px;
+    margin: 42px 0 21px;
+    border-bottom: none;
+}
+/* --------Projects Page---------*/
+div.projects-row {
+    
+    margin: 1em 0;
+    padding-bottom: 1em;
+}
+
+div.projects-row .views-row-last{
+    border-bottom:none;
+    
+}
+div.projects-logo{
+	padding: 1.5em 1em 1em 0;
+	display:block;
+
+}
+
+
+div.view.view-projects>div.view-header {
+    margin-bottom: 1em;
+	}
+	
+div.projects-all-row{
+	border-bottom: 1px solid #cecece;
+}
+div.projects-all-row.views-row-last{
+	border-bottom:none;
+}
+/*more link (All News -in front page*/ 
+ 
+ .more-link {
+    text-align: center;
+    background-color: #535050;
+    padding: 0.5em;
+    font-weight: 800;
+}
+
+div.more-link>a:after {
+    content:"\e258";
+    font-family: 'Glyphicons Halflings';
+	vertical-align:middle;
+	
+}
+
+
+div.more-link>a{
+	color:#ffffff;
+	
+
+
+}
+div.more-link>a:hover{
+	
+	text-decoration:none;
+
+
+}
+
+ /*img left in articles and pages*/
+article>div>div>div>img.img-responsive {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+ /*margin -bottom space in submitted*/
+span.submitted {
+    margin-bottom: 1em;
+    display: block;
+} 
+ 
+/*news page border bottom*/
+ div.views-row.news-all {
+    border-bottom: 1px solid #cecece;
+    padding: 1em 0;
+}
+ div.views-row.views-row-last.news-all {
+    border-bottom: none;
+    padding-bottom: 1em;
+	
+}
+h2.field-content.news-list{
+	margin-top:0;
+
+}
+.field-content.news-duration {
+    font-weight: 800;
+}
+ /*about us page research style classes were added in view research fields for about page/ see media dow for centering */
+ .field-content.about-us-icon {
+    background-color: #60A84E;
+    padding: 1em;
+    max-width: 100px;
+	margin:1em;
+	
+}
+ 
+ .body-about-us{
+	margin-bottom:1em;
+	
+ 
+ }
+ 
+ .about-us-title{
+	margin-top:1em;
+	font-size:1.2em;
+	font-weight:800;
+ 
+ }
+ 
+ .views-row.row.row-about-us {
+    border-bottom: 1px solid #ECECEC;
+}
+.views-row.views-row-last.row.row-about-us {
+    border-bottom: none;
+}
+
+/* Images mini news front page*/
+div.views-field.views-field-field-image>div.mini-news {
+	vertical-align:middle;
+	vertical-align: middle;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+}
+/*hide images in small screens front news*/
+/*
+@media screen and (max-width: 450px){
+	
+	div.views-field.views-field-field-image>div.mini-news {
+		display: none;
+	}
+
+
+}
+*/
+
+@media screen and (max-width: 768px){
+	
+	
+	.views-row.row.row-about-us {
+   
+		text-align: center;
+	}
+
+	.field-content.about-us-icon {
+		display:block;
+		float:none;
+		margin:1em auto;
+	}
+	/*center news img title and date*/
+	div.field-content.img-news>img{
+		display:block;
+		float:none;
+		margin:1em auto;
+	
+	}
+	h2.field-content.news-list, .field-content.news-duration{
+		text-align:center;
+	}
+	
+	/*---- completed theses nodes -----------*/
+	div.field.field-name-field-thesis-title.field-type-text-with-summary.field-label-hidden.node-thesis-title.col-lg-12.col-md-12.col-sm-12.col-xs-12 {
+    	border-left: none;
+		border-top: 5px solid #38a3dc;
+		
+	}
+	h2.field-content.thesis-pdf>a {
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+	}
+}
+@media screen and (max-width: 991px){
+	div.projects-logo>img{
+		margin:0 auto;
+
+	}
+	/*--------------- courses -----------------------*/
+	h2.course-title {
+	display:block;
+    border-top: 4px solid #38A3DC;
+	
+    
+	}
+	h2.field-content.course-title>a  {
+    border-left: none;
+	}
+	/*-------------complpeted theses ----------------*/
+	h2.thesis-title {
+	display:block;
+    border-top: 4px solid #38A3DC;
+	
+    
+	}
+	h2.field-content.thesis-title>a  {
+    border-left: none;
+	}
+	h2.field-content.thesis-pdf>a {
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+	}
+	div.field.field-name-field-year.field-type-datetime.field-label-hidden.node-thesis-year div>div>span{
+	
+	border-top:1px solid #ffffff;
+	}
+	div.field.field-name-field-year.field-type-datetime.field-label-hidden.node-thesis-year.col-lg-4.col-md-4.col-sm-12.col-xs-12>div>div>span {
+    border-left: none;
+    }
+}
+ 
+/*logo fix logo height on top*/
+img#logo-top{
+	height:50px;
+	vertical-align: inherit;
+}
+/*fix distance between navbar and content*/
+.navbar {
+	margin-bottom: 0px;
+
+}
+ 
+@media (min-width: 768px){
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+}
+
+.news-block-front{
+	border-bottom:1px solid #c2c2c2;
+	border-top:1px solid #ffffff;
+	padding:0.3em;
+	color:#535050;
+	margin: 0;/*bottom lines aligned*/
+	
+}
+.views-row-first.news-block-front{
+	
+	border-top:none;
+	
+}
+.views-row-last.news-block-front{
+	border-bottom:none;
+
+}
+
+section#block-views-news-block-1 {
+	/*box-shadow: 2px 0px 4px #888888;*/
+	background-color:#f3f3f3;
+	
+	
+}
+/*news link color*/
+div.news-block-front>div>span>a {
+    color:#60a84e;
+	font-size:1.1em;
+	
+}
+/*class btn-transparent*/
+.btn-transparent {
+    color: #ffffff;
+    background-color:transparent;
+    border-color: none;
+	font-size:1.5em;
+}
+
+.btn-transparent:after{
+	font-family: "Glyphicons Halflings";
+	content: "\e080";
+	padding-left:0.8em;
+	font-size:0.8em;
+	
+}
+
+/*fixes distance top*/
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 1em;
+}
+
+/*field group accordion */
+/*add  id accord ata field groub accordion ---NOT in item*/
+
+div.accord>h3 {
+    border: none;
+    border-radius: 0;
+    background: none;
+    background-color: rgba(240, 144, 19, 0.61);
+}
+
+/*accordion change icons to plus and minus */
+.ui-icon-triangle-1-e {
+    background-position: -32px -130px;
+}
+
+.ui-icon-triangle-1-s {
+    background-position: -64px -130px;
+}
+
+/*accordion content padding */ 
+.ui-accordion .ui-accordion-content {
+    padding: 0.5em;
+    border-top: 0;
+    overflow: auto;
+}
+
+/*accordion content change border color */ 
+.ui-widget-content {
+    border: 1px solid #cecece;
+    background: #fff url(http://oswinds.csd.auth.gr/sites/all/themes/bootstrap_subtheme/css/images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+    color: #222;
+}
+
+/*remove border radius*/
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-bottom-right-radius: 0;
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl {
+    border-bottom-left-radius: 0;
+}
+
+
+/*courses view*/
+.field-content.course-view-title a {
+    color: white;
+    background-color: #30C1E1;
+    padding: 1em;
+    display: block;
+    height: auto;
+    width: 300px;
+    text-align: center;
+	text-decoration:none;
+}
+/* fixes btn margin top and bottom in biblio search and everywhere*/
+.btn-primary {
+    color: #ffffff;
+    background-color: #2780e3;
+    border-color: #2780e3;
+    /*margin: 0.5em 0;*/
+	margin-bottom:1em;
+}
+/*fixes biblio header filter year ] */
+#biblio-header>img.img-responsive {
+	display:none;
+    max-width: 100%;
+    height: auto;
+}
+
+/*change the filter view in biblio publications*/
+.biblio-current-filters {
+    background-color: #FCE1FF;
+    padding: 1em;
+    margin-top: 0.5em;
+}
+/*center img people photo*/
+.people-photo img.img-responsive {
+    display: block;
+    margin: auto;
+    border-top: 4px solid #38A3DC;
+	width:176px;
+}
+/*people taxonomy title */
+div.view-people > div.view-content>h3 {
+    display: block;
+    
+    padding: 0.5em;
+    /* border-bottom: 4px solid #38A3DC; */
+    margin-bottom: 1em;
+    margin-top: 0.2em;
+    color: #525050;
+	font-weight:600;
+}
+div.view-people > div.view-content>h3>a {
+    /*color: #ffffff;*/
+}
+
+div.views-field h4.field-content.text-center.people-title a {
+    background-color: #525050;
+    padding: 0.8em;
+    margin: 0 auto;  
+    display: block;
+    max-width: 176px;
+	color:#E5E5E5;
+	min-height:70px;
+    
+}
+div.views-field h4.field-content.text-center.people-title a:hover{
+	text-decoration:none;
+	background-color:#5f5f5f;
+
+
+
+}
+/*space between photo and title name 0*/
+h4.field-content.text-center.people-title {
+    margin-top: 0;
+	margin-bottom:0;
+	
+}
+/*space beteein people */
+.people-academic-title {
+    
+    background-color: #E5E5E5;
+    max-width: 176px;
+    padding: 0.5em;
+    margin: auto;
+}
+  
+.people-col {
+    margin-bottom: 1em;
+}  
+
+
+/*people taxonomy menu ------------------------------------------*/
+.people-side-menu {
+    display: block;
+    margin: 2em 0 1em 0;
+    background-color: #E5E5E5;
+    padding: 1em;
+	    border-top: 4px solid #38A3DC;
+}
+.people-side-menu h2{
+	border-bottom:2px solid #222222;
+	padding-bottom:0.3em;
+}
+.people-side-menu ul li{
+	list-style-type:none;
+	
+}
+.people-side-menu ul li.last a{
+	
+	border-bottom:none;;
+}
+
+.people-side-menu ul li a{
+	color:#000;
+	display:block;
+	padding:0.5em;
+	border-bottom:1px solid #cecece;
+}
+
+.people-side-menu ul li a:hover{
+	color:#ffffff;
+	background-color:#38A3DC;
+	text-decoration:none;
+
+}
+.people-side-menu ul li.active a{
+	color:#ffffff;
+	background-color:#38A3DC;
+	text-decoration:none;
+}
+
+section.people-side-menu ul{
+	padding-left:0;
+}
+
+/*section#block-taxonomy-menu-block-1>ul>li {
+    list-style-type:none;
+    
+}*/
+/*end people taxonomy menu--------------------------------------*/
+
+
+/*.courses-all {
+    display: block;
+    height:200px;
+    background-color: #38A3DC;
+    padding: 1em;
+	margin:1em;
+}*/
+.courses-all{
+	margin-top:1em;
+
+}
+
+
+h2.course-title>a{
+	background-color: #525050;
+	margin:0;
+    padding: 1em;
+    color: #ffffff;
+	border-left:4px solid #38A3DC;
+	display:block;
+
+}
+h2.course-title>a:hover{
+	text-decoration:none;
+	background-color: #5f5f5f;
+
+
+}
+h2.course-title{
+	margin:0;
+	padding:0;
+
+}
+/*h2.course-title>a:before{
+	font-family:'Glyphicons Halflings';
+	content:"\e080";
+	font-size:0.8em;
+	padding:0.5em 0.5em 0.5em 0;
+}
+*/
+h2.class-code {
+	padding: 1em;
+    background-color: #E5E5E5;
+	color:#001523;
+   margin:0;
+	
+	
+	text-align:right;
+
+    
+}
+
+span.field-content.course-title>a{
+	color:white;
+	
+}
+
+.row.course-row.views-row-1.row.course-row-first {
+    margin-top: 1em;
+}
+
+
+/*--------sidebar---------*/
+@media (max-width:1199px) and (min-width:768px){
+ a.block-title-link.active:after {
+    display:none;
+}
+}
+
+div.region-sidebar-second>section.block.block-views{
+	display: block;
+    margin: 2em 0 1em 0;
+    background-color: #E5E5E5;
+    padding: 1em;
+    border-top: 4px solid #38A3DC;
+
+}
+h2.block-title {
+    border-bottom: 2px solid #222222;
+    padding-bottom: 0.3em;
+}
+h2.block-title>a{
+	color:#222222;
+}
+h2.block-title>a:hover, h2.block-title>a:focus{
+	text-decoration:none;
+	color:#38a3dc;
+}
+a.block-title-link.active:after {
+    content:"\e258";
+    font-family: 'Glyphicons Halflings';
+    float: right;
+}
+/* slideshow controls center*/
+div#field-slideshow-1-controls {
+    text-align: center;
+}
+
+a.prev{
+	visibility:hidden;
+}
+
+a.prev:after {
+    visibility:visible;
+    font-family: 'Glyphicons Halflings';
+	content: "\e079";
+    color: #9954bb;
+}
+
+a.next{
+	visibility:hidden;
+}
+
+a.next:before{
+	visibility:visible;
+	font-family: 'Glyphicons Halflings';
+	content:"\e080";
+    color: #9954bb;
+}
+
+a.pause:before{
+	visibility:visible;
+	font-family: 'Glyphicons Halflings';
+	content:"\e073";
+    color: #9954bb;
+}
+
+a.pause{
+	display:none;
+
+}
+
+a.next:hover, a.prev:hover{
+	text-decoration:none;
+}
+
+/*---- Completed Theses page view -----*/
+
+h2.thesis-title>a{
+	background-color: #f1f1f1;
+    margin: 0;
+    padding: 1em;
+    color: #3c3737;
+    border-left: 4px solid #38A3DC;
+    display: block;
+    font-size: 0.7em;
+    
+
+}
+h2.thesis-title>a:hover{
+	text-decoration:none;
+	background-color: #E5E5E5;
+
+
+}
+h2.thesis-title{
+	margin:0;
+	padding:0;
+
+}
+
+h2.thesis-author{
+    padding: 0.5em;
+    background-color: #818080;
+    color: #ffffff;
+    margin: 0 0 1em 0;
+    text-align: right;
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+
+}
+
+h2.thesis-link {
+	color:#001523;
+    margin:0;
+	text-align:right;
+	float:left;
+	padding:0;
+	
+    
+}
+
+
+h2.thesis-link>a{
+	padding: 0.5em;
+	background-color: #525050;
+	color:#ffffff;
+	margin:0;
+	text-align:center;
+	display:block;
+	font-size:15px;
+    
+}
+h2.thesis-link>a:hover{
+	text-decoration:none;
+	background-color:#38a3dc;
+}
+
+div>h2.thesis-link>a:before {
+    content: "\e043";
+    font-family: 'Glyphicons Halflings';
+    padding: 1em;
+	line-height:0;
+	visibility:visible;
+	
+}
+
+
+h2.thesis-pdf {
+	color:#001523;
+    margin:0;
+	text-align:right;
+	float:left;
+	padding:0;
+	
+    
+}
+
+
+h2.thesis-pdf>a{
+	padding: 0.5em;
+	background-color: #525050;
+	color:#ffffff;
+	margin:0;
+	text-align:center;
+	display:block;
+	font-size:15px;
+	border-left:1px solid #ffffff;
+	border-right:1px solid #ffffff;
+    
+}
+h2.thesis-pdf>a:hover{
+	text-decoration:none;
+	background-color:#38a3dc;
+}
+h2.thesis-pdf>a.disabled:hover{
+	text-decoration:none;
+	background-color:#525050;
+}
+
+div>h2.thesis-pdf>a:before {
+    content: "\e022";
+    font-family: 'Glyphicons Halflings';
+    padding: 1em;
+	line-height:0;
+	visibility:visible;
+	
+}
+
+
+
+
+
+h2.edu-level{
+	padding:0;
+	margin:0 0 1em 0;
+}
+
+h2.edu-level>a{
+	display:block;
+	padding:0.5em;
+	background-color: #525050 /*#21739f*/;
+	color:#ffffff;
+	text-decoration:none;
+	font-size:15px;
+	text-align:center;
+	
+
+}
+h2.edu-level>a:hover{
+	background-color: #7e3f9d /*#21739f*/;
+	text-decoration:none;
+	}
+
+
+h2.thesis-year {
+	padding: 0.5em;
+    background-color: #818080;
+	color:#ffffff;
+	margin:0;
+	text-align:right;
+	font-size:15px;
+	text-align:center;
+	
+	
+
+    
+}
+a:focus{
+	text-decoration:none;
+}
+/*-------------exposed view search fields --------------*/
+/*------bottom distance-------------
+.views-exposed-widgets {
+    margin-bottom: 1em;
+}*/
+
+/*center
+.views-exposed-form .views-exposed-widget {
+    float:none;
+    padding: .5em 1em 1em 1em;
+    text-align: center;
+    background-color: #efefef;
+}*/
+/*-----------completed theses nodes -------------------*/
+/*------- full title ---------*/
+.field.field-name-field-thesis-title.field-type-text-with-summary.field-label-hidden.node-thesis-title{
+    background-color: #f1f1f1;
+    color: #525050;
+    padding: 1em;
+	font-size: 1.2em;
+	border-left: 5px solid #38a3dc;
+	font-family:"Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+	font-weight: 300;
+    line-height: 1.1;
+	margin-top: 1.8em;
+	
+}
+/*-------- Link to repository -----------*/
+.field.field-name-field-link-thesis.field-type-link-field.field-label-hidden.node-thesis-link {
+    padding: 0;
+}
+
+div.field.field-name-field-link-thesis.field-type-link-field.field-label-hidden.node-thesis-link>div>div>a {
+    display: block;
+    background-color: #38a3dc;
+    color: #ffffff;
+    padding: 1em;
+    margin: 0;
+	text-align:center;
+	
+}
+
+div.field.field-name-field-link-thesis.field-type-link-field.field-label-hidden.node-thesis-link>div>div>a:hover{
+	background-color: #62b8e5;
+	text-decoration:none;
+}
+
+/*--------------level -----------------*/
+div.field.field-name-field-education-level.field-type-taxonomy-term-reference.field-label-hidden.node-thesis-level>div>div>a {
+    display: block;
+    background-color: #9954bb /*#306987*/;
+    color: #ffffff;
+    padding: 1em;
+	text-align:center;
+}
+
+div.field.field-name-field-education-level.field-type-taxonomy-term-reference.field-label-hidden.node-thesis-level>div>div>a:hover {
+    background-color: #7e3f9d /*#21739f*/;
+	text-decoration:none;
+    
+}
+
+.field.field-name-field-education-level.field-type-taxonomy-term-reference.field-label-hidden.node-thesis-level {
+    padding: 0;
+}
+
+
+/*----------------Year   ----------------*/
+div.field.field-name-field-year.field-type-datetime.field-label-hidden.node-thesis-year>div>div>span {
+    display: block;
+    background-color: #535050;
+    padding: 0.5em;
+    color: #ffffff;
+	text-align:center;
+	border-left: 1px solid #ffffff;
+	
+}
+.field.field-name-field-year.field-type-datetime.field-label-hidden.node-thesis-year{
+    padding: 0;
+	margin-bottom:0;
+	
+}
+/*---------- Author --------------------*/
+div.field.field-name-field-author-thesis.field-type-text.field-label-hidden.node-thesis-author>div>div{
+   display: block;
+   background-color: #535050;
+   padding: 0.5em;
+   color: #ffffff;
+   text-align:center;
+
+}
+
+.field.field-name-field-author-thesis.field-type-text.field-label-hidden.node-thesis-author{
+	padding: 0;
+	margin-bottom:0;
+}
+
+/*--------- pdf -----------------------*/
+.field.field-name-field-pdf-thesis.field-type-link-field.field-label-hidden.node-thesis-pdf{
+  padding:0;
+}
+
+div.field.field-name-field-pdf-thesis.field-type-link-field.field-label-hidden.node-thesis-pdf>div>div>a {
+    display: block;
+    background-color: #186792;
+    color: #ffffff;
+    padding: 1em;
+    margin: 0;
+	text-align:center;
+}
+
+div.field.field-name-field-pdf-thesis.field-type-link-field.field-label-hidden.node-thesis-pdf>div>div>a:hover{
+	background-color: #347ea6;
+	text-decoration:none;
+}
+
+/*----- publications search ---------------*/
+fieldset .panel-heading a.panel-title {
+    color: #ffffff;
+    display: block;
+    margin: -10px -15px;
+    padding: 10px 15px;
+    background-color: #9954bb;
+}
+
+/*----footer---------*/
+.footer {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 0em;
+	color:#ffffff;
+	background-color:#333333;
+	border-top:#000;
+	padding-top:1em;
+}

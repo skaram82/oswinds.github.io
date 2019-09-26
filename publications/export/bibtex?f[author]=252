@@ -1,0 +1,15 @@
+@inproceedings {conf/ismis/KoutsonikolaVMV08,
+	title = {A Structure-Based Clustering on LDAP Directory Information},
+	booktitle = {ISMIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4994},
+	year = {2008},
+	pages = {121-130},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>LDAP directories have rapidly emerged as the essentialframework for storing a wide range of heterogeneous information undervarious applications and services. Increasing amounts of informationare being stored in LDAP directories imposing the need for efficientdata organization and retrieval. In this paper, we propose the LPAIR\&amp; LMERGE (LP-LM) hierarchical agglomerative clustering algorithmfor improving LDAP data organization. LP-LM merges a pair of clustersat each step, considering the LD-vectors, which represent the entries{\^a}{\texteuro}{\texttrademark}structure. The clustering-based LDAP data organization enhances LDAPserver{\^a}{\texteuro}{\texttrademark}s response times, under a specific query framework.</p>
+},
+	isbn = {978-3-540-68122-9},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali and Mpalasas, Antonios and Valavanis, Michael},
+	editor = {An, Aijun and Matwin, Stan and Ras, Zbigniew W. and Slezak, Dominik}
+}

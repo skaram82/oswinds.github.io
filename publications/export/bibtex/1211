@@ -1,0 +1,10 @@
+@inproceedings {CEUR-WS.org/Vol-700/Paper9,
+	title = {Integrating Web 20 Data into Linked Open Data Cloud via Clustering},
+	booktitle = {CEUR Workshop Proceedings ISSN 1613-0073},
+	volume = {700},
+	year = {2010},
+	month = {February},
+	keywords = {FIA-LOD2010 imported},
+	author = {Giannakidou, Eirini and Athena Vakali},
+	editor = {Auer, S{\textquoteright}oren and Decker, Stefan and Hauswirth, Manfred}
+}

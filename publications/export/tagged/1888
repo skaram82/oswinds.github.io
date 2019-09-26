@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 1999
+%T An Adaptive Model for Parallel I/O Processing
+%X <p>Modern I/O subsystems have increased capacity and density but their performance has not been improved accordingly. To address this problem we have developed a new model that is based on feedback information provided to the I/O subsystem controller. The presented model is applied to a multiple disk drive subsystem which serves requests in parallel. Under conventional servicing, each request refers to a specific drive and is placed on the corresponding disk drive queue in order to be serviced. The proposed feedback-based model redirects requests among disk drives towards performance gain. The feedback is evaluated by a metric identified by the queue length per disk drive. The request servicing in a parallel disk drive subsystem is simulated and simulation runs measure both conventional and feedback-based servicing. The simulation results validate the presented model and prove that it shows an important improvement in both seek and servicing times compared with the conventional request servicing models.</p>
+%G eng
+

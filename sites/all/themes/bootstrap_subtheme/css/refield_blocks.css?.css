@@ -1,0 +1,47 @@
+﻿/*Εδώ μπαίνουν όσα αφορούν την περιοχή με τα refield-blocks */
+.refield-blocks{
+	background-color:#60A84E/*#009cad*/;
+	color:#ffffff;
+	margin-right:0em;
+	margin-top:0em;
+
+
+}
+
+.refield-blocks a {
+    color: #ffffff;
+}
+
+div.refield-first>div>section>h2.block-title, div.refield-second>div>section>h2.block-title, div.refield-third>div>section>h2.block-title,
+div.refield-forth>div>section>h2.block-title, div.refield-fifth>div>section>h2.block-title {
+	background-color:#DC481C;
+	border-refield:2px solid #DC481C;
+	color:#ffffff;
+	font-size:1.5em;
+	padding:0.5em;
+		
+
+}
+
+div.refield-first>div>section>p, div.refield-second>div>section>p,
+div.refield-third>div>section>p, div.refield-forth>div>section>p, div.refield-fifth>div>section>p{
+	padding:0.8em;
+
+}
+
+
+.refield-first, .refield-second,
+.refield-third, .refield-forth, .refield-fifth{
+	
+	padding:2em;
+	text-align:center;
+	
+
+}
+
+/* center images => add class .centered in the specific view*/
+
+div.centered>img {
+    display: block;
+    margin: 0 auto !important;
+}

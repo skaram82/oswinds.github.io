@@ -1,0 +1,59 @@
+﻿/*Εδώ μπαίνουν όσα αφορούν την περιοχή με τα promo-blocks */
+.promo-blocks{
+	background-color:#38A3DC;
+	color:#ffffff;
+	margin-right:0em;
+	margin-top:1em;
+	margin-bottom:-1em;
+
+
+}
+
+.promo-blocks a {
+    color: #ffffff;
+}
+
+.promo-blocks a:hover {
+    text-decoration:none;
+}
+
+div.promo-first>div>section>h2.block-title, div.promo-second>div>section>h2.block-title, div.promo-third>div>section>h2.block-title,
+div.promo-forth>div>section>h2.block-title,div.promo-fifth>div>section>h2.block-title {
+	border-bottom:1px solid rgba(206, 206, 206, 0.23);
+	color:#ffffff;
+	font-size:1.5em;
+	padding:0.5em;
+
+}
+
+div.promo-first>div>section>p, div.promo-second>div>section>p,
+div.promo-third>div>section>p, div.promo-forth>div>section>p, div.promo-fifth>div>section>p{
+	padding:0.8em;
+	
+
+}
+
+
+div.promo-first:hover, div.promo-second:hover,
+div.promo-third:hover, div.promo-forth:hover, div.promo-fifth:hover{
+	
+	padding:1em;
+	text-align:center;
+	background-color:#76bfe9;
+}
+
+.promo-first, .promo-second,
+.promo-third, .promo-forth, .promo-fifth{
+	
+	padding:1em;
+	text-align:center;
+}
+
+/* center images => add class .centered in the specific view*/
+div.centered>a>img {
+    display: block;
+    margin: 0 auto !important;
+	height: 100px;
+    width: auto;
+
+}

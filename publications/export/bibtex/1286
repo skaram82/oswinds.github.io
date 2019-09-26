@@ -1,0 +1,9 @@
+@article {journals/sigops/VakaliT01,
+	title = {Multimedia Data Storage and Representation Issues on Tertiary Storage Subssystems: An Overview},
+	journal = {Operating Systems Review},
+	volume = {35},
+	number = {2},
+	year = {2001},
+	pages = {61-77},
+	author = {Athena Vakali and Terzi, Evimaria}
+}

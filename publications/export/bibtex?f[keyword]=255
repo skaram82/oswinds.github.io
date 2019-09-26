@@ -1,0 +1,23 @@
+@article {1963,
+	title = {Smart Cities at Risk!: Privacy and Security Borderlines  from Social Networking in Cities},
+	year = {2018},
+	publisher = {ACM},
+	address = {Lyon, France},
+	abstract = {<p class="rtejustify">As smart cities infrastructures mature, data becomes a valuable asset which can radically improve city services and tools. Registration, acquisition and utilization of data, which will be transformed into smart services, are becoming more necessary than ever. Online social networks with their enormous momentum are one of the main sources of urban data offering heterogeneous real-time data at a minimal cost. However, various types of attacks often appear on them, which risk users{\textquoteright} privacy and affect their online trust. The purpose of this article is to investigate how risks on online social networks affect smart cities and study the differences between privacy and security threats with regard to smart people and smart living dimensions.</p>
+},
+	keywords = {online social networks, privacy threats, security threats, smart cities, smart living, smart people},
+	doi = {https://doi.org/10.1145/3184558.3191516 },
+	author = {Moustaka, Vaia and Zenonas Theodosiou and Athena Vakali and Anastasis Kounoudes}
+}
+@article {1941,
+	title = {CityDNA: Smart City Dimensions{\textquoteright} Correlations for Identifying Urban Profile},
+	journal = {WWW (Companion Volume)},
+	year = {2017},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<div>Smart cities evolve over multiple themes and areas with the development of cyber-physical systems and smart services that address several urban issues regarding economy, mobility,\&nbsp; environment, people, living and governance. This evolution has bliged the definition of several conceptualization and evaluation models, which respect alternative smart city perspectives. This work proposes smart city profiling with the introduction of the {\textquotedblleft}CityDNA{\textquotedblright} model, ccording which, smart city{\textquoteright}s dimensions{\textquoteright} relevance can be captured and visualized. Based on this model, a smart city{\textquoteright}s profile can be defined and characterized, under a simple comprehensive view of local needs and challenges. A particular smart city scenario is highlighted as a proof of concept for CityDNA and future design and implementation ideas are identified and justified.</div>
+},
+	keywords = {city boroughs, city profiles, DNA structure, Greater London areas, smart cities, smart economy and mobility, smart mobility},
+	url = {http://dx.doi.org/10.1145/3041021.3054714},
+	author = {Vaia Moustaka and Athena Vakali and Leonidas G. Anthopoulos}
+}

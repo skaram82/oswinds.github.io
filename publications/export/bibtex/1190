@@ -1,0 +1,12 @@
+@article {journals/jiis/GiannakidouKVK12,
+	title = {In \& out zooming on time-aware user/tag clusters},
+	journal = {J. Intell. Inf. Syst.},
+	volume = {38},
+	number = {3},
+	year = {2012},
+	pages = {685-708},
+	abstract = {<p>The common ground behind most approaches that analyze social taggingsystems is addressing the information challenge that emerges from the massiveactivity of millions of users who interact and share resources and/or metadata online.However, lack of any time-related data in the analysis process implicitly deniesmuch of the dynamic nature of social tagging activity. In this paper we claim thatholding a temporal dimension, allows for tracking macroscopic and microscopicusers{\^a}{\texteuro}{\texttrademark} interests, detecting emerging trends and recognizing events. To this end, wepropose a time-aware co-clustering approach for acquiring semantic and temporalpatterns out of the tagging activity. The resulted clusters contain both users and tagsof similar patterns over time, and reveal non-obvious or {\^a}{\texteuro}{\'s}hidden{\^a}{\texteuro}{\v t} relations amongusers and topics of their common interest. Zoom in \&amp; out views serve as visualizationmethods on different aspects of the clusters{\^a}{\texteuro}{\texttrademark} structure, in order to evaluate theefficiency of the approach.</p>
+},
+	keywords = {Events, Social tagging systems, Time-aware clustering, Users{\textquoteright} interests over time},
+	author = {Giannakidou, Eirini and Vassiliki A. Koutsonikola and Athena Vakali and Yiannis Kompatsiaris}
+}

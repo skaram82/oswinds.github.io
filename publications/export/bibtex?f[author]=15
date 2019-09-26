@@ -1,0 +1,193 @@
+@inbook {1927,
+	title = {A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads},
+	booktitle = {Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece},
+	year = {2016},
+	pages = {186{\textendash}194},
+	publisher = {Springer International Publishing},
+	organization = {Springer International Publishing},
+	address = {Cham},
+	abstract = {<p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics{\textquoteright} and trends{\textquoteright} early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+},
+	isbn = {978-3-319-47898-2},
+	doi = {10.1007/978-3-319-47898-2_20},
+	url = {http://dx.doi.org/10.1007/978-3-319-47898-2_20},
+	author = {Vakali, Athena and Kitmeridis, Nikolaos and Panourgia, Maria},
+	editor = {Angelov, Plamen and Manolopoulos, Yannis and Iliadis, Lazaros and Roy, Asim and Vellasco, Marley}
+}
+@proceedings {conf/wise/2014-1,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I},
+	booktitle = {WISE (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8786},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11748-5},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@proceedings {conf/wise/2014-2,
+	title = {Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8787},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-319-11745-4},
+	editor = {Benatallah, Boualem and Bestavros, Azer and Manolopoulos, Yannis and Athena Vakali and Zhang, Yanchun}
+}
+@inproceedings {conf/wise/GiatsoglouCV13,
+	title = {Community Detection in Social Media by Leveraging Interactions and Intensities},
+	booktitle = {WISE (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8181},
+	year = {2013},
+	pages = {57-72},
+	publisher = {Springer},
+	organization = {Springer},
+	keywords = {community detection, user weighted interaction networks},
+	isbn = {978-3-642-41153-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali},
+	editor = {Lin, Xuemin and Manolopoulos, Yannis and Srivastava, Divesh and Huang, Guangyan}
+}
+@article {journals/tomacs/StamosPVKSM10,
+	title = {CDNsim: A simulation tool for content distribution networks},
+	journal = {ACM Trans. Model. Comput. Simul.},
+	volume = {20},
+	number = {2},
+	year = {2010},
+	abstract = {<p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+},
+	keywords = {caching, Content Distribution Network, services, trace-driven simulation},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@article {journals/tkde/KatsarosPSVSM09,
+	title = {CDNs Content Outsourcing via Generalized Communities},
+	journal = {IEEE Trans. Knowl. Data Eng.},
+	volume = {21},
+	number = {1},
+	year = {2009},
+	pages = {137-151},
+	abstract = {<p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of {\^a}{\texteuro}{\'s}correlated{\^a}{\texteuro}{\v t} Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+},
+	keywords = {caching, content distribution networks, replication, social network analysis, web communities},
+	author = {Katsaros, Dimitrios and Pallis, George and Stamos, Konstantinos and Athena Vakali and Sidiropoulos, Antonis and Manolopoulos, Yannis}
+}
+@article {journals/www/SidiropoulosPKSVM08,
+	title = {Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing},
+	journal = {World Wide Web},
+	volume = {11},
+	number = {1},
+	year = {2008},
+	pages = {39-70},
+	author = {Sidiropoulos, Antonis and Pallis, George and Katsaros, Dimitrios and Stamos, Konstantinos and Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/adbis/StamosPV06,
+	title = {Integrating Caching Techniques on a Content Distribution Network},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4152},
+	year = {2006},
+	pages = {200-215},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDN{\^a}{\texteuro}{\texttrademark} s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+},
+	isbn = {3-540-37899-5},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali},
+	editor = {Manolopoulos, Yannis and Pokorny, Jaroslav and Sellis, Timos K.}
+}
+@inproceedings {conf/icde/PallisSVKS06,
+	title = {Replication Based on Objects Load under a Content Distribution Network},
+	booktitle = {ICDE Workshops},
+	year = {2006},
+	pages = {53},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	author = {Pallis, George and Stamos, Konstantinos and Athena Vakali and Katsaros, Dimitrios and Sidiropoulos, Antonis and Manolopoulos, Yannis},
+	editor = {Barga, Roger S. and Zhou, Xiaofang}
+}
+@inproceedings {conf/la-web/PallisVSSKM05,
+	title = {A Latency-Based Object Placement Approach in Content Distribution Networks},
+	booktitle = {LA-WEB},
+	year = {2005},
+	pages = {140-147},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {0-7695-2471-0},
+	author = {Pallis, George and Athena Vakali and Stamos, Konstantinos and Sidiropoulos, Antonis and Katsaros, Dimitrios and Manolopoulos, Yannis}
+}
+@article {journals/jss/VakaliM00,
+	title = {Data placement schemes in replicated mirrored disk systems},
+	journal = {Journal of Systems and Software},
+	volume = {55},
+	number = {2},
+	year = {2000},
+	pages = {115-128},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/adbis/VakaliM98,
+	title = {Replication in Mirrored Disk Systems},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {1475},
+	year = {1998},
+	pages = {224-235},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {In this paper we study data replication in a mirrored disk system.Free disk space is exploited by keeping replicas of specific cylindersat appropriate disk locations. Assuming an organ-pipe arrangement wecalculate the expected seek distance by varying the probability cylinderaccess under different distributions. Also, analytic formulae are derivedfor the expected seek distance under replication and comparison with theconventional (without replication) mirrored disk system is performed.},
+	isbn = {3-540-64924-7},
+	author = {Athena Vakali and Manolopoulos, Yannis},
+	editor = {Litwin, Witold and Morzy, Tadeusz and Vossen, Gottfried}
+}
+@article {journals/ipl/VakaliM97,
+	title = {An Exact Analysis on Expected Seeks in Shadowed Disks},
+	journal = {Inf. Process. Lett.},
+	volume = {61},
+	number = {6},
+	year = {1997},
+	pages = {323-329},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}
+@article {journals/infsof/VakaliM97,
+	title = {Parallel data paths in two-headed disk systems},
+	journal = {Information \& Software Technology},
+	volume = {39},
+	number = {2},
+	year = {1997},
+	pages = {125-135},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/dexaw/VakaliM96,
+	title = {The Impact of Seeking in Partial Match Retrieval},
+	booktitle = {DEXA Workshop},
+	year = {1996},
+	pages = {432-437},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+},
+	isbn = {0-8186-7662-0},
+	author = {Athena Vakali and Manolopoulos, Yannis},
+	editor = {Wagner, Roland and Thoma, Helmut}
+}
+@inproceedings {conf/dexa/ManolopoulosV95,
+	title = {Partial Match Retrieval in Two-Headed Disk Systems},
+	booktitle = {DEXA},
+	series = {Lecture Notes in Computer Science},
+	volume = {978},
+	year = {1995},
+	pages = {594-603},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {3-540-60303-4},
+	author = {Manolopoulos, Yannis and Athena Vakali},
+	editor = {Revell, Norman and Tjoa, A Min}
+}
+@article {journals/ipl/ManolopoulosV91,
+	title = {Seek Distances in Disks with Two Independent Heads Per Surface},
+	journal = {Inf. Process. Lett.},
+	volume = {37},
+	number = {1},
+	year = {1991},
+	pages = {37-42},
+	author = {Manolopoulos, Yannis and Athena Vakali}
+}

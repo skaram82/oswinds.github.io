@@ -1,0 +1,11 @@
+@inproceedings {conf/icete/KakarontzasACV14,
+	title = {A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach},
+	booktitle = {ICE-B},
+	year = {2014},
+	pages = {47-54},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-758-043-7},
+	author = {Kakarontzas, George and Anthopoulos, Leonidas G. and Despoina Chatzakou and Athena Vakali},
+	editor = {Obaidat, Mohammad S. and Holzinger, Andreas and van Sinderen, Marten and Dolog, Peter}
+}

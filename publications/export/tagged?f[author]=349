@@ -1,0 +1,16 @@
+%0 Conference Paper
+%B CBMI
+%D 2011
+%T Detecting the long-tail of Points of Interest in tagged photo collections
+%A Christos Zigkolis
+%A Symeon Papadopoulos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Martinez, José M.
+%X <p>The paper tackles the problem of matching the photosof a tagged photo collection to a list of â€ślong-tailâ€ť PointsOf Interest (PoIs), that is PoIs that are not very popularand thus not well represented in the photo collection. Despitethe significance of improving â€ślong-tailâ€ť PoI photoretrieval for travel applications, most landmark detectionmethods to date have been tested on very popular landmarks.In this paper, we conduct a thorough empirical analysiscomparing four baseline matching methods that relyon photo metadata, three variants of an approach that usescluster analysis in order to discover PoI-related photo clusters,and a real-world retrieval mechanism (Flickr search)on a set of less popular PoIs.A user-based evaluation of the aforementioned methodsis conducted on a Flickr photo collection of over 100, 000photos from 10 well-known touristic destinations in Greece.A set of 104 â€ślong-tailâ€ť PoIs is collected for these destinationsfrom Wikipedia, Wikimapia and OpenStreetMap. Theresults demonstrate that two of the baseline methods outperformFlickr search in terms of precision and F-measure,whereas two of the cluster-based methods outperform it interms of recall and PoI coverage. We consider the results ofthis study valuable for enhancing the indexing of pictorialcontent in social media sites.</p>
+%B CBMI
+%I IEEE
+%P 235-240
+%@ 978-1-61284-433-6
+%G eng
+

@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2010
+%T EXPLORING TEMPORAL ASPECTS IN USER-TAG CO-CLUSTERING
+%X <p>Tagging environments have become an interesting topic ofresearch lately, focused mainly on clustering approaches, inorder to extract emergent patterns that are derived from tagsimilarity and involve tag relations or user interconnections.Apart from tag similarity, an interesting parameter to be analyzedduring the clustering/mining process in such data isthe actual time that each tagging activity occurred. Indeed,holding a temporal dimension unfolds macroscopic and microscopicviews of tagging, highlights links between objectsfor specific time periods and, in general, lets us observe howthe users’ tagging activity changes over time. In this article,we propose a time-aware user/tag clustering approach, whichgroups together similar users and tags that are very “active”during the same time periods. Emphasis is given on usingvarying time scales, so that we distinguish between clustersthat are robust at many time scales and clusters that are somehowoccasional, i.e. they emerge, only at a specific time period.</p>
+%G eng
+

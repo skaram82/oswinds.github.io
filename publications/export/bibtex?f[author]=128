@@ -1,0 +1,11 @@
+@inproceedings {conf/icdm/ZigkolisKV13,
+	title = {Dissimilarity Features in Recommender Systems},
+	booktitle = {ICDM Workshops},
+	year = {2013},
+	pages = {825-832},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-5109-8},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Athena Vakali},
+	editor = {Wei Ding and Washio, Takashi and Xiong, Hui and Karypis, George and Thuraisingham, Bhavani M. and Cook, Diane J. and Wu, Xindong}
+}

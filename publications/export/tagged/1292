@@ -1,0 +1,20 @@
+%0 Conference Paper
+%B HPCN Europe
+%D 2000
+%T A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%A Pomportsis, Andreas S.
+%E Bubak, Marian
+%E Afsarmanesh, Hamideh
+%E Williams, Roy
+%E Hertzberger, Louis O.
+%X The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives â€śpopularityâ€ť. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.
+%B HPCN Europe
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1823
+%P 610-613
+%@ 3-540-67553-1
+%G eng
+

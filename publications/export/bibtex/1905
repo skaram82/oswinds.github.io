@@ -1,0 +1,6 @@
+@inproceedings {1905,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	year = {2011},
+	abstract = {<p>This paper describes the participation of CERTH in the {\textquotedblleft}SocialEvent Detection Task @ MediaEval 2011{\textquotedblright}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+}
+}

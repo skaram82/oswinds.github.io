@@ -1,0 +1,99 @@
+@article {1926,
+	title = {PerSaDoR: Personalized social document representation for improving web search},
+	journal = {Information Sciences},
+	volume = {369},
+	year = {2016},
+	pages = {614 - 633},
+	abstract = {<p>Abstract In this paper, we discuss a contribution towards the integration of social information in the index structure of an {IR} system. Since each user has his/her own understanding and point of view of a given document, we propose an approach in which the index model provides a Personalized Social Document Representation (PerSaDoR) of each document per user based on his/her activities in a social tagging system. The proposed approach relies on matrix factorization to compute the PerSaDoR of documents that match a query, at query time. The complexity analysis shows that our approach scales linearly with the number of documents that match the query, and thus, it can scale to very large datasets. PerSaDoR has been also intensively evaluated by an offline study and by a user survey operated on a large public dataset from delicious showing significant benefits for personalized search compared to state of the art methods.</p>
+},
+	keywords = {Social recommendation},
+	issn = {0020-0255},
+	doi = {http://dx.doi.org/10.1016/j.ins.2016.07.046},
+	url = {http://www.sciencedirect.com/science/article/pii/S0020025516305278},
+	author = {Mohamed Reda Bouadjenek and Hakim Hacid and Mokrane Bouzeghoub and Athena Vakali}
+}
+@proceedings {conf/hpdc/2009upgrade,
+	title = {Proceedings of the 4th Workshop on the Use of P2P, GRID and Agents for the Development of Content Networks, UPGRADE-CN{\^a}{\texteuro}{\texttrademark}09, jointly held with the 18th International Symposium on High-Performance Distributed Computing (HPDC-18 2009), 10 June 2009, Ga},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	publisher = {ACM},
+	isbn = {978-1-60558-591-8},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@article {journals/www/SidiropoulosPKSVM08,
+	title = {Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing},
+	journal = {World Wide Web},
+	volume = {11},
+	number = {1},
+	year = {2008},
+	pages = {39-70},
+	author = {Sidiropoulos, Antonis and Pallis, George and Katsaros, Dimitrios and Stamos, Konstantinos and Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {1848,
+	title = {Partial Match Retrieval in Two-headed Disks},
+	year = {2006},
+	abstract = {<p>The performance of a disk with two heads per surface separatedby a fixed number of cylinders is examined. We derive the probabilitydistribution of arm stops, the expected number of stops as well asthe expected number of cylinder clusters, i.e. the number of sets of consecutivecompound cylinders. In comparison with a single-headed disk,it is shown that the performance gain may reach 50\% on the average.</p>
+}
+}
+@article {journals/cj/MoussiadesV05,
+	title = {PDetect: A Clustering Approach for Detecting Plagiarism in Source Code Datasets},
+	journal = {Comput. J.},
+	volume = {48},
+	number = {6},
+	year = {2005},
+	pages = {651-661},
+	author = {Moussiades, Lefteris and Athena Vakali}
+}
+@inproceedings {1807,
+	title = {A Probabilistic Validation Algorithm for Web Users{\textquoteright} Clusters},
+	year = {2004},
+	abstract = {<p>{\textendash} Cluster analysis is one of the most importantaspects in the data mining process for discovering groupsand identifying interesting distributions or patterns overthe considered data sets. In the context of Web datamining, model-based clustering algorithms are often usedto cluster similar users{\textquoteright} sessions in order to determineWebsite access behaviors. An important issue in clusteranalysis is the evaluation of clustering results to find thepartitioning that best fits the underlying data. In thispaper, we present a novel validation technique for modelbasedclustering approaches.</p>
+}
+}
+@inproceedings {conf/smc/PallisAVP04,
+	title = {A probabilistic validation algorithm for Web users{\textquoteright} clusters},
+	booktitle = {SMC (5)},
+	year = {2004},
+	pages = {4129-4134},
+	publisher = {IEEE},
+	organization = {IEEE},
+	isbn = {0-7803-8566-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali and Pokorny, Jaroslav}
+}
+@article {journals/www/Vakali01,
+	title = {Proxy Cache Replacement Algorithms: A History-Based Approach},
+	journal = {World Wide Web},
+	volume = {4},
+	number = {4},
+	year = {2001},
+	pages = {277-298},
+	author = {Athena Vakali}
+}
+@article {journals/infsof/VakaliM97,
+	title = {Parallel data paths in two-headed disk systems},
+	journal = {Information \& Software Technology},
+	volume = {39},
+	number = {2},
+	year = {1997},
+	pages = {125-135},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {conf/dexa/ManolopoulosV95,
+	title = {Partial Match Retrieval in Two-Headed Disk Systems},
+	booktitle = {DEXA},
+	series = {Lecture Notes in Computer Science},
+	volume = {978},
+	year = {1995},
+	pages = {594-603},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {3-540-60303-4},
+	author = {Manolopoulos, Yannis and Athena Vakali},
+	editor = {Revell, Norman and Tjoa, A Min}
+}
+@inproceedings {1889,
+	title = {Performance of Disk Systems with Two Read/write Heads per Surface},
+	year = {1995},
+	abstract = {<p>Our research topic is the performance of two-headed disk systems. Several scheduling algorithms have been adopted to serve read and write requests, and the expected seek has been calculated and compared to that of single-headed disk systems. Data placement schemes have been also studied in conjunction with the scheduling algorithms in order to study the efficiency and fault tolerance of two-headed disk systems. Probability theory and simulation models have been used to achieve results and reach conclusions.</p>
+}
+}

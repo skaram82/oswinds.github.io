@@ -1,0 +1,9 @@
+@article {journals/ivc/VakaliHE04,
+	title = {MPEG-7 based description schemes for multi-level video content classification},
+	journal = {Image Vision Comput.},
+	volume = {22},
+	number = {5},
+	year = {2004},
+	pages = {367-378},
+	author = {Athena Vakali and Hacid, Mohand-Said and Elmagarmid, Ahmed K.}
+}

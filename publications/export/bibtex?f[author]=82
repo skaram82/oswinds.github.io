@@ -1,0 +1,23 @@
+@proceedings {journals/tlsdkcs/2014-15,
+	title = {Transactions on Large-Scale Data- and Knowledge-Centered Systems},
+	booktitle = {T. Large-Scale Data- and Knowledge-Centered Systems},
+	series = {Lecture Notes in Computer Science},
+	volume = {8920},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-662-45760-3},
+	editor = {Hameurlain, Abdelkader and K{\"u}ng, Josef and Wagner, Roland and Barbara Catania and Guerrini, Giovanna and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@inproceedings {conf/dexaw/VakaliM96,
+	title = {The Impact of Seeking in Partial Match Retrieval},
+	booktitle = {DEXA Workshop},
+	year = {1996},
+	pages = {432-437},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+},
+	isbn = {0-8186-7662-0},
+	author = {Athena Vakali and Manolopoulos, Yannis},
+	editor = {Wagner, Roland and Thoma, Helmut}
+}

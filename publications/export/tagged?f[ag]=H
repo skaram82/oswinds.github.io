@@ -1,0 +1,532 @@
+%0 Journal Article
+%J Information Sciences
+%D 2016
+%T PerSaDoR: Personalized social document representation for improving web search
+%A Mohamed Reda Bouadjenek
+%A Hakim Hacid
+%A Mokrane Bouzeghoub
+%A Athena Vakali
+%K Social recommendation
+%X <p>Abstract In this paper, we discuss a contribution towards the integration of social information in the index structure of an {IR} system. Since each user has his/her own understanding and point of view of a given document, we propose an approach in which the index model provides a Personalized Social Document Representation (PerSaDoR) of each document per user based on his/her activities in a social tagging system. The proposed approach relies on matrix factorization to compute the PerSaDoR of documents that match a query, at query time. The complexity analysis shows that our approach scales linearly with the number of documents that match the query, and thus, it can scale to very large datasets. PerSaDoR has been also intensively evaluated by an offline study and by a user survey operated on a large public dataset from delicious showing significant benefits for personalized search compared to state of the art methods.</p>
+%B Information Sciences
+%V 369
+%P 614 - 633
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S0020025516305278
+%R http://dx.doi.org/10.1016/j.ins.2016.07.046
+
+%0 Book Section
+%B Big Data Analytics and Knowledge Discovery
+%D 2015
+%T MultiSpot: Spotting Sentiments with Semantic Aware Multilevel Cascaded Analysis
+%A Despoina Chatzakou
+%A Passalis, Nikolaos
+%A Athena Vakali
+%E Sanjay Kumar Madria
+%E Hara, Takahiro
+%K Multilevel features
+%K Sentiment detection
+%B Big Data Analytics and Knowledge Discovery
+%S Lecture Notes in Computer Science
+%I Springer International Publishing
+%V 9263
+%P 337-350
+%@ 978-3-319-22728-3
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-22729-0_26
+%R 10.1007/978-3-319-22729-0_26
+
+%0 Conference Paper
+%B PAKDD (1)
+%D 2015
+%T Retweeting Activity on Twitter: Signs of Deception
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Neil Shah
+%A Christos Faloutsos
+%A Athena Vakali
+%E Cao, Tru
+%E Lim, Ee-Peng
+%E Zhou, Zhi-Hua
+%E Ho, Tu-Bao
+%E Cheung, David
+%E Motoda, Hiroshi
+%B PAKDD (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 9077
+%P 122-134
+%@ 978-3-319-18037-3
+%G eng
+
+%0 Conference Proceedings
+%B Lecture Notes in Computer Science
+%D 2015
+%T Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers
+%E Boualem Benatallah
+%E Azer Bestavros
+%E Barbara Catania
+%E Armin Haller
+%E Yannis Manolopoulos
+%E Athena Vakali
+%E Yanchun Zhang
+%B Lecture Notes in Computer Science
+%S 
+%I Springer
+%V 9051
+%@ 978-3-319-20369-0
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-20370-6
+%R 10.1007/978-3-319-20370-6
+
+%0 Conference Paper
+%B ECML/PKDD (3)
+%D 2014
+%T Branty: A Social Media Ranking Tool for Brands
+%A Arvanitidis, Alexandros
+%A Serafi, Anna
+%A Athena Vakali
+%A Tsoumakas, Grigorios
+%E Calders, Toon
+%E Esposito, Floriana
+%E Hullermeier, Eyke
+%E Meo, Rosa
+%B ECML/PKDD (3)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8726
+%P 432-435
+%@ 978-3-662-44844-1
+%G eng
+
+%0 Conference Paper
+%B ICE-B
+%D 2014
+%T A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach
+%A Kakarontzas, George
+%A Anthopoulos, Leonidas G.
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Obaidat, Mohammad S.
+%E Holzinger, Andreas
+%E van Sinderen, Marten
+%E Dolog, Peter
+%B ICE-B
+%I SciTePress
+%P 47-54
+%@ 978-989-758-043-7
+%G eng
+
+%0 Conference Proceedings
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%D 2014
+%T Transactions on Large-Scale Data- and Knowledge-Centered Systems
+%E Hameurlain, Abdelkader
+%E Küng, Josef
+%E Wagner, Roland
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8920
+%@ 978-3-662-45760-3
+%G eng
+
+%0 Conference Paper
+%B WISE (2)
+%D 2013
+%T Community Detection in Social Media by Leveraging Interactions and Intensities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Lin, Xuemin
+%E Manolopoulos, Yannis
+%E Srivastava, Divesh
+%E Huang, Guangyan
+%K community detection
+%K user weighted interaction networks
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8181
+%P 57-72
+%@ 978-3-642-41153-3
+%G eng
+
+%0 Conference Paper
+%B MMM (1)
+%D 2013
+%T Semi-supervised Concept Detection by Learning the Structure of Similarity Graphs
+%A Symeon Papadopoulos
+%A Sagonas, Christos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Li, Shipeng
+%E El-Saddik, Abdulmotaleb
+%E Wang, Meng
+%E Mei, Tao
+%E Sebe, Nicu
+%E Yan, Shuicheng
+%E Hong, Richang
+%E Gurrin, Cathal
+%X <p>We present an approach for detecting concepts in images bya graph-based semi-supervised learning scheme. The proposed approach builds a similarity graph between both the labeled and unlabeled images of the collection and uses the Laplacian Eigemaps of the graph as features for training concept detectors. Therefore, it offers multiple options for fusing different image features. In addition, we present an incremental learning scheme that, given a set of new unlabeled images, efficiently performs the computation of the Laplacian Eigenmaps. We evaluate the performance of our approach both on synthetic datasets and on MIR Flickr, comparing it with high-performance state-of-the-art learning schemes with competitive and in some cases superior results.</p>
+%B MMM (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 7732
+%P 1-12
+%@ 978-3-642-35725-1
+%G eng
+
+%0 Conference Paper
+%B DATA
+%D 2013
+%T Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing
+%A Athena Vakali
+%A Despoina Chatzakou
+%A Vassiliki A. Koutsonikola
+%A Andreadis, George
+%E Helfert, Markus
+%E Francalanci, Chiara
+%E Filipe, Joaquim
+%B DATA
+%I SciTePress
+%P 175-182
+%@ 978-989-8565-67-9
+%G eng
+
+%0 Conference Paper
+%B ICMR
+%D 2011
+%T City exploration by use of spatio-temporal analysis and clustering of user contributed photos
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Kapiris, Stefanos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Natale, Francesco G. B. De
+%E Bimbo, Alberto Del
+%E Hanjalic, Alan
+%E Manjunath, B. S.
+%E Satoh, Shin’ichi
+%K Clustering
+%K content browsing
+%K landmark/event detection
+%K spatio-temporal mining
+%X <p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+%B ICMR
+%I ACM
+%P 65
+%@ 978-1-4503-0336-1
+%G eng
+
+%0 Book Section
+%B Social Media Modeling and Computing
+%D 2011
+%T Combining Multi-modal Features for Social Media Analysis
+%A Nikolopoulos, Spiros
+%A Giannakidou, Eirini
+%A Yiannis Kompatsiaris
+%A Patras, Ioannis
+%A Athena Vakali
+%E Hoi, Steven C. H.
+%E Luo, Jiebo
+%E Boll, Susanne
+%E Xu, Dong
+%E Jin, Rong
+%B Social Media Modeling and Computing
+%I Springer
+%P 71-96
+%@ 978-0-85729-435-7
+%G eng
+
+%0 Conference Paper
+%B SERVICES
+%D 2011
+%T Social Web Mashups Full Completion via Frequent Sequence Mining
+%A Maaradji, Abderrahmane
+%A Hacid, Hakim
+%A Skraba, Ryan
+%A Athena Vakali
+%K Mashups
+%K Sequence mining
+%K Social networks
+%K Web services
+%X <p>In this paper we address the problem of WebMashups full completion which consists of predicting themost suitable set of (combined) services that successfully meetthe goals of an end-user Mashup, given the current service(or composition of services) initially supplied. We model fullcompletion as a frequent sequence mining problem and weshow how existing algorithms can be applied in this context.To overcome some limitations of the frequent sequence miningalgorithms, e.g., efficiency and recommendation granularity,we propose FESMA, a new and efficient algorithm for computingfrequent sequences of services and recommending completions.FESMA also integrates a social dimension, extractedfrom the transformation of user ? service interactions intouser ? user interactions, building an implicit graph thathelps to better predict completions of services in a fashiontailored to individual users. Evaluations show that FESMAis more efficient outperforming the existing algorithms evenwith the consideration of the social dimension. Our proposalhas been implemented in a prototype, SoCo, developed at BellLabs.</p>
+%B SERVICES
+%I IEEE Computer Society
+%P 9-16
+%@ 978-1-4577-0879-4
+%G eng
+
+%0 Conference Paper
+%B Web Intelligence
+%D 2011
+%T Summarization Meets Visualization on Online Social Networks
+%A Gabriel, Hans-Henning
+%A Spiliopoulou, Myra
+%A Stachtiari, Emmanouela
+%A Athena Vakali
+%E Boissier, Olivier
+%E Benatallah, Boualem
+%E Papazoglou, Mike P.
+%E Ras, Zbigniew W.
+%E Hacid, Mohand-Said
+%K Clustering
+%K communities
+%K community representatives
+%K social network summarization
+%K social network visualization
+%K Social networks
+%K visualization
+%X <p>Getting an overview of a large online social networkand deciding which communities to join is a challengingtask for a new user. We propose a method that maps a largenetwork into a smaller graph with two kinds of nodes: a nodeof the first kind is representative of a community; a node ofthe second kind is neighbor to a representative and reflectsthe semantics of that community. Our approach encompassesa learning and ranking algorithm that derives this smallergraph from the original one, and a visualization algorithmthat returns a graph layout to the observer. We report on ourresults on inspecting the network of a folksonomy.</p>
+%B Web Intelligence
+%I IEEE Computer Society
+%P 475-478
+%@ 978-0-7695-4513-4
+%G eng
+
+%0 Conference Paper
+%B CEUR Workshop Proceedings ISSN 1613-0073
+%D 2010
+%T Integrating Web 20 Data into Linked Open Data Cloud via Clustering
+%A Giannakidou, Eirini
+%A Athena Vakali
+%E Auer, S'oren
+%E Decker, Stefan
+%E Hauswirth, Manfred
+%K FIA-LOD2010 imported
+%B CEUR Workshop Proceedings ISSN 1613-0073
+%V 700
+%8 February
+%G eng
+
+%0 Conference Paper
+%B WISE
+%D 2008
+%T Correlating Time-Related Data Sources with Co-clustering
+%A Vassiliki A. Koutsonikola
+%A Petridou, Sophia G.
+%A Athena Vakali
+%A Hacid, Hakim
+%A Benatallah, Boualem
+%E Bailey, James
+%E Maier, David
+%E Schewe, Klaus-Dieter
+%E Thalheim, Bernhard
+%E Wang, Xiaoyang Sean
+%X <p>A huge amount of data is circulated and collected every dayon a regular time basis. Given a pair of such datasets, it might be possibleto reveal hidden dependencies between them since the presence of the onedataset elements may influence the elements of the other dataset and viceversa. Furthermore, the impact of these relations may last during a periodinstead of the time point of their co-occurrence. Mining such relationsunder those assumptions is a challenging problem. In this paper, we studytwo time-related datasets whose elements are bilaterally affected overtime. We employ a co-clustering approach to identify groups of similarelements on the basis of two distinct criteria: the direction and durationof their impact. The proposed approach is evaluated using time-relatednews and stockâ€™s market real datasets.</p>
+%B WISE
+%S Lecture Notes in Computer Science
+%I Springer
+%V 5175
+%P 264-279
+%@ 978-3-540-85480-7
+%G eng
+
+%0 Journal Article
+%J JDIM
+%D 2007
+%T Domain Knowledge Based Queries for Multimedia Data Retrieval
+%A Hammiche, Samira
+%A Lopez, Bernardo
+%A Benbernou, Salima
+%A Hacid, Mohand-Said
+%A Athena Vakali
+%K Logic Languages
+%K Mapping Rules
+%K MPEG-7
+%K Multimedia Data Descriptions
+%K Ontology
+%K Semantic and Structural Aspects
+%X <p>This paper describes an approach for semantic description and retrieval of multimedia data described by means ofMPEG-7. This standard uses XML schema to define the descriptions. Therefore, it lacks ability to represent the data semanticsin a formal and concise way and it does not allow integration and use of domain specific knowledge. Moreover,inference mechanisms are not provided and hence the extraction of implicit information is not (always) possible. To addressthese issues, we propose to add a conceptual layer on top of MPEG-7 metadata layer, where the domain knowledgeis represented using a formal language. A set of mapping rules is proposed. They serve as a bridge between the twolayers.Querying MPEG-7 descriptions using XML query languages such as XPath or XQuery requires to know MPEG-7syntax and documents structure. To provide a flexible query formulation, we exploit the conceptual layer vocabularyto express user queries. A user query, making reference to terms specified at the conceptual level, is rewritten into anXQuery expression over MPEG-7 descriptions.</p>
+%B JDIM
+%V 5
+%P 75-81
+%G eng
+
+%0 Conference Paper
+%B ISM
+%D 2005
+%T A Logic Based Approach for the Multimedia Data Representation and Retrieval
+%A Hammiche, Samira
+%A Benbernou, Salima
+%A Athena Vakali
+%X Nowadays, the amount of multimedia data is increasingrapidly, and hence, there is an increasing need for efficientmethods to manage the multimedia content. This paper proposesa framework for the description and retrieval of multimediadata. The data are represented at both the syntactic(structure, metadata and low level features) and semantic(the meaning of the data) levels. We use the MPEG-7 standard,which provides a set of tools to describe multimediacontent from different viewpoints, to represent the syntacticlevel. However, due to its XML Schema based representation,MPEG-7 is not suitable to represent the semanticaspect of the data in a formal and concise way. Moreover,inferential mechanisms are not provided. To alleviate theselimitations, we propose to extend MPEG-7 with a domainontology, formalized using a logical formalism. Then, thesemantic aspect of the data is described using the ontologyâ€™svocabulary, as a set of logical expressions. We enhancethe ontology by a rules layer, to describe more complexconstraints between domain concepts and relations.Userâ€™s queries may concern the syntactic and/or semanticfeatures. The syntactic constraints are expressed usingXQuery language and evaluated using an XML query engine;whereas the semantic query constraints are expressedusing a rules language and evaluated using a specific resolutionmechanism.
+%B ISM
+%I IEEE Computer Society
+%P 241-248
+%@ 0-7695-2489-3
+%G eng
+
+%0 Conference Paper
+%B ISMIS
+%D 2005
+%T Model-Based Cluster Analysis for Web Users Sessions
+%A Pallis, George
+%A Angelis, Lefteris
+%A Athena Vakali
+%E Hacid, Mohand-Said
+%E Murray, Neil V.
+%E Ras, Zbigniew W.
+%E Tsumoto, Shusaku
+%K Model-Based Cluster Analysis
+%X One of the main issues in Web usage mining is the discovery of patternsin the navigational behavior of Web users. Standard approaches, such as clusteringof usersâ€™sessions and discovering association rules or frequent navigational paths,do not generally allow to characterize or quantify the unobservable factors that leadto common navigational patterns. Therefore, it is necessary to develop techniquesthat can discover hidden and useful relationships among users as well as betweenusers and Web objects.Correspondence Analysis(CO-AN) is particularly useful inthis context, since it can uncover meaningful associations among users and pages.We present a model-based cluster analysis for Web users sessions including anovel visualization and interpretation approach which is based on CO-AN.
+%B ISMIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3488
+%P 219-227
+%@ 3-540-25878-7
+%G eng
+
+%0 Journal Article
+%J Image Vision Comput.
+%D 2004
+%T MPEG-7 based description schemes for multi-level video content classification
+%A Athena Vakali
+%A Hacid, Mohand-Said
+%A Elmagarmid, Ahmed K.
+%B Image Vision Comput.
+%V 22
+%P 367-378
+%G eng
+
+%0 Conference Paper
+%B MMDB
+%D 2004
+%T Semantic retrieval of multimedia data
+%A Hammiche, Samira
+%A Benbernou, Salima
+%A Hacid, Mohand-Said
+%A Athena Vakali
+%E Chen, Shu-Ching
+%E Shyu, Mei-Ling
+%K Approximation Ontologies
+%K MPEG-7
+%K Multimedia Data
+%K Tree embedding
+%X <p>This paper deals with the problem of finding multimediadata that fulfill the requirements of user queries. We assumeboth the user query and the multimedia data are expressedby MPEG-7 standard. The MPEG-7 formalism lacks thesemantics and reasoning support in many ways. For example,the search of the implicit data can not be achieved,due to its description based on XML schema. We propose aframework for querying multimedia data based on a tree embeddingapproximation algorithm, combining the MPEG-7standard and an ontology</p>
+%B MMDB
+%I ACM
+%P 36-44
+%@ 1-58113-975-6
+%G eng
+
+%0 Conference Paper
+%B APWeb
+%D 2003
+%T Knowledge Representation, Ontologies, and the Semantic Web
+%A Terzi, Evimaria
+%A Athena Vakali
+%A Hacid, Mohand-Said
+%E Zhou, Xiaofang
+%E Zhang, Yanchun
+%E Orlowska, Maria E.
+%X A unified representation for web data and web resources, isabsolutely necessary in nowdays large scale Internet data managementsystems. This representation will allow for the machines to meaningfullyprocess the available information and provide semantically correct answersto imposed queries. Ontologies are expected to play an importantrole towards this direction of web technology which defines the so called,Semantic Web. The goal of this paper is to provide an overview of theKnowledge Representation (KR) techniques and languages that can beused as standards in the Semantic Web.
+%B APWeb
+%S Lecture Notes in Computer Science
+%I Springer
+%V 2642
+%P 382-387
+%@ 3-540-02354-2
+%G eng
+
+%0 Conference Paper
+%B Applied Informatics
+%D 2003
+%T A Study on Workload Characterization for a Web Proxy Server
+%A Pallis, George
+%A Athena Vakali
+%A Angelis, Lefteris
+%A Hacid, Mohand-Said
+%E Hamza, M. H.
+%K Web Caching
+%K Web Data Workload Analysis
+%K Web Technologies
+%X <p>The popularity of the World-Wide-Web has increaseddramatically in the past few years. Web proxy servershave an important role in reducing server loads, networktraffic, and client request latencies. This paper presentsa detailed workload characterization study of a busyWeb proxy server. The study aims in identifying themajor characteristics which will improve modelling ofWeb proxy accessing. A set of log files is processed forworkload characterization. Throughout the study,emphasis is given on identifying the criteria for a Webcaching model. A statistical analysis, based on theprevious criteria, is presented in order to characterizethe major workload parameters. Results of this analysisare presented and the paper concludes with a discussionabout workload characterization and content deliveryissues.</p>
+%B Applied Informatics
+%I IASTED/ACTA Press
+%P 779-784
+%@ 0-88986-345-8
+%G eng
+
+%0 Conference Paper
+%B ICDE
+%D 2002
+%T A Distributed Database Server for Continuous Media
+%A Aref, Walid G.
+%A Catlin, Ann Christine
+%A Elmagarmid, Ahmed K.
+%A Fan, Jianping
+%A Guo, J.
+%A Hammad, Moustafa A.
+%A Ilyas, Ihab F.
+%A Marzouk, Mirette S.
+%A Prabhakar, Sunil
+%A Rezgui, Abdelmounaam
+%A Teoh, S.
+%A Terzi, Evimaria
+%A Tu, Yi-Cheng
+%A Athena Vakali
+%A Zhu, Xingquan
+%E Agrawal, Rakesh
+%E Dittrich, Klaus R.
+%X In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.
+%B ICDE
+%I IEEE Computer Society
+%P 490-491
+%@ 0-7695-1531-2
+%G eng
+
+%0 Conference Paper
+%B Computers and Their Applications
+%D 2001
+%T A QoS based disk subsystem
+%A Athena Vakali
+%A Stupa, Constantina
+%E Hung, C. C.
+%B Computers and Their Applications
+%I ISCA
+%P 409-412
+%@ 1-880843-37-4
+%G eng
+
+%0 Conference Paper
+%B International Conference on Internet Computing (1)
+%D 2001
+%T Querying XML with Constraints
+%A Hacid, Mohand-Said
+%A Terzi, Evimaria
+%A Athena Vakali
+%K Query Languages Rules
+%K xml
+%X <p>XML is a language for the description of structured documents and data. It is on the way to become the new standard for data exchange, publishing, and developing intelligent Web agents. XML is based on the concept of documents composed of a series of entities (i.e., objects). Each entity can contain one or more logical elements. Each of these elements can have certain attributes (properties) that describe the way in which it is to be processed. XML provides a formal syntax for describing the relationships between the entities, elements and attributes that make up an XML document. In this paper, we introduce a framework for querying XML databases by specifying ordering constraints over documents.</p>
+%B International Conference on Internet Computing (1)
+%P 171-177
+%G eng
+
+%0 Conference Paper
+%B HPCN Europe
+%D 2000
+%T A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%A Pomportsis, Andreas S.
+%E Bubak, Marian
+%E Afsarmanesh, Hamideh
+%E Williams, Roy
+%E Hertzberger, Louis O.
+%X The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives â€śpopularityâ€ť. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.
+%B HPCN Europe
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1823
+%P 610-613
+%@ 3-540-67553-1
+%G eng
+

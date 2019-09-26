@@ -1,0 +1,151 @@
+%0 Conference Proceedings
+%B ADBIS (2)
+%D 2014
+%T New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems
+%E Barbara Catania
+%E Cerquitelli, Tania
+%E Chiusano, Silvia
+%E Guerrini, Giovanna
+%E Kämpf, Mirko
+%E Kemper, Alfons
+%E Novikov, Boris
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B ADBIS (2)
+%S Advances in Intelligent Systems and Computing
+%I Springer
+%C Genoa, Italy
+%V 241
+%8 04/2013
+%@ 978-3-319-01863-8
+%G eng
+
+%0 Conference Proceedings
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%D 2014
+%T Transactions on Large-Scale Data- and Knowledge-Centered Systems
+%E Hameurlain, Abdelkader
+%E Küng, Josef
+%E Wagner, Roland
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Palpanas, Themis
+%E Pokorny, Jaroslav
+%E Athena Vakali
+%B T. Large-Scale Data- and Knowledge-Centered Systems
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8920
+%@ 978-3-662-45760-3
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 2013
+%T Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing
+%A Kastrinakis, Dimitrios
+%A Symeon Papadopoulos
+%A Athena Vakali
+%E Barbara Catania
+%E Guerrini, Giovanna
+%E Pokorny, Jaroslav
+%K composite visual word
+%K local descriptors
+%K multimedia data indexing
+%K visual word
+%X <p>Multimedia data indexing for content-based retrieval has attractedsignificant attention in recent years due to the commoditizationof multimedia capturing equipment and the widespread adoption of social networking platforms as means for sharing media content online. Due to the very large amounts of multimedia content, notably images, produced and shared online by people, a very important requirement for multimedia indexing approaches pertains to their efficiency both in terms of computation and memory usage. A common approach to support query-by-example image search is based on the extraction of visual words from images and their indexing by means of inverted indices, a method proposed and popularized in the field of text retrieval.The main challenge that visual word indexing systems currently facearises from the fact that it is necessary to build very large visual vocabularies (hundreds of thousands or even millions of words) to support sufficiently precise search. However, when the visual vocabulary is large,the image indexing process becomes computationally expensive due to the fact that the local image descriptors (e.g. SIFT) need to be quantized to the nearest visual words.To this end, this paper proposes a novel method that significantly decreases the time required for the above quantization process. Instead of using hundreds of thousands of visual words for quantization, the proposed method manages to preserve retrieval quality by using a much smaller number of words for indexing. This is achieved by the concept of composite words, i.e. assigning multiple words to a local descriptor in ascending order of distance. We evaluate the proposed method in the Oxford and Paris buildings datasets to demonstrate the validity of the proposed approach.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8133
+%P 98-111
+%@ 978-3-642-40682-9
+%G eng
+
+%0 Conference Paper
+%B IDEAS
+%D 2012
+%T Evolving social data mining and affective analysis methodologies, framework and applications
+%A Athena Vakali
+%E Desai, Bipin C.
+%E Pokorny, Jaroslav
+%E Bernardino, Jorge
+%K evolving social data mining
+%K microblogging data analysis
+%K social affective analysis
+%K Social networking
+%X <p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+%B IDEAS
+%I ACM
+%P 1-7
+%@ 978-1-4503-1234-9
+%G eng
+
+%0 Journal Article
+%J Computers & Electrical Engineering
+%D 2008
+%T A clustering-based prefetching scheme on a Web cache environment
+%A Pallis, George
+%A Athena Vakali
+%A Pokorny, Jaroslav
+%B Computers & Electrical Engineering
+%V 34
+%P 309-323
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 2006
+%T Integrating Caching Techniques on a Content Distribution Network
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%E Manolopoulos, Yannis
+%E Pokorny, Jaroslav
+%E Sellis, Timos K.
+%X <p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDNâ€™ s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4152
+%P 200-215
+%@ 3-540-37899-5
+%G eng
+
+%0 Conference Paper
+%B EDBT Workshops
+%D 2004
+%T An Overview of Web Data Clustering Practices
+%A Athena Vakali
+%A Pokorny, Jaroslav
+%A Dalamagas, Theodore
+%E Lindner, Wolfgang
+%E Mesiti, Marco
+%E Türker, Can
+%E Tzitzikas, Yannis
+%E Athena Vakali
+%K Web Data Clustering
+%X <p>Clustering is a challenging topic in the area of Web data management.Various forms of clustering are required in a wide range of applications, includingfinding mirrored Web pages, detecting copyright violations, and reporting searchresults in a structured way. Clustering can either be performed once offline, (independentlyto search queries), or online (on the results of search queries). Importantefforts have focused on mining Web access logs and to cluster search engine resultson the fly. Online methods based on link structure and text have been appliedsuccessfully to finding pages on related topics. This paper presents an overview ofthe most popular methodologies and implementations in terms of clustering eitherWeb users or Web sources and presents a survey about current status and futuretrends in clustering employed over the Web.</p>
+%B EDBT Workshops
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3268
+%P 597-606
+%@ 3-540-23305-9
+%G eng
+
+%0 Conference Paper
+%B SMC (5)
+%D 2004
+%T A probabilistic validation algorithm for Web users’ clusters
+%A Pallis, George
+%A Angelis, Lefteris
+%A Athena Vakali
+%A Pokorny, Jaroslav
+%B SMC (5)
+%I IEEE
+%P 4129-4134
+%@ 0-7803-8566-7
+%G eng
+

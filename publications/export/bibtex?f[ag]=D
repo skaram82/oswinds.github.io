@@ -1,0 +1,364 @@
+@article {1968,
+	title = {Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior},
+	year = {2018},
+	publisher = {AAAI},
+	address = {Stanford, California},
+	abstract = {<p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+},
+	author = {Antigoni-Maria Founta and Constantinos Djouvas and Despoina Chatzakou and Ilias Leontiadis and Jeremy Blackburn and Gianluca Stringhini and Athena Vakali and Michael Sirivianos and Nicolas Kourtellis}
+}
+@proceedings {1943,
+	title = {Detecting Aggressors and Bullies on Twitter},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {767--768},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Online social networks constitute an integral part of people{\textquoteright}s every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+},
+	keywords = {crowdsourcing, cyber-aggression, cyberbullying, Twitter},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3054211},
+	url = {http://dl.acm.org/citation.cfm?id=3054211},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1944,
+	title = {Hate is not Binary: Studying Abusive Behavior of $\#$GamerGate on Twitter},
+	series = {HT {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Prague, Czech Republic},
+	abstract = {<p>Over the past few years, online bullying and aggression have become increasingly prominent, and manifested in many different forms on social media. However, there is little work analyzing the characteristics of abusive users and what distinguishes them from typical social media users. In this paper, we start addressing this gap by analyzing tweets containing a great amount of abusiveness. We focus on a Twitter dataset revolving around the Gamergate controversy, which led to many incidents of cyberbullying and cyberaggression on various gaming and social media platforms. We study the properties of the users tweeting about Gamergate, the content they post, and the differences in their behavior compared to typical Twitter users.</p>
+
+<p>We find that while their tweets are often seemingly about aggressive and hateful subjects, {\textquoteleft}{\textquoteleft}Gamergaters{\textquoteright}{\textquoteright} do not exhibit common expressions of online anger, and in fact primarily differ from typical users in that their tweets are less joyful. They are also more engaged than typical Twitter users, which is an indication as to how and why this controversy is still ongoing. Surprisingly, we find that Gamergaters are less likely to be suspended by Twitter, thus we analyze their properties to identify differences from typical users and what may have led to their suspension. We perform an unsupervised machine learning analysis to detect clusters of users who, though currently active, could be considered for suspension since they exhibit similar behaviors with suspended users. Finally, we confirm the usefulness of our analyzed features by emulating the Twitter suspension mechanism with a supervised learning method, achieving very good precision and recall.</p>
+},
+	issn = {978-1-4503-4708-2/17/07},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1939,
+	title = {Mean Birds: Detecting Aggression and Bullying on Twitter},
+	series = {WebSci {\textquoteright}17},
+	year = {2017},
+	publisher = {ACM},
+	address = {Troy, NY, USA},
+	abstract = {<p>In recent years, bullying and aggression against users on social media have grown significantly, causing serious consequences to victims of all demographics. In particular, cyberbullying affects more than half of young social media users worldwide, and has also led to teenage suicides, prompted by prolonged and/or coordinated digital harassment. Nonetheless, tools and technologies for understanding and mitigating it are scarce and mostly ineffective. In this paper, we present a principled and scalable approach to detect bullying and aggressive behavior on Twitter. We propose a robust methodology for extracting text, user, and network-based attributes, studying the properties of cyberbullies and aggressors, and what features distinguish them from regular users. We find that bully users post less, participate in fewer online communities, and are less popular than normal users, while aggressors are quite popular and tend to include more negativity in their posts. We evaluate our methodology using a corpus of 1.6M tweets posted over 3 months, and show that machine learning classification algorithms can accurately detect users exhibiting bullying and aggressive behavior, achieving over 90\% AUC.</p>
+},
+	issn = {978-1-4503-4896-6/17/06},
+	url = {https://arxiv.org/abs/1702.06877},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@proceedings {1940,
+	title = {Measuring $\#$GamerGate: A Tale of Hate, Sexism, and Bullying},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {1285-1290},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Over the past few years, online aggression and abusive behaviors have occurred in many different forms and on a variety of platforms. In extreme cases, these incidents have evolved into hate, discrimination, and bullying, and even materialized into real-world threats and attacks against individuals or groups. In this paper, we study the Gamergate controversy. Started in August 2014 in the online gaming world, it quickly spread across various social networking platforms, ultimately leading to many incidents of cyberbullying and cyberaggression. We focus on Twitter, presenting a measurement study of a dataset of 340k unique users and 1.6M tweets to study the properties of these users, the content they post, and how they differ from random Twitter users. We find that users involved in this "Twitter war" tend to have more friends and followers, are generally more engaged and post tweets with negative sentiment, less joy, and more hate than random users. We also perform preliminary measurements on how the Twitter suspension mechanism deals with such abusive behaviors. While we focus on Gamergate, our methodology to collect and analyze tweets related to aggressive and bullying activities is of independent interest.</p>
+},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3053890},
+	url = {http://dl.acm.org/citation.cfm?id=3053890},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@article {1928,
+	title = {Sentiment analysis leveraging emotions and word embeddings},
+	journal = {Expert Systems with Applications},
+	volume = {69},
+	year = {2017},
+	pages = {214 - 224},
+	abstract = {<p>Abstract Sentiment analysis and opinion mining are valuable for extraction of useful subjective information out of text documents. These tasks have become of great importance, especially for business and marketing professionals, since online posted products and services reviews impact markets and consumers shifts. This work is motivated by the fact that automating retrieval and detection of sentiments expressed for certain products and services embeds complex processes and pose research challenges, due to the textual phenomena and the language specific expression variations. This paper proposes a fast, flexible, generic methodology for sentiment detection out of textual snippets which express people{\textquoteright}s opinions in different languages. The proposed methodology adopts a machine learning approach with which textual documents are represented by vectors and are used for training a polarity classification model. Several documents{\textquoteright} vector representation approaches have been studied, including lexicon-based, word embedding-based and hybrid vectorizations. The competence of these feature representations for the sentiment classification task is assessed through experiments on four datasets containing online user reviews in both Greek and English languages, in order to represent high and weak inflection language groups. The proposed methodology requires minimal computational resources, thus, it might have impact in real world scenarios where limited resources is the case.</p>
+},
+	keywords = {Online user reviews},
+	issn = {0957-4174},
+	doi = {http://dx.doi.org/10.1016/j.eswa.2016.10.043},
+	url = {http://www.sciencedirect.com/science/article/pii/S095741741630584X},
+	author = {Maria Giatsoglou and Manolis G. Vozalis and Konstantinos Diamantaras and Athena Vakali and George Sarigiannidis and Konstantinos Ch. Chatzisavvas}
+}
+@article {1942,
+	title = {Vol4All: A Volunteering Platform to Drive Innovation and Citizens Empowerment},
+	journal = {WWW (Companion Volume)},
+	year = {2017},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<div>Cities nowadays have embraced the digital era and continuously strive to merge technological advancements with the benefit of their social capital and communities. A major quest is to place humans and their competences at the center of the efforts towards sustainable and smart cities. Citizen societies have widely accepted and practiced volunteering for years now and already a great number of volunteering actions and networks have flourished, in support and aid to several communities in need. Most popular volunteering networks have greatly\&nbsp; capitalized on the rapid advance and spread of Internet and Web technologies, which are ideal for coordinating and monitoring of the volunteering tasks. The Vol4All platform advances this\&nbsp; trend, by building on extended Internet technologies in its aim to support citizens{\textquoteright} activism\&nbsp; towards novel urban social innovation. Vol4All enables ideas exchange and crowdsourcing by facilitating citizens{\textquoteright} involvement in the realization of community projects. Volunteering actors (initiators, participants, stakeholders) can easily interact via the Vol4All platform which enables volunteering opportunities dynamic sharing, evolution and monitoring. Such opportunities can be initiated by any authorized stakeholders, with a publicly open interface which allows citizens commitment assessment, best practices highlights, and a gamification style of interaction such that volunteering becomes a societal and growth asset.</div>
+},
+	url = {http://dx.doi.org/10.1145/3041021.3054712},
+	author = {Athena Vakali and Ioannis Dematis and Athanasios Tolikas}
+}
+@inproceedings {1922,
+	title = {A multi-layer software architecture framework for adaptive real-time analytics},
+	booktitle = {Workshop on Real-time \& Stream Analytics in Big Data},
+	year = {2016},
+	address = {Washington D.C.},
+	abstract = {<p>Highly distributed applications dominate today{\textquoteright}s software industry posing new challenges for novel software architectures capable of supporting real time processing and analytics. The proposed framework, so called REAλICS, is motivated by the fact that the demand for aggregating current and past big data streams requires new software methodologies, platforms and services. The proposed framework is designed to tackle with data intensive problems in real time environments, via services built dynamically under a fully scalable and elastic Lambda based architecture. REAλICS proposes a multi-layer software platform, based on the lambda architecture paradigm, for aggregating and synchronizing real time and batch processing. The proposed software layers and adaptive components support quality of experience, along with community driven software development. Flexibility and elasticity are targeted by hiding the complexity of bootstrapping and maintaining a multi level architecture, upon which the end user can drive queries over input data streams. REAλICS proposes a flexible and extensible software architecture that can capture<br />
+users preference at the front-end and adapHighly distributed applications dominate today{\textquoteright}s software industry posing new challenges for novel software architectures capable of supporting real time processing and analytics. The proposed framework, so called REAλICS, is motivated by the fact that the demand for aggregating current and past big data streams requires new software methodologies, platforms and services. The proposed framework is designed to tackle with data intensive problems in real time environments, via services built dynamically under a fully scalable and elastic Lambda based architecture. REAλICS proposes a multi-layer software platform, based on the lambda architecture paradigm, for aggregating and synchronizing real time and batch<br />
+processing. The proposed software layers and adaptive components support quality of experience, along with community<br />
+driven software development. Flexibility and elasticity are targeted by hiding the complexity of bootstrapping and maintaining a multi level architecture, upon which the end user can drive queries over input data streams. REAλICS proposes a flexible and extensible software architecture that can capture users preference at the front-end and adapt the appropriate distributed technologies and processes at the back-end. Such a model enables real time analytics in large-scale data driven cloud-based systems.t the appropriate distributed technologies and processes at the back-end. Such a model enables real time analytics in large-scale data driven cloud-based systems.</p>
+},
+	keywords = {big data analytics, cloud based services, real time data management, software architecutures},
+	author = {Athena Vakali and Paschalis Korosoglou and Pavlos Daoglou}
+}
+@inproceedings {conf/icete/KakarontzasACV14,
+	title = {A Conceptual Enterprise Architecture Framework for Smart Cities - A Survey Based Approach},
+	booktitle = {ICE-B},
+	year = {2014},
+	pages = {47-54},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-758-043-7},
+	author = {Kakarontzas, George and Anthopoulos, Leonidas G. and Despoina Chatzakou and Athena Vakali},
+	editor = {Obaidat, Mohammad S. and Holzinger, Andreas and van Sinderen, Marten and Dolog, Peter}
+}
+@inproceedings {conf/wims/PolymerouCV14,
+	title = {EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {20},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Polymerou, Evangelia and Despoina Chatzakou and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/AnthopoulosV14,
+	title = {Foreword to 3M4City Workshop},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {55},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/VakaliAK14,
+	title = {Smart Cities Data Streams Integration: experimenting with Internet of Things and social data flows},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {60},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Athena Vakali and Anthopoulos, Leonidas G. and Krco, Srdjan},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/wims/GiannakidouVM14,
+	title = {Towards a Framework for Social Semiotic Mining},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {21},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Giannakidou, Eirini and Athena Vakali and Mavridis, Nikolaos},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@inproceedings {conf/icdm/ZigkolisKV13,
+	title = {Dissimilarity Features in Recommender Systems},
+	booktitle = {ICDM Workshops},
+	year = {2013},
+	pages = {825-832},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-5109-8},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Athena Vakali},
+	editor = {Wei Ding and Washio, Takashi and Xiong, Hui and Karypis, George and Thuraisingham, Bhavani M. and Cook, Diane J. and Wu, Xindong}
+}
+@inproceedings {conf/ideas/Vakali12,
+	title = {Evolving social data mining and affective analysis methodologies, framework and applications},
+	booktitle = {IDEAS},
+	year = {2012},
+	pages = {1-7},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+},
+	keywords = {evolving social data mining, microblogging data analysis, social affective analysis, Social networking},
+	isbn = {978-1-4503-1234-9},
+	author = {Athena Vakali},
+	editor = {Desai, Bipin C. and Pokorny, Jaroslav and Bernardino, Jorge}
+}
+@inproceedings {conf/fia/SrivastavaV12,
+	title = {Towards a Narrative-Aware Design Framework for Smart Urban Environments},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {166-177},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Srivastava, Lara and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/fia/AnthopoulosV12,
+	title = {Urban Planning and Smart Cities: Interrelations and Reciprocities},
+	booktitle = {Future Internet Assembly},
+	series = {Lecture Notes in Computer Science},
+	volume = {7281},
+	year = {2012},
+	pages = {178-189},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-642-30240-4},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Alvarez, Federico and Cleary, Frances and Daras, Petros and Domingue, John and Galis, Alex and Garcia, Ana and Gavras, Anastasius and Karnouskos, Stamatis and Krco, Srdjan and Li, Man-Sze and Lotz, Volkmar and M{\"u}ller, Henning and Salvadori, Elio and Sassen, Anne-Marie and Schaffers, Hans and Stiller, Burkhard and Tselentis, Georgios and Turkama, Petra and Zahariadis, Theodore B.}
+}
+@inproceedings {conf/mediaeval/PapadopoulosZKV11,
+	title = {CERTH @ MediaEval 2011 Social Event Detection Task},
+	booktitle = {MediaEval},
+	series = {CEUR Workshop Proceedings},
+	volume = {807},
+	year = {2011},
+	publisher = {CEUR-WS.org},
+	organization = {CEUR-WS.org},
+	abstract = {<p>This paper describes the participation of CERTH in the {\^a}{\texteuro}{\'s}SocialEvent Detection Task @ MediaEval 2011{\^a}{\texteuro}{\v t}, which aimsat discovering social events in a large photo collection. Thetask comprises two challenges: (i) identification of soccerevents in the cities of Barcelona and Rome, and (ii) identificationof events taking place in two specific venues. Weadopt an approach that combines spatial and temporal filterswith tag-based location classification models and an ef-ficient photo clustering method. In our best runs, we achieveF-measure and NMI scores of 77.4\% and 0.63 respectivelyfor Challenge 1, and 64\% and 0.38 for Challenge 2.</p>
+},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Larson, Martha and Rae, Adam and Demarty, Claire-Helene and Kofler, Christoph and Metze, Florian and Troncy, Rapha{\"e}l and Mezaris, Vasileios and Jones, Gareth J. F.}
+}
+@inproceedings {conf/mir/PapadopoulosZKKV11,
+	title = {City exploration by use of spatio-temporal analysis and clustering of user contributed photos},
+	booktitle = {ICMR},
+	year = {2011},
+	pages = {65},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+},
+	keywords = {Clustering, content browsing, landmark/event detection, spatio-temporal mining},
+	isbn = {978-1-4503-0336-1},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Natale, Francesco G. B. De and Bimbo, Alberto Del and Hanjalic, Alan and Manjunath, B. S. and Satoh, Shin{\textquoteright}ichi}
+}
+@inproceedings {conf/acii/TsagkalidouKVK11,
+	title = {Emotional Aware Clustering on Micro-blogging Sources},
+	booktitle = {ACII (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {6974},
+	year = {2011},
+	pages = {387-396},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Microblogging services have nowadays become a very popularcommunication tool among Internet users. Since millions of usersshare opinions on different aspects of life everyday, microblogging websites are considered as a credible source for exploring both factual and subjective information. This fact has inspired research in the area of automatic sentiment analysis. In this paper we propose an emotional aware clustering approach which performs sentiment analysis of users tweets onthe basis of an emotional dictionary and groups tweets according to the degree they express a specific set of emotions. Experimental evaluations on datasets derived from Twitter prove the efficiency of the proposed approach.</p>
+},
+	keywords = {Microblogging services, Sentiment analysis, web clustering},
+	isbn = {978-3-642-24599-2},
+	author = {Tsagkalidou, Katerina and Vassiliki A. Koutsonikola and Athena Vakali and Konstantinos Kafetsios},
+	editor = {D{\textquoteright}Mello, Sidney K. and Graesser, Arthur C. and Schuller, Bj{\"o}rn and Martin, Jean-Claude}
+}
+@inproceedings {conf/vsgames/ZigkolisKCKGKV11,
+	title = {Towards a User-Aware Virtual Museum},
+	booktitle = {VS-GAMES},
+	year = {2011},
+	pages = {228-235},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	keywords = {user groups, user preferences, virtual museum},
+	isbn = {978-1-4577-0316-4},
+	author = {Christos Zigkolis and Vassiliki A. Koutsonikola and Despoina Chatzakou and Karagiannidis, Savvas and Maria Giatsoglou and Kosmatopoulos, Andreas and Athena Vakali},
+	editor = {Liarokapis, Fotis and Doulamis, Anastasios D. and Vescoukis, Vassilios}
+}
+@inproceedings {conf/mm/PapadopoulosZKKV10,
+	title = {ClustTour: city exploration by use of hybrid photo clustering},
+	booktitle = {ACM Multimedia},
+	year = {2010},
+	pages = {1617-1620},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+},
+	keywords = {Clustering, event and landmark detection, tagging},
+	isbn = {978-1-60558-933-6},
+	author = {Symeon Papadopoulos and Christos Zigkolis and Kapiris, Stefanos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Bimbo, Alberto Del and Chang, Shih-Fu and Smeulders, Arnold W. M.}
+}
+@inproceedings {CEUR-WS.org/Vol-700/Paper9,
+	title = {Integrating Web 20 Data into Linked Open Data Cloud via Clustering},
+	booktitle = {CEUR Workshop Proceedings ISSN 1613-0073},
+	volume = {700},
+	year = {2010},
+	month = {February},
+	keywords = {FIA-LOD2010 imported},
+	author = {Giannakidou, Eirini and Athena Vakali},
+	editor = {Auer, S{\textquoteright}oren and Decker, Stefan and Hauswirth, Manfred}
+}
+@article {journals/internet/DikaiakosKMPV09,
+	title = {Cloud Computing: Distributed Internet Computing for IT and Scientific Research},
+	journal = {IEEE Internet Computing},
+	volume = {13},
+	number = {5},
+	year = {2009},
+	pages = {10-13},
+	abstract = {<p>Cloud computing is a recent trend in informationtechnology and networking that has the potentialto change radically the way computer servicesare constructed, managed, and delivered. The key drivingforces behind the emergence of cloud computing includethe overcapacity of today{\^a}{\texteuro}{\texttrademark}s large corporate data centers,the ubiquity of broadband and wireless networking, thefalling cost of storage, and progressive improvements innetworking technologies. Cloud computing opens new perspectiveswith profound implications in the area of communicationnetworks, raising new issues in their architecture,design, and implementation.</p>
+},
+	author = {Dikaiakos, Marios D. and Katsaros, Dimitrios and Mehra, Pankaj and Pallis, George and Athena Vakali}
+}
+@inproceedings {conf/hpdc/StamosPVD09,
+	title = {Evaluating the utility of content delivery networks},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {11-20},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+},
+	keywords = {CDN pricing, Content Delivery, network utility, networks},
+	isbn = {978-1-60558-591-8},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Dikaiakos, Marios D.},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@inproceedings {conf/bci/MoussiadesV09,
+	title = {Mining the Community Structure of a Web Site},
+	booktitle = {BCI},
+	year = {2009},
+	pages = {239-244},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-3783-2},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Kefalas, Petros and Stamatis, Demosthenes and Douligeris, Christos}
+}
+@inproceedings {conf/ideas/StamosPTV06,
+	title = {A similarity based approach for integrated Web caching and content replication in CDNs},
+	booktitle = {IDEAS},
+	year = {2006},
+	pages = {239-242},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Web caching and content replication techniques emergedto solve performance problems related to the Web. We proposea generic non-parametric heuristic method that integratesboth techniques under a CDN. We provide experimentationshowing that our method outperforms the so farseparate implementations of Web caching and content replication.Moreover, we show that the performance improvementcompared with an existing algorithm is significant. Wetest all these techniques in a simulation environment undera flash crowd event and a workload of a typical lightweightedCDN operation.</p>
+},
+	author = {Stamos, Konstantinos and Pallis, George and Thomos, Charilaos and Athena Vakali},
+	editor = {Desai, Bipin C. and Gupta, Shyam K.}
+}
+@inproceedings {conf/edbtw/VakaliPD04,
+	title = {An Overview of Web Data Clustering Practices},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {597-606},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Clustering is a challenging topic in the area of Web data management.Various forms of clustering are required in a wide range of applications, includingfinding mirrored Web pages, detecting copyright violations, and reporting searchresults in a structured way. Clustering can either be performed once offline, (independentlyto search queries), or online (on the results of search queries). Importantefforts have focused on mining Web access logs and to cluster search engine resultson the fly. Online methods based on link structure and text have been appliedsuccessfully to finding pages on related topics. This paper presents an overview ofthe most popular methodologies and implementations in terms of clustering eitherWeb users or Web sources and presents a survey about current status and futuretrends in clustering employed over the Web.</p>
+},
+	keywords = {Web Data Clustering},
+	isbn = {3-540-23305-9},
+	author = {Athena Vakali and Pokorny, Jaroslav and Dalamagas, Theodore},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}

@@ -1,0 +1,10 @@
+@article {giatsoglou2014user,
+	title = {User communities evolution in microblogs: A public awareness barometer for real world events},
+	journal = {World Wide Web},
+	year = {2015},
+	pages = {1269-1299},
+	publisher = {Springer US},
+	abstract = {<p>In social media, users{\textquoteright} interactions are affected by real-world events which influence emergence and shifts of opinions and topics. Interactions around an event-related topic can be captured in a weighted network, while identification of connectivity and intensity patterns can improve understanding of users{\textquoteright} interest on the topic. Community detection is studied here as a means to reveal groups of social media users with common interaction patterns in such networks. The proposed community detection approach identifies communities exploiting both structural properties and intensity patterns, while dynamics of communities{\textquoteright} evolution around an event are revealed based on an iterative community detection and mapping scheme. We investigate the importance of considering interactions{\textquoteright} intensity for community detection via a benchmarking process on synthetic graphs and propose a generic framework for: i) modeling user interactions, ii) identifying static and evolving communities around events, iii) extracting quantitative and qualitative measurements from the communities{\textquoteright} timeline, iv) leveraging measurements to understand the events{\textquoteright} impact. Two real-world case studies based on Twitter interactions demonstrate the framework{\textquoteright}s potential for capturing and interpreting associations among communities and events.</p>
+},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}

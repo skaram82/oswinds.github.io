@@ -1,0 +1,12 @@
+@article {journals/ijon/KaburlasosMV09,
+	title = {Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning},
+	journal = {Neurocomputing},
+	volume = {72},
+	number = {10-12},
+	year = {2009},
+	pages = {2121-2133},
+	abstract = {<p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+},
+	keywords = {Clustering, Fuzzy lattices, Graph partitioning, Metric Measurable path, Similarity measure},
+	author = {Kaburlasos, Vassilis G. and Moussiades, Lefteris and Athena Vakali}
+}

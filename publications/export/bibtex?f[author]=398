@@ -1,0 +1,12 @@
+@article {1941,
+	title = {CityDNA: Smart City Dimensions{\textquoteright} Correlations for Identifying Urban Profile},
+	journal = {WWW (Companion Volume)},
+	year = {2017},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<div>Smart cities evolve over multiple themes and areas with the development of cyber-physical systems and smart services that address several urban issues regarding economy, mobility,\&nbsp; environment, people, living and governance. This evolution has bliged the definition of several conceptualization and evaluation models, which respect alternative smart city perspectives. This work proposes smart city profiling with the introduction of the {\textquotedblleft}CityDNA{\textquotedblright} model, ccording which, smart city{\textquoteright}s dimensions{\textquoteright} relevance can be captured and visualized. Based on this model, a smart city{\textquoteright}s profile can be defined and characterized, under a simple comprehensive view of local needs and challenges. A particular smart city scenario is highlighted as a proof of concept for CityDNA and future design and implementation ideas are identified and justified.</div>
+},
+	keywords = {city boroughs, city profiles, DNA structure, Greater London areas, smart cities, smart economy and mobility, smart mobility},
+	url = {http://dx.doi.org/10.1145/3041021.3054714},
+	author = {Vaia Moustaka and Athena Vakali and Leonidas G. Anthopoulos}
+}

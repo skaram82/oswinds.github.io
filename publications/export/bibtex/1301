@@ -1,0 +1,9 @@
+@article {journals/infsof/VakaliM97,
+	title = {Parallel data paths in two-headed disk systems},
+	journal = {Information \& Software Technology},
+	volume = {39},
+	number = {2},
+	year = {1997},
+	pages = {125-135},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}

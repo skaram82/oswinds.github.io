@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2005
+%T FRES-CAR: An Adaptive Cache Replacement Policy
+%X Caching Web objects has become a common practicetowards improving content delivery and users’ servicing.A Web caching framework is characterized by its cachereplacement policy, which identifies the objects (i.e. theelements on a Web page, which include text, graphics,and scripts) to be replaced in a cache upon a requestarrival. In this paper, we present a cache replacementalgorithm (so-called FRES-CAR), which identifies theobjects that should be evicted by considering togetherthree important criteria: object’s frequency, recency andsize. Experimentation under synthetic workloads hasshown that FRES-CAR achieves higher hit rates whencompared with the most popular and existing algorithms.
+%G eng
+

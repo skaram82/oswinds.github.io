@@ -1,0 +1,47 @@
+%0 Conference Paper
+%B ICMR
+%D 2011
+%T City exploration by use of spatio-temporal analysis and clustering of user contributed photos
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Kapiris, Stefanos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Natale, Francesco G. B. De
+%E Bimbo, Alberto Del
+%E Hanjalic, Alan
+%E Manjunath, B. S.
+%E Satoh, Shin’ichi
+%K Clustering
+%K content browsing
+%K landmark/event detection
+%K spatio-temporal mining
+%X <p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of spatio-temporal analysis and clusteringof user contributed photos. Our framework analyzes thespatial distribution of large city-centered collections of usercontributed photos at different time scales in order to indexthe most popular spots of a city in a time-aware manner.Subsequently, the photo sets belonging to the same spatiotemporalcontext are clustered in order to extract representativephotos for each spot. The resulting applicationenables users to obtain flexible summaries of the most importantspots in a city given a temporal slice (time of theday, month, season). The demonstration will be based on aphoto dataset covering major European cities.</p>
+%B ICMR
+%I ACM
+%P 65
+%@ 978-1-4503-0336-1
+%G eng
+
+%0 Conference Paper
+%B ACM Multimedia
+%D 2010
+%T ClustTour: city exploration by use of hybrid photo clustering
+%A Symeon Papadopoulos
+%A Christos Zigkolis
+%A Kapiris, Stefanos
+%A Yiannis Kompatsiaris
+%A Athena Vakali
+%E Bimbo, Alberto Del
+%E Chang, Shih-Fu
+%E Smeulders, Arnold W. M.
+%K Clustering
+%K event and landmark detection
+%K tagging
+%X <p>We present a technical demonstration of an online city explorationapplication that helps users identify interesting spotsin a city by use of photo clusters corresponding to landmarksand events. Our application, called ClustTour, is based onan efficient landmark and event detection scheme for taggedphoto collections. The proposed scheme relies on the combinationof a graph-based photo clustering algorithm, makinguse of both visual and tag information of photos, with acluster classification and merging module. ClustTour createsa map-based visualization of the identified photo clustersthat are classified in prominent categories and are filterableby time and tag. We believe that such an applicationcan greatly facilitate the task of knowing a city through itslandmarks and events. So far, the demo has been based on alarge photo dataset focused on Barcelona, and it is graduallyexpanding to contain photo clusters of several major cities ofEurope. Furthermore, an Android application is developedthat complements the web-based version of ClustTour.</p>
+%B ACM Multimedia
+%I ACM
+%P 1617-1620
+%@ 978-1-60558-933-6
+%G eng
+

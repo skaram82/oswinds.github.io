@@ -1,0 +1,7 @@
+@inproceedings {conf/iceis/ZengLV04,
+	title = {An XML-Based Bootstrapping Method for Pattern Acquisition},
+	booktitle = {ICEIS (2)},
+	year = {2004},
+	pages = {303-308},
+	author = {Zeng, Xingjie and Li, Fang and Zhang, Dongmo and Athena Vakali}
+}

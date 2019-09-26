@@ -1,0 +1,122 @@
+@article {1968,
+	title = {Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior},
+	year = {2018},
+	publisher = {AAAI},
+	address = {Stanford, California},
+	abstract = {<p>In recent years, offensive, abusive and hateful language, sexism, racism and other types of aggressive and cyberbullying behavior have been manifesting with increased frequency, and in many online social media platforms. In fact, past scientific work focused on studying these forms in popular media, such as Facebook and Twitter. Building on such work, we present an 8-month study of the various forms of abusive behavior on Twitter, in a holistic fashion. Departing from past work, we examine a wide variety of labeling schemes, which cover different forms of abusive behavior, at the same time. We propose an incremental and iterative methodology, that utilizes the power of crowdsourcing to annotate a large scale collection of tweets with a set of abuse-related labels. In fact, by applying our methodology including statistical analysis for label merging or elimination, we identify a reduced but robust set of labels. Finally, we offer a first overview and findings of our collected and annotated dataset of 100 thousand tweets, which we make publicly available for further scientific exploration.</p>
+},
+	author = {Antigoni-Maria Founta and Constantinos Djouvas and Despoina Chatzakou and Ilias Leontiadis and Jeremy Blackburn and Gianluca Stringhini and Athena Vakali and Michael Sirivianos and Nicolas Kourtellis}
+}
+@inproceedings {DBLP:conf/pakdd/GiatsoglouCSBFV15,
+	title = {ND-SYNC: Detecting Synchronized Fraud Activities},
+	booktitle = {Advances in Knowledge Discovery and Data Mining, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015, Proceedings, Part II},
+	year = {2015},
+	pages = {201{\^a}{\texteuro}{\textquotedblleft}214},
+	doi = {10.1007/978-3-319-18032-8_16},
+	url = {http://dx.doi.org/10.1007/978-3-319-18032-8_16},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Alex Beutel and Christos Faloutsos and Athena Vakali}
+}
+@inproceedings {conf/pakdd/GiatsoglouCSFV15,
+	title = {Retweeting Activity on Twitter: Signs of Deception},
+	booktitle = {PAKDD (1)},
+	series = {Lecture Notes in Computer Science},
+	volume = {9077},
+	year = {2015},
+	pages = {122-134},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-319-18037-3},
+	author = {Maria Giatsoglou and Despoina Chatzakou and Neil Shah and Christos Faloutsos and Athena Vakali},
+	editor = {Cao, Tru and Lim, Ee-Peng and Zhou, Zhi-Hua and Ho, Tu-Bao and Cheung, David and Motoda, Hiroshi}
+}
+@article {journals/mta/ZigkolisPFKV14,
+	title = {Collaborative event annotation in tagged photo collections},
+	journal = {Multimedia Tools Appl.},
+	volume = {70},
+	number = {1},
+	year = {2014},
+	pages = {89-118},
+	abstract = {<p>Events constitute a significant means of multimedia content organizationand sharing. Despite the recent interest in detecting events and annotating mediacontent in an event-centric way, there is currently insufficient support for managingevents in large-scale content collections and limited understanding of the eventannotation process. To this end, this paper presents CrEve, a collaborative eventannotation framework which uses content found in social media sites with theprime objective to facilitate the annotation of large media corpora with eventinformation. The proposed annotation framework could significantly benefit socialmedia research due to the proliferation of event-related user-contributed content.We demonstrate that, compared to a standard {\^a}{\texteuro}{\'s}browse-and-annotate{\^a}{\texteuro}{\v t} interface,CrEve leads to a 19\% increase in the coverage of the generated ground truth in alarge-scale annotation experiment. Furthermore, the paper discusses the results of auser study that quantifies the performance of CrEve and the contribution of differentevent dimensions in the event annotation process. The study confirms the prevalenceof spatio-temporal queries as the prime option of discovering event-related contentin a large collection. In addition, textual queries and social cues (content contributor) were also found to be significant as event search dimensions. Finally, it demonstratesthe potential of employing automatic photo clustering methods with the goal offacilitating event annotation.</p>
+},
+	keywords = {Event authoring, Ground truth generation, Multimedia annotation},
+	author = {Christos Zigkolis and Symeon Papadopoulos and Filippou, George and Yiannis Kompatsiaris and Athena Vakali}
+}
+@article {journals/ras/AliSGVFVM14,
+	title = {Contextual object category recognition for RGB-D scene labeling},
+	journal = {Robotics and Autonomous Systems},
+	volume = {62},
+	number = {2},
+	year = {2014},
+	pages = {241-256},
+	author = {Ali, Haider and Shafait, Faisal and Giannakidou, Eirini and Athena Vakali and Figueroa, Nadia and Varvadoukas, Theodoros and Mavridis, Nikolaos}
+}
+@inproceedings {conf/data/VakaliCKA13,
+	title = {Social Data Sentiment Analysis in Smart Environments - Extending Dual Polarities for Crowd Pulse Capturing},
+	booktitle = {DATA},
+	year = {2013},
+	pages = {175-182},
+	publisher = {SciTePress},
+	organization = {SciTePress},
+	isbn = {978-989-8565-67-9},
+	author = {Athena Vakali and Despoina Chatzakou and Vassiliki A. Koutsonikola and Andreadis, George},
+	editor = {Helfert, Markus and Francalanci, Chiara and Filipe, Joaquim}
+}
+@inproceedings {conf/rcis/MoussiadesV09,
+	title = {Benchmark graphs for the evaluation of Clustering Algorithms},
+	booktitle = {RCIS},
+	year = {2009},
+	pages = {197-206},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.</p>
+},
+	keywords = {Artificial graph, Community structure, Graph clustering, Intra linkage ratio, Modularity},
+	isbn = {978-1-4244-2864-9},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Flory, Andre and Collard, Martine}
+}
+@inproceedings {conf/hpdc/StamosPVD09,
+	title = {Evaluating the utility of content delivery networks},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {11-20},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+},
+	keywords = {CDN pricing, Content Delivery, network utility, networks},
+	isbn = {978-1-60558-591-8},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali and Dikaiakos, Marios D.},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@inproceedings {conf/hpdc/FortinoMPV09,
+	title = {Next generation content networks: trends and challenges},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	pages = {49},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-60558-591-8},
+	author = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@proceedings {conf/hpdc/2009upgrade,
+	title = {Proceedings of the 4th Workshop on the Use of P2P, GRID and Agents for the Development of Content Networks, UPGRADE-CN{\^a}{\texteuro}{\texttrademark}09, jointly held with the 18th International Symposium on High-Performance Distributed Computing (HPDC-18 2009), 10 June 2009, Ga},
+	booktitle = {UPGRADE-CN},
+	year = {2009},
+	publisher = {ACM},
+	isbn = {978-1-60558-591-8},
+	editor = {Fortino, Giancarlo and Mastroianni, Carlo and Al-Mukaddim Khan Pathan and Athena Vakali}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}

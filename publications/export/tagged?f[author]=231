@@ -1,0 +1,105 @@
+%0 Journal Article
+%J IJWIS
+%D 2009
+%T A new approach to web users clustering and validation: a divergence-based scheme
+%A Vassiliki A. Koutsonikola
+%A Petridou, Sophia G.
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%K Cluster analysis
+%K Internet Data mining
+%K User studies
+%X <p>Purpose â€“ Web usersâ€™ clustering is an important mining task since it contributes in identifying usagepatterns, a beneficial task for a wide range of applications that rely on the web. The purpose of thispaper is to examine the usage of Kullback-Leibler (KL) divergence, an information theoretic distance,as an alternative option for measuring distances in web users clustering.Design/methodology/approach â€“ KL-divergence is compared with other well-known distancemeasures and clustering results are evaluated using a criterion function, validity indices, andgraphical representations. Furthermore, the impact of noise (i.e. occasional or mistaken page visits) isevaluated, since it is imperative to assess whether a clustering process exhibits tolerance in noisyenvironments such as the web.Findings â€“ The proposed KL clustering approach is of similar performance when compared withother distance measures under both synthetic and real data workloads. Moreover, imposing extranoise on real data, the approach shows minimum deterioration among most of the other conventionaldistance measures.Practical implications â€“ The experimental results show that a probabilistic measure such asKL-divergence has proven to be quite efficient in noisy environments and thus constitute a goodalternative, the web users clustering problem.Originality/value â€“ This work is inspired by the usage of divergence in clustering of biological dataand it is introduced by the authors in the area of web clustering. According to the experimental resultspresented in this paper, KL-divergence can be considered as a good alternative for measuringdistances in noisy environments such as the web.</p>
+%B IJWIS
+%V 5
+%P 348-371
+%G eng
+
+%0 Journal Article
+%J IEEE Trans. Knowl. Data Eng.
+%D 2008
+%T Time-Aware Web Users’ Clustering
+%A Petridou, Sophia G.
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%B IEEE Trans. Knowl. Data Eng.
+%V 20
+%P 653-667
+%G eng
+
+%0 Conference Paper
+%B ICCSA (2)
+%D 2006
+%T A Divergence-Oriented Approach for Web Users Clustering
+%A Petridou, Sophia G.
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%E Gavrilova, Marina L.
+%E Gervasi, Osvaldo
+%E Kumar, Vipin
+%E Tan, Chih Jeng Kenneth
+%E Taniar, David
+%E LaganĂ , Antonio
+%E Mun, Youngsong
+%E Choo, Hyunseung
+%X Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective functionâ€™s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.
+%B ICCSA (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 3981
+%P 1229-1238
+%@ 3-540-34072-6
+%G eng
+
+%0 Journal Article
+%J Neurocomputing
+%D 2004
+%T A learning-automata-based controller for client/server systems
+%A Papadimitriou, Georgios I.
+%A Athena Vakali
+%A Pomportsis, Andreas S.
+%K client/server systems
+%K learning automata
+%K polling policies
+%K throughput improvement
+%K time-delay
+%X <p>Polling policies have been introduced to simplifythe accessing process in client/server systems by acentralized control access scheme. This paper considers aclient/server model which employs a polling policy as itsaccess strategy. We propose a learning-automata-based approachfor polling in order to improve the throughput-delayperformance of the system. Each client has an associatedqueue and the server performs selective polling such thatthe next client to be served is identified by a learning automaton.The learning automaton updates each clientâ€™schoice probability according to the feedback information.Under the considered approach, a clientâ€™s choice probabilityasymptotically tends to be proportional to the probabilitythat this client is ready. Simulation results have shown thatthe proposed polling policy is beneficial in comparison tothe conventional round-robin polling when operating underbursty traffic conditions. The benefits are significant for thedelay reduction in the considered client/server system.</p>
+%B Neurocomputing
+%V 61
+%P 381-394
+%G eng
+
+%0 Journal Article
+%J Computers & Electrical Engineering
+%D 2001
+%T A feedback-based model for I/O servicing
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%A Pomportsis, Andreas S.
+%B Computers & Electrical Engineering
+%V 27
+%P 309-322
+%G eng
+
+%0 Conference Paper
+%B HPCN Europe
+%D 2000
+%T A New Approach to the Design of High Performance Multiple Disk Subsystems: Dynamic Load Balancing Schemes
+%A Athena Vakali
+%A Papadimitriou, Georgios I.
+%A Pomportsis, Andreas S.
+%E Bubak, Marian
+%E Afsarmanesh, Hamideh
+%E Williams, Roy
+%E Hertzberger, Louis O.
+%X The performance of storage subsystems has not followed therapid improvements in processors technology, despite the increased capacityand density in storage medium. Here, we introduce a new modelbased on the idea of enhancing the I/O subsystem controller capabilitiesby dynamic load balancing on a storage subsystem of multiple disk drives.The request servicing is modified such that each request is directed to themost appropriate disk drive towards servicing performance improvement.The redirection is performed by a proposed algorithm which considersthe disk drive queues and the disk drives â€śpopularityâ€ť. The proposed requestservicing has been simulated and the load balancing approach hasbeen shown quite effective as compared to conventional request servicing.
+%B HPCN Europe
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1823
+%P 610-613
+%@ 3-540-67553-1
+%G eng
+

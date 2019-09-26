@@ -1,0 +1,9 @@
+@article {journals/cee/VakaliT02,
+	title = {Video data storage policies: an access frequency based approach},
+	journal = {Computers \& Electrical Engineering},
+	volume = {28},
+	number = {6},
+	year = {2002},
+	pages = {447-464},
+	author = {Athena Vakali and Terzi, Evimaria}
+}

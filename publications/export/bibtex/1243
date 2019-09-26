@@ -1,0 +1,9 @@
+@article {journals/jbi/TheodosiouAV08,
+	title = {Non-linear correlation of content and metadata information extracted from biomedical article datasets},
+	journal = {Journal of Biomedical Informatics},
+	volume = {41},
+	number = {1},
+	year = {2008},
+	pages = {202-216},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}

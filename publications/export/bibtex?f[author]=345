@@ -1,0 +1,102 @@
+@proceedings {conf/adbis/2013-2,
+	title = {New Trends in Databases and Information Systems, 17th East European Conference on Advances in Databases and Information Systems},
+	booktitle = {ADBIS (2)},
+	series = {Advances in Intelligent Systems and Computing},
+	volume = {241},
+	year = {2014},
+	month = {04/2013},
+	publisher = {Springer},
+	address = {Genoa, Italy},
+	isbn = {978-3-319-01863-8},
+	editor = {Barbara Catania and Cerquitelli, Tania and Chiusano, Silvia and Guerrini, Giovanna and K{\"a}mpf, Mirko and Kemper, Alfons and Novikov, Boris and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@proceedings {journals/tlsdkcs/2014-15,
+	title = {Transactions on Large-Scale Data- and Knowledge-Centered Systems},
+	booktitle = {T. Large-Scale Data- and Knowledge-Centered Systems},
+	series = {Lecture Notes in Computer Science},
+	volume = {8920},
+	year = {2014},
+	publisher = {Springer},
+	isbn = {978-3-662-45760-3},
+	editor = {Hameurlain, Abdelkader and K{\"u}ng, Josef and Wagner, Roland and Barbara Catania and Guerrini, Giovanna and Palpanas, Themis and Pokorny, Jaroslav and Athena Vakali}
+}
+@inproceedings {conf/adbis/KastrinakisPV13,
+	title = {Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {8133},
+	year = {2013},
+	pages = {98-111},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Multimedia data indexing for content-based retrieval has attractedsignificant attention in recent years due to the commoditizationof multimedia capturing equipment and the widespread adoption of social networking platforms as means for sharing media content online. Due to the very large amounts of multimedia content, notably images, produced and shared online by people, a very important requirement for multimedia indexing approaches pertains to their efficiency both in terms of computation and memory usage. A common approach to support query-by-example image search is based on the extraction of visual words from images and their indexing by means of inverted indices, a method proposed and popularized in the field of text retrieval.The main challenge that visual word indexing systems currently facearises from the fact that it is necessary to build very large visual vocabularies (hundreds of thousands or even millions of words) to support sufficiently precise search. However, when the visual vocabulary is large,the image indexing process becomes computationally expensive due to the fact that the local image descriptors (e.g. SIFT) need to be quantized to the nearest visual words.To this end, this paper proposes a novel method that significantly decreases the time required for the above quantization process. Instead of using hundreds of thousands of visual words for quantization, the proposed method manages to preserve retrieval quality by using a much smaller number of words for indexing. This is achieved by the concept of composite words, i.e. assigning multiple words to a local descriptor in ascending order of distance. We evaluate the proposed method in the Oxford and Paris buildings datasets to demonstrate the validity of the proposed approach.</p>
+},
+	keywords = {composite visual word, local descriptors, multimedia data indexing, visual word},
+	isbn = {978-3-642-40682-9},
+	author = {Kastrinakis, Dimitrios and Symeon Papadopoulos and Athena Vakali},
+	editor = {Barbara Catania and Guerrini, Giovanna and Pokorny, Jaroslav}
+}
+@inproceedings {conf/ideas/Vakali12,
+	title = {Evolving social data mining and affective analysis methodologies, framework and applications},
+	booktitle = {IDEAS},
+	year = {2012},
+	pages = {1-7},
+	publisher = {ACM},
+	organization = {ACM},
+	abstract = {<p>Social networks drive todays opinions and content diffusion.Large scale, distributed and unpredictable social data streams areproduced and such evolving data production offers the ground forthe data mining and analysis tasks. Such social data streamsembed human reactions and inter-relationships and affective andemotional analysis has become rather important in todaysapplications. This work highlights the major data structures andmethodologies used in evolving social data mining and proceedsto the relevant affective analysis techniques. A particularframework is outlined along with indicative applications whichemploy evolving social data analysis with emphasis on theseminal criteria of topic, location and time. Such mining andanalysis overview is beneficial for various scientific andenterpreneural audiences and communities in the socialnetworking area.</p>
+},
+	keywords = {evolving social data mining, microblogging data analysis, social affective analysis, Social networking},
+	isbn = {978-1-4503-1234-9},
+	author = {Athena Vakali},
+	editor = {Desai, Bipin C. and Pokorny, Jaroslav and Bernardino, Jorge}
+}
+@article {journals/cee/PallisVP08,
+	title = {A clustering-based prefetching scheme on a Web cache environment},
+	journal = {Computers \& Electrical Engineering},
+	volume = {34},
+	number = {4},
+	year = {2008},
+	pages = {309-323},
+	author = {Pallis, George and Athena Vakali and Pokorny, Jaroslav}
+}
+@inproceedings {conf/adbis/StamosPV06,
+	title = {Integrating Caching Techniques on a Content Distribution Network},
+	booktitle = {ADBIS},
+	series = {Lecture Notes in Computer Science},
+	volume = {4152},
+	year = {2006},
+	pages = {200-215},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDN{\^a}{\texteuro}{\texttrademark} s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+},
+	isbn = {3-540-37899-5},
+	author = {Stamos, Konstantinos and Pallis, George and Athena Vakali},
+	editor = {Manolopoulos, Yannis and Pokorny, Jaroslav and Sellis, Timos K.}
+}
+@inproceedings {conf/edbtw/VakaliPD04,
+	title = {An Overview of Web Data Clustering Practices},
+	booktitle = {EDBT Workshops},
+	series = {Lecture Notes in Computer Science},
+	volume = {3268},
+	year = {2004},
+	pages = {597-606},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {<p>Clustering is a challenging topic in the area of Web data management.Various forms of clustering are required in a wide range of applications, includingfinding mirrored Web pages, detecting copyright violations, and reporting searchresults in a structured way. Clustering can either be performed once offline, (independentlyto search queries), or online (on the results of search queries). Importantefforts have focused on mining Web access logs and to cluster search engine resultson the fly. Online methods based on link structure and text have been appliedsuccessfully to finding pages on related topics. This paper presents an overview ofthe most popular methodologies and implementations in terms of clustering eitherWeb users or Web sources and presents a survey about current status and futuretrends in clustering employed over the Web.</p>
+},
+	keywords = {Web Data Clustering},
+	isbn = {3-540-23305-9},
+	author = {Athena Vakali and Pokorny, Jaroslav and Dalamagas, Theodore},
+	editor = {Lindner, Wolfgang and Mesiti, Marco and T{\"u}rker, Can and Tzitzikas, Yannis and Athena Vakali}
+}
+@inproceedings {conf/smc/PallisAVP04,
+	title = {A probabilistic validation algorithm for Web users{\textquoteright} clusters},
+	booktitle = {SMC (5)},
+	year = {2004},
+	pages = {4129-4134},
+	publisher = {IEEE},
+	organization = {IEEE},
+	isbn = {0-7803-8566-7},
+	author = {Pallis, George and Angelis, Lefteris and Athena Vakali and Pokorny, Jaroslav}
+}

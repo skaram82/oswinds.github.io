@@ -1,0 +1,15 @@
+@article {Pallis2006_4,
+	title = {Insight and Perspectives for Content Delivery Networks},
+	journal = {Commun. ACM},
+	volume = {49},
+	number = {1},
+	year = {2006},
+	month = {January},
+	pages = {101{\textendash}106},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {imported},
+	issn = {0001-0782},
+	doi = {10.1145/1107458.1107462},
+	author = {Pallis, George and Athena Vakali}
+}

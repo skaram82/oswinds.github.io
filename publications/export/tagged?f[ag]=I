@@ -1,0 +1,106 @@
+%0 Book Section
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%D 2016
+%T A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads
+%A Vakali, Athena
+%A Kitmeridis, Nikolaos
+%A Panourgia, Maria
+%E Angelov, Plamen
+%E Manolopoulos, Yannis
+%E Iliadis, Lazaros
+%E Roy, Asim
+%E Vellasco, Marley
+%X <p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics’ and trends’ early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%I Springer International Publishing
+%C Cham
+%P 186–194
+%@ 978-3-319-47898-2
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-47898-2_20
+%R 10.1007/978-3-319-47898-2_20
+
+%0 Conference Proceedings
+%B Advances in Intelligent Systems and Computing
+%D 2015
+%T New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II
+%E Nick Bassiliades
+%E Mirjana Ivanovic
+%E Margita Kon-Popovska
+%E Yannis Manolopoulos
+%E Themis Palpanas
+%E Goce Trajcevski
+%E Athena Vakali
+%B Advances in Intelligent Systems and Computing
+%S 
+%I Springer
+%V 312
+%@ 978-3-319-10517-8
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-10518-5
+%R 10.1007/978-3-319-10518-5
+
+%0 Conference Paper
+%B ICT-GLOW
+%D 2011
+%T Utilization-Aware Redirection Policy in CDN: A Case for Energy Conservation
+%A ul Islam, Saif
+%A Stamos, Konstantinos
+%A Pierson, Jean-Marc
+%A Athena Vakali
+%E Kranzlmller, Dieter
+%E Tjoa, A Min
+%K CDNs
+%K Energy conservation
+%K QoE
+%X <p>Due to the gradual and rapid increase in Information andCommunication Technology (ICT) industry, it is very important to introduce energy efficient techniques and infrastructures in large scale distributed systems. Content Distribution Networks (CDNs) are one of these popular systems which try to make the contents closer to the widely dispersed Internet users. A Content Distribution Network provides its services by using a number of surrogate servers geographicallydistributed in the web. Surrogate servers have the copies of the original contents belonging to the origin server, depending on their storage capacity.When a client requests for some particular contents from a surrogateserver, either this request can be fulfilled directly by it or in case of absence of the requested contents, surrogate servers cooperate with eachother or with the origin server. In this paper, our focus is on the surrogate servers utilization and using it as a parameter to conserve energy in CDNs while trying to maintain an acceptable Quality of Experience (QoE).</p>
+%B ICT-GLOW
+%S Lecture Notes in Computer Science
+%I Springer
+%V 6868
+%P 180-187
+%@ 978-3-642-23446-0
+%G eng
+
+%0 Conference Paper
+%B ICDE
+%D 2002
+%T A Distributed Database Server for Continuous Media
+%A Aref, Walid G.
+%A Catlin, Ann Christine
+%A Elmagarmid, Ahmed K.
+%A Fan, Jianping
+%A Guo, J.
+%A Hammad, Moustafa A.
+%A Ilyas, Ihab F.
+%A Marzouk, Mirette S.
+%A Prabhakar, Sunil
+%A Rezgui, Abdelmounaam
+%A Teoh, S.
+%A Terzi, Evimaria
+%A Tu, Yi-Cheng
+%A Athena Vakali
+%A Zhu, Xingquan
+%E Agrawal, Rakesh
+%E Dittrich, Klaus R.
+%X In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.
+%B ICDE
+%I IEEE Computer Society
+%P 490-491
+%@ 0-7695-1531-2
+%G eng
+
+%0 Conference Paper
+%B International Conference on Internet Computing (1)
+%D 2001
+%T Security Model for XML Data
+%A Ilioudis, Christos
+%A Pangalos, George
+%A Athena Vakali
+%K Role Based Access Control
+%K XML Security
+%X <p>The significance of XML technology for sharing data over the Internet is being rapidly recognised. In this paper, we examine the security problems related to XML data and present our approach, the XML Security model, for enforcing security policies in XML based Information systems. Our methodology has been based on the study of the XML data model, on the identification of the security requirements of XML Information systems and on the survey of security models which have been proposed to support the conventional data models(relational, object-oriented, hypertext etc). The proposed approach takes into account and exploits the specific characteristics of XML data and incorporates the flexibility of Role based Access Control policies.</p>
+%B International Conference on Internet Computing (1)
+%P 400-406
+%G eng
+

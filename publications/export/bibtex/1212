@@ -1,0 +1,9 @@
+@article {journals/ipm/MoussiadesV10,
+	title = {Clustering dense graphs: A web site graph paradigm},
+	journal = {Inf. Process. Manage.},
+	volume = {46},
+	number = {3},
+	year = {2010},
+	pages = {247-267},
+	author = {Moussiades, Lefteris and Athena Vakali}
+}

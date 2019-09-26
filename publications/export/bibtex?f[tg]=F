@@ -1,0 +1,90 @@
+@inproceedings {conf/wims/AnthopoulosV14,
+	title = {Foreword to 3M4City Workshop},
+	booktitle = {WIMS},
+	year = {2014},
+	pages = {55},
+	publisher = {ACM},
+	organization = {ACM},
+	isbn = {978-1-4503-2538-7},
+	author = {Anthopoulos, Leonidas G. and Athena Vakali},
+	editor = {Akerkar, Rajendra and Bassiliades, Nick and Davies, John and Ermolayev, Vadim}
+}
+@article {1816,
+	title = {A fuzzy bi-clustering approach to correlate web users and pages},
+	year = {2009},
+	abstract = {<p>With the rapid development of information technology, thesignificance of clustering in the process of delivering information to users isbecoming more eminent. Especially in the web information space, clusteringanalysis can prove particularly beneficial for a variety of applications such asweb personalisation and profiling, caching and prefetching and content deliverynetworks. In this paper, we propose a bi-clustering approach, which identifiesgroups of related web users and pages. The proposed approach is a three-stepprocess that relies on the principles of spectral clustering analysis and providesa fuzzy relation scheme for the revealed users{\textquoteright} and pages{\textquoteright} clusters. Experimentshave been conducted on both synthetic and real datasets to prove the proposedmethod{\textquoteright}s efficiency and reveal hidden knowledge.</p>
+}
+}
+@article {journals/ijkwi/KoutsonikolaV09,
+	title = {A fuzzy bi-clustering approach to correlate web users and pages},
+	journal = {I. J. Knowledge and Web Intelligence},
+	volume = {1},
+	number = {1/2},
+	year = {2009},
+	pages = {3-23},
+	abstract = {<p>With the rapid development of information technology, thesignificance of clustering in the process of delivering information to users isbecoming more eminent. Especially in the web information space, clusteringanalysis can prove particularly beneficial for a variety of applications such asweb personalisation and profiling, caching and prefetching and content deliverynetworks. In this paper, we propose a bi-clustering approach, which identifiesgroups of related web users and pages. The proposed approach is a three-stepprocess that relies on the principles of spectral clustering analysis and providesa fuzzy relation scheme for the revealed users{\^a}{\texteuro}{\texttrademark} and pages{\^a}{\texteuro}{\texttrademark} clusters. Experimentshave been conducted on both synthetic and real datasets to prove the proposedmethod{\^a}{\texteuro}{\texttrademark}s efficiency and reveal hidden knowledge.</p>
+},
+	keywords = {fuzzy bi-clustering, spectral analysis, web pages, web users},
+	author = {Vassiliki A. Koutsonikola and Athena Vakali}
+}
+@article {journals/ijon/KaburlasosMV09,
+	title = {Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning},
+	journal = {Neurocomputing},
+	volume = {72},
+	number = {10-12},
+	year = {2009},
+	pages = {2121-2133},
+	abstract = {<p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+},
+	keywords = {Clustering, Fuzzy lattices, Graph partitioning, Metric Measurable path, Similarity measure},
+	author = {Kaburlasos, Vassilis G. and Moussiades, Lefteris and Athena Vakali}
+}
+@article {1815,
+	title = {Fuzzy lattice reasoning (FLR) type neural computation for weighted graph partitioning},
+	year = {2009},
+	abstract = {<p>The fuzzy lattice reasoning (FLR) neural network was introduced lately based on an inclusion measurefunction. This work presents a novel FLR extension, namely agglomerative similarity measure FLR, orasmFLR for short, for clustering based on a similarity measure function, the latter (function) may also bebased on a metric. We demonstrate application in a metric space emerging from a weighted graphtowards partitioning it. The asmFLR compares favorably with four alternative graph-clusteringalgorithms from the literature in a series of computational experiments on artificial data. In addition,our work introduces a novel index for the quality of clustering, which (index) compares favorably withtwo popular indices from the literature.</p>
+}
+}
+@inproceedings {1831,
+	title = {FRES-CAR: An Adaptive Cache Replacement Policy},
+	year = {2005},
+	abstract = {Caching Web objects has become a common practicetowards improving content delivery and users{\textquoteright} servicing.A Web caching framework is characterized by its cachereplacement policy, which identifies the objects (i.e. theelements on a Web page, which include text, graphics,and scripts) to be replaced in a cache upon a requestarrival. In this paper, we present a cache replacementalgorithm (so-called FRES-CAR), which identifies theobjects that should be evicted by considering togetherthree important criteria: object{\textquoteright}s frequency, recency andsize. Experimentation under synthetic workloads hasshown that FRES-CAR achieves higher hit rates whencompared with the most popular and existing algorithms. }
+}
+@inproceedings {conf/wiri/PallisVS05,
+	title = {FRES-CAR: An Adaptive Cache Replacement Policy},
+	booktitle = {WIRI},
+	year = {2005},
+	pages = {74-81},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {<p>Caching Web objects has become a common practicetowards improving content delivery and users{\^a}{\texteuro}{\texttrademark} servicing.A Web caching framework is characterized by its cachereplacement policy, which identifies the objects (i.e. theelements on a Web page, which include text, graphics,and scripts) to be replaced in a cache upon a requestarrival. In this paper, we present a cache replacementalgorithm (so-called FRES-CAR), which identifies theobjects that should be evicted by considering togetherthree important criteria: object{\^a}{\texteuro}{\texttrademark}s frequency, recency andsize. Experimentation under synthetic workloads hasshown that FRES-CAR achieves higher hit rates whencompared with the most popular and existing algorithms.</p>
+},
+	isbn = {0-7695-2414-1},
+	author = {Pallis, George and Athena Vakali and Sidiropoulos, Eythimis}
+}
+@inproceedings {conf/dexaw/TheodosiouAV05,
+	title = {Functional Annotation of Genes through Statistical Analysis of Biomedical Articles},
+	booktitle = {DEXA Workshops},
+	year = {2005},
+	pages = {585-589},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.},
+	isbn = {0-7695-2424-9},
+	author = {Theodosiou, Theodosios and Angelis, Lefteris and Athena Vakali}
+}
+@inproceedings {1832,
+	title = {Functional annotation of genes through statistical analysis of biomedical articles},
+	year = {2005},
+	abstract = {<p>One of the most elaborate and important tasks inbiology is the functional annotation of genes.Biologists have developed standardized and structuredvocabularies, called bio-ontologies, to assist them indescribing the different functions. A critical issue inthe assignment of functions to genes is the utilizationof knowledge from published biomedical articles. Thepurpose of this paper is to present a unified andcomprehensive statistical methodology for functionallyannotating genes using biomedical literature.Specifically, classification models are built using thediscriminant analysis method while validation,analysis and interpretation of the results is based ongraphical methods and various performance metricsand techniques. The general conclusions from thestudy are very promising, in the sense that theproposed methodology not only performs well in theassignment of functions to genes, but also providesuseful and interpretable results regarding thediscriminating power of certain keywords in the texts.</p>
+}
+}
+@article {journals/cee/VakaliPP01,
+	title = {A feedback-based model for I/O servicing},
+	journal = {Computers \& Electrical Engineering},
+	volume = {27},
+	number = {4},
+	year = {2001},
+	pages = {309-322},
+	author = {Athena Vakali and Papadimitriou, Georgios I. and Pomportsis, Andreas S.}
+}

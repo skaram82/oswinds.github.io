@@ -1,0 +1,9 @@
+@article {journals/internet/VakaliCM05,
+	title = {XML Data Stores: Emerging Practices},
+	journal = {IEEE Internet Computing},
+	volume = {9},
+	number = {2},
+	year = {2005},
+	pages = {62-69},
+	author = {Athena Vakali and Barbara Catania and Anna Maddalena}
+}

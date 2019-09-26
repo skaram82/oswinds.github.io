@@ -1,0 +1,19 @@
+%0 Journal Article
+%J Expert Systems with Applications
+%D 2017
+%T Sentiment analysis leveraging emotions and word embeddings
+%A Maria Giatsoglou
+%A Manolis G. Vozalis
+%A Konstantinos Diamantaras
+%A Athena Vakali
+%A George Sarigiannidis
+%A Konstantinos Ch. Chatzisavvas
+%K Online user reviews
+%X <p>Abstract Sentiment analysis and opinion mining are valuable for extraction of useful subjective information out of text documents. These tasks have become of great importance, especially for business and marketing professionals, since online posted products and services reviews impact markets and consumers shifts. This work is motivated by the fact that automating retrieval and detection of sentiments expressed for certain products and services embeds complex processes and pose research challenges, due to the textual phenomena and the language specific expression variations. This paper proposes a fast, flexible, generic methodology for sentiment detection out of textual snippets which express people’s opinions in different languages. The proposed methodology adopts a machine learning approach with which textual documents are represented by vectors and are used for training a polarity classification model. Several documents’ vector representation approaches have been studied, including lexicon-based, word embedding-based and hybrid vectorizations. The competence of these feature representations for the sentiment classification task is assessed through experiments on four datasets containing online user reviews in both Greek and English languages, in order to represent high and weak inflection language groups. The proposed methodology requires minimal computational resources, thus, it might have impact in real world scenarios where limited resources is the case.</p>
+%B Expert Systems with Applications
+%V 69
+%P 214 - 224
+%G eng
+%U http://www.sciencedirect.com/science/article/pii/S095741741630584X
+%R http://dx.doi.org/10.1016/j.eswa.2016.10.043
+

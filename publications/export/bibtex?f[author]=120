@@ -1,0 +1,12 @@
+@article {journals/eswa/ZigkolisKKV13,
+	title = {Integrating similarity and dissimilarity notions in recommenders},
+	journal = {Expert Syst. Appl.},
+	volume = {40},
+	number = {13},
+	year = {2013},
+	pages = {5132-5147},
+	abstract = {<p>Collaborative recommenders rely on the assumption that similar users may exhibit similar tastes whilecontent-based ones favour items that found to be similar with the items a user likes. Weak related entities,which are often considered to be useful, are neglected by those similarity-driven recommenders. Totake advantage of this neglected information, we introduce a novel dissimilarity-based recommenderthat bases its estimations on degrees of dissimilarities among items{\^a}{\texteuro}{\texttrademark} attributes. However, instead of usingthe proposed recommender as a stand-alone method, we combine it with similarity-based ones to maintainthe selective nature of the latter while detecting, through our recommender, information that mayhave been overlooked. Such combinations are established by IANOS, a proposed framework throughwhich we increase the accuracy of two popular similarity-based recommenders (Naive Bayes andSlope-One) after their combination with our algorithm. Improved accuracy results in experimentationon two datasets (Yahoo! Movies and Movielens) enhance our reasoning. However, the proposed recommendercomes with an additional computational complexity when combined with other techniques. Byusing Hadoop technology, we developed a distributed version of IANOS through which execution timewas reduced. Evaluation on IANOS procedures in terms of time performance endorses the use of distributedimplementations.</p>
+},
+	keywords = {Dissimilarity recommender, Distributed framework, Recommender systems},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Koumarelas, Ioannis K. and Athena Vakali}
+}

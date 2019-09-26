@@ -1,0 +1,18 @@
+@article {1963,
+	title = {Smart Cities at Risk!: Privacy and Security Borderlines  from Social Networking in Cities},
+	year = {2018},
+	publisher = {ACM},
+	address = {Lyon, France},
+	abstract = {<p class="rtejustify">As smart cities infrastructures mature, data becomes a valuable asset which can radically improve city services and tools. Registration, acquisition and utilization of data, which will be transformed into smart services, are becoming more necessary than ever. Online social networks with their enormous momentum are one of the main sources of urban data offering heterogeneous real-time data at a minimal cost. However, various types of attacks often appear on them, which risk users{\textquoteright} privacy and affect their online trust. The purpose of this article is to investigate how risks on online social networks affect smart cities and study the differences between privacy and security threats with regard to smart people and smart living dimensions.</p>
+},
+	keywords = {online social networks, privacy threats, security threats, smart cities, smart living, smart people},
+	doi = {https://doi.org/10.1145/3184558.3191516 },
+	author = {Moustaka, Vaia and Zenonas Theodosiou and Athena Vakali and Anastasis Kounoudes}
+}
+@article {1967,
+	title = {A Systematic Review for Smart City Data Analytics},
+	journal = {Computing Surveys (CSUR)},
+	year = {2018},
+	doi = {https://doi.org/10.1145/3239566},
+	author = {Moustaka, Vaia and Vakali, Athena and Anthopoulos, Leonidas G.}
+}

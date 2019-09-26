@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2001
+%T Multimedia Data Elevation under a Hierarchical Storage Model
+%X <p>Multimedia data storage is a critical issue in large scale applications.This paper proposes a frequency based multimedia data representationmodel which effectively guides data storage and elevation among the secondaryand tertiary storage levels. Multimedia data are stored on the tertiary storagelevel and (based on certain popularity criteria) they are elevated on secondarylevel towards improving both the request servicing and the data’s accessibility.The proposed multimedia data elevation is a prefetching approach since it isperformed “a priori” (not on demand) based on available information on usersaccess patterns. Secondary storage placement is performed by the use of twodistinct type placement policies, namely the “Constructive Placement” and the“Iterative Improvement” algorithms. A simulation model has been developedto evaluate the proposed hierarchical data model and the applied placementstrategies. Experimentation results have shown that the this hierarchical approachunder the iterative improvement placement outperforms earlier relatedmultimedia data placement policies.</p>
+%G eng
+

@@ -1,0 +1,34 @@
+@inproceedings {1924,
+	title = {Early Malicious Activity Discovery in Microblogs by Social Bridges Detection},
+	year = {2016},
+	publisher = {16th International Symposium on Signal Processing and Information Technology},
+	organization = {16th International Symposium on Signal Processing and Information Technology},
+	address = {Limassol, Cyprus},
+	abstract = {<p>With the emerging and intense use of Online Social Networks (OSNs) amongst young children and teenagers (youngters), safe networking and socializing on the Web has faced extensive scrutiny. Content and interactions which are considered safe for adult OSN users, might embed potentially threatening and malicious information when it comes to underage users. This work is motivated by the strong need to safeguard youngsters OSNs experience such that they can be empowered and aware. The topology of a graph is studied towards detecting the so called social bridges, i.e. the group(s) of malicious users and their supporters, who have links and ties to both honest and malicious user communities. A graph-topology based classification scheme is proposed to detect such bridge linkages which are suspicious for threatening youngsters networking vulnerability. The proposed scheme is validated by a Twitter network, at which potentially dangerous users are identified based on their Twitter connections. The achieved performance is higher compared to previous efforts, despite the increased complexity due to the variety of groups identified as malicious.</p>
+},
+	author = {Antonia Gogoglou and Zenonas Theodosiou and Tasos Kounoudes and Athena Vakali and Yannis Manolopoulos}
+}
+@proceedings {1930,
+	title = {New Trends in Database and Information Systems II - Selected papers of the 18th East European Conference on Advances in Databases and Information Systems and Associated Satellite Events, ADBIS 2014 Ohrid, Macedonia, September 7-10, 2014 Proceedings II},
+	booktitle = {Advances in Intelligent Systems and Computing},
+	series = { },
+	volume = {312},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-10517-8},
+	doi = {10.1007/978-3-319-10518-5},
+	url = {http://dx.doi.org/10.1007/978-3-319-10518-5},
+	editor = {Nick Bassiliades and Mirjana Ivanovic and Margita Kon-Popovska and Yannis Manolopoulos and Themis Palpanas and Goce Trajcevski and Athena Vakali}
+}
+@proceedings {1932,
+	title = {Web Information Systems Engineering - WISE 2014 Workshops - 15th International Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece, October 12-14, 2014, Revised Selected Papers},
+	booktitle = {Lecture Notes in Computer Science},
+	series = { },
+	volume = {9051},
+	year = {2015},
+	publisher = {Springer},
+	isbn = {978-3-319-20369-0},
+	doi = {10.1007/978-3-319-20370-6},
+	url = {http://dx.doi.org/10.1007/978-3-319-20370-6},
+	editor = {Boualem Benatallah and Azer Bestavros and Barbara Catania and Armin Haller and Yannis Manolopoulos and Athena Vakali and Yanchun Zhang}
+}

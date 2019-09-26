@@ -1,0 +1,11 @@
+@inproceedings {conf/cata/VakaliS01,
+	title = {A QoS based disk subsystem},
+	booktitle = {Computers and Their Applications},
+	year = {2001},
+	pages = {409-412},
+	publisher = {ISCA},
+	organization = {ISCA},
+	isbn = {1-880843-37-4},
+	author = {Athena Vakali and Stupa, Constantina},
+	editor = {Hung, C. C.}
+}

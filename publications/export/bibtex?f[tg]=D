@@ -1,0 +1,213 @@
+@proceedings {1943,
+	title = {Detecting Aggressors and Bullies on Twitter},
+	booktitle = {Proceedings of the 26th International Conference on World Wide Web Companion},
+	series = {WWW {\textquoteright}17 Companion},
+	year = {2017},
+	pages = {767--768},
+	publisher = {ACM},
+	address = {Perth, Australia},
+	abstract = {<p>Online social networks constitute an integral part of people{\textquoteright}s every day social activity and the existence of aggressive and bullying phenomena in such spaces is inevitable. In this work, we analyze user behavior on Twitter in an effort to detect cyberbullies and cuber-aggressors by considering specific attributes of their online activity using machine learning classifiers.</p>
+},
+	keywords = {crowdsourcing, cyber-aggression, cyberbullying, Twitter},
+	issn = {978-1-4503-4914-7},
+	doi = {10.1145/3041021.3054211},
+	url = {http://dl.acm.org/citation.cfm?id=3054211},
+	author = {Despoina Chatzakou and Nicolas Kourtellis and Jeremy Blackburn and Emiliano De Cristofaro and Gianluca Stringhini and Athena Vakali}
+}
+@article {1954,
+	title = {Detecting Variation of Emotions in Online Activities},
+	journal = {Expert Systems with Applications},
+	volume = {89},
+	year = {2017},
+	pages = {318 - 332},
+	abstract = {<p>Online text sources form evolving large scale data repositories out of which valuable knowledge about human emotions can be derived. Beyond the primary emotions which refer to the global emotional signals, deeper understanding of a wider spectrum of emotions is important to detect online public views and attitudes. The present work is motivated by the need to test and provide a system that categorizes emotion in online activities. Such a system can be beneficial for online services, companies recommendations, and social support communities. The main contributions of this work are to: (a) detect primary emotions, social ones, and those that characterize general affective states from online text sources, (b) compare and validate different emotional analysis processes to highlight the most efficient, and (c) provide a proof of concept case study to monitor and validate online activity, both explicitly and implicitly. The proposed approaches are tested on three datasets collected from different sources, i.e., news agencies, Twitter, and Facebook, and on different languages, i.e., English and Greek. Study results demonstrate that the methodologies at hand succeed to detect a wider spectrum of emotions out of text sources.</p>
+},
+	keywords = {Emotion detection, Hybrid process, Lexicon-based approach, Machine learning},
+	issn = {0957-4174},
+	doi = {http://dx.doi.org/10.1016/j.eswa.2017.07.044},
+	url = {http://www.sciencedirect.com/science/article/pii/S0957417417305213},
+	author = {Despoina Chatzakou and Athena Vakali and Konstantinos Kafetsios}
+}
+@article {1956,
+	title = {DynamiCITY : Revealing city dynamics from citizens social media broadcasts},
+	journal = {Information Systems},
+	year = {2017},
+	pages = {-},
+	keywords = {crowdsourcing, Data Mining, Smart City Applications, Social Data Mining, Urban Dynamics},
+	issn = {0306-4379},
+	doi = {https://doi.org/10.1016/j.is.2017.07.007},
+	url = {http://www.sciencedirect.com/science/article/pii/S0306437917300650},
+	author = {Vasiliki Gkatziaki and Maria Giatsoglou and Despoina Chatzakou and Athena Vakali}
+}
+@inbook {1927,
+	title = {A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads},
+	booktitle = {Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece},
+	year = {2016},
+	pages = {186{\textendash}194},
+	publisher = {Springer International Publishing},
+	organization = {Springer International Publishing},
+	address = {Cham},
+	abstract = {<p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics{\textquoteright} and trends{\textquoteright} early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+},
+	isbn = {978-3-319-47898-2},
+	doi = {10.1007/978-3-319-47898-2_20},
+	url = {http://dx.doi.org/10.1007/978-3-319-47898-2_20},
+	author = {Vakali, Athena and Kitmeridis, Nikolaos and Panourgia, Maria},
+	editor = {Angelov, Plamen and Manolopoulos, Yannis and Iliadis, Lazaros and Roy, Asim and Vellasco, Marley}
+}
+@inproceedings {conf/icdm/ZigkolisKV13,
+	title = {Dissimilarity Features in Recommender Systems},
+	booktitle = {ICDM Workshops},
+	year = {2013},
+	pages = {825-832},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-0-7695-5109-8},
+	author = {Christos Zigkolis and Karagiannidis, Savvas and Athena Vakali},
+	editor = {Wei Ding and Washio, Takashi and Xiong, Hui and Karypis, George and Thuraisingham, Bhavani M. and Cook, Diane J. and Wu, Xindong}
+}
+@inproceedings {conf/cbmi/ZigkolisPKV11,
+	title = {Detecting the long-tail of Points of Interest in tagged photo collections},
+	booktitle = {CBMI},
+	year = {2011},
+	pages = {235-240},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>The paper tackles the problem of matching the photosof a tagged photo collection to a list of {\^a}{\texteuro}{\'s}long-tail{\^a}{\texteuro}{\v t} PointsOf Interest (PoIs), that is PoIs that are not very popularand thus not well represented in the photo collection. Despitethe significance of improving {\^a}{\texteuro}{\'s}long-tail{\^a}{\texteuro}{\v t} PoI photoretrieval for travel applications, most landmark detectionmethods to date have been tested on very popular landmarks.In this paper, we conduct a thorough empirical analysiscomparing four baseline matching methods that relyon photo metadata, three variants of an approach that usescluster analysis in order to discover PoI-related photo clusters,and a real-world retrieval mechanism (Flickr search)on a set of less popular PoIs.A user-based evaluation of the aforementioned methodsis conducted on a Flickr photo collection of over 100, 000photos from 10 well-known touristic destinations in Greece.A set of 104 {\^a}{\texteuro}{\'s}long-tail{\^a}{\texteuro}{\v t} PoIs is collected for these destinationsfrom Wikipedia, Wikimapia and OpenStreetMap. Theresults demonstrate that two of the baseline methods outperformFlickr search in terms of precision and F-measure,whereas two of the cluster-based methods outperform it interms of recall and PoI coverage. We consider the results ofthis study valuable for enhancing the indexing of pictorialcontent in social media sites.</p>
+},
+	isbn = {978-1-61284-433-6},
+	author = {Christos Zigkolis and Symeon Papadopoulos and Yiannis Kompatsiaris and Athena Vakali},
+	editor = {Martinez, Jos{\'e} M.}
+}
+@inproceedings {1897,
+	title = {Detecting the long-tail of Points of Interest in tagged photo collections},
+	year = {2011},
+	abstract = {<p>The paper tackles the problem of matching the photosof a tagged photo collection to a list of {\textquotedblleft}long-tail{\textquotedblright} PointsOf Interest (PoIs), that is PoIs that are not very popularand thus not well represented in the photo collection. Despitethe significance of improving {\textquotedblleft}long-tail{\textquotedblright} PoI photoretrieval for travel applications, most landmark detectionmethods to date have been tested on very popular landmarks.In this paper, we conduct a thorough empirical analysiscomparing four baseline matching methods that relyon photo metadata, three variants of an approach that usescluster analysis in order to discover PoI-related photo clusters,and a real-world retrieval mechanism (Flickr search)on a set of less popular PoIs.A user-based evaluation of the aforementioned methodsis conducted on a Flickr photo collection of over 100, 000photos from 10 well-known touristic destinations in Greece.A set of 104 {\textquotedblleft}long-tail{\textquotedblright} PoIs is collected for these destinationsfrom Wikipedia, Wikimapia and OpenStreetMap. Theresults demonstrate that two of the baseline methods outperformFlickr search in terms of precision and F-measure,whereas two of the cluster-based methods outperform it interms of recall and PoI coverage. We consider the results ofthis study valuable for enhancing the indexing of pictorialcontent in social media sites.</p>
+}
+}
+@inproceedings {1890,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	year = {2010},
+	abstract = {<p>Digital repositories are popular means for preserving,restoring, and indexing archaeological and cultural content.They provide the base for development of a fauna of relatedapplications including virtual tours and data management. Commondifficulties such as the ever changing software specificationsfrom domain experts make this task challenging as the alterationsof the database schema lead to massive code rewrites. Withinthis context we propose and implement in practice a modelfor automated code generation building essentially a contentmanagement application by traversing a custom tree-based ERschema.</p>
+}
+}
+@inproceedings {conf/pci/GiatsoglouKSVZ10,
+	title = {Dynamic Code Generation for Cultural Content Management},
+	booktitle = {Panhellenic Conference on Informatics},
+	year = {2010},
+	pages = {21-24},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	isbn = {978-1-4244-7838-5},
+	author = {Maria Giatsoglou and Vassiliki A. Koutsonikola and Stamos, Konstantinos and Athena Vakali and Christos Zigkolis}
+}
+@article {1811,
+	title = {The Dynamics of Content Popularity in Social Media},
+	year = {2010},
+	abstract = {<p>Social Bookmarking Systems (SBS) have been widely adopted in the last years, and thus they havehad a significant impact on the way that online content is accessed, read and rated. Until recently,the decision on what content to display in a publisher{\textquoteright}s web pages was made by one or at most fewauthorities. In contrast, modern SBS-based applications permit their users to submit their preferredcontent, to comment on and to rate the content of other users and establish social relations witheach other. In that way, the vision of the social media is realized, i.e. the online users collectivelydecide upon the interestingness of the available bookmarked content. This article attempts to provideinsights into the dynamics emerging from the process of content rating by the user community.To this end, the article proposes a framework for the study of the statistical properties of an SBS,the evolution of bookmarked content popularity and user activity in time, as well as the impact ofonline social networks on the content consumption behavior of individuals. The proposed analysisframework is applied to a large dataset collected from digg, a popular social media application.</p>
+}
+}
+@article {journals/jdwm/PapadopoulosVK10,
+	title = {The Dynamics of Content Popularity in Social Media},
+	journal = {IJDWM},
+	volume = {6},
+	number = {1},
+	year = {2010},
+	pages = {20-37},
+	abstract = {<p>Social Bookmarking Systems (SBS) have been widely adopted in the last years, and thus they havehad a significant impact on the way that online content is accessed, read and rated. Until recently,the decision on what content to display in a publisher{\^a}{\texteuro}{\texttrademark}s web pages was made by one or at most fewauthorities. In contrast, modern SBS-based applications permit their users to submit their preferredcontent, to comment on and to rate the content of other users and establish social relations witheach other. In that way, the vision of the social media is realized, i.e. the online users collectivelydecide upon the interestingness of the available bookmarked content. This article attempts to provideinsights into the dynamics emerging from the process of content rating by the user community.To this end, the article proposes a framework for the study of the statistical properties of an SBS,the evolution of bookmarked content popularity and user activity in time, as well as the impact ofonline social networks on the content consumption behavior of individuals. The proposed analysisframework is applied to a large dataset collected from digg, a popular social media application.</p>
+},
+	keywords = {Collaborative Technologies, Data Mining, Electronic Media, Online Behavior, Online Community, Resource Sharing, Web-Based Applications},
+	author = {Symeon Papadopoulos and Athena Vakali and Yiannis Kompatsiaris}
+}
+@inproceedings {1869,
+	title = {Detecting and Understanding Web communities},
+	year = {2009},
+	abstract = {<p>Web communities comprising of documents and/or users activities have beenformed and are continuously expanding and transforming as Web users role shiftsfrom typical navigations to content managing and regulating. Defining, deriving andexploiting communities is not a trivial task since several parameters (large-scale,complexity, evolving information etc) are involved. This paper aims at providinganswers for crucial questions raised about communities emerging in the Web and itsummarizes different community definitions such that then, the problem ofcommunity detection (which is well matured and researched in the past) isunderstood. The paper emphasizes and discusses the most important methodologiesand techniques which deal with large populations of Web documents participatingin vast hyperlinked networks, or networks formed from crawling (part of) the weband more recently, networks reflecting the social relations and/or interactions amongpeople. It is important to understand and categorize community identification effortsby taking into account that different levels of granularity and different views areoften used for community identification. The emphasis is on the intuition behind allthese methodologies and implementations, and on their practical impact for tasks ofrecommendation, searching, content outsourcing, etc.</p>
+}
+}
+@inproceedings {1866,
+	title = {Digg it Up! Analyzing Popularity Evolution in a Web 2.0 Setting},
+	year = {2008},
+	abstract = {<p>The recent advent and wide adoption of Social BookmarkingSystems (SBS) has disrupted the traditional model of onlinecontent publishing. Until recently, the majority of content consumedby people was published as a result of a centralized selection process.Nowadays, large-scale adoption of the Web 2.0 paradigm hasdiffused the content selection to the masses. As a result, the evolutionof online content popularity nowadays constitutes an overly complexphenomenon involving both semantic and social aspects.Work in the era before the wide adoption of Web 2.0 mostly focusedon estimating web resource popularity under a web graphmodel. Recently, several aspects of the popularity dynamics emergingin the context of Web 2.0 applications have attracted significantresearch interest. Here, we introduce a formalism that enables thestudy of the dynamics underlying the popularity evolution of onlinecontent within an SBS. Based on this formalism, we carry out a studyof the diggTM popularity dynamics. Our study confirms the powerlaw nature of content popularity in SBS, and presents new insightsinto the temporal aspects of popularity under the influence of the socialfactor.</p>
+}
+}
+@article {journals/jdim/HammicheLBHV07,
+	title = {Domain Knowledge Based Queries for Multimedia Data Retrieval},
+	journal = {JDIM},
+	volume = {5},
+	number = {2},
+	year = {2007},
+	pages = {75-81},
+	abstract = {<p>This paper describes an approach for semantic description and retrieval of multimedia data described by means ofMPEG-7. This standard uses XML schema to define the descriptions. Therefore, it lacks ability to represent the data semanticsin a formal and concise way and it does not allow integration and use of domain specific knowledge. Moreover,inference mechanisms are not provided and hence the extraction of implicit information is not (always) possible. To addressthese issues, we propose to add a conceptual layer on top of MPEG-7 metadata layer, where the domain knowledgeis represented using a formal language. A set of mapping rules is proposed. They serve as a bridge between the twolayers.Querying MPEG-7 descriptions using XML query languages such as XPath or XQuery requires to know MPEG-7syntax and documents structure. To provide a flexible query formulation, we exploit the conceptual layer vocabularyto express user queries. A user query, making reference to terms specified at the conceptual level, is rewritten into anXQuery expression over MPEG-7 descriptions.</p>
+},
+	keywords = {Logic Languages, Mapping Rules, MPEG-7, Multimedia Data Descriptions, Ontology, Semantic and Structural Aspects},
+	author = {Hammiche, Samira and Lopez, Bernardo and Benbernou, Salima and Hacid, Mohand-Said and Athena Vakali}
+}
+@inproceedings {1837,
+	title = {Domain Knowledge Based Queries for Multimedia Data Retrieval},
+	year = {2007},
+	abstract = {<p>This paper describes an approach for semantic description and retrieval of multimedia data described by means ofMPEG-7. This standard uses XML schema to define the descriptions. Therefore, it lacks ability to represent the data semanticsin a formal and concise way and it does not allow integration and use of domain specific knowledge. Moreover,inference mechanisms are not provided and hence the extraction of implicit information is not (always) possible. To addressthese issues, we propose to add a conceptual layer on top of MPEG-7 metadata layer, where the domain knowledgeis represented using a formal language. A set of mapping rules is proposed. They serve as a bridge between the twolayers.Querying MPEG-7 descriptions using XML query languages such as XPath or XQuery requires to know MPEG-7syntax and documents structure. To provide a flexible query formulation, we exploit the conceptual layer vocabularyto express user queries. A user query, making reference to terms specified at the conceptual level, is rewritten into anXQuery expression over MPEG-7 descriptions.</p>
+}
+}
+@inproceedings {1836,
+	title = {A Divergence-Oriented Approach for Web Users Clustering},
+	year = {2006},
+	abstract = {<p>Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective function{\textquoteright}s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.</p>
+}
+}
+@inproceedings {conf/iccsa/PetridouKVP06,
+	title = {A Divergence-Oriented Approach for Web Users Clustering},
+	booktitle = {ICCSA (2)},
+	series = {Lecture Notes in Computer Science},
+	volume = {3981},
+	year = {2006},
+	pages = {1229-1238},
+	publisher = {Springer},
+	organization = {Springer},
+	abstract = {Clustering web users based on their access patterns is a quite significanttask in Web Usage Mining. Further to clustering it is important to evaluatethe resulted clusters in order to choose the best clustering for a particular framework.This paper examines the usage of Kullback-Leibler divergence, aninformation theoretic distance, in conjuction with the k-means clusteringalgorithm. It compares KL-divergence with other well known distance measures(Euclidean, Standardized Euclidean and Manhattan) and evaluates clusteringresults using both objective function{\^a}{\texteuro}{\texttrademark}s value and Davies-Bouldin index.Since it is imperative to assess whether the results of a clustering process aresusceptible to noise, especially in noisy environments such as Web environment,our approach takes the impact of noise into account. The clusters obtainedwith KL approach seem to be superior to those obtained with the otherdistance measures in case our data have been corrupted by noise.},
+	isbn = {3-540-34072-6},
+	author = {Petridou, Sophia G. and Vassiliki A. Koutsonikola and Athena Vakali and Papadimitriou, Georgios I.},
+	editor = {Gavrilova, Marina L. and Gervasi, Osvaldo and Kumar, Vipin and Tan, Chih Jeng Kenneth and Taniar, David and Lagan{\u A} , Antonio and Mun, Youngsong and Choo, Hyunseung}
+}
+@inproceedings {1876,
+	title = {A Distributed Database Server for Continuous Media},
+	year = {2002},
+	abstract = {<p>In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.</p>
+}
+}
+@inproceedings {conf/icde/ArefCEFGHIMPRTTTVZ02,
+	title = {A Distributed Database Server for Continuous Media},
+	booktitle = {ICDE},
+	year = {2002},
+	pages = {490-491},
+	publisher = {IEEE Computer Society},
+	organization = {IEEE Computer Society},
+	abstract = {In our project, we adopt a new approach for handlingvideo data. We view the video as a well-defined datatype with its own description, parameters, and applicablemethods. The system is based on PREDATOR, the opensource object relational DBMS. PREDATOR uses Shoreas the underlying storage manager (SM). Supporting videooperations (storing, searching by content, and streaming)and new query types (query by examples and multi-featuressimilarity search) requires major changes in many ofthe traditional system components. More specifically,the storage and buffer manager will have to deal withhuge volumes of data with real time constraints. Queryprocessing has to consider the video methods and operatorsin generating, optimizing and executing query plans.},
+	isbn = {0-7695-1531-2},
+	author = {Aref, Walid G. and Catlin, Ann Christine and Elmagarmid, Ahmed K. and Fan, Jianping and Guo, J. and Hammad, Moustafa A. and Ilyas, Ihab F. and Marzouk, Mirette S. and Prabhakar, Sunil and Rezgui, Abdelmounaam and Teoh, S. and Terzi, Evimaria and Tu, Yi-Cheng and Athena Vakali and Zhu, Xingquan},
+	editor = {Agrawal, Rakesh and Dittrich, Klaus R.}
+}
+@article {journals/isci/Vakali00,
+	title = {Data block prefetching and caching in a hierarchical storage model},
+	journal = {Inf. Sci.},
+	volume = {128},
+	number = {1-2},
+	year = {2000},
+	pages = {19-41},
+	author = {Athena Vakali}
+}
+@article {journals/jss/VakaliM00,
+	title = {Data placement schemes in replicated mirrored disk systems},
+	journal = {Journal of Systems and Software},
+	volume = {55},
+	number = {2},
+	year = {2000},
+	pages = {115-128},
+	author = {Athena Vakali and Manolopoulos, Yannis}
+}
+@inproceedings {1847,
+	title = {Designing a Learning-Automata-Based Controller for Client/Server Systems: A Methodology},
+	year = {2000},
+	abstract = {<p>Polling policies have been introduced to simplifythe accessing process in client/server systems by acentralized control access scheme. This paper considers aclient/server model which employs a polling policy as itsaccess strategy. We propose a learning-automata-based approachfor polling in order to improve the throughput-delayperformance of the system. Each client has an associatedqueue and the server performs selective polling such thatthe next client to be served is identified by a learning automaton.The learning automaton updates each client{\textquoteright}schoice probability according to the feedback information.Under the considered approach, a client{\textquoteright}s choice probabilityasymptotically tends to be proportional to the probabilitythat this client is ready. Simulation results have shown thatthe proposed polling policy is beneficial in comparison tothe conventional round-robin polling when operating underbursty traffic conditions. The benefits are significant for thedelay reduction in the considered client/server system.</p>
+}
+}

@@ -1,0 +1,21 @@
+%0 Journal Article
+%J Advances in Engineering Software
+%D 2009
+%T Automating the manufacturing process under a web based framework
+%A Bouzakis, K.-D.
+%A Andreadis, George
+%A Athena Vakali
+%A Sarigiannidou, M.
+%K CAD/CAM
+%K Manufacturing process
+%K Process planning
+%K SOAP
+%K UDDI
+%K Web services
+%K xml
+%X <p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework â€“ independent from any specific CAD/CAM software â€“ is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+%B Advances in Engineering Software
+%V 40
+%P 956-964
+%G eng
+

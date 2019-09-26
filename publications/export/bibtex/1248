@@ -1,0 +1,9 @@
+@article {journals/dke/StoupaV06,
+	title = {QoS-oriented negotiation in disk subsystems},
+	journal = {Data Knowl. Eng.},
+	volume = {58},
+	number = {2},
+	year = {2006},
+	pages = {107-128},
+	author = {Stoupa, Konstantina and Athena Vakali}
+}

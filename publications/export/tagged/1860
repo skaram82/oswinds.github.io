@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 2007
+%T Content Classification for Caching under CDNs
+%X <p>Content Delivery Networks (CDNs) provide anefficient support for serving “resource-hungry”applications while minimizing the network impact ofcontent delivery as well as shifting the traffic awayfrom overloaded origin servers. However, theirperformance gain is limited since the storage space inCDN’s servers is not used optimally. In order tomanage their storage capacity in an efficient way, weintegrate caching techniques in CDNs. The challengeis to decide which objects would be devoted to cachingso as the CDN’s server may be used both as areplicator and as a proxy server. In this paper wepropose a nonlinear non-parametric model whichclassifies the CDN’s server cache into two parts.Through a detailed simulation environment, we showthat the proposed technique can yield significantreduction in user-perceived latency as compared withother heuristic schemes.</p>
+%G eng
+

@@ -1,0 +1,18 @@
+%0 Journal Article
+%J J. Intell. Inf. Syst.
+%D 2012
+%T In & out zooming on time-aware user/tag clusters
+%A Giannakidou, Eirini
+%A Vassiliki A. Koutsonikola
+%A Athena Vakali
+%A Yiannis Kompatsiaris
+%K Events
+%K Social tagging systems
+%K Time-aware clustering
+%K Users' interests over time
+%X <p>The common ground behind most approaches that analyze social taggingsystems is addressing the information challenge that emerges from the massiveactivity of millions of users who interact and share resources and/or metadata online.However, lack of any time-related data in the analysis process implicitly deniesmuch of the dynamic nature of social tagging activity. In this paper we claim thatholding a temporal dimension, allows for tracking macroscopic and microscopicusersâ€™ interests, detecting emerging trends and recognizing events. To this end, wepropose a time-aware co-clustering approach for acquiring semantic and temporalpatterns out of the tagging activity. The resulted clusters contain both users and tagsof similar patterns over time, and reveal non-obvious or â€śhiddenâ€ť relations amongusers and topics of their common interest. Zoom in &amp; out views serve as visualizationmethods on different aspects of the clustersâ€™ structure, in order to evaluate theefficiency of the approach.</p>
+%B J. Intell. Inf. Syst.
+%V 38
+%P 685-708
+%G eng
+

@@ -1,0 +1,6 @@
+%0 Conference Paper
+%D 1994
+%T Expected Seeks in Mirrored Disks
+%X <p>Analytic models on the expected seek distances for a set of k &gt;= 2 replicated disks with one read/write head per surface have been reported in the past, The aim of the present paper is twofold. Since previous models are not exact, firstly, we study the performance of such systems for the boundary case of k = 2 disks and provide new exact formulae for the expected seek distances traveled. Secondly, we examine the performance of a set of k &gt;= 2 two-headed disks with either independently or dependently moving heads. For both models of the latter case, we derive new exact formulae for the expected seek distances and make performance comparisons to one-headed disks.</p>
+%G eng
+

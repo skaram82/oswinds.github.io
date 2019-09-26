@@ -1,0 +1,6 @@
+@inproceedings {1885,
+	title = {A Simulation Study of Shadowed Disks},
+	year = {1999},
+	abstract = {<p>Multiple disks have been introduced for use in I/O subsystems to increase data availability and fault tolerance. Identical disks (comprising the shadowed disks) sets have been adopted as an effective secondary storage replication scheme. In the present paper, we introduce a shadowed disk model and mathematically analyze its theoritical expected performance measures by applying the nearer-server rule to satisfy the requests. In addition, we introduce the corresponding simulation model, where each disk is modeled by means of a protoype disk configuration and specific commercial disks metrics. Furthermore, the mirrored disks model is studied extensively as a boundary disk topology of the shadowed disks set. The developed simulation model is experimented and tested under various workloads produced by real I/O traces. The performance of the simulation model is compared to the analytical results and, thus, it is validated since analysis and simulation give close results.</p>
+}
+}

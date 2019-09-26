@@ -1,0 +1,13 @@
+@book {Buyya2008,
+	title = {Content Delivery Networks (Lecture Notes Electrical Engineering)},
+	series = {Content Delivery Networks},
+	year = {2008},
+	publisher = {Springer-Verlag Gmbh},
+	organization = {Springer-Verlag Gmbh},
+	edition = {1},
+	abstract = {**Content Delivery Networks** enables the readers to understand the basics, to identify the underlying technology, to summarize their knowledge on concepts, ideas, principles and various paradigms which span on broad CDNs areas. Therefore, aspects of CDNs in terms of basics, design process, practice, techniques, performances, platforms, applications, and experimental results have been presented in a proper order. Fundamental methods, initiatives, significant research results, as well as references for further study have also been provided. Comparison of different design and development approaches are described at the appropriate places so that new researchers as well as advanced practitioners can use the CDNs evaluation as a research roadmap. All the contributions have been reviewed, edited, processed, and placed in the appropriate order to maintain consistency so that any reader irrespective of their level of knowledge and technological skills in CDNs would get the most out of it. The book is organized into three parts, namely, Part I: CDN Fundamentals; Part II: CDN Modeling and Performance; and Part III: Advanced CDN Platforms and Applications. The organization ensures the smooth flow of material as successive chapters build on prior ones.},
+	keywords = {cdn, content, lnee, networks, placement, qos, replacement, replica, search},
+	isbn = {3540778861},
+	doi = {10.1007/978-3-540-77887-5},
+	editor = {Buyya, Rajkumar and Al-Mukaddim Khan Pathan and Athena Vakali}
+}

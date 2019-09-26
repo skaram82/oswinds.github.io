@@ -1,0 +1,275 @@
+%0 Book Section
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%D 2016
+%T A Distributed Framework for Early Trending Topics Detection on Big Social Networks Data Threads
+%A Vakali, Athena
+%A Kitmeridis, Nikolaos
+%A Panourgia, Maria
+%E Angelov, Plamen
+%E Manolopoulos, Yannis
+%E Iliadis, Lazaros
+%E Roy, Asim
+%E Vellasco, Marley
+%X <p>Social networks have become big data production engines and their analytics can reveal insightful trending topics, such that hidden knowledge can be utilized in various applications and settings. This paper addresses the problem of popular topics’ and trends’ early prediction out of social networks data streams which demand distributed software architectures. Under an online time series classification model, which is implemented in a flexible and adaptive distributed framework, trending topics are detected. Emphasis is placed on the early detection process and on the performance of the proposed framework. The implemented framework builds on the lambda architecture design and the experimentation carried out highlights the usefulness of the proposed approach in early trends detection with high rates in performance and with a validation aligned with a popular microblogging service.</p>
+%B Advances in Big Data: Proceedings of the 2nd INNS Conference on Big Data, October 23-25, 2016, Thessaloniki, Greece
+%I Springer International Publishing
+%C Cham
+%P 186–194
+%@ 978-3-319-47898-2
+%G eng
+%U http://dx.doi.org/10.1007/978-3-319-47898-2_20
+%R 10.1007/978-3-319-47898-2_20
+
+%0 Conference Proceedings
+%B WISE (1)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (1)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8786
+%@ 978-3-319-11748-5
+%G eng
+
+%0 Conference Proceedings
+%B WISE (2)
+%D 2014
+%T Web Information Systems Engineering - WISE 2014 - 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part II
+%E Benatallah, Boualem
+%E Bestavros, Azer
+%E Manolopoulos, Yannis
+%E Athena Vakali
+%E Zhang, Yanchun
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8787
+%@ 978-3-319-11745-4
+%G eng
+
+%0 Conference Paper
+%B WISE (2)
+%D 2013
+%T Community Detection in Social Media by Leveraging Interactions and Intensities
+%A Maria Giatsoglou
+%A Despoina Chatzakou
+%A Athena Vakali
+%E Lin, Xuemin
+%E Manolopoulos, Yannis
+%E Srivastava, Divesh
+%E Huang, Guangyan
+%K community detection
+%K user weighted interaction networks
+%B WISE (2)
+%S Lecture Notes in Computer Science
+%I Springer
+%V 8181
+%P 57-72
+%@ 978-3-642-41153-3
+%G eng
+
+%0 Journal Article
+%J ACM Trans. Model. Comput. Simul.
+%D 2010
+%T CDNsim: A simulation tool for content distribution networks
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%A Katsaros, Dimitrios
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%K caching
+%K Content Distribution Network
+%K services
+%K trace-driven simulation
+%X <p>Content Distribution Networks (CDNs) have gained considerable attention in the past few years.As such, there is need for developing frameworks for carrying out CDN simulations. In this paper,we present a modeling and simulation framework for CDNs, called CDNsim. CDNsim hasbeen designated to provide a realistic simulation for CDNs, simulating the surrogate servers, theTCP/IP protocol and the main CDN functions. The main advantages of this tool are its high performance,its extensibility and its user interface which is used to configure its parameters. CDNsimprovides an automated environment for conducting experiments and extracting client, server andnetwork statistics. The purpose of CDNsim is to be used as a testbed for CDN evaluation andexperimentation. This is quite useful both for the research community (to experiment with newCDN data management techniques) and for CDN developers (to evaluate profits on prior certainCDN installations).</p>
+%B ACM Trans. Model. Comput. Simul.
+%V 20
+%G eng
+
+%0 Journal Article
+%J IEEE Trans. Knowl. Data Eng.
+%D 2009
+%T CDNs Content Outsourcing via Generalized Communities
+%A Katsaros, Dimitrios
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%K caching
+%K content distribution networks
+%K replication
+%K social network analysis
+%K web communities
+%X <p>Content distribution networks (CDNs) balance costs and quality in services related to content delivery. Devising an efficientcontent outsourcing policy is crucial since, based on such policies, CDN providers can provide client-tailored content, improveperformance, and result in significant economical gains. Earlier content outsourcing approaches may often prove ineffective since theydrive prefetching decisions by assuming knowledge of content popularity statistics, which are not always available and are extremelyvolatile. This work addresses this issue, by proposing a novel self-adaptive technique under a CDN framework on which outsourcedcontent is identified with no a priori knowledge of (earlier) request statistics. This is employed by using a structure-based approachidentifying coherent clusters of â€ścorrelatedâ€ť Web server content objects, the so-called Web page communities. These communities arethe core outsourcing unit, and in this paper, a detailed simulation experimentation has shown that the proposed technique is robust andeffective in reducing user-perceived latency as compared with competing approaches, i.e., two communities-based approaches, Webcaching, and non-CDN.</p>
+%B IEEE Trans. Knowl. Data Eng.
+%V 21
+%P 137-151
+%G eng
+
+%0 Journal Article
+%J World Wide Web
+%D 2008
+%T Prefetching in Content Distribution Networks via Web Communities Identification and Outsourcing
+%A Sidiropoulos, Antonis
+%A Pallis, George
+%A Katsaros, Dimitrios
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B World Wide Web
+%V 11
+%P 39-70
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 2006
+%T Integrating Caching Techniques on a Content Distribution Network
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%E Manolopoulos, Yannis
+%E Pokorny, Jaroslav
+%E Sellis, Timos K.
+%X <p>Web caching and replication tune capacity with performance and theyhave become essential components of the Web. In practice, caching and replicationtechniques have been applied in proxy servers and Content DistributionNetworks (CDNs) respectively. In this paper, we investigate the benefits of integratingcaching policies on a CDNâ€™ s infrastructure. Using a simulation testbed,our results indicate that there is much room for performance improvement interms of perceived latency, hit ratio and byte hit ratio. Moreover, we show thatthe combination of caching with replication fortifies CDNs against flash crowdevents.</p>
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 4152
+%P 200-215
+%@ 3-540-37899-5
+%G eng
+
+%0 Conference Paper
+%B ICDE Workshops
+%D 2006
+%T Replication Based on Objects Load under a Content Distribution Network
+%A Pallis, George
+%A Stamos, Konstantinos
+%A Athena Vakali
+%A Katsaros, Dimitrios
+%A Sidiropoulos, Antonis
+%A Manolopoulos, Yannis
+%E Barga, Roger S.
+%E Zhou, Xiaofang
+%B ICDE Workshops
+%I IEEE Computer Society
+%P 53
+%G eng
+
+%0 Conference Paper
+%B LA-WEB
+%D 2005
+%T A Latency-Based Object Placement Approach in Content Distribution Networks
+%A Pallis, George
+%A Athena Vakali
+%A Stamos, Konstantinos
+%A Sidiropoulos, Antonis
+%A Katsaros, Dimitrios
+%A Manolopoulos, Yannis
+%B LA-WEB
+%I IEEE Computer Society
+%P 140-147
+%@ 0-7695-2471-0
+%G eng
+
+%0 Journal Article
+%J Journal of Systems and Software
+%D 2000
+%T Data placement schemes in replicated mirrored disk systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Journal of Systems and Software
+%V 55
+%P 115-128
+%G eng
+
+%0 Conference Paper
+%B ADBIS
+%D 1998
+%T Replication in Mirrored Disk Systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Litwin, Witold
+%E Morzy, Tadeusz
+%E Vossen, Gottfried
+%X In this paper we study data replication in a mirrored disk system.Free disk space is exploited by keeping replicas of specific cylindersat appropriate disk locations. Assuming an organ-pipe arrangement wecalculate the expected seek distance by varying the probability cylinderaccess under different distributions. Also, analytic formulae are derivedfor the expected seek distance under replication and comparison with theconventional (without replication) mirrored disk system is performed.
+%B ADBIS
+%S Lecture Notes in Computer Science
+%I Springer
+%V 1475
+%P 224-235
+%@ 3-540-64924-7
+%G eng
+
+%0 Journal Article
+%J Inf. Process. Lett.
+%D 1997
+%T An Exact Analysis on Expected Seeks in Shadowed Disks
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Inf. Process. Lett.
+%V 61
+%P 323-329
+%G eng
+
+%0 Journal Article
+%J Information & Software Technology
+%D 1997
+%T Parallel data paths in two-headed disk systems
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%B Information & Software Technology
+%V 39
+%P 125-135
+%G eng
+
+%0 Conference Paper
+%B DEXA Workshop
+%D 1996
+%T The Impact of Seeking in Partial Match Retrieval
+%A Athena Vakali
+%A Manolopoulos, Yannis
+%E Wagner, Roland
+%E Thoma, Helmut
+%X <p>In the pastthe issue of partial match query satisfaction has been investigated inorder to establish allocation schemes minimizing the number of accessed disk pages. Inthe present workwe extend the problem by studying the impact of the seeking duringpartial match query satisfaction. The physical location of resulting pages is the newaspect studied here by considering the number and the sparseness of cylinders holding theresulting pages . Lower and upper seek time boundsas well as the average behavior ofthe seek time are calculated by assuming some real figures of specific modern disk systemdevices  The main conclusion is that the seek time is a fact or affecting the partial matchquery response time and needs to be included in the overall performance measuring.</p>
+%B DEXA Workshop
+%I IEEE Computer Society
+%P 432-437
+%@ 0-8186-7662-0
+%G eng
+
+%0 Conference Paper
+%B DEXA
+%D 1995
+%T Partial Match Retrieval in Two-Headed Disk Systems
+%A Manolopoulos, Yannis
+%A Athena Vakali
+%E Revell, Norman
+%E Tjoa, A Min
+%B DEXA
+%S Lecture Notes in Computer Science
+%I Springer
+%V 978
+%P 594-603
+%@ 3-540-60303-4
+%G eng
+
+%0 Journal Article
+%J Inf. Process. Lett.
+%D 1991
+%T Seek Distances in Disks with Two Independent Heads Per Surface
+%A Manolopoulos, Yannis
+%A Athena Vakali
+%B Inf. Process. Lett.
+%V 37
+%P 37-42
+%G eng
+

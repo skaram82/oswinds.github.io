@@ -1,0 +1,12 @@
+@article {journals/aes/BouzakisAVS09,
+	title = {Automating the manufacturing process under a web based framework},
+	journal = {Advances in Engineering Software},
+	volume = {40},
+	number = {9},
+	year = {2009},
+	pages = {956-964},
+	abstract = {<p>The rapid evolution of the web has affected the way under which the manufacturing process is practised.In this paper, a web based framework {\^a}{\texteuro}{\textquotedblleft} independent from any specific CAD/CAM software {\^a}{\texteuro}{\textquotedblleft} is proposed,for employing electronic interaction between designers and manufacturers. In this context, designers andmanufacturers communicate for the manufacturing of a workpiece, under a platform-independent, easier,faster and more economical way. The proposed framework is implemented as a web service, wherethe Simple Object Access Protocol (SOAP) is used for the exchange of the necessary machined parts dataand the methodologies of UDDI (Universal Description Discovery and Integration) and WSDL (Web ServicesDescription Language) are introduced for providing directories and descriptions information.</p>
+},
+	keywords = {CAD/CAM, Manufacturing process, Process planning, SOAP, UDDI, Web services, xml},
+	author = {Bouzakis, K.-D. and Andreadis, George and Athena Vakali and Sarigiannidou, M.}
+}

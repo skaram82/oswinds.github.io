@@ -1,0 +1,17 @@
+/* Enter Your Custom CSS Here */
+#sidebar-subsidiary .widget {width: 100%;}
+
+#site-title {
+width: 100%;
+margin-right:0;
+}
+
+.custom-header #site-description {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 22px;
+}
+
+.layout-3c-l #menu-primary .wrap, .layout-3c-r #menu-primary .wrap, .layout-3c-c #menu-primary .wrap, .layout-3c-l #menu-secondary .wrap, .layout-3c-r #menu-secondary .wrap, .layout-3c-c #menu-secondary .wrap, .layout-3c-l #main .wrap, .layout-3c-r #main .wrap, .layout-3c-c #main .wrap, .layout-3c-l #header, .layout-3c-r #header, .layout-3c-c #header, .layout-3c-l #sidebar-subsidiary .wrap, .layout-3c-r #sidebar-subsidiary .wrap, .layout-3c-c #sidebar-subsidiary .wrap, .layout-3c-l #menu-subsidiary .wrap, .layout-3c-r #menu-subsidiary .wrap, .layout-3c-c #menu-subsidiary .wrap {
+  max-width:60em;
+}

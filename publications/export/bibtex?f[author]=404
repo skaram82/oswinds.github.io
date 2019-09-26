@@ -1,0 +1,14 @@
+@article {1955,
+	title = {Experience of emotion in face to face and computer-mediated social interactions: An event sampling study},
+	journal = {Computers in Human Behavior},
+	volume = {76},
+	year = {2017},
+	pages = {287 - 293},
+	abstract = {<p>The present study compared the experience of emotion in social interactions that take place face to face (FtF), co-presently, and those that take place online, in computer-mediated communications (CMC). For a period of ten days participants reported how intensely they experienced positive and negative emotions in CMC and in FtF interactions they had with persons from their social network. Results from factor analyses discerned a three factor emotion structure (positive, negative, and anxious emotions) that was largely shared between CMC and FtF social interactions. Multilevel analyses of emotion across modes of interaction found that in FtF social encounters participants experienced more positive and less negative emotion and higher satisfaction than in CMC; there was no difference in anxious emotion. Positive, but not negative emotions or anxiety partially mediated levels of satisfaction differences between interactions in CMC and those taking place FtF. The results point to similarities and differences in emotion experience in FtF and CMC, underlining in particular the affiliative function of positive emotion in peoples{\textquoteright} encounters.</p>
+},
+	keywords = {Computer-mediated communication, Emotion, FtF, Internet, Social interaction},
+	issn = {0747-5632},
+	doi = {https://doi.org/10.1016/j.chb.2017.07.033},
+	url = {http://www.sciencedirect.com/science/article/pii/S0747563217304557},
+	author = {Konstantinos Kafetsios and Despoina Chatzakou and Nikolaos Tsigilis and Athena Vakali}
+}

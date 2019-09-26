@@ -1,0 +1,17 @@
+%0 Conference Paper
+%B ICC Workshops
+%D 2013
+%T Sensors talk and humans sense Towards a reciprocal collective awareness smart city framework
+%A Athena Vakali
+%A Angelis, Lefteris
+%A Maria Giatsoglou
+%K collective aware applications
+%K sensors data management
+%K smart city
+%K social networks mining
+%X <p>Smart city infrastructures provide unique opportunities for innovative applications developing and testing. Sensor city installations offer the ground for experimenting with user-oriented services, which at the same time can test and improve the infrastructure itself. The proposed work summarizes principles and methodology for and experiment, entitled SEN2SOC which will bridge sensor measurements and social networks interactions via natural language generation for supporting smart city services. SEN2SOC aims at exploiting the SmartSantander infrastructure in a sensor to social reciprocal fashion such that the sensor measurements will be and communicated to the public (citizens,authorities, etc), while social networks users activities in relevance to sensors social postings will be analyzed and summarized both to verify sensors reporting and to develop collective aware applications.</p>
+%B ICC Workshops
+%I IEEE
+%P 189-193
+%G eng
+

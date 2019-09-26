@@ -1,0 +1,9 @@
+@article {journals/jss/TerziVA04,
+	title = {A simulated annealing approach for multimedia data placement},
+	journal = {Journal of Systems and Software},
+	volume = {73},
+	number = {3},
+	year = {2004},
+	pages = {467-480},
+	author = {Terzi, Evimaria and Athena Vakali and Angelis, Lefteris}
+}

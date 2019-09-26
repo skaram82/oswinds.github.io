@@ -1,0 +1,6 @@
+@inproceedings {1883,
+	title = {An XML-based Framework for the development of Adaptive Educational Software},
+	year = {2004},
+	abstract = {<p>Large-scale adaptive educational software requires advanced technologicalinfrastructures in order to support various cooperative educational organizations. Thispaper proposes a framework for overcoming the difficulties that arise due to thedistribution and heterogeneity of current collaborative educational technologies. Theproposed framework is based on XML it is of distributive and cooperative naturesince it is characterized by the following:{\textbullet} Each educational organization may plan its development to meet its own needs.{\textbullet} It is possible for each organization to concurrently reuse the software that hasalready been developed by any other organization,{\textbullet} Each organization can combine its own software production, with the productionof other cooperative organizations, in various ways.</p>
+}
+}

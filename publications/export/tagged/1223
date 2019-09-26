@@ -1,0 +1,23 @@
+%0 Conference Paper
+%B UPGRADE-CN
+%D 2009
+%T Evaluating the utility of content delivery networks
+%A Stamos, Konstantinos
+%A Pallis, George
+%A Athena Vakali
+%A Dikaiakos, Marios D.
+%E Fortino, Giancarlo
+%E Mastroianni, Carlo
+%E Al-Mukaddim Khan Pathan
+%E Athena Vakali
+%K CDN pricing
+%K Content Delivery
+%K network utility
+%K networks
+%X <p>Content Delivery Networks (CDNs) balance costs and qualityin services related to content delivery. This has urgedmany Web entrepreneurs to make contracts with CDNs. Inthe literature, a wide range of techniques has been developed,implemented and standardized for improving the performanceof CDNs. The ultimate goal of all the approachesis to improve the utility of CDN surrogate servers. In thispaper we define a metric which measures the utility of CDNsurrogate servers, called CDN utility. This metric capturesthe traffic activity in a CDN, expressing the usefulness ofsurrogate servers in terms of data circulation in the network.Through an extensive simulation testbed, we identifythe parameters that affect the CDN utility in such infrastructures.We evaluate the utility of surrogate servers undervarious parameters and provide insightful comments.</p>
+%B UPGRADE-CN
+%I ACM
+%P 11-20
+%@ 978-1-60558-591-8
+%G eng
+

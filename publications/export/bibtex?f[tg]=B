@@ -1,0 +1,38 @@
+@inproceedings {conf/pkdd/ArvanitidisSVT14,
+	title = {Branty: A Social Media Ranking Tool for Brands},
+	booktitle = {ECML/PKDD (3)},
+	series = {Lecture Notes in Computer Science},
+	volume = {8726},
+	year = {2014},
+	pages = {432-435},
+	publisher = {Springer},
+	organization = {Springer},
+	isbn = {978-3-662-44844-1},
+	author = {Arvanitidis, Alexandros and Serafi, Anna and Athena Vakali and Tsoumakas, Grigorios},
+	editor = {Calders, Toon and Esposito, Floriana and Hullermeier, Eyke and Meo, Rosa}
+}
+@inproceedings {conf/rcis/MoussiadesV09,
+	title = {Benchmark graphs for the evaluation of Clustering Algorithms},
+	booktitle = {RCIS},
+	year = {2009},
+	pages = {197-206},
+	publisher = {IEEE},
+	organization = {IEEE},
+	abstract = {<p>Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.</p>
+},
+	keywords = {Artificial graph, Community structure, Graph clustering, Intra linkage ratio, Modularity},
+	isbn = {978-1-4244-2864-9},
+	author = {Moussiades, Lefteris and Athena Vakali},
+	editor = {Flory, Andre and Collard, Martine}
+}
+@inproceedings {1868,
+	title = {Benchmark graphs for the evaluation of Clustering Algorithms},
+	year = {2009},
+	abstract = {Artificial graphs are commonly used for theevaluation of community mining and clustering algorithms. Eachartificial graph is assigned a pre-specified clustering, which iscompared to clustering solutions obtained by the algorithmsunder evaluation. Hence, the pre-specified clustering shouldcomply with specifications that are assumed to delimit a goodclustering. However, existing construction processes for artificialgraphs do not set explicit specifications for the pre-specifiedclustering. We call these graphs, randomly clustered graphs.Here, we introduce a new class of benchmark graphs which areclustered according to explicit specifications. We call themoptimally clustered graphs. We present the basic properties ofoptimally clustered graphs and propose algorithms for theirconstruction. Experimentally, we compare two communitymining algorithms using both randomly and optimally clusteredgraphs. Results of this evaluation reveal interesting insights bothfor the algorithms and the artificial graphs.}
+}
+@inproceedings {1914,
+	title = {Bridge Bounding: A Local Approach for Efficient Community Discovery in Complex Networks},
+	year = {2009},
+	abstract = {<p>The increasing importance of Web 2.0 applications duringthe last years has created significant interest in tools for analyzingand describing collective user activities and emergingphenomena within the Web. Network structures have beenwidely employed in this context for modeling users, web resourcesand relations between them. However, the amountof data produced by modern web systems results in networksthat are of unprecedented size and complexity, and are thushard to interpret. To this end, community detection methodsattempt to uncover natural groupings of web objects byanalyzing the topology of their containing network.There are numerous techniques adopting a global perspectiveto the community detection problem, i.e. they operateon the complete network structure, thus being computationallyexpensive and hard to apply in a streaming manner. Inorder to add a local perspective to the study of the problem,we present Bridge Bounding, a local methodology for communitydetection, which explores the local network topologyaround a seed node in order to identify edges that act asboundaries to the local community. The proposed methodcan be integrated in an efficient global community detectionscheme that compares favorably to the state of the art. As acase study, we apply the method to explore the topic structureof the LYCOS iQ collaborative question/answering applicationby detecting communities in the networks createdfrom the collective tagging activity of users.</p>
+}
+}

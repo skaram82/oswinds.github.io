@@ -1,0 +1,19 @@
+%0 Conference Paper
+%B SERVICES
+%D 2011
+%T Social Web Mashups Full Completion via Frequent Sequence Mining
+%A Maaradji, Abderrahmane
+%A Hacid, Hakim
+%A Skraba, Ryan
+%A Athena Vakali
+%K Mashups
+%K Sequence mining
+%K Social networks
+%K Web services
+%X <p>In this paper we address the problem of WebMashups full completion which consists of predicting themost suitable set of (combined) services that successfully meetthe goals of an end-user Mashup, given the current service(or composition of services) initially supplied. We model fullcompletion as a frequent sequence mining problem and weshow how existing algorithms can be applied in this context.To overcome some limitations of the frequent sequence miningalgorithms, e.g., efficiency and recommendation granularity,we propose FESMA, a new and efficient algorithm for computingfrequent sequences of services and recommending completions.FESMA also integrates a social dimension, extractedfrom the transformation of user ? service interactions intouser ? user interactions, building an implicit graph thathelps to better predict completions of services in a fashiontailored to individual users. Evaluations show that FESMAis more efficient outperforming the existing algorithms evenwith the consideration of the social dimension. Our proposalhas been implemented in a prototype, SoCo, developed at BellLabs.</p>
+%B SERVICES
+%I IEEE Computer Society
+%P 9-16
+%@ 978-1-4577-0879-4
+%G eng
+
