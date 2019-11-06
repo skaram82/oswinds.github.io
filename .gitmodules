@@ -1,0 +1,6 @@
+[submodule "tweetsafe"]
+	path = tweetsafe
+	url = git@github.com:OSWINDS/TweetSafe.git
+[submodule "tweetfix"]
+	path = tweetfix
+	url = git@github.com:OSWINDS/TweetFix.git
