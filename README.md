@@ -9,7 +9,7 @@ group. Please visit the [datalab.csd.auth.gr](https://datalab.csd.auth.gr/)
 webpage for further updates. 
 
 This is a static dump from the original oswinds.csd.auth.gr homepage,
-which was created with Wordpress. It is available at
+which was created with Drupal. It is available at
 [oswinds.csd.auth.gr](https://oswinds.csd.auth.gr) for posterity
-reasons. The original Wordpress site is now defunct, but all content
+reasons. The original Drupal site is now defunct, but all content
 should still be there in static form.
